@@ -9,8 +9,10 @@ import html
 import json
 import os
 import re
+import ssl
 import subprocess
 import tempfile
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -24,10 +26,43 @@ UA = "Mozilla/5.0"  # un UA de navegador completo dispara el desafío anti-bots 
 HCD = "https://hcdcorrientes.gov.ar"
 
 
+_CTX = {}
+
+
+def _contexto_completo(host):
+    """Algunos sitios oficiales no envían el certificado intermedio. Se lo baja
+    de la dirección que indica el propio certificado (AIA) y se agrega a los
+    certificados de confianza del sistema: la verificación sigue siendo completa."""
+    if host in _CTX:
+        return _CTX[host]
+    hoja = ssl.get_server_certificate((host, 443))
+    texto_cert = subprocess.run(["openssl", "x509", "-noout", "-text"], input=hoja,
+                                capture_output=True, text=True).stdout
+    m = re.search(r"CA Issuers - URI:(\S+)", texto_cert)
+    if not m:
+        raise ValueError("el certificado no indica dónde bajar el intermedio")
+    der = urllib.request.urlopen(m.group(1), timeout=30).read()
+    try:
+        pem = ssl.DER_cert_to_PEM_cert(der)
+    except Exception:  # noqa: BLE001  (ya venía en PEM)
+        pem = der.decode()
+    ctx = ssl.create_default_context()
+    ctx.load_verify_locations(cadata=pem)
+    _CTX[host] = ctx
+    return ctx
+
+
 def get(url, timeout=40):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "es-AR,es"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.read()
+    except urllib.error.URLError as e:
+        if "CERTIFICATE_VERIFY_FAILED" not in str(e):
+            raise
+        ctx = _contexto_completo(urllib.parse.urlparse(url).hostname)
+        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
+            return r.read()
 
 
 def texto(url):
