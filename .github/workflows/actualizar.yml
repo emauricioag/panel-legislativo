@@ -20,6 +20,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Instalar pdftotext
         run: sudo apt-get install -y -qq poppler-utils >/dev/null
+      - name: Diagnóstico temporal
+        run: python3 scripts/diagnostico.py || true
       - name: Leer las fuentes
         run: python3 scripts/actualizar.py
       - name: Guardar cambios
