@@ -12,13 +12,13 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1582.5,
-   "venta": 1585.1
+   "compra": 1582.2,
+   "venta": 1584.9
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1675.7,
-   "venta": 1676.3
+   "compra": 1676.7,
+   "venta": 1677.4
   },
   {
    "casa": "Mayorista",
@@ -29,46 +29,6 @@
  "riesgo_pais": {
   "valor": 852,
   "fecha": "2026-11-04"
- },
- "bo_nacional": {
-  "modo": "noticias",
-  "items": [
-   {
-    "organismo": "El Litoral",
-    "detalle": "Oficializaron la renuncia del cuarto médico presidencial de la gestión de Javier Milei",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOU21Kb2lsTHdDQmZnd1I0NjVQdlFFM2sxNDZia1RtTGtWQjI0emp5MmU0ZVJqVmplaXd5TU1QUEVGVzhhakUzdXI1VWlHdTVCVUlDN1dpYlhkNUVxY0JOUVcyd3FtRFZkaTBQNXBSN2VzVEFuWjY3VnNWaHJxc045bF9oZkRLVXc0Q1E4QzQyTG1saVVRUGNxYTFPSUtIN0RYaXdqNTl1aldNZUF6cjdRc1N6TzJFX2xUSUhSV2lhZHZYbUJsR3F3SE4zUFRJVVA4bXhvZHZSWlBiVUdWWlRrNmdPbkZRdnpqb2M3TnllelBmbUhBRzRFdjJxQkdRRFN2N2p2TzF4QmtsNEFFZV9OSzBaOGRBcC1OTXpOckpxdw?oc=5"
-   },
-   {
-    "organismo": "Instagram",
-    "detalle": "Ante la afectación de los servicios digitales provinciales, por Resolución N° 833/2026, publicada en el Boletín Oficial N° 13.058, se dispuso la suspensión de los plazos administrativos en el ámbito del Ministerio de Gobierno, Justicia, Seguridad y Trabajo y",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43clh6V3dhdnlpUkNlbkJVVzZfa3NMU1BqQmtXMjZqUVJISzRGYVUzdWt6SS12ZzNrWFh6cjBsVk02T0luSjhXREZNbkY5NjRjZ2c?oc=5"
-   },
-   {
-    "organismo": "Perfil",
-    "detalle": "El gobierno oficializó la suspensión de embargos de ARCA para pymes: quiénes pueden acceder",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejFxRVR3T1JhbUg3cmgxcTVUYlRNdzlsOFRsbXZtZUMzSHV3S3ZvclZKTWdjUEw5RVBFQjh6Uy1tdzRpSkRSMi1ZV3JKYi1pOWR1REJmXzYxbUxEdzFBOFpLb3F1WTZZc1ZQUTNZZERVVDVKUjlQcFlJMzdvb2dyUWRTWXRPR1ZlWF9xMGktQm5RdmR2U2s1Ykx5TTFDSWE0Xzlsc0szZS14RkhkX3NabG9wM2hyRjlaS0V0Wk9VMkxFZjJRbjg0dTlkRGJwVHEw?oc=5"
-   },
-   {
-    "organismo": "Alerta Digital",
-    "detalle": "ARCA: oficializan la suspensión de juicios fiscales y nuevos embargos a pymes hasta el 30 de junio de 2027",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPejdBQW91azVWVGFSSTBXdmEweVVFNjVJSDBBX1N2YzU0WTc2ZzRMRWQxZzAtb1BiNThiRzBKYi11Y1FFQlFrQ2lPRFh6U2R3aGpmbzVwdDI1WE1JbndlU3RsdlhfOVg1UXh5cFV0UEdBZ1F6SllxaDJFQzhtX291Q292ZUJZVnd3aXd6ZkhvVU1STFp3clpSV0F2WlZFNTktM2cwQ09LemhEeTNYY25SNkdURVRMbUQ4Vl9Xbjl4ZlZ2MFBhWmlmR3Zzdk1BUWYyRnpuZDM4bnFQR1M1bldaS1d5Rk1NWEJ2clBWc3ZubGhrLW_SAfgBQVVfeXFMT05IdVFHME9sZG5QN2VqTlkySlRzd0pONFV3QS1IcW9Fd19VcklZd2toMnY3alhxZE11VFBOOFBDVllZbnNzbWlEcEpyYU5yendNVzIwWWxISWJqVGZUYWoxWHR4d3VtUV8zeWJRcGFaVUl0cUkyR0JweG9sZ21DaGtfaXBNeDB6QUV2S2JpdGVYMHgwVGJOb2ZXNkYwOGx3TUw5VGxrQXJLcUhqdlRlV0lvNlk5RDg2SEI2TW5tV2NLMmxxVTVNSFlSTzBjOFE2aFp6NElsLWRPcjBIR2lxZFNSbmJLb25sdFh4N1BwRmVQVWxpNFhlSFU?oc=5"
-   },
-   {
-    "organismo": "Chacabuco en Red",
-    "detalle": "Boletín Oficial de Chacabuco: viviendas, ambulancia, salud, basural y contrataciones por millones de pesos",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWU1vYmdZSVdiSFU5MU1FNU9YODJWTThmMmVaOUd6ZExhWUVxZnNpeU5wdjRFdUtXeGNaMS1VOW12R1ZraTAwS1VrTEFkOTEzM29XT1J5bmEybVpac093cHNYUWFOMktIQ3gwUmFwYVFxcHpYbUE1b2d4MnRESzc0WkxZT05KMV85clIwaUxNNUtnQlhZZno5bk9TSUxNdXFEUTJlQzlGMUtOTmM4d2l1cXROcWFXWi1HY0NFZGpYcFlCUERhY0tzbTJ3?oc=5"
-   },
-   {
-    "organismo": "Radio Estación 102.5",
-    "detalle": "Definiciones en el Gabinete y nuevas normas en el Boletín Oficial",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGlkZHl3YXVGMEFEMUEzR19vdzY2NFZ6Q1RWdm1neGRxTng1Sko1TTVYV08zaVo5eHliVHdIVUFXZ1luSlR3WmhJRmwzZGVwY3hDOE1UMnhiM3pGdkttRVFiVFk1Q2NUVGlkcXFzUE5YdVA3ekdRQXF5eWlnNG4tNE11czlTRnNIbTliMGlqTlNCVDU5QjNuQTdqOVpSY042?oc=5"
-   },
-   {
-    "organismo": "NOVA Bonaerense",
-    "detalle": "Morón: ocultan los anexos del Boletín Oficial y la jefa de Gabinete reacciona con autoritarismo",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlFLQW0zRi13QkstcG5lOENCSXo5MURkVmxYYm9Yb0YwQkVNS2prVFZ0VXdveTJraEo5VmRHOE01QlhsLUlWQkdzYi1od252WUE3M2w3VU9pekI3c3FoU3JzTUhUN0pGQkdZWms0SmRJRXFOSHVyOURURE1ZandGMlpB?oc=5"
-   }
-  ]
  },
  "bo_corrientes": {
   "modo": "directo",
@@ -104,28 +64,6 @@
     "detalle": "Edición publicada"
    }
   ]
- },
- "senado_nacion": [
-  {
-   "fecha": "2026-11-06",
-   "evento": "Jujuy brilla en el Senado"
-  },
-  {
-   "fecha": "2026-11-06",
-   "evento": "Ceremonia de entrega de la Mención de Honor al Valor Científico"
-  },
-  {
-   "fecha": "2026-11-17",
-   "evento": "Audiencia Pública de la Comisión de Acuerdos"
-  },
-  {
-   "fecha": "2026-11-18",
-   "evento": "Audiencia Pública de la Comisión de Acuerdos"
-  }
- ],
- "diputados_nacion": {
-  "mensaje": "Sin reuniones de comisión programadas por el momento.",
-  "items": []
  },
  "hcd_od": {
   "titulo": "18ª Sesión Ordinaria del 28 de octubre de 2026 – Hora 11",
@@ -653,16 +591,16 @@
     "fuente": "Perfil"
    },
    {
-    "titulo": "El tuit del troll preferido de Karina Milei: \"CFK está hecha m...\"",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzdVNXR0ejFqeWlLd0tuOFp0RmY5UGxOcFFCX3h1dThqM0JQWi10YmUxOGFnWkluLWF4LWw1Tm9WSEZMNjF4X2UyUTRXMXRZRmFZN1A1dDRySnhUUHNNcEpBWVc0UUVJcHVyTk1KMTZ2dTllRkUtbzBLMUpZd0swN1NsMjBJRUFMblctSlBTNTZQZi0yY1pvSTNoRVBIM3M4LXBxUEtVenFFNkh2?oc=5",
-    "fecha": "Wed, 04 Nov 2026 04:54:47 GMT",
-    "fuente": "Perfil"
-   },
-   {
     "titulo": "El irónico posteo de Cristina Kirchner para celebrar la contundente derrota a Donald Trump en las elecciones",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejFlekNxTEZWMG01dThRN2YxTkQ1RzNXZzNTS1BFcjJWUkR2RzlxcUFxN2p1bVJKQjVnUnNyMGx4cC1KczV5TE1EUXpPRmpUNHVaMEQwOGJCdW9fMk9ELUIteXI5MFBORkNLZGhPbm9Yb0NjRUtRTjlDV0ZxVnVlTDRQaFozZnBYZVFhR2swMWxDNFF1N195cmpRMjZDWHRUME9HTjFLX2F6SGR2V2FGalN3Rk4yVmxkSDFwMzlVa3A5eXcxc2FaOGFtYWsxVXNua1BKY3JB0gHWAUFVX3lxTFB6MWV6Q3FMRlYwbTV1OFE3ZjFORDVHM1dnM1NLUEVyMlZSRHZHOXFxQXE3anVtUkpCNWdSc3IwbHhwLUpzNXlMTURRek9GalQ0dVowRDA4YkJ1b18yT0QtQi15cjkwUE5GQ0tkaE9ub1hvQ2NFS1FOOUNXRnFWdWVMNFBoWjNmcFhlUWFHazAxbEM0UXU3X3lyalEyNkNYdFQwT0dOMUtfYXpIZHZXYUZqU3dGTjJWbGRIMXAzOVVrcDl5dzFzYVo4YW1hazFVc25rUEpjckE?oc=5",
     "fecha": "Wed, 04 Nov 2026 14:10:00 GMT",
     "fuente": "Minutouno"
+   },
+   {
+    "titulo": "El tuit del troll preferido de Karina Milei: \"CFK está hecha m...\"",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzdVNXR0ejFqeWlLd0tuOFp0RmY5UGxOcFFCX3h1dThqM0JQWi10YmUxOGFnWkluLWF4LWw1Tm9WSEZMNjF4X2UyUTRXMXRZRmFZN1A1dDRySnhUUHNNcEpBWVc0UUVJcHVyTk1KMTZ2dTllRkUtbzBLMUpZd0swN1NsMjBJRUFMblctSlBTNTZQZi0yY1pvSTNoRVBIM3M4LXBxUEtVenFFNkh2?oc=5",
+    "fecha": "Wed, 04 Nov 2026 04:54:47 GMT",
+    "fuente": "Perfil"
    }
   ]
  },
@@ -722,6 +660,12 @@
    "fuente": "Diario Junio"
   },
   {
+   "titulo": "Siete Puntas Digital",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU25XQWVJVzNMdXhUa0J6XzJtNkYzclR1Sk1mQl9nRkNfMTFXUkdieVNVWU9VVXRkSlBxSkgydGQwTHhFXzJrUXFGNGNyU0I0NDhyNzNTdW14LU9vUkF6dWctVHN5RElUUDNGVGxYQk1zMjd4YkVoLUNFUGZTNkkxNVp2eUNqWlRmZk1rbTdGQjhQeTJWRXdZX3VIb3pRN2pDZ0RyQy03eGFFZ0Q0aklGOFdaM1dUS2RvNnpUX1ZUOEp1SUQtd3VtVg?oc=5",
+   "fecha": "Thu, 05 Nov 2026 14:29:19 GMT",
+   "fuente": "Siete Puntas Digital"
+  },
+  {
    "titulo": "Banco de Corrientes: así será la atención durante el feriado bancario del 6, 9 y 10 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3JEWjlaRGdkYU9aYUN6cXBVQW1rYUk1MXNORlE1UFN6SmhFWHVUem9qVWpOX0RNb1RPYU1QcHVIeTk2aE8yUFNwQjdpdDRMZXlDLWlCa1k2ek9SdUlaREJHYVI4STB2YmxKWTdJY0UzLWJ1RU9MV2psUGF2NE9wcU5JYlJURkJwR3E4YUpxSXM4QlU3eVBSNXdiSkVrOGh0SzBOeS0taW9rRE9qMDF1NVpMM2xvdzdBY3BuZjJqLW1rai1xSDJkcnd3?oc=5",
    "fecha": "Thu, 05 Nov 2026 13:44:05 GMT",
@@ -734,9 +678,9 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Corrientes dice presente en el Mundial de Talla Baja con DT y gran parte del plantel",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdE1sYmk4OENPTGoxaWxGOVBnOER2MUVldncwYVpuRndtLVRKS1RMZkhJZHJpUUNaZkI4V1FmVmdTT3gtY0RsQkZkcndOcE8zQXhXeFhnOVJFaGdpQlRsOVlhVXM2RDFiaXE3QTNHR0VRVDRxNE9EbVh1cWI5Wmd1cUZUNzlYa1ZGMXQwZGZTaHEwNGJvTU5pcTRmcjg1TG9JOUYzV25acWpBY0QyNXl3T2x1dGpON1B6TktZ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 11:50:55 GMT",
+   "titulo": "Desde mañana se habilitan las Tarjetas Sapucay",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUZyeVl1Q3BOUmVsakl3Y1RGbW5yNlBKTzRIME5qcXE3OEMyWk1jSWs2T2Z0RHdGSC1pLTlqTUUzN1ZKOHdmakZGdW9vSDdFUWVncXNOLW9zdWNuNG5IZzVKeklFeG9ubFM4MFd1Zld0emhkaEl3aGJ3ZDc1VTNReW1pdVN2Qm1v?oc=5",
+   "fecha": "Thu, 05 Nov 2026 15:30:08 GMT",
    "fuente": "Radio Dos Corrientes"
   },
   {
@@ -750,12 +694,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN1loalhWdnluSzJ4dmtYUDVSODlPSldYamtzY1BrWC02Qk5kMl9JR0xfMHJMQWRCc2phVHViUVRoaEhfZUlfaUlRUHhEa2tWQlZBbkpOWm42TWN4d2V1Z2U0WE5WSHpVOVhQWHdVUmt4TnVJRHZBdmtnUnBHWDZ2N1UzWHE4aHZZYUY0RndBX3B3ZTNmcHVMZkRnV2o1ZzI4dVJnVXBCbWRwWWFMWWdueExQSzUySXdPYlBZcEJWZG5Lbnk0YnpYenM5ZTliQXRtLTBzOUpoUlFoMUFjNHd5QXFubXkzUQ?oc=5",
    "fecha": "Thu, 05 Nov 2026 12:36:56 GMT",
    "fuente": "Corrientes Hoy"
-  },
-  {
-   "titulo": "La Municipalidad suma herramientas legales y operativas para fortalecer la prevención en Capital",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRUx2cjcwWEVmZVl5TVBpSkoySF91TUFYOXpRZ1UtTS00a3dGUmVIZWdjYUt2MGNCc05qNWp0bVRwclBYOWxjMW0wc1hjVmFILVljSHVIcUYwX1JMTzdtRXl5cjdtSGQwT2RwQTIyMjlHWFRWVml3b0M3MmhRMFJRNFFFMzktWHN4em0wRFFxQzZNZkFkbTc3ODlZUTVlUmwtVmVzZjRWNE11ZzBlNUlYNlhkWHg4d2lkX2xxenF3cVdOTkZLcmxZd3RONUI?oc=5",
-   "fecha": "Thu, 05 Nov 2026 16:46:06 GMT",
-   "fuente": "Diario Época Corrientes"
   },
   {
    "titulo": "Valdés y Polich recorrieron la obra de desagüe del Pirayuí: beneficiará a más de 250.000 correntinos",
@@ -998,7 +936,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-05T14:43-03:00",
+ "actualizado": "2026-11-05T15:08-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1088,5 +1026,103 @@
     "fuente": "Carajo"
    }
   ]
- }
+ },
+ "nacionales": [
+  {
+   "titulo": "Visita del Papa a la Argentina, EN VIVO: León XIV regresa a América Latina en un \"viaje muy deseado\", destacó el Vaticano",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1pUVFB0dkp5clJRNmtUMURPWHh3emllUWZTRGJscWYyTFdzZ0lYVXFFWS0wUUpfeGlUSVZqclJhbmFBdWdfZGtVbzJycU5QbDRWUk54MzVIcVVabjR6VnFObWpKOVRzR3RRSnpJUW41dXVYUnZkeVNudE1ONXlmdkpzRG9PdTFMbzM4ZTlLQmdSVXNiQmxMZHJtV2ZMbVZIeDNiV2FtMHUwSnljVmFqUXkwYmlqWVdNcmctTlZ3dl9hX0x6TG9vM0pHME1qUFdpbWkxWk5R?oc=5",
+   "fecha": "Thu, 05 Nov 2026 17:46:36 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Día por día, así será el recorrido del papa León XIV por Latinoamérica",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXhpaGxCLUFGbmlaSlpEeGlqTHJLQ0dJZzVGM042VDRCNEgzZkl4UFJ6UUxNX0NkRzFoc2pJU1k2a2NvWF9WV29KUFN4RjJOVEF1a3EyV0p4QlZGR0dkTlJBWGVQT0I2Y3puMkloOXNoeDQ3dGhlbXZ6SHRkbXM3SXZNTThmT1FoS2pHSmgtUGZwZjBlVkc4b0xyQ1JEdnRM?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:53:00 GMT",
+   "fuente": "CNN en Español"
+  },
+  {
+   "titulo": "La ayuda de Trump a la Argentina, en riesgo: dos proyectos en el Congreso de EE.UU. podrían complicar un nuevo rescate financiero",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS1JzZ3c0cHRCQ29WMmh5SE5hc0QwY0JyS3hraG9IUHhvMlJYNWh5aDVYQzFRbVVDSHRsSUsyd2JKWFdKWkk1QlpYRThRS3d3S283ZkJEdVlVV1Vrb0dqam4yYndEYWhfaHNXNGdzVmJXaU80aWFYWERVV2hKTW03Q3JmeGFVQUpibmVjWHdHcTZ4VF9jeDZKYWJHejJQMjF0MzE2dTZxak96UnZCajEtUTZQMWZVZ1h3dTYtOW9tTzY0azY1dXNGTHJNSUhPeXZSQ0taVEhMZlNHNDctSmc?oc=5",
+   "fecha": "Thu, 05 Nov 2026 14:21:51 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "La Fiscalía impulsó una investigación para determinar si el Gobierno usó fondos públicos para facilitar la fuga de Flávio Bolsonaro",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUUpfa3JlVks3MDRMOUl5aU9laF9JdzNFRG11Rjg3WTlvMjZjVVFoZ1l0NjlNQkRpMVlUUHJrZkRrSGV4WkJiRWZmN1N5V1JRNFRqQnFtVmN4NGtodHdpUy1lRTNoTkpGSndwamNkMlE2NFc4OGdVTkRKLTZwcmU2YlV6V0pUUUltTjNsMTQtOWtGaktrRTJ3ZU1xV1pSRG9YV2Z1V2F3MVA2U2RlZUVRNjlXTnlrRmJmVDk3Z2xZMHVCeFlZelgtdENLdVhyeU9SbmJXM0xibXNpRDczeFlYbElETFFrRGNGTmhudllia9IBgwJBVV95cUxPeDh5SEkzV0pmQ3BKMV9wWTdxUmFYQUc3b2E3M3ZxSXZwSHo1Y0tHRExsanVKTU80V1RLVW9GTklDOGdTY3RfRFNFMmgwOW05QWlxWkRaSGlOUDdJOVBLRFp6ZmJVNmd2Ylh2d3pzd09tbzlCdmYxRGlMVC1ub1VmS3FGV3lvSkdHcUMydXp2RklqelFfSjZGMlZPUXdpbTZWQkJVWVk2c1pYdVVnVUx4N3NMbHBNLVZ5bmUxbHBuM21IN1AxeFMwZUtGWDJIVkNoekdieERRMjc4LVZDTkNfRWt2ZlMyYWM0Ym13d2F3dHZHVFg2cTFIbDZpMzF6b21ta2s4?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:58:41 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "Milei saludó a Sánchez en la Cumbre Iberoamericana de Madrid y luego atacó al socialismo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWkI5czVUWXlkcng1RXF3cHFObGdRR0lnaXZIa3RTSjFTUkUtN0t6Uml3R2VmcnhNLU1zMXRVNU5oUklpbHZCMHdKWHl0a2prbEE2YUJiM0ZhalBwcC1KbzVlSWdMYVB3U0hxb1hydFgtMHdSZ1J0M2tuMHJBRXoydm5KS1RGU24yN0FGLXFlSHdPbHYtSnV6eHpOenVwWjl6VDBxell3T0t6bFNUNEhaU3NpSnBPUWdBZDlQMzFzR3RDMVM1R1NqTzlvTXB4TGFsQ1B6Ug?oc=5",
+   "fecha": "Thu, 05 Nov 2026 15:50:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Feriado papal: así funcionará la atención pública, bancos y transporte en Mendoza",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTR2NkNBWnB2Vk9ER09ZLW10UUhDdzBicEZmMTZ5RGttamQ0TmZmbGctYTI1Yk9yRDJTcFVPSUtFTUtxcXFGM2xzREFsdjhwWWNBRTl6eTVUc1Y4VWtBVDdyaGduczRGUnlRcXp5d1hwbkNiUVpXd3VpMlNjd3RqWkFNa1F6Mmlqcm9rWkQ2ZHVLVl9iQkhZdEMxdTJ5ZHNvWWJ6NEJxemVtSThSZHhBeUF4QQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:20:02 GMT",
+   "fuente": "Diario El Sol Mendoza"
+  },
+  {
+   "titulo": "Visita papal: la lista de gobernadores, empresarios y dirigentes confirmados para el encuentro en el Palacio Libertad",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM21NdDduMkFNYnViLWJxLWcwWWJiMjV0dHV0cDktY1paOHBsUThPd00yd0pJU2Rfb0RLWUg5Y09JZjJXckpIV28yZmk4MXI2MHZzYXJnX1Nvd2kydnlUSm5XVC1DU2lqdmc5X2VOcEFfRkFmeVNKTF9VcldqX2ZBX0Y2SURtbWhQLVNqYVUwTUYtdlNxZnlWWVNnckN5Ty1mTG1OMUFOS2Z1UUNtSUduSGJETGladXA3eW9MOFA4MGZzc0ljUXYzdWhrYUc5SlNCaGg0UzlDOHVWU0tZOGZkZWRpZEJ0ZWpZZW5sNEhBQXZBM3Ixem440gGAAkFVX3lxTE1qeVJpSjRObTBlaE02ck42bEIxcU5MWkZ0bDlWZGNya0ZnbkhTb1RPMGZrY2tCb004UVlTZVRWT3pKYldoeWRLendYY0ZDMG1UUWJSaVgxQjNkcWpObTUxVHpDc29ueUltUVMtcjI5a25rc2ZUZjY5Tl9vNldmTlhxalk5QVcwSXFDWG91Smt5ZWNzbmVmSlFRc3ByRlY5RjgxSXdlSENwSllxdUZWbDZnUkZRT1J1N2xPeVFJV0RDT3owWVNvS0V6NUVMS3ZSNUpMbmxOVGdRZFRIbk8wOE5aNXM5aVpiLTU2Z0pmMzZaZF9US1F5SElmU2wtNEpBeUc?oc=5",
+   "fecha": "Thu, 05 Nov 2026 11:36:00 GMT",
+   "fuente": "El Liberal"
+  },
+  {
+   "titulo": "Dolor por la muerte de Elsa Pavón | El Dia",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNFF0bUxZRUZETVBLR0Y2eklqanRfR1FLeEx3UUx1eEZoa0xZZzB0ZW1ZNkNwUGZFMEdfSWVwN2FNbk1PWmNheENyUlZtSHNSVWZrSlFkVzg1V1R1N1J5a19reGtlQWRQSFZyUFI4VVhFMDFGeXVPb1U0UzUzWF9wUm1CWUJjSXBSOFZ0TlNpaVhmU3d3b3hiTG9zVEFyczB2c2NCck9BeE11Q2hpbHpxVnN6VFBQWkh3WlJjaUhzU1gxdmxZVFByMnVlR1drXzltMERUWGlqOXFVNldBalRLaGxqM1FpNHg2UkxtZEluRE9sNnh4enVKeWtSU3NMdjRoYmpfZGNUMUwwT2h6?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:05:52 GMT",
+   "fuente": "Diario El Día de La Plata"
+  },
+  {
+   "titulo": "El escándalo de Ueno Bank en Paraguay ya impacta a la Argentina: suspenden a 1.000 empleados de una consultora que le presta servicios",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEwwOE5WV3NtVXpDRW5JbFlzZjdCVjBuSmx3dGFaRjIwSktXQjJGMlo2YWhsNkdmRHVtNzJuVTMyc3YzX0M4WExLTzVtYTNqamREcmhxOVVnYWNNd1RiVEEtNV92bEhxeVdCZlBkWlZXNHpRZUZEbGpLb2hMblpsTUFudC1LSURvc0VvdU52cUJYNnBNT25UMThfOXJOalJzN3I3XzFyTjBiWVhaNnJ2WWxNakpRbnozS3UtcmU2UjlwVXluWWRKS3BoQXdHQVhLV3VnN2xHM2w4TE01Y3EzN3U2Zw?oc=5",
+   "fecha": "Thu, 05 Nov 2026 15:52:15 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Los testimonios de las mujeres trans atacadas en Palermo",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlJUemxJNVlOdldzN09WdEEzMEloXzdiSEJONzZiRjJnT0lsdUpXY21HOS11S01rZ1JuZE9NbWQtZ1FPdDdDeldhbjNjVU5LR2FTdmRLWTFoVlhjRHMxV0EzaDJvcXNXT0E2QW9HNThWcjVkc3pyWDdERVFXRWN5aHhfOFlTM3JkbVlVaTRFTXRJeHQ3NngxQlNOMlQ?oc=5",
+   "fecha": "Wed, 04 Nov 2026 21:35:45 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Quini 6: los resultados de este miércoles 4 de noviembre",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcjAyRV9WV0h5WFNJbVN2aXNGajN6c01XYjI5bVpkNnJmdWJKYmJXTjlwSllrd1FURUpieEJBdWsyQWI5S256M1RCZTdlQThvMnBLTzRtX1ZCWktrbVdNLVM3V25rVm1YbGhaOHZwOUVMVXAyeG1DeXU1Nm5QOWNJZ3UxOU5CTTltRi1IVlNjTXJVQTduZDdmWGl30gGuAUFVX3lxTE5uQVdXZXdKbnRBd29nY0lJQUVHTndQV2Z6OFN3V1FpSzdya21ZRlM4bFM2a1R2QmtSa2daeGtNMWsyOC1PVWFWUTJzLUJtWWk5UlpESVZWRkhaQ2xoMXNaNGlneVFQMHhTN3VKcjN4ODNXenp5SHhBdkQ3UlFUcWpMZThKSWpLMWhrLWtLSlFNZkgydm0zQ3lsNU1uUTFjUWs2RkxRbGxPSVJKcUpodw?oc=5",
+   "fecha": "Thu, 05 Nov 2026 09:51:02 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "El río creció cinco centímetros en Paraná y quedó a 16 cm del nivel de alerta",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa0VDS2t5QlRodEtQTExpS3pUSXVUS3EyLVlpMGRpejRfUnd5TGxMdUV3ZkdXV2tQTHBIN0l2a1hGUU5pOHkweTlrVFVBOEJxN2JlSXpDSEtmanBndG9CUjVwR3VteER1dlF1UGRoc2pIRV92Vm4xY19JSGU4LTFvaHJCZEdidkVWdHFzUHowazFNSl8wdWx6NUVLOUU2SmlWTno00gGcAUFVX3lxTE84VlNpRDRZd1U3UjA1RFptbFpWZVNXV01QYV8xbjZwWjdRMWlfSXN6V0NDRjd5NWo2b1RRbVVhcy0zSW11bTZuNFh2TFpkcDB4RDRKajMyQjZUQTFBQ20zSVY3TmZ6RVNZdXJfallOOTd4MmpzRERfelJTSXVRSXpvVDFYck1hMlZlanhZZGw5dTRadnZ5TFJSYUw5Tg?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:27:28 GMT",
+   "fuente": "Elonce.com"
+  },
+  {
+   "titulo": "Luego de abandonar a Milei, un ex futbolista de River se sumó a un candidato presidencial y sueña con ser intendente",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY2Ffa2ZkQUdURHEyRzdDYTRjeVNuWVE0UW1GTFl5TUd1bXJvakViZmMzbk9idHF5UW9zVXdEVU93QVljSWEweFJNaXNGN1NpQXZMci1DMlFBVnlTeERlM1Q1SVB5N1RYRnJ2em9MTzJNZk9BeERiamdaZjNSTU1fYklIM2h5MzRzbGQtTmcyeHoyZXRoUUY1M1B4S1JtOGtMR25COURwRU5OR3Z4RER5SkZFTFZYckd5NlhPRzVXbVk4cExmYUlubXlhY04wSXlaMjRVRXZaWkFfdUFVTE9YLVB3OERBUjlhTUtOYy1QdEdkQdIBjAJBVV95cUxNdmJsUUhZZVYyZmhIYXpTZHBsYUIxNkFmeVdvbDJJaUY5UFRtSFgyX1o5bFdqdW5yRkRPTzc1OTNXNUlaakdGemI5VDM5LVp1Y04tNzdQQ0VhaUlvOTZWNG1QcUdkWnFpdkNha2l4UUg3b3lOYmN0ZFUyTjZXb1lMSmFOTTRINHRfclpzQS1fQ0V4dFpsSUhmMDEzTURxS3NBZFNCTndXMzFEaVBGSTM1OGU4N2FVRS1fWWdBTWhtblQtR05WSG92R1Q5RFp0WW1aLVgzMnFmdnJtalg4RjBwRThQa3FFY0RmSGZRMVVyT2FwYUtKQkV3eWZPNFNES1F2WDI3bjFwTTVncXJu?oc=5",
+   "fecha": "Thu, 05 Nov 2026 15:15:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Disolución del IOSFA: despiden empleados y cierran el centro médico que atiende a 16 mil afiliados en Mendoza",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOUxNYlhIMzRCeklfLWVUczJQMnUwTFhCVVFVYmhVUDJ1SFRVcklMZlRnMGdDVm9YdFRiTlhjelRfLU1nenpJUGFnaUMwcmxVM2R6V2oyU1hTNTFqeXk0aDMtdV9NRW1Pd1d1a3lSOVZlek1PRERHU3Y2Vk5jamhyT2xTNVV1V1JUSl8zenNyMENScVhTb1NvaElYMVVoeldja2hOVnBiaHpHUlRvT1BEVHBmTFR4aFp3Nk03cklFbnZwYTlvOERDdlBzTkdwRmFDdzVSZ0tUd2R2RUE1SlpfS1l3Yw?oc=5",
+   "fecha": "Thu, 05 Nov 2026 15:29:00 GMT",
+   "fuente": "Los Andes"
+  },
+  {
+   "titulo": "Axel Kicillof recorrió Luján y buscó politizar la visita del Papa: “León continúa el mensaje de Francisco de la justicia social”",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQam1mWUx3eGdob2Nkd3JBVjJXNXlYN0M4YmZKV2FScTl0c0hwZmR0bmw5TEUzQUNaU3FRMFZHbVRFXzFDZFNOMVkyamotRjdFaVFnSTY2alBycm5CLThTMnEtZ2FZVWllZ2VfWlhNMmRiQW1OQkNMY3lodFJ0QnFQVnNRSmFwODc5ZGlGLTRkT1dWTWtvdmZXWVlTdVozSWEzQUM0SXdVNUNMVTg4LXNmTmpPdDZ6cGlWcWNZaWNhN0JsTWxBRXpfbkxpN3gwazU0SWFhZTJXQjhXNEU?oc=5",
+   "fecha": "Wed, 04 Nov 2026 17:34:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Raúl Calamante fue elegido al frente de la CTA de los Trabajadores en la provincia de Buenos Aires",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQkMwSHRWa3RWRUlGdGlDQ0Vfakt2X1RZU3FwQVhMalNsRVV5d29rLTZHTnZmYlQyX0VZbmFDc1BkbEVJcjJQd1l6RXFZOFhEdFJqYmluNXV3amhuZ05LNkRmU25LNU95cTdSb3RWZEdrOHBnQmQ0OUNJSGlTZEFLMVFuSTVoRHp6Q0dHQkotU29XQ1B3YzRkOEdCS0kyUHBpN2pibEkyeVV4a2s1TlNHdHlvYnJXUzhkZ2FkSGdUaGR3TDdKYkotVmJuSk8yTHJmNHVzdw?oc=5",
+   "fecha": "Wed, 04 Nov 2026 16:48:14 GMT",
+   "fuente": "Página|12"
+  }
+ ]
 }
