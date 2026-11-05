@@ -81,6 +81,13 @@ def limpio(s):
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
 
+EMOJI = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF\uFE0F]+")
+
+
+def sin_emojis(t):
+    return re.sub(r"\s{2,}", " ", EMOJI.sub("", t)).strip()
+
+
 def rss(url, n=12):
     raiz = ET.fromstring(get(url))
     items = []
@@ -90,7 +97,7 @@ def rss(url, n=12):
         if fuente and t.endswith(" - " + fuente):
             t = t[: -len(fuente) - 3]
         items.append({
-            "titulo": html.unescape(t),
+            "titulo": sin_emojis(html.unescape(t)),
             "link": (it.findtext("link") or "").strip(),
             "fecha": (it.findtext("pubDate") or "").strip(),
             "fuente": fuente.strip(),
@@ -363,7 +370,7 @@ def medios_afines():
     carajo = []
     for e in raiz.findall("a:entry", ns)[:6]:
         link = e.find("a:link", ns)
-        carajo.append({"titulo": (e.findtext("a:title", "", ns) or "").strip(),
+        carajo.append({"titulo": sin_emojis(e.findtext("a:title", "", ns) or ""),
                        "link": link.get("href") if link is not None else "",
                        "fecha": e.findtext("a:published", "", ns), "fuente": "Carajo"})
     return {"derecha_diario": ldd, "carajo": carajo}

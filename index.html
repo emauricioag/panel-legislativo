@@ -12,7 +12,7 @@
 :root{
   --fondo:#0b1220; --panel:#121b2e; --panel2:#18233a; --borde:#24314d;
   --texto:#e8edf6; --suave:#93a1bb; --acento:#a77bff; --lla:#7b3fbf;
-  --ok:#3ccf91; --alerta:#ffb547; --rojo:#ff6b6b;
+  --ok:#3ccf91; --alerta:#ffb547; --rojo:#ff6b6b; --activo:#6a3fd1;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{color-scheme:dark}
@@ -47,7 +47,7 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 .tabs button{touch-action:manipulation;-webkit-tap-highlight-color:transparent;transition:background-color .15s,color .15s,border-color .15s}
 .tabs button:hover{color:var(--texto);border-color:var(--suave)}
 .tabs button:focus-visible{outline:3px solid var(--alerta);outline-offset:2px}
-.tabs button.on{background:var(--acento);border-color:var(--acento);color:#fff}
+.tabs button.on{background:var(--activo);border-color:var(--acento);color:#fff}
 .tabs button.auto{margin-left:auto;color:var(--texto)}
 .tabs button.auto.on{background:#123d2c;border-color:var(--ok);color:var(--ok)}
 .act{color:var(--suave);font-size:.8em;white-space:nowrap}
@@ -104,14 +104,16 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 /* teléfono y pantallas chicas: página con scroll, sin rotación automática */
 @media (max-width: 900px){
   html,body{overflow:auto;height:auto}
-  body{display:block;font-size:15px}
+  body{display:block;font-size:16px}
+  html{scroll-padding-top:72px}
+  .item,.proy{line-height:1.4}
   header{flex-wrap:wrap;gap:4px 12px;padding:calc(14px + env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 10px max(16px, env(safe-area-inset-left))}
   header .marca{font-size:.85em;width:100%}
   header h1{font-size:1.35em;line-height:1.2}
   header .hora{font-size:1.5em}
   header .fecha{font-size:.8em}
   .tabs{position:sticky;top:0;z-index:5;background:var(--fondo);gap:8px;padding:10px 16px}
-  .tabs button{border-radius:8px;padding:8px 12px;font-size:.9em}
+  .tabs button{border-radius:8px;padding:8px 14px;font-size:.9em;min-height:44px}
   main{padding:14px 16px 24px;overflow:visible}
   .pagina{position:static;opacity:1;overflow:visible;margin-bottom:14px}
   .dos,.grilla,.mapa,.resumen{grid-template-columns:1fr;gap:10px}
