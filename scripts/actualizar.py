@@ -361,6 +361,18 @@ def noticias_corrientes():
     return out[:20]
 
 
+def noticias_nacionales():
+    """Titulares nacionales: portada de Google Noticias Argentina (sección Nacional)."""
+    url = "https://news.google.com/rss/headlines/section/topic/NATION?hl=es-419&gl=AR&ceid=AR:es-419"
+    vistos, out = set(), []
+    for i in rss(url, 30):
+        clave = i["titulo"].lower()[:60]
+        if clave not in vistos:
+            vistos.add(clave)
+            out.append(i)
+    return out[:16]
+
+
 def medios_afines():
     """La Derecha Diario (solo política y economía) y los últimos programas de Carajo en YouTube."""
     ldd = [dict(i, fuente="La Derecha Diario") for i in rss("https://derechadiario.com.ar/rss", 60)
@@ -385,6 +397,8 @@ def main():
         previo = {}
     base = json.load(open(BASE, encoding="utf-8"))
     live = dict(previo)
+    for viejo in ("bo_nacional", "senado_nacion", "diputados_nacion"):  # secciones quitadas el 5/11
+        live.pop(viejo, None)
     errores = {}
 
     def correr(clave, fn, respaldo=None):
@@ -403,15 +417,13 @@ def main():
 
     correr("dolar", dolar)
     correr("riesgo_pais", riesgo_pais)
-    correr("bo_nacional", bo_nacional, bo_nacional_respaldo)
     correr("bo_corrientes", bo_corrientes, bo_corrientes_respaldo)
-    correr("senado_nacion", senado_nacion)
-    correr("diputados_nacion", diputados_nacion)
     correr("hcd_od", hcd_ordenes)
     correr("hcd_noticias", hcd_noticias)
     correr("senado_corrientes", senado_corrientes)
     correr("presidente", presidente)
     correr("noticias", noticias_corrientes)
+    correr("nacionales", noticias_nacionales)
     correr("medios", medios_afines)
     correr("expedientes", lambda: expedientes_leconte(base, previo.get("expedientes", {})))
 

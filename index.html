@@ -134,6 +134,7 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
 .renglon.lec .t{color:var(--acento);font-weight:700}
 .widget .nota{color:var(--suave);font-size:.8em;line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 .widget .nota.n1{-webkit-line-clamp:1}
+.widget>*{flex-shrink:0}
 .widget .fuerte{font-size:1em;font-weight:600;line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 
 @media (prefers-reduced-motion: reduce){
@@ -255,12 +256,6 @@ const SECCIONES = [
     for (const [n, r] of Object.entries(est)) if (r.nuevo && !lista.find(p => p.expte === n))
       lista.unshift({expte:n, tipo:r.tipo, tema:r.asunto, comision:r.comision, estado:'Ingresado'});
     const recientes = lista.filter(p => est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7);
-    const apro = lista.filter(p => /aprob/i.test(p.estado)).length;
-    const resumen = `<div class="resumen">
-      <div class="kpi"><b>${lista.length}</b><span>presentados</span></div>
-      <div class="kpi"><b>${apro}</b><span>aprobados</span></div>
-      <div class="kpi"><b>${lista.filter(p=>/ley/i.test(p.tipo)).length}</b><span>proyectos de ley</span></div>
-      <div class="kpi"><b>${recientes.length}</b><span>con movimiento esta semana</span></div></div>`;
     const ficha = p => {
       const r = est[p.expte] || {};
       const cambio = r.cambio && haceDias(r.cambio) <= 7;
@@ -270,7 +265,7 @@ const SECCIONES = [
         ${cambio ? ` <span class="chip cambio">Cambió el ${fechaCorta(r.cambio)}</span>` : ''}</div></div>`;
     };
     const orden = [...recientes, ...lista.filter(p => !recientes.includes(p))];
-    return trozos(orden, 10).map((g, i) => (i === 0 ? resumen : '') + `<div class="grilla">${g.map(ficha).join('')}</div>`);
+    return trozos(orden, 10).map(g => `<div class="grilla">${g.map(ficha).join('')}</div>`);
   }},
 
   {id:'od', corto:'Orden del día', titulo:'Orden del día · Diputados de Corrientes', paginas() {
@@ -299,16 +294,6 @@ const SECCIONES = [
     ];
   }},
 
-  {id:'congreso', corto:'Congreso', titulo:'Congreso de la Nación · agenda', paginas() {
-    const sen = LIVE.senado_nacion || [];
-    const dip = LIVE.diputados_nacion || {items: []};
-    const hoy = hoyISO();
-    const senHtml = sen.length ? `<table class="tabla">${sen.slice(0, 12).map(e => `<tr><td>${e.fecha === hoy ? '<span class="hoy">Hoy</span>' : fechaCorta(e.fecha)}</td><td>${esc(e.evento)}</td></tr>`).join('')}</table>` : '<div class="vacio">Sin actividad publicada.</div>';
-    const dipHtml = dip.items.length ? `<div class="lista">${dip.items.slice(0, 10).map(t => `<div class="item"><div class="det">${esc(t)}</div></div>`).join('')}</div>` : `<div class="vacio">${esc(dip.mensaje || 'Sin reuniones publicadas.')}</div>`;
-    return [`<div class="dos"><div class="col"><h2>Senado · próximos 14 días</h2>${senHtml}</div><div class="col"><h2>Diputados · comisiones</h2>${dipHtml}</div></div>`];
-  }},
-
-  {id:'bo', corto:'BO Nación', titulo:'Boletín Oficial de la Nación', paginas() { return paginasBO(LIVE.bo_nacional, 'boletinoficial.gob.ar · primera sección'); }},
   {id:'boctes', corto:'BO Ctes.', titulo:'Boletín Oficial de Corrientes', paginas() { return paginasBO(LIVE.bo_corrientes, 'corrientes.gob.ar/boletinoficial'); }},
 
   {id:'presidente', corto:'Presidente', titulo:'Presidente Javier Milei', paginas() {
@@ -322,7 +307,10 @@ const SECCIONES = [
   {id:'noticias', corto:'Noticias', titulo:'Noticias', paginas() {
     const n = LIVE.noticias || [];
     const tarjeta = i => `<div class="item"><div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div></div>`;
-    const pags = trozos(n, 7).slice(0, 2).map(g => `<div class="sub">De Corrientes, según Google Noticias</div><div class="lista">${g.map(tarjeta).join('')}</div>`);
+    const nac = LIVE.nacionales || [];
+    const pags = [];
+    if (nac.length) pags.push(`<div class="sub">Titulares nacionales · Google Noticias</div><div class="lista">${nac.slice(0, 8).map(tarjeta).join('')}</div>`);
+    if (n.length) pags.push(`<div class="sub">De Corrientes · Google Noticias</div><div class="lista">${n.slice(0, 7).map(tarjeta).join('')}</div>`);
     const m = LIVE.medios;
     if (m) pags.push(`<div class="dos"><div class="col"><h2>La Derecha Diario</h2><div class="lista">${m.derecha_diario.slice(0, 5).map(tarjeta).join('')}</div></div>
       <div class="col"><h2>Carajo · últimos programas</h2><div class="lista">${m.carajo.slice(0, 5).map(tarjeta).join('')}</div></div></div>`);
@@ -526,17 +514,15 @@ function lateral() {
     <div class="nota">${od.asuntos.length} asuntos${lec ? ` · ${lec} del Dip. Leconte` : ''}</div>` : ''}
     ${sc ? `<div class="renglon"><time>${fechaCorta(sc.fecha)}</time><span class="t">Senado · orden del día N.º ${sc.numero}</span></div>` : ''}`));
 
-  // 4. Congreso de la Nación
-  const sen = (LIVE.senado_nacion || []).slice(0, 3);
-  out.push(w('congreso', 'Congreso de la Nación', 'Senado',
-    sen.length ? sen.map(e => `<div class="renglon"><time>${e.fecha === hoyISO() ? 'Hoy' : fechaCorta(e.fecha)}</time><span class="t">${esc(e.evento)}</span></div>`).join('')
-               : '<div class="nota">Sin actividad publicada para los próximos días.</div>'));
+  // 4. Boletín Oficial de Corrientes
+  const bcs = LIVE.bo_corrientes?.items || [], bc = bcs[0], directo = LIVE.bo_corrientes?.modo !== 'noticias';
+  out.push(w('boctes', 'Boletín Oficial de Corrientes', bc && directo ? esc(bc.organismo.replace('Boletín Oficial ', '')) : '',
+    bc ? `<div class="nota">${esc(bc.detalle)}</div>` : '<div class="nota">Sin ediciones disponibles.</div>'));
 
-  // 5. boletines oficiales
-  const bc = LIVE.bo_corrientes?.items?.[0], bn = LIVE.bo_nacional?.items?.[0];
-  out.push(w('boctes', 'Boletines oficiales', '', `
-    ${bc ? `<div class="fuerte">Corrientes: ${esc(bc.organismo.replace('Boletín Oficial ', ''))}</div><div class="nota n1">${esc(bc.detalle)}</div>` : ''}
-    ${bn ? `<div class="nota n1">Nación: ${esc(bn.detalle)}</div>` : ''}`));
+  // 5. titulares nacionales
+  const nac = (LIVE.nacionales || []).slice(0, 2);
+  out.push(w('noticias', 'Titulares nacionales', '',
+    nac.map(i => `<div class="renglon"><span class="t">${esc(i.titulo)}</span></div>`).join('') || '<div class="nota">Sin titulares.</div>'));
 
   document.getElementById('lateral').innerHTML = out.join('');
   const actual = cola[pos]?.s.id;
