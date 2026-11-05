@@ -391,6 +391,13 @@ function elegir(id) {
   mostrar(1);
   if (MOVIL.matches) document.querySelector('.principal').scrollIntoView({block: 'start'});
 }
+// rueda del mouse (o dedo) sobre la sección: se pausa y queda donde la dejes
+function pausarAqui() {
+  if (MOVIL.matches || (pausado && !auto)) return;
+  auto = false; pausado = true; fija = cola[pos]?.s.id || fija;
+  detener(); tarjetas(fija); url();
+}
+['wheel', 'touchstart'].forEach(ev => document.getElementById('main').addEventListener(ev, pausarAqui, {passive: true}));
 document.getElementById('lateral').addEventListener('click', e => {
   const a = e.target.closest('a.widget'); if (!a) return;
   e.preventDefault(); elegir(a.dataset.id);
