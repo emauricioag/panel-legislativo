@@ -153,17 +153,26 @@ def bo_nacional_respaldo():
 
 
 def bo_corrientes():
-    s = texto("https://boletinoficial.corrientes.gob.ar/")
-    items = []
-    for href, cuerpo in re.findall(r'href="([^"]+)"[^>]*>(.*?)</a>', s, re.S):
-        t = limpio(cuerpo)
-        if len(t) < 6 or not re.search(r"bolet|edici|\.pdf|decreto|resoluci", href + t, re.I):
-            continue
-        items.append({"organismo": "Boletín Oficial de Corrientes", "detalle": t[:200],
-                      "link": urllib.parse.urljoin("https://boletinoficial.corrientes.gob.ar/", href)})
-    if not items:
+    """Últimas ediciones del BO de Corrientes (www.corrientes.gob.ar/boletinoficial) y sus PDF."""
+    raiz = "https://www.corrientes.gob.ar"
+    s = texto(raiz + "/boletinoficial")
+    ediciones = re.findall(r'href="(/\d+/boletin-oficial-[\d-]+)"[^>]*>(.*?)</a>', s, re.S)
+    if not ediciones:
         raise ValueError("sin ediciones en la página")
-    return {"modo": "directo", "items": items[:20]}
+    items = []
+    for n, (href, titulo) in enumerate(ediciones[:6]):
+        archivos = []
+        if n < 2:  # el detalle de los PDF solo para las dos últimas ediciones
+            try:
+                e = texto(raiz + href)
+                archivos = [a for a in re.findall(r"([^<>]{3,120}?\.pdf)\s*<", e) if "Descargar" not in a]
+                archivos = [limpio(a) for a in archivos]
+            except Exception as ex:  # noqa: BLE001
+                print("edición", href, ex)
+        items.append({"organismo": limpio(titulo), "link": raiz + href,
+                      "detalle": ("Archivos: " + ", ".join(dict.fromkeys(archivos))) if archivos
+                      else "Edición publicada"})
+    return {"modo": "directo", "items": items}
 
 
 def bo_corrientes_respaldo():
