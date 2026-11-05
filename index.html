@@ -237,7 +237,7 @@ const SECCIONES = [
   }},
 
   {id:'bo', corto:'BO Nación', titulo:'Boletín Oficial de la Nación', paginas() { return paginasBO(LIVE.bo_nacional, 'boletinoficial.gob.ar · primera sección'); }},
-  {id:'boctes', corto:'BO Corrientes', titulo:'Boletín Oficial de Corrientes', paginas() { return paginasBO(LIVE.bo_corrientes, 'boletinoficial.corrientes.gob.ar'); }},
+  {id:'boctes', corto:'BO Corrientes', titulo:'Boletín Oficial de Corrientes', paginas() { return paginasBO(LIVE.bo_corrientes, 'corrientes.gob.ar/boletinoficial'); }},
 
   {id:'presidente', corto:'Presidente', titulo:'Presidente Javier Milei', paginas() {
     const p = LIVE.presidente || {};
@@ -264,7 +264,7 @@ function paginasBO(bo, fuente) {
   if (!bo || !bo.items?.length) return [`<div class="vacio">Sin publicaciones disponibles.</div>`];
   const sub = bo.modo === 'noticias'
     ? `<div class="sub">El sitio del Boletín no respondió: se muestran las noticias sobre normas publicadas.</div>`
-    : `<div class="sub">Edición del día · ${fuente}</div>`;
+    : `<div class="sub">Últimas ediciones · ${fuente}</div>`;
   return trozos(bo.items, 7).slice(0, 4).map(g => sub + `<div class="lista">${g.map(i => `<div class="item"><div class="org">${esc(i.organismo)}</div><div class="det">${esc(i.detalle)}</div></div>`).join('')}</div>`);
 }
 
