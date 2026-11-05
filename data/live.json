@@ -1001,5 +1001,95 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-05T10:18-03:00"
+ "actualizado": "2026-11-05T10:18-03:00",
+ "medios": {
+  "derecha_diario": [
+   {
+    "titulo": "Hitachi invertirá USD 225 millones en Argentina y proyecta crear más de 2.000 empleos",
+    "link": "https://derechadiario.com.ar/politica/hitachi-invertira-usd-225-millones-en-argentina-proyecta-crear-2-000-empleos",
+    "fecha": "Thu, 05 Nov 2026 01:19:40 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "La mortalidad infantil bajó en Argentina durante el Gobierno de Javier Milei",
+    "link": "https://derechadiario.com.ar/politica/mortalidad-infantil-bajo-en-argentina-gobierno-javier-milei",
+    "fecha": "Thu, 05 Nov 2026 00:56:19 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "Javier Milei se reunió con Santiago Abascal y le expresó su respaldo de cara a las elecciones en España",
+    "link": "https://derechadiario.com.ar/politica/javier-milei-reunio-santiago-abascal-expreso-respaldo-cara-elecciones-en-espana",
+    "fecha": "Wed, 04 Nov 2026 23:10:46 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "De cara a 2027, el kirchnerismo propuso una reforma agraria y la expropiación de tierras",
+    "link": "https://derechadiario.com.ar/politica/cara-2027-kirchnerismo-propuso-reforma-agraria-expropiacion-tierras",
+    "fecha": "Wed, 04 Nov 2026 22:35:49 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "Denuncian que la Policía bonaerense trabaja en condiciones precarias durante el operativo papal",
+    "link": "https://derechadiario.com.ar/politica/denuncian-que-policia-bonaerense-trabaja-en-condiciones-precarias-operativo-papal",
+    "fecha": "Wed, 04 Nov 2026 20:52:09 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "Los cancilleres de Iberoamérica reafirmaron su respaldo a la soberanía argentina sobre Malvinas",
+    "link": "https://derechadiario.com.ar/politica/cancilleres-iberoamerica-reafirmaron-respaldo-soberania-argentina-malvinas",
+    "fecha": "Wed, 04 Nov 2026 20:25:17 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "Gestión Milei: Tesla abrirá su primera concesionaria en la Argentina",
+    "link": "https://derechadiario.com.ar/politica/gestion-milei-tesla-abrira-primera-concesionaria-en-argentina",
+    "fecha": "Wed, 04 Nov 2026 19:46:27 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "Tesla desembarca en la Argentina: abrirá un local en Unicenter y estos serán los precios de sus autos",
+    "link": "https://derechadiario.com.ar/economia/tesla-desembarca-en-argentina-abrira-local-en-unicenter-seran-precios-autos",
+    "fecha": "Wed, 04 Nov 2026 19:42:19 GMT",
+    "fuente": "La Derecha Diario"
+   }
+  ],
+  "carajo": [
+   {
+    "titulo": "😍 UN VILLERO AL AÑO NO HACE DAÑO 💀 TRUMP VA A VETAR TODO, KALINA Y MILEI ECHÓ A UNOS TRANS | La Misa",
+    "link": "https://www.youtube.com/watch?v=113bpB4ScpA",
+    "fecha": "2026-11-05T03:30:41+00:00",
+    "fuente": "Carajo"
+   },
+   {
+    "titulo": "LA TRINCHERA con Sarubbi, Piro, Kalina,  Sofi Drehe, Mique y Adriel Segura | EN VIVO",
+    "link": "https://www.youtube.com/watch?v=k9dNs8YLwWY",
+    "fecha": "2026-11-05T03:09:10+00:00",
+    "fuente": "Carajo"
+   },
+   {
+    "titulo": "LA FUERZA con el Negro Almeida, Lucas, Olivia,  Marty y el Herrero | EN VIVO",
+    "link": "https://www.youtube.com/watch?v=jgeoKKx6h0U",
+    "fecha": "2026-11-05T03:08:06+00:00",
+    "fuente": "Carajo"
+   },
+   {
+    "titulo": "LÍNEA ROJA con Nico Promanzio, Santi Rivas, Battaleme, Fabián Calle y Lafferriere | EN VIVO",
+    "link": "https://www.youtube.com/watch?v=awj9I9ZCGhg",
+    "fecha": "2026-11-05T03:07:28+00:00",
+    "fuente": "Carajo"
+   },
+   {
+    "titulo": "LA MISA con el Gordo Dan, Pablo, Tonio, Mariano y Sick | EN VIVO",
+    "link": "https://www.youtube.com/watch?v=J5vHShyMgbw",
+    "fecha": "2026-11-05T03:05:52+00:00",
+    "fuente": "Carajo"
+   },
+   {
+    "titulo": "VICTORIA PARA LOS DEMÓCRATAS EN AMBAS CÁMARAS, POLÍTICA EXTERIOR E INTERIOR DE TRUMP | Línea Roja",
+    "link": "https://www.youtube.com/watch?v=-dzEF3vco20",
+    "fecha": "2026-11-04T22:03:18+00:00",
+    "fuente": "Carajo"
+   }
+  ]
+ }
 }

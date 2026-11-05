@@ -310,6 +310,21 @@ def noticias_corrientes():
     return out[:20]
 
 
+def medios_afines():
+    """La Derecha Diario (solo política y economía) y los últimos programas de Carajo en YouTube."""
+    ldd = [dict(i, fuente="La Derecha Diario") for i in rss("https://derechadiario.com.ar/rss", 60)
+           if re.search(r"derechadiario\.com\.ar/(politica|economia)/", i["link"])][:8]
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    raiz = ET.fromstring(get("https://www.youtube.com/feeds/videos.xml?channel_id=UC4mdhKZXjrKoq5aVG6juHEg"))
+    carajo = []
+    for e in raiz.findall("a:entry", ns)[:6]:
+        link = e.find("a:link", ns)
+        carajo.append({"titulo": (e.findtext("a:title", "", ns) or "").strip(),
+                       "link": link.get("href") if link is not None else "",
+                       "fecha": e.findtext("a:published", "", ns), "fuente": "Carajo"})
+    return {"derecha_diario": ldd, "carajo": carajo}
+
+
 # ---------------------------------------------------------------- main
 
 def main():
@@ -346,6 +361,7 @@ def main():
     correr("senado_corrientes", senado_corrientes)
     correr("presidente", presidente)
     correr("noticias", noticias_corrientes)
+    correr("medios", medios_afines)
     correr("expedientes", lambda: expedientes_leconte(base, previo.get("expedientes", {})))
 
     live["errores"] = errores

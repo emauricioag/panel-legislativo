@@ -155,7 +155,7 @@ const fechaCorta = iso => { const [a,m,d] = iso.split('-'); return `${d}/${m}`; 
 const diaNombre = iso => new Date(iso + 'T12:00:00').toLocaleDateString('es-AR', {weekday:'long', day:'numeric', month:'long'});
 const haceDias = iso => (new Date(hoyISO()) - new Date(iso)) / 864e5;
 const trozos = (arr, n) => { const o = []; for (let i = 0; i < arr.length; i += n) o.push(arr.slice(i, i + n)); return o.length ? o : [[]]; };
-const fechaRss = s => { const d = new Date(s); return isNaN(d) ? '' : d.toLocaleString('es-AR', {timeZone: TZ, day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit'}); };
+const fechaRss = s => { const d = new Date(s); return isNaN(d) ? '' : d.toLocaleString('es-AR', {timeZone: TZ, day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit', hourCycle:'h23'}); };
 
 function chipEstado(e) {
   const t = (e || '').toLowerCase();
@@ -235,9 +235,14 @@ const SECCIONES = [
       <div class="col"><h2>Discursos y anuncios oficiales</h2><div class="lista">${disc}</div></div></div>`];
   }},
 
-  {id:'noticias', corto:'Noticias', titulo:'Noticias de Corrientes', paginas() {
+  {id:'noticias', corto:'Noticias', titulo:'Noticias', paginas() {
     const n = LIVE.noticias || [];
-    return trozos(n, 7).map(g => `<div class="lista">${g.map(i => `<div class="item"><div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div></div>`).join('')}</div>`);
+    const tarjeta = i => `<div class="item"><div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div></div>`;
+    const pags = trozos(n, 7).slice(0, 2).map(g => `<div class="sub">De Corrientes, según Google Noticias</div><div class="lista">${g.map(tarjeta).join('')}</div>`);
+    const m = LIVE.medios;
+    if (m) pags.push(`<div class="dos"><div class="col"><h2>La Derecha Diario</h2><div class="lista">${m.derecha_diario.slice(0, 5).map(tarjeta).join('')}</div></div>
+      <div class="col"><h2>Carajo · últimos programas</h2><div class="lista">${m.carajo.slice(0, 5).map(tarjeta).join('')}</div></div></div>`);
+    return pags;
   }},
 
   {id:'mapa', corto:'Mapa de la Cámara', titulo:'Cámara de Diputados de Corrientes', paginas() { return [mapa()]; }},

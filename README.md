@@ -4,7 +4,7 @@ Panel para proyectar en una TV del despacho del Dip. Leconte (HCD Corrientes). P
 
 ## Cómo se usa
 
-Abrir la página en el navegador de la TV y ponerla en pantalla completa.
+Abrir la página en el navegador de la TV y ponerla en pantalla completa. Las tarjetas de arriba dejan fija una sección; "Rotar" vuelve al modo automático. En el teléfono la página no rota: cada tarjeta muestra la sección completa.
 
 - `?t=30` cambia los segundos por pantalla.
 - `?s=mapa` deja fija una sección (`proyectos`, `od`, `comisiones`, `congreso`, `bo`, `boctes`, `presidente`, `noticias`, `mapa`).
@@ -34,5 +34,5 @@ Para forzar una actualización: pestaña **Actions** → "Actualizar datos del p
 | Congreso | Agenda del Senado de la Nación y agenda de comisiones de Diputados |
 | Boletines oficiales | boletinoficial.gob.ar y boletinoficial.corrientes.gob.ar; si no responden, noticias sobre normas publicadas |
 | Presidente | Noticias sobre sus publicaciones en X y discursos de Casa Rosada |
-| Noticias | Google News (Corrientes) |
+| Noticias | Google News (Corrientes), La Derecha Diario (política y economía) y canal de YouTube de Carajo |
 | Dólar y riesgo país | dolarapi.com y argentinadatos.com |
