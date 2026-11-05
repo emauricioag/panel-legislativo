@@ -2,7 +2,9 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b1220">
+<meta name="color-scheme" content="dark">
 <title>Panel legislativo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -13,6 +15,7 @@
   --ok:#3ccf91; --alerta:#ffb547; --rojo:#ff6b6b;
 }
 *{box-sizing:border-box;margin:0;padding:0}
+html{color-scheme:dark}
 html,body{height:100%;background:var(--fondo);color:var(--texto);
   font-family:Inter,system-ui,sans-serif;overflow:hidden}
 body{display:grid;grid-template-rows:auto auto 1fr auto;font-size:1.1vw}
@@ -20,7 +23,7 @@ body.quieto{cursor:none}
 header{display:flex;align-items:center;gap:2vw;padding:1.4vw 2.4vw 1vw;border-bottom:1px solid var(--borde)}
 header .marca{font-weight:800;font-size:1.1em;letter-spacing:.02em;color:var(--suave)}
 header .marca b{color:var(--acento)}
-header h1{flex:1;font-size:2.2em;font-weight:800;letter-spacing:-.01em}
+header h1{flex:1;font-size:2.2em;font-weight:800;letter-spacing:-.01em;text-wrap:balance}
 header .reloj{text-align:right}
 header .hora{font-size:2.4em;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
 header .fecha{color:var(--suave);font-size:.95em;margin-top:.3em}
@@ -37,7 +40,9 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 .tabs::-webkit-scrollbar{display:none}
 .tabs button{font:inherit;font-size:.9em;font-weight:600;color:var(--suave);background:var(--panel);border:1px solid var(--borde);
   border-radius:.5vw;padding:.45vw 1vw;cursor:pointer;white-space:nowrap}
+.tabs button{touch-action:manipulation;-webkit-tap-highlight-color:transparent;transition:background-color .15s,color .15s,border-color .15s}
 .tabs button:hover{color:var(--texto);border-color:var(--suave)}
+.tabs button:focus-visible{outline:3px solid var(--alerta);outline-offset:2px}
 .tabs button.on{background:var(--acento);border-color:var(--acento);color:#fff}
 .tabs button.auto{margin-left:auto;color:var(--texto)}
 .tabs button.auto.on{background:#123d2c;border-color:var(--ok);color:var(--ok)}
@@ -87,11 +92,15 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 .leyenda span{color:var(--suave)}
 .hoy{color:var(--alerta);font-weight:800}
 
+@media (prefers-reduced-motion: reduce){
+  .pagina{transition:none}
+  .barra{display:none}
+}
 /* teléfono y pantallas chicas: página con scroll, sin rotación automática */
 @media (max-width: 900px){
   html,body{overflow:auto;height:auto}
   body{display:block;font-size:15px}
-  header{flex-wrap:wrap;gap:4px 12px;padding:14px 16px 10px}
+  header{flex-wrap:wrap;gap:4px 12px;padding:calc(14px + env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 10px max(16px, env(safe-area-inset-left))}
   header .marca{font-size:.85em;width:100%}
   header h1{font-size:1.35em;line-height:1.2}
   header .hora{font-size:1.5em}
@@ -119,7 +128,7 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
   .leyenda i{display:inline-block;margin-right:6px;transform:none}
   .leyenda b{margin-right:6px}
   .sub{margin-bottom:10px}
-  footer{position:sticky;bottom:0;flex-wrap:wrap;gap:6px 14px;padding:10px 16px}
+  footer{position:sticky;bottom:0;flex-wrap:wrap;gap:6px 14px;padding:10px 16px calc(10px + env(safe-area-inset-bottom))}
   .cot{flex-wrap:wrap;gap:4px 14px;white-space:normal;font-size:.9em}
   .act{width:100%}
   .barra{display:none}
@@ -132,8 +141,8 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
   <h1 id="titulo">Panel legislativo</h1>
   <div class="reloj"><div class="hora" id="hora">--:--</div><div class="fecha" id="fecha"></div></div>
 </header>
-<nav class="tabs" id="tabs"></nav>
-<main id="main"></main>
+<nav class="tabs" id="tabs" aria-label="Secciones del panel"></nav>
+<main id="main" aria-live="polite"></main>
 <footer>
   <div class="cot" id="cot"></div>
   <div class="act" id="act"></div>
@@ -143,7 +152,7 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 <script>
 // ?t=25 cambia los segundos por pantalla; ?s=mapa deja fija una sección.
 const P = new URLSearchParams(location.search);
-const SEG = +(P.get('t') || 20);
+const SEG = Math.max(5, +(P.get('t') || 20));
 const FIJA = P.get('s');
 const TZ = 'America/Argentina/Buenos_Aires';
 let BASE = {}, LIVE = {};
@@ -285,7 +294,7 @@ function mapa() {
 // (sigue pasando sus páginas). "Rotar" vuelve al modo automático.
 // En el teléfono no rota: cada tarjeta muestra la sección completa con scroll.
 const MOVIL = matchMedia('(max-width: 900px)');
-let cola = [], pos = -1, temporizador, auto = !FIJA && !MOVIL.matches, fija = FIJA;
+let pausado = false, cola = [], pos = -1, temporizador, auto = !FIJA && !MOVIL.matches, fija = FIJA;
 function armarCola() {
   cola = [];
   for (const s of SECCIONES) {
@@ -295,18 +304,27 @@ function armarCola() {
 }
 function tarjetas(actual) {
   document.getElementById('tabs').innerHTML = SECCIONES.map(s =>
-    `<button data-id="${s.id}" class="${s.id === actual ? 'on' : ''}">${s.corto}</button>`).join('')
-    + (MOVIL.matches ? '' : `<button class="auto ${auto ? 'on' : ''}" data-id="auto">${auto ? '▶ Rotando' : '▶ Rotar'}</button>`);
+    `<button type="button" data-id="${s.id}" class="${s.id === actual ? 'on' : ''}" aria-pressed="${s.id === actual}">${s.corto}</button>`).join('')
+    + (MOVIL.matches ? '' : `<button type="button" class="auto ${auto ? 'on' : ''}" data-id="auto" aria-pressed="${auto}">${auto ? '❚❚ Pausar' : '▶ Rotar'}</button>`);
   document.querySelector('#tabs .on')?.scrollIntoView({block:'nearest', inline:'nearest'});
 }
 document.getElementById('tabs').addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;
-  if (b.dataset.id === 'auto') { auto = true; fija = null; mostrar(1); return; }
-  auto = false; fija = b.dataset.id;
+  if (b.dataset.id === 'auto') {
+    if (auto) { auto = false; pausado = true; fija = cola[pos].s.id; } else { auto = true; pausado = false; fija = null; }
+    url(); mostrar(auto ? 1 : 0); return;
+  }
+  auto = false; pausado = false; fija = b.dataset.id; url();
   pos = cola.findIndex(c => c.s.id === fija) - 1;
   mostrar(1);
   if (MOVIL.matches) window.scrollTo({top: 0});
 });
+// la dirección refleja la sección elegida (se puede guardar o compartir)
+function url() {
+  const q = new URLSearchParams(location.search);
+  if (fija) q.set('s', fija); else q.delete('s');
+  history.replaceState(null, '', location.pathname + (q.toString() ? '?' + q : ''));
+}
 function siguiente(delta) {
   if (!fija) return (pos + delta + cola.length) % cola.length;
   const idx = cola.map((c, k) => c.s.id === fija ? k : -1).filter(k => k >= 0);
@@ -334,7 +352,7 @@ function mostrar(delta = 1) {
   if (c.s.alMostrar) setTimeout(c.s.alMostrar, 50);
   const barra = document.getElementById('barra');
   barra.style.transition = 'none'; barra.style.width = '0';
-  const rota = auto || c.n > 1;
+  const rota = auto || (c.n > 1 && !pausado);
   if (rota) {
     requestAnimationFrame(() => requestAnimationFrame(() => { barra.style.transition = `width ${SEG}s linear`; barra.style.width = '100%'; }));
     temporizador = setTimeout(() => mostrar(1), SEG * 1000);
