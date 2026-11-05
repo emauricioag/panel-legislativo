@@ -384,7 +384,8 @@ function pie() {
 function reloj() {
   const n = new Date();
   const [hh, mm] = n.toLocaleTimeString('es-AR', {timeZone: TZ, hour:'2-digit', minute:'2-digit', hourCycle:'h23'}).split(':');
-  document.getElementById('hora').innerHTML = `${hh}<span class="dp">:</span>${mm}`;
+  const h = document.getElementById('hora');
+  if (h.dataset.v !== hh + mm) { h.dataset.v = hh + mm; h.innerHTML = `${hh}<span class="dp">:</span>${mm}`; }
   const f = n.toLocaleDateString('es-AR', {timeZone: TZ, weekday:'long', day:'numeric', month:'long'});
   document.getElementById('fecha').textContent = f[0].toUpperCase() + f.slice(1);
 }
