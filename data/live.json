@@ -79,9 +79,34 @@
   "modo": "directo",
   "items": [
    {
-    "organismo": "Boletín Oficial de Corrientes",
-    "detalle": "Boletín Oficial A partir del 08-08-2023",
-    "link": "https://www.corrientes.gob.ar/boletinoficial"
+    "organismo": "Boletín Oficial 04-11-2026",
+    "link": "https://www.corrientes.gob.ar/29124/boletin-oficial-04-11-2026",
+    "detalle": "Archivos: 04-11-2026.pdf, Anexo BO 04-11-2026 - EPRE DPEC.pdf, Sucesorios 04-11-2026.pdf"
+   },
+   {
+    "organismo": "Boletín Oficial 03-11-2026",
+    "link": "https://www.corrientes.gob.ar/29118/boletin-oficial-03-11-2026",
+    "detalle": "Archivos: 03-11-2026 v20.pdf"
+   },
+   {
+    "organismo": "Boletín Oficial 30-10-2026",
+    "link": "https://www.corrientes.gob.ar/29114/boletin-oficial-30-10-2026",
+    "detalle": "Edición publicada"
+   },
+   {
+    "organismo": "Boletín Oficial 29-10-2026",
+    "link": "https://www.corrientes.gob.ar/29105/boletin-oficial-29-10-2026",
+    "detalle": "Edición publicada"
+   },
+   {
+    "organismo": "Boletín Oficial 28-10-2026",
+    "link": "https://www.corrientes.gob.ar/29100/boletin-oficial-28-10-2026",
+    "detalle": "Edición publicada"
+   },
+   {
+    "organismo": "Boletín Oficial 27-10-2026",
+    "link": "https://www.corrientes.gob.ar/29093/boletin-oficial-27-10-2026",
+    "detalle": "Edición publicada"
    }
   ]
  },
@@ -666,16 +691,16 @@
  },
  "noticias": [
   {
-   "titulo": "Plus Unificado de Corrientes: confirman el cronograma de pago de noviembre para estatales y jubilados",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXNhMkZwSC1wOWNsbzJwY1pDN0llYl9Tby1jUHhTTkhBQ3h2VGNfRG9yQUkwcUtjRGtVaTZsa3VEOFotTEEtVnNnazJmNmVXOGlVaXRpb3Y5aDdVZm1yQmRaV0pISGhOT213SndlVkMwREgwSDlpTWNPRVJqd0EtQzJsOGNHNXpLNDVLT1NUZFZSQnVYLWo2TkwzMGw2eUxtRWR5TlhLNTRZZjRNbDFyZGg3VHd3cGNnZUp0OEdJRHFDdGFlcmMtX1g2bXVtNDNicVRNYzhCYw?oc=5",
-   "fecha": "Wed, 04 Nov 2026 22:53:56 GMT",
-   "fuente": "Perfil"
-  },
-  {
    "titulo": "Corrientes, con una caída interanual del -28,6% en el empleo de la construcción",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVo3TTR4UEdHaTRKbDF2aGxjRTg4WVRhNG1DRjFBenU5OFdLN0ladFhnc0x3cE1oc01HaHgwNmhfdjFpYkNLODNiNDB5WXFtVFRVMlFjZkY5SnNMRTFXZFVfakxpazlRNTVqcTA4SF81b1BjQVFVY0lobVRRQTBiNHQ2Q1RMdG1CZTNSTTliS284QVdMX0hnMkxzd3VSRjlHTFlWVW5DUjNoNXBlRk1xSDJaMnZXU0lZWkpZN3RuLUFMUQ?oc=5",
    "fecha": "Thu, 05 Nov 2026 13:04:01 GMT",
    "fuente": "Momarandu Corrientes"
+  },
+  {
+   "titulo": "Plus Unificado de Corrientes: confirman el cronograma de pago de noviembre para estatales y jubilados",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXNhMkZwSC1wOWNsbzJwY1pDN0llYl9Tby1jUHhTTkhBQ3h2VGNfRG9yQUkwcUtjRGtVaTZsa3VEOFotTEEtVnNnazJmNmVXOGlVaXRpb3Y5aDdVZm1yQmRaV0pISGhOT213SndlVkMwREgwSDlpTWNPRVJqd0EtQzJsOGNHNXpLNDVLT1NUZFZSQnVYLWo2TkwzMGw2eUxtRWR5TlhLNTRZZjRNbDFyZGg3VHd3cGNnZUp0OEdJRHFDdGFlcmMtX1g2bXVtNDNicVRNYzhCYw?oc=5",
+   "fecha": "Wed, 04 Nov 2026 22:53:56 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Corrientes: CNRT reforzará los controles en pasos fronterizos por la visita del Papa León XIV a Argentina",
@@ -726,12 +751,6 @@
    "fuente": "Primera Edición"
   },
   {
-   "titulo": "Privatización de rutas: 150 trabajadores de peajes quedaron en la calle en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWV9DUmZDWXgzVWZ3MFgwRS1RbjdzQmF2bHd3VlNIVkZad1lDcmRVWjRTdEl1aTBVQVRkemdHeTRDY2JCTDNybnNRQ2VOMkhGTzZKN2t2eGRFQXJrYS1nM3pDNzdXMWxLaEY3NnhpcXozTHkwUUdkenNnMnViemhZYjNwRElieUhELTJlX01zZlFWT3BWYUkyZW5RUkJqQjZZSGhGOTQwRlJ0aE5STGYtbkNvcnh3bzVW?oc=5",
-   "fecha": "Thu, 05 Nov 2026 08:37:54 GMT",
-   "fuente": "DeGremiales.com"
-  },
-  {
    "titulo": "Banco de Corrientes: así será la atención durante el feriado bancario del 6, 9 y 10 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1hRRmFkaEtaT29qWGNlcTRneEM3RDNTS1pzeUNfc1BMN0Y1cEhxbWgxYmktZGxzU3N6REZ1SFVxaDlQdXBpTW01THIyN3hOLW44UFJDc1BjcG9BS1NzWGRGN08tSTRpUXlYU2x2cGZxY09BOWZLYVRFREhzLUdmV0UxS3o3R21NR3VDU2k2ODJETXlESXhyMU5RWjR5eXVLNTg0Z3ZkaktVSG81TnhTS0FFbGRzTXFWYXV2WW1TRldWdUVLMjI4WQ?oc=5",
    "fecha": "Thu, 05 Nov 2026 13:27:47 GMT",
@@ -754,6 +773,12 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlp0c3ZxbXpQa0ZySkNWbERwRm9aVTRseV9kUFhWUzNYLU1LX3RmTHowVU1rZ1R0dnZvTGJSSjJDMTNKV3hTOW51YXdHYjFWYW1ORnd5emtzUE5JaW9VUWdVU3NMSnZKMkNjRGdmQmxDMnhuUkJ6YjR5ajc3bnpPNjQtYXRzR2t2ZkNaYUl0SHZFRWxPMXQtbnAxRFJ6Mk1XRlkwclVBUnRCdUd1?oc=5",
    "fecha": "Thu, 05 Nov 2026 12:27:24 GMT",
    "fuente": "Corrientes Hoy"
+  },
+  {
+   "titulo": "El Ministro de Hacienda no descartó anuncio salarial en los próximos días: \"Estamos a tiempo\"",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlNX0VTTjVpY2w0WGd4ZTFEZ0hHZXRMVDM0eTh3LW5HYWFIb2o4ckotcU5fOW9zN1V6NkZCSlhOb2NjR0ZweGNYVlBKekJnZW1IUUttcHBsTjZ4UnZjZVZKaExIOU5mUzhQNkJqdHhUVUdTck9FY0paYXpzYU85OTR2QTNvRTBiSE02MkNXb3hXMFoxaEhERlJObnFDYnUzWWM4c3ZGUWtzN3VPWFZ1QnlyZ0J4dHppOC05aG5ZODIzSVE?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:43:40 GMT",
+   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "Valdés propone subir a Corrientes a Vaca Muerta como proveedor de arena y enviarla desde Ituzaingó",
@@ -996,7 +1021,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-05T10:40-03:00",
+ "actualizado": "2026-11-05T10:47-03:00",
  "medios": {
   "derecha_diario": [
    {
