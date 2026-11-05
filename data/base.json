@@ -1,0 +1,527 @@
+{
+ "nota": "Datos que se editan a mano. Fuente: catálogo de proyectos y guía (relevados el 27/10/2026).",
+ "proyectos": [
+  {
+   "expte": "20561",
+   "tipo": "Resolución",
+   "tema": "Coto de caza El Curupí lindante con la Escuela 626 (pedido de informes)",
+   "comision": "Sin asignar",
+   "estado": "Ingresado"
+  },
+  {
+   "expte": "20560",
+   "tipo": "Resolución",
+   "tema": "Escuelas rurales inhóspitas y Escuela 626 de El Malezal (pedido de informes)",
+   "comision": "Sin asignar",
+   "estado": "Ingresado"
+  },
+  {
+   "expte": "20497",
+   "tipo": "Declaración",
+   "tema": "Pesar por las víctimas de la masacre de Rincón Bomba",
+   "comision": "Sobre tablas",
+   "estado": "Aprobada (Decl. 413/26)"
+  },
+  {
+   "expte": "20475",
+   "tipo": "Ley",
+   "tema": "Protección de la propiedad privada en la regularización dominial",
+   "comision": "Asuntos Constitucionales",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "20474",
+   "tipo": "Declaración",
+   "tema": "Homenaje a los caídos del Regimiento de Infantería de Monte 29",
+   "comision": "Sobre tablas",
+   "estado": "Aprobada (Decl. 401/26)"
+  },
+  {
+   "expte": "20440",
+   "tipo": "Ley",
+   "tema": "Armas de letalidad reducida, cámaras corporales y GPS para la Policía",
+   "comision": "Seguridad; Asuntos Constitucionales",
+   "estado": "Preferencia a 3 sesiones"
+  },
+  {
+   "expte": "20429",
+   "tipo": "Declaración",
+   "tema": "Jornada de Enfermedades Poco Frecuentes y Síndrome de Williams",
+   "comision": "Sobre tablas",
+   "estado": "Aprobada (Decl. 369/26)"
+  },
+  {
+   "expte": "20385",
+   "tipo": "Ley",
+   "tema": "Transparencia y rendición de los viajes oficiales",
+   "comision": "Hacienda",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "20386",
+   "tipo": "Declaración",
+   "tema": "Aniversario de los músicos chamameceros fallecidos en Bella Vista",
+   "comision": "Sobre tablas",
+   "estado": "Aprobada (Decl. 349/26)"
+  },
+  {
+   "expte": "20336",
+   "tipo": "Ley",
+   "tema": "Bloqueo de celulares en cárceles",
+   "comision": "Seguridad",
+   "estado": "Vuelto a comisión; 3 artículos sumados al Expte. 19.300"
+  },
+  {
+   "expte": "20287",
+   "tipo": "Resolución",
+   "tema": "Designación del Fiscal de Investigaciones Administrativas",
+   "comision": "Asuntos Constitucionales",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "20223",
+   "tipo": "Ley",
+   "tema": "\"No existe tal cosa como un almuerzo gratis\": reconocimiento al contribuyente",
+   "comision": "Asuntos Constitucionales",
+   "estado": "Adjunto al Expte. 19.800"
+  },
+  {
+   "expte": "20189",
+   "tipo": "Resolución",
+   "tema": "Bienes del Estado y cumplimiento de la ley 6639 por ACOBE (pedido de informes)",
+   "comision": "Asuntos Constitucionales",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "20182",
+   "tipo": "Resolución",
+   "tema": "Prórroga de la comisión técnica de reforma de la ley de niñez (coautoría)",
+   "comision": "Niñez",
+   "estado": "Aprobada (Res. 12/26)"
+  },
+  {
+   "expte": "20190",
+   "tipo": "Ley",
+   "tema": "Gestión profesional de hospitales públicos, \"Modelo Cardiológico\"",
+   "comision": "Salud Pública",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "20021",
+   "tipo": "Ley",
+   "tema": "Ley \"Nadia\": prevención del suicidio",
+   "comision": "Salud Pública",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19959",
+   "tipo": "Resolución",
+   "tema": "Régimen de mera compra en Ingresos Brutos (pedido de informes)",
+   "comision": "Hacienda",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19898",
+   "tipo": "Resolución",
+   "tema": "Autarquía financiera del Poder Judicial (pedido de informes)",
+   "comision": "Asuntos Constitucionales; Hacienda",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19830",
+   "tipo": "Ley",
+   "tema": "Adhesión al RIMI (ley 27802)",
+   "comision": "Asuntos Constitucionales; Hacienda",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19800",
+   "tipo": "Ley",
+   "tema": "Adhesión al Régimen de Transparencia Fiscal al Consumidor",
+   "comision": "Asuntos Constitucionales",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19766",
+   "tipo": "Ley",
+   "tema": "Monumento histórico al Cenotafio Malvinas de Mercedes",
+   "comision": "Educación y Cultura",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19752",
+   "tipo": "Ley",
+   "tema": "Adhesión a la ley nacional de acceso a la información pública",
+   "comision": "Asuntos Constitucionales",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19767",
+   "tipo": "Resolución",
+   "tema": "Monumento a Genaro Berón de Astrada (leyes 732 y 6701)",
+   "comision": "Educación y Cultura",
+   "estado": "En comisión"
+  },
+  {
+   "expte": "19677",
+   "tipo": "Ley",
+   "tema": "Fin de la aprobación ficta de la Cuenta de Inversión",
+   "comision": "Asuntos Constitucionales; Hacienda",
+   "estado": "En comisión"
+  }
+ ],
+ "diputados": [
+  {
+   "apellido": "Améndola",
+   "nombre": "Ana Gabriela",
+   "partido": "Vamos Corrientes"
+  },
+  {
+   "apellido": "Almirón",
+   "nombre": "Ana Claudia",
+   "partido": "PJ"
+  },
+  {
+   "apellido": "Aparicio",
+   "nombre": "María Sara",
+   "partido": "Frente Renovador"
+  },
+  {
+   "apellido": "Ast",
+   "nombre": "Norberto",
+   "partido": "UCR"
+  },
+  {
+   "apellido": "Benítez",
+   "nombre": "Edgar V.",
+   "partido": "Unión Popular"
+  },
+  {
+   "apellido": "Benítez",
+   "nombre": "Hugo Daniel",
+   "partido": "Alianza Esquina Crece"
+  },
+  {
+   "apellido": "Brambilla",
+   "nombre": "Sofía",
+   "partido": "PRO"
+  },
+  {
+   "apellido": "Branz",
+   "nombre": "Mario Jacinto",
+   "partido": "PANU"
+  },
+  {
+   "apellido": "Calvano",
+   "nombre": "Hugo Ricardo",
+   "partido": "Coalición Cívica ARI"
+  },
+  {
+   "apellido": "Canteros",
+   "nombre": "Gustavo J. A.",
+   "partido": "Nuevo País"
+  },
+  {
+   "apellido": "Cassani",
+   "nombre": "Pedro Gerardo",
+   "partido": "ELI"
+  },
+  {
+   "apellido": "Fernández Recalde",
+   "nombre": "Emiliano",
+   "partido": "Encuentro por Corrientes"
+  },
+  {
+   "apellido": "Gauna",
+   "nombre": "Ana María Marlene",
+   "partido": "PJ"
+  },
+  {
+   "apellido": "Giotta",
+   "nombre": "Andrea María",
+   "partido": "UCR"
+  },
+  {
+   "apellido": "Gortari",
+   "nombre": "María Cecilia",
+   "partido": "Encuentro por Corrientes"
+  },
+  {
+   "apellido": "Hardoy",
+   "nombre": "Eduardo Daniel",
+   "partido": "Partido Liberal"
+  },
+  {
+   "apellido": "Lazaroff",
+   "nombre": "Lorena",
+   "partido": "PRO"
+  },
+  {
+   "apellido": "Leconte",
+   "nombre": "Ricardo Guillermo",
+   "partido": "La Libertad Avanza"
+  },
+  {
+   "apellido": "Lezcano",
+   "nombre": "César Daniel",
+   "partido": "Frente Renovador"
+  },
+  {
+   "apellido": "Méndez Vernengo",
+   "nombre": "Jesús Raúl",
+   "partido": "UCR"
+  },
+  {
+   "apellido": "Nazer",
+   "nombre": "Eliana Graciela",
+   "partido": "PANU"
+  },
+  {
+   "apellido": "Ojeda",
+   "nombre": "Juan de la Cruz",
+   "partido": "PJ"
+  },
+  {
+   "apellido": "Pavón",
+   "nombre": "Valeria Luciana",
+   "partido": "UCR"
+  },
+  {
+   "apellido": "Pereyra",
+   "nombre": "Lucía Elizabeth",
+   "partido": "UCR"
+  },
+  {
+   "apellido": "Romero",
+   "nombre": "Jessica Natalia",
+   "partido": "Partido Liberal"
+  },
+  {
+   "apellido": "Rotela Cañete",
+   "nombre": "Albana Virginia",
+   "partido": "Partido Popular"
+  },
+  {
+   "apellido": "Tassano",
+   "nombre": "Eduardo Adolfo",
+   "partido": "UCR"
+  },
+  {
+   "apellido": "Vallejos",
+   "nombre": "Víctor Hugo",
+   "partido": "Norte Grande"
+  },
+  {
+   "apellido": "Vassel",
+   "nombre": "José Lisandro",
+   "partido": "Partido Popular"
+  },
+  {
+   "apellido": "Vidal Domínguez",
+   "nombre": "Adriana Cleofe",
+   "partido": "Frente Renovador"
+  }
+ ],
+ "partidos": [
+  {
+   "nombre": "PJ",
+   "color": "#1f5fbf"
+  },
+  {
+   "nombre": "Frente Renovador",
+   "color": "#3b8fd9"
+  },
+  {
+   "nombre": "Norte Grande",
+   "color": "#5fb0e8"
+  },
+  {
+   "nombre": "Unión Popular",
+   "color": "#7cc4c9"
+  },
+  {
+   "nombre": "Alianza Esquina Crece",
+   "color": "#9aa7b4"
+  },
+  {
+   "nombre": "Encuentro por Corrientes",
+   "color": "#2e9e6b"
+  },
+  {
+   "nombre": "Nuevo País",
+   "color": "#6cc08f"
+  },
+  {
+   "nombre": "Vamos Corrientes",
+   "color": "#c9302c"
+  },
+  {
+   "nombre": "UCR",
+   "color": "#e0453f"
+  },
+  {
+   "nombre": "Coalición Cívica ARI",
+   "color": "#e8833a"
+  },
+  {
+   "nombre": "Partido Popular",
+   "color": "#f0a64a"
+  },
+  {
+   "nombre": "PANU",
+   "color": "#d9b23a"
+  },
+  {
+   "nombre": "Partido Liberal",
+   "color": "#3a3a8c"
+  },
+  {
+   "nombre": "PRO",
+   "color": "#f2d22e"
+  },
+  {
+   "nombre": "ELI",
+   "color": "#8a6fc9"
+  },
+  {
+   "nombre": "La Libertad Avanza",
+   "color": "#7b3fbf"
+  }
+ ],
+ "comisiones": [
+  {
+   "nombre": "Asuntos Constitucionales y Legislación General",
+   "dia": "martes",
+   "hora": "18:00",
+   "preside": "Giotta",
+   "leconte": false
+  },
+  {
+   "nombre": "Hacienda, Presupuesto e Impuestos",
+   "dia": "miércoles",
+   "hora": "10:00",
+   "preside": "Ast",
+   "leconte": false
+  },
+  {
+   "nombre": "Energía, Transporte, Obras y Servicios Públicos",
+   "dia": "martes",
+   "hora": "11:00",
+   "preside": "Vassel",
+   "leconte": false
+  },
+  {
+   "nombre": "Educación, Cultura, Ciencia y Tecnología",
+   "dia": "martes",
+   "hora": "20:00",
+   "preside": "Pavón",
+   "leconte": false
+  },
+  {
+   "nombre": "Asuntos Municipales",
+   "dia": "martes",
+   "hora": "09:00",
+   "preside": "Améndola",
+   "leconte": false
+  },
+  {
+   "nombre": "Producción, Industria, Comercio y Turismo",
+   "dia": "miércoles",
+   "hora": "17:00",
+   "preside": "Brambilla",
+   "leconte": false
+  },
+  {
+   "nombre": "Peticiones, Reglamento y Poderes",
+   "dia": "miércoles",
+   "hora": "18:00",
+   "preside": "Hardoy",
+   "leconte": false
+  },
+  {
+   "nombre": "Salud Pública",
+   "dia": "martes",
+   "hora": "17:00",
+   "preside": "Rotela Cañete",
+   "leconte": true
+  },
+  {
+   "nombre": "Legislación del Trabajo",
+   "dia": "martes",
+   "hora": "10:00",
+   "preside": "Améndola",
+   "leconte": false
+  },
+  {
+   "nombre": "Ecología y Ambiente",
+   "dia": "martes",
+   "hora": "19:00",
+   "preside": "E. Benítez",
+   "leconte": true
+  },
+  {
+   "nombre": "Derechos Humanos, Género y Diversidad",
+   "dia": "miércoles",
+   "hora": "09:00",
+   "preside": "Vallejos",
+   "leconte": false
+  },
+  {
+   "nombre": "Seguridad y Servicios Penitenciarios",
+   "dia": "martes",
+   "hora": "10:00",
+   "preside": "Vassel",
+   "leconte": false
+  },
+  {
+   "nombre": "Defensa del Consumidor",
+   "dia": "miércoles",
+   "hora": "08:30",
+   "preside": "Calvano",
+   "leconte": false
+  },
+  {
+   "nombre": "Políticas Sociales",
+   "dia": "miércoles",
+   "hora": "18:00",
+   "preside": "Pereyra",
+   "leconte": false
+  },
+  {
+   "nombre": "Deportes",
+   "dia": "miércoles",
+   "hora": "09:30",
+   "preside": "H. Benítez",
+   "leconte": false
+  },
+  {
+   "nombre": "Niñez, Adolescencia y Familia",
+   "dia": "miércoles",
+   "hora": "09:00",
+   "preside": "Romero",
+   "leconte": true
+  },
+  {
+   "nombre": "Prevención de las Adicciones",
+   "dia": "martes",
+   "hora": "11:30",
+   "preside": "Gauna",
+   "leconte": false
+  },
+  {
+   "nombre": "Protección de Personas con Discapacidad",
+   "dia": "miércoles",
+   "hora": "16:30",
+   "preside": "Rotela Cañete",
+   "leconte": false
+  },
+  {
+   "nombre": "Juicio Político",
+   "dia": "lunes",
+   "hora": "09:00",
+   "preside": "",
+   "leconte": false
+  }
+ ],
+ "presidente_x": "JMilei"
+}

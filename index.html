@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panel legislativo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --fondo:#0b1220; --panel:#121b2e; --panel2:#18233a; --borde:#24314d;
+  --texto:#e8edf6; --suave:#93a1bb; --acento:#a77bff; --lla:#7b3fbf;
+  --ok:#3ccf91; --alerta:#ffb547; --rojo:#ff6b6b;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--fondo);color:var(--texto);
+  font-family:Inter,system-ui,sans-serif;overflow:hidden;cursor:none}
+body{display:grid;grid-template-rows:auto 1fr auto;font-size:1.1vw}
+header{display:flex;align-items:center;gap:2vw;padding:1.4vw 2.4vw 1vw;border-bottom:1px solid var(--borde)}
+header .marca{font-weight:800;font-size:1.1em;letter-spacing:.02em;color:var(--suave)}
+header .marca b{color:var(--acento)}
+header h1{flex:1;font-size:2.2em;font-weight:800;letter-spacing:-.01em}
+header .reloj{text-align:right}
+header .hora{font-size:2.4em;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+header .fecha{color:var(--suave);font-size:.95em;margin-top:.3em}
+main{position:relative;padding:1.6vw 2.4vw;overflow:hidden}
+.pagina{position:absolute;inset:1.6vw 2.4vw;opacity:0;transition:opacity .8s;overflow:hidden}
+.pagina.visible{opacity:1}
+footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#080e1a;border-top:1px solid var(--borde)}
+.cot{display:flex;gap:1.8vw;flex:1;white-space:nowrap}
+.cot div{font-variant-numeric:tabular-nums}
+.cot span{color:var(--suave);margin-right:.4em}
+.cot b{font-weight:700}
+.cot .rp b{color:var(--alerta)}
+.puntos{display:flex;gap:.45vw}
+.puntos i{width:.7vw;height:.7vw;border-radius:50%;background:var(--borde)}
+.puntos i.on{background:var(--acento)}
+.act{color:var(--suave);font-size:.8em;white-space:nowrap}
+.barra{position:fixed;left:0;bottom:0;height:3px;background:var(--acento);width:0}
+
+/* componentes */
+.sub{color:var(--suave);font-size:1em;margin-bottom:1.2vw}
+.sub a{color:var(--suave)}
+.lista{display:flex;flex-direction:column;gap:.75vw}
+.item{background:var(--panel);border:1px solid var(--borde);border-radius:.6vw;padding:.9vw 1.2vw;line-height:1.3}
+.item .org{color:var(--acento);font-weight:700;font-size:.85em;text-transform:uppercase;letter-spacing:.03em;margin-bottom:.25em}
+.item .det{font-size:1.15em}
+.item .meta{color:var(--suave);font-size:.85em;margin-top:.3em}
+.item.destacado{border-color:var(--acento);background:linear-gradient(90deg,#2a1c4a,var(--panel) 60%)}
+.dos{display:grid;grid-template-columns:1fr 1fr;gap:2vw;height:100%}
+.col h2{font-size:1.3em;margin-bottom:.8vw;color:var(--suave);font-weight:600}
+.tabla{width:100%;border-collapse:separate;border-spacing:0 .45vw}
+.tabla td{background:var(--panel);padding:.5vw 1vw;vertical-align:top;line-height:1.25}
+.tabla td.p{color:var(--suave);text-align:right;white-space:nowrap;font-size:.9em}
+.tabla td:first-child{border-radius:.5vw 0 0 .5vw;font-weight:700;white-space:nowrap;width:5.5em}
+.tabla td:nth-child(2){width:100%}
+.tabla td:last-child{border-radius:0 .5vw .5vw 0}
+.chip{display:inline-block;padding:.15em .6em;border-radius:1em;font-size:.8em;font-weight:700;white-space:nowrap}
+.chip.apro{background:#123d2c;color:var(--ok)}
+.chip.pref{background:#45330f;color:var(--alerta)}
+.chip.com{background:#1e2a44;color:#b9c6e0}
+.chip.ing{background:#2b2147;color:#c9b2ff}
+.chip.cambio{background:var(--alerta);color:#201400}
+.grilla{display:grid;grid-template-columns:repeat(2,1fr);gap:.7vw}
+.proy{background:var(--panel);border:1px solid var(--borde);border-radius:.6vw;padding:.75vw 1vw;display:grid;grid-template-columns:5.2em 1fr;gap:.2vw 1vw;line-height:1.25}
+.proy .n{font-weight:800;font-size:1.05em;color:var(--acento)}
+.proy .t{font-weight:600}
+.proy .e{grid-column:2;color:var(--suave);font-size:.85em}
+.proy.cambio{border-color:var(--alerta)}
+.resumen{display:flex;gap:1.2vw;margin-bottom:1.2vw}
+.kpi{background:var(--panel);border-radius:.6vw;padding:.7vw 1.2vw;border:1px solid var(--borde)}
+.kpi b{font-size:2em;display:block;line-height:1}
+.kpi span{color:var(--suave);font-size:.85em}
+.vacio{color:var(--suave);font-size:1.3em;padding:2vw 0}
+.mapa{display:grid;grid-template-columns:1.35fr 1fr;gap:2vw;height:100%;align-items:center}
+.mapa svg{width:100%;height:auto}
+.leyenda{display:flex;flex-direction:column;gap:.45vw;font-size:.95em}
+.leyenda div{display:flex;gap:.6vw;align-items:baseline}
+.leyenda i{width:.9vw;height:.9vw;border-radius:50%;flex:none;transform:translateY(.1vw)}
+.leyenda b{white-space:nowrap}
+.leyenda span{color:var(--suave)}
+.hoy{color:var(--alerta);font-weight:800}
+</style>
+</head>
+<body>
+<header>
+  <div class="marca">Despacho <b>Dip. Leconte</b></div>
+  <h1 id="titulo">Panel legislativo</h1>
+  <div class="reloj"><div class="hora" id="hora">--:--</div><div class="fecha" id="fecha"></div></div>
+</header>
+<main id="main"></main>
+<footer>
+  <div class="cot" id="cot"></div>
+  <div class="puntos" id="puntos"></div>
+  <div class="act" id="act"></div>
+</footer>
+<div class="barra" id="barra"></div>
+
+<script>
+// ?t=25 cambia los segundos por pantalla; ?s=mapa deja fija una sección.
+const P = new URLSearchParams(location.search);
+const SEG = +(P.get('t') || 20);
+const FIJA = P.get('s');
+const TZ = 'America/Argentina/Buenos_Aires';
+let BASE = {}, LIVE = {};
+
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmtN = n => n == null ? '–' : Number(n).toLocaleString('es-AR', {maximumFractionDigits: 0});
+const hoyISO = () => new Date().toLocaleDateString('en-CA', {timeZone: TZ});
+const fechaCorta = iso => { const [a,m,d] = iso.split('-'); return `${d}/${m}`; };
+const diaNombre = iso => new Date(iso + 'T12:00:00').toLocaleDateString('es-AR', {weekday:'long', day:'numeric', month:'long'});
+const haceDias = iso => (new Date(hoyISO()) - new Date(iso)) / 864e5;
+const trozos = (arr, n) => { const o = []; for (let i = 0; i < arr.length; i += n) o.push(arr.slice(i, i + n)); return o.length ? o : [[]]; };
+const fechaRss = s => { const d = new Date(s); return isNaN(d) ? '' : d.toLocaleString('es-AR', {timeZone: TZ, day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit'}); };
+
+function chipEstado(e) {
+  const t = (e || '').toLowerCase();
+  const c = t.includes('aprob') ? 'apro' : t.includes('prefer') ? 'pref' : t.includes('ingres') ? 'ing' : 'com';
+  return `<span class="chip ${c}">${esc(e)}</span>`;
+}
+
+// ---------------------------------------------------------------- secciones
+const SECCIONES = [
+  {id:'proyectos', titulo:'Proyectos del Dip. Leconte', paginas() {
+    const est = LIVE.expedientes || {};
+    const lista = [...BASE.proyectos];
+    for (const [n, r] of Object.entries(est)) if (r.nuevo && !lista.find(p => p.expte === n))
+      lista.unshift({expte:n, tipo:r.tipo, tema:r.asunto, comision:r.comision, estado:'Ingresado'});
+    const recientes = lista.filter(p => est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7);
+    const apro = lista.filter(p => /aprob/i.test(p.estado)).length;
+    const resumen = `<div class="resumen">
+      <div class="kpi"><b>${lista.length}</b><span>presentados</span></div>
+      <div class="kpi"><b>${apro}</b><span>aprobados</span></div>
+      <div class="kpi"><b>${lista.filter(p=>/ley/i.test(p.tipo)).length}</b><span>proyectos de ley</span></div>
+      <div class="kpi"><b>${recientes.length}</b><span>con movimiento esta semana</span></div></div>`;
+    const ficha = p => {
+      const r = est[p.expte] || {};
+      const cambio = r.cambio && haceDias(r.cambio) <= 7;
+      return `<div class="proy ${cambio ? 'cambio' : ''}"><div class="n">${p.expte.replace(/(\d{2})(\d{3})/, '$1.$2')}</div>
+        <div class="t">${esc(p.tema)}</div>
+        <div class="e">${p.tipo} · ${esc(p.comision === 'Sin asignar' && r.comision ? r.comision : p.comision)} · ${chipEstado(p.estado)}
+        ${cambio ? ` <span class="chip cambio">Cambió el ${fechaCorta(r.cambio)}</span>` : ''}</div></div>`;
+    };
+    const orden = [...recientes, ...lista.filter(p => !recientes.includes(p))];
+    return trozos(orden, 10).map((g, i) => (i === 0 ? resumen : '') + `<div class="grilla">${g.map(ficha).join('')}</div>`);
+  }},
+
+  {id:'od', titulo:'Orden del día · Diputados de Corrientes', paginas() {
+    const od = LIVE.hcd_od; if (!od) return [`<div class="vacio">Sin datos del orden del día.</div>`];
+    const sub = `<div class="sub">${esc(od.titulo)} · ${od.asuntos.length} asuntos${od.asuntos.some(a=>a.leconte) ? ' · en violeta, los del Dip. Leconte' : ''}</div>`;
+    const orden = [...od.asuntos.filter(a => a.leconte), ...od.asuntos.filter(a => !a.leconte)];
+    return trozos(orden, 5).map(g => sub + `<div class="lista">${g.map(a => `
+      <div class="item ${a.leconte ? 'destacado' : ''}"><div class="org">${esc(a.item)} · ${esc(a.seccion)}${a.expte ? ' · Expte. ' + a.expte.replace(/(\d{2})(\d{3})/, '$1.$2') : ''}</div>
+      <div class="det">${esc(a.texto.length > 230 ? a.texto.slice(0, 225).replace(/\s\S*$/, '') + '…' : a.texto)}</div>${a.autores ? `<div class="meta">${esc(a.autores)}</div>` : ''}</div>`).join('')}</div>`);
+  }},
+
+  {id:'comisiones', titulo:'Comisiones y sesiones en Corrientes', paginas() {
+    const dias = ['lunes','martes','miércoles','jueves','viernes'];
+    const hoy = new Date().toLocaleDateString('es-AR', {weekday:'long', timeZone: TZ});
+    const filas = BASE.comisiones.slice().sort((a,b) => dias.indexOf(a.dia) - dias.indexOf(b.dia) || a.hora.localeCompare(b.hora));
+    const tabla = d => filas.filter(c => c.dia === d).map(c => `<tr><td>${c.hora}</td><td>${c.leconte ? '<b style="color:var(--acento)">' : ''}${esc(c.nombre)}${c.leconte ? ' · Leconte</b>' : ''}</td><td class="p">${c.preside ? 'Preside ' + esc(c.preside) : ''}</td></tr>`).join('');
+    const sen = (LIVE.senado_corrientes || []).map(o => `<tr><td>${fechaCorta(o.fecha)}</td><td>Senado · Orden del día N.º ${o.numero}</td></tr>`).join('');
+    const hcd = LIVE.hcd_od ? `<tr><td>${esc(LIVE.hcd_od.rotulo.split(' ')[0].slice(0,5))}</td><td>Diputados · ${esc(LIVE.hcd_od.rotulo.replace(/^\S+\s*-?\s*/, ''))}</td></tr>` : '';
+    const notis = (LIVE.hcd_noticias || []).slice(0, 4).map(n => `<div class="item"><div class="det">${esc(n.titulo)}</div><div class="meta">${fechaRss(n.fecha)}</div></div>`).join('');
+    return [
+      `<div class="dos"><div class="col"><h2>Martes ${hoy === 'martes' ? '<span class="hoy">· hoy</span>' : ''}</h2><table class="tabla">${tabla('martes')}</table></div>
+       <div class="col"><h2>Miércoles ${hoy === 'miércoles' ? '<span class="hoy">· hoy</span>' : ''}</h2><table class="tabla">${tabla('miércoles')}</table>
+       <h2 style="margin-top:1.2vw">Lunes</h2><table class="tabla">${tabla('lunes')}</table></div></div>`,
+      `<div class="dos"><div class="col"><h2>Últimas sesiones con orden del día</h2><table class="tabla">${hcd}${sen}</table></div>
+       <div class="col"><h2>Novedades de la Cámara</h2><div class="lista">${notis}</div></div></div>`
+    ];
+  }},
+
+  {id:'congreso', titulo:'Congreso de la Nación · agenda', paginas() {
+    const sen = LIVE.senado_nacion || [];
+    const dip = LIVE.diputados_nacion || {items: []};
+    const hoy = hoyISO();
+    const senHtml = sen.length ? `<table class="tabla">${sen.slice(0, 12).map(e => `<tr><td>${e.fecha === hoy ? '<span class="hoy">Hoy</span>' : fechaCorta(e.fecha)}</td><td>${esc(e.evento)}</td></tr>`).join('')}</table>` : '<div class="vacio">Sin actividad publicada.</div>';
+    const dipHtml = dip.items.length ? `<div class="lista">${dip.items.slice(0, 10).map(t => `<div class="item"><div class="det">${esc(t)}</div></div>`).join('')}</div>` : `<div class="vacio">${esc(dip.mensaje || 'Sin reuniones publicadas.')}</div>`;
+    return [`<div class="dos"><div class="col"><h2>Senado · próximos 14 días</h2>${senHtml}</div><div class="col"><h2>Diputados · comisiones</h2>${dipHtml}</div></div>`];
+  }},
+
+  {id:'bo', titulo:'Boletín Oficial de la Nación', paginas() { return paginasBO(LIVE.bo_nacional, 'boletinoficial.gob.ar · primera sección'); }},
+  {id:'boctes', titulo:'Boletín Oficial de Corrientes', paginas() { return paginasBO(LIVE.bo_corrientes, 'boletinoficial.corrientes.gob.ar'); }},
+
+  {id:'presidente', titulo:'Presidente Javier Milei', paginas() {
+    const p = LIVE.presidente || {};
+    const notas = (p.noticias || []).slice(0, 7).map(n => `<div class="item"><div class="org">${esc(n.fuente)} · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div></div>`).join('');
+    const disc = (p.discursos || []).slice(0, 5).map(n => `<div class="item"><div class="org">Casa Rosada · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div></div>`).join('');
+    return [`<div class="dos"><div class="col"><h2>Sus publicaciones en X, según los medios (24 h)</h2><div class="lista">${notas || '<div class="vacio">Sin notas.</div>'}</div></div>
+      <div class="col"><h2>Discursos y anuncios oficiales</h2><div class="lista">${disc}</div></div></div>`];
+  }},
+
+  {id:'noticias', titulo:'Noticias de Corrientes', paginas() {
+    const n = LIVE.noticias || [];
+    return trozos(n, 7).map(g => `<div class="lista">${g.map(i => `<div class="item"><div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div></div>`).join('')}</div>`);
+  }},
+
+  {id:'mapa', titulo:'Cámara de Diputados de Corrientes', paginas() { return [mapa()]; }},
+];
+
+function paginasBO(bo, fuente) {
+  if (!bo || !bo.items?.length) return [`<div class="vacio">Sin publicaciones disponibles.</div>`];
+  const sub = bo.modo === 'noticias'
+    ? `<div class="sub">El sitio del Boletín no respondió: se muestran las noticias sobre normas publicadas.</div>`
+    : `<div class="sub">Edición del día · ${fuente}</div>`;
+  return trozos(bo.items, 7).slice(0, 4).map(g => sub + `<div class="lista">${g.map(i => `<div class="item"><div class="org">${esc(i.organismo)}</div><div class="det">${esc(i.detalle)}</div></div>`).join('')}</div>`);
+}
+
+function mapa() {
+  const orden = BASE.partidos.map(p => p.nombre);
+  const color = Object.fromEntries(BASE.partidos.map(p => [p.nombre, p.color]));
+  const dips = BASE.diputados.slice().sort((a, b) => (orden.indexOf(a.partido) - orden.indexOf(b.partido)) || a.apellido.localeCompare(b.apellido));
+  // hemiciclo: 4 filas (6, 7, 8 y 9 bancas); se ordenan por ángulo y se asignan de izquierda a derecha
+  const filas = [{r: 120, n: 6}, {r: 168, n: 7}, {r: 216, n: 8}, {r: 264, n: 9}];
+  const asientos = [];
+  for (const f of filas) for (let i = 0; i < f.n; i++) {
+    const a = Math.PI - (Math.PI * (i + .5) / f.n);
+    asientos.push({x: 300 + f.r * Math.cos(a), y: 290 - f.r * Math.sin(a), a});
+  }
+  asientos.sort((p, q) => q.a - p.a);
+  const rep = a => dips.filter(x => x.apellido === a).length > 1;
+  const abrev = d => rep(d.apellido) ? d.nombre[0] + '.' + d.apellido.slice(0, 3) : d.apellido.split(' ')[0].slice(0, 4);
+  const circ = asientos.map((s, i) => {
+    const d = dips[i]; const lla = d.partido === 'La Libertad Avanza';
+    return `<g><circle cx="${s.x.toFixed(1)}" cy="${s.y.toFixed(1)}" r="20" fill="${color[d.partido] || '#666'}" stroke="${lla ? '#fff' : '#0b1220'}" stroke-width="${lla ? 4 : 2}"/>
+      <text x="${s.x.toFixed(1)}" y="${(s.y + 5).toFixed(1)}" text-anchor="middle" font-size="10.5" font-weight="700" fill="#fff" style="paint-order:stroke;stroke:#0009;stroke-width:3px">${esc(abrev(d))}</text></g>`;
+  }).join('');
+  const grupos = orden.map(p => ({p, ds: dips.filter(d => d.partido === p)})).filter(g => g.ds.length);
+  const ley = grupos.map(g => `<div><i style="background:${color[g.p]}"></i><b>${esc(g.p)} (${g.ds.length})</b><span>${g.ds.map(d => esc(d.apellido)).join(', ')}</span></div>`).join('');
+  return `<div class="mapa"><svg viewBox="0 0 600 310"><text x="300" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#e8edf6">30 bancas</text>${circ}</svg><div class="leyenda">${ley}</div></div>`;
+}
+
+// ---------------------------------------------------------------- rotación
+let cola = [], pos = -1, temporizador;
+function armarCola() {
+  cola = [];
+  const secs = FIJA ? SECCIONES.filter(s => s.id === FIJA) : SECCIONES;
+  for (const s of secs) {
+    let pags; try { pags = s.paginas(); } catch (e) { console.error(s.id, e); pags = [`<div class="vacio">Sin datos.</div>`]; }
+    pags.forEach((html, i) => cola.push({s, html, i, n: pags.length}));
+  }
+}
+function mostrar(delta = 1) {
+  if (!cola.length) return;
+  pos = (pos + delta + cola.length) % cola.length;
+  const c = cola[pos];
+  const main = document.getElementById('main');
+  const nueva = document.createElement('div');
+  nueva.className = 'pagina'; nueva.innerHTML = c.html;
+  main.appendChild(nueva);
+  requestAnimationFrame(() => nueva.classList.add('visible'));
+  [...main.children].slice(0, -1).forEach(v => { v.classList.remove('visible'); setTimeout(() => v.remove(), 900); });
+  document.getElementById('titulo').textContent = c.s.titulo + (c.n > 1 ? ` (${c.i + 1}/${c.n})` : '');
+  if (c.s.alMostrar) setTimeout(c.s.alMostrar, 50);
+  const secs = [...new Set(cola.map(x => x.s.id))];
+  document.getElementById('puntos').innerHTML = secs.map(id => `<i class="${id === c.s.id ? 'on' : ''}"></i>`).join('');
+  const barra = document.getElementById('barra');
+  barra.style.transition = 'none'; barra.style.width = '0';
+  requestAnimationFrame(() => requestAnimationFrame(() => { barra.style.transition = `width ${SEG}s linear`; barra.style.width = '100%'; }));
+  clearTimeout(temporizador); temporizador = setTimeout(() => mostrar(1), SEG * 1000);
+}
+document.addEventListener('keydown', e => {
+  if (e.key === 'ArrowRight') mostrar(1);
+  if (e.key === 'ArrowLeft') mostrar(-1);
+});
+
+function pie() {
+  const d = LIVE.dolar || [];
+  const nombre = {'Oficial':'Oficial','Blue':'Blue','Bolsa':'MEP','Contado con liquidación':'CCL','Mayorista':'Mayorista'};
+  const rp = LIVE.riesgo_pais;
+  document.getElementById('cot').innerHTML = d.filter(x => x.casa !== 'Mayorista').map(x => `<div><span>Dólar ${nombre[x.casa] || x.casa}</span><b>$ ${fmtN(x.venta)}</b></div>`).join('')
+    + (rp ? `<div class="rp"><span>Riesgo país</span><b>${fmtN(rp.valor)} pb</b></div>` : '');
+  if (LIVE.actualizado) document.getElementById('act').textContent = 'Datos: ' + new Date(LIVE.actualizado).toLocaleString('es-AR', {timeZone: TZ, day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit', hourCycle:'h23'});
+}
+function reloj() {
+  const n = new Date();
+  document.getElementById('hora').textContent = n.toLocaleTimeString('es-AR', {timeZone: TZ, hour:'2-digit', minute:'2-digit', hourCycle:'h23'});
+  const f = n.toLocaleDateString('es-AR', {timeZone: TZ, weekday:'long', day:'numeric', month:'long'});
+  document.getElementById('fecha').textContent = f[0].toUpperCase() + f.slice(1);
+}
+
+async function cargar() {
+  const v = '?v=' + Date.now();
+  try {
+    const [b, l] = await Promise.all([fetch('data/base.json' + v).then(r => r.json()), fetch('data/live.json' + v).then(r => r.json())]);
+    BASE = b; LIVE = l;
+  } catch (e) { console.error('No se pudieron leer los datos', e); }
+  pie();
+  const actual = cola[pos]?.s.id;
+  armarCola();
+  if (actual) pos = Math.max(0, cola.findIndex(c => c.s.id === actual));
+}
+
+reloj(); setInterval(reloj, 10000);
+cargar().then(() => mostrar(1));
+setInterval(cargar, 10 * 60 * 1000);           // datos nuevos cada 10 minutos
+setTimeout(() => location.reload(), 6 * 3600e3); // recarga completa cada 6 horas
+</script>
+</body>
+</html>

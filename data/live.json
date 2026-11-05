@@ -1,0 +1,1005 @@
+{
+ "dolar": [
+  {
+   "casa": "Oficial",
+   "compra": 1520,
+   "venta": 1570
+  },
+  {
+   "casa": "Blue",
+   "compra": 1540,
+   "venta": 1560
+  },
+  {
+   "casa": "Bolsa",
+   "compra": 1575.7,
+   "venta": 1588.6
+  },
+  {
+   "casa": "Contado con liquidación",
+   "compra": 1676.7,
+   "venta": 1680.4
+  },
+  {
+   "casa": "Mayorista",
+   "compra": 1537,
+   "venta": 1546
+  }
+ ],
+ "riesgo_pais": {
+  "valor": 852,
+  "fecha": "2026-11-04"
+ },
+ "bo_nacional": {
+  "modo": "noticias",
+  "items": [
+   {
+    "organismo": "El Litoral",
+    "detalle": "Oficializaron la renuncia del cuarto médico presidencial de la gestión de Javier Milei",
+    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOU21Kb2lsTHdDQmZnd1I0NjVQdlFFM2sxNDZia1RtTGtWQjI0emp5MmU0ZVJqVmplaXd5TU1QUEVGVzhhakUzdXI1VWlHdTVCVUlDN1dpYlhkNUVxY0JOUVcyd3FtRFZkaTBQNXBSN2VzVEFuWjY3VnNWaHJxc045bF9oZkRLVXc0Q1E4QzQyTG1saVVRUGNxYTFPSUtIN0RYaXdqNTl1aldNZUF6cjdRc1N6TzJFX2xUSUhSV2lhZHZYbUJsR3F3SE4zUFRJVVA4bXhvZHZSWlBiVUdWWlRrNmdPbkZRdnpqb2M3TnllelBmbUhBRzRFdjJxQkdRRFN2N2p2TzF4QmtsNEFFZV9OSzBaOGRBcC1OTXpOckpxdw?oc=5"
+   },
+   {
+    "organismo": "Instagram",
+    "detalle": "➡ Ante la afectación de los servicios digitales provinciales, por Resolución N° 833/2026, publicada en el Boletín Oficial N° 13.058, se dispuso la suspensión de los plazos administrativos en el ámbito del Ministerio de Gobierno, Justicia, Seguridad y Trabajo y",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43clh6V3dhdnlpUkNlbkJVVzZfa3NMU1BqQmtXMjZqUVJISzRGYVUzdWt6SS12ZzNrWFh6cjBsVk02T0luSjhXREZNbkY5NjRjZ2c?oc=5"
+   },
+   {
+    "organismo": "Perfil",
+    "detalle": "El gobierno oficializó la suspensión de embargos de ARCA para pymes: quiénes pueden acceder",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejFxRVR3T1JhbUg3cmgxcTVUYlRNdzlsOFRsbXZtZUMzSHV3S3ZvclZKTWdjUEw5RVBFQjh6Uy1tdzRpSkRSMi1ZV3JKYi1pOWR1REJmXzYxbUxEdzFBOFpLb3F1WTZZc1ZQUTNZZERVVDVKUjlQcFlJMzdvb2dyUWRTWXRPR1ZlWF9xMGktQm5RdmR2U2s1Ykx5TTFDSWE0Xzlsc0szZS14RkhkX3NabG9wM2hyRjlaS0V0Wk9VMkxFZjJRbjg0dTlkRGJwVHEw?oc=5"
+   },
+   {
+    "organismo": "Alerta Digital",
+    "detalle": "ARCA: oficializan la suspensión de juicios fiscales y nuevos embargos a pymes hasta el 30 de junio de 2027",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPejdBQW91azVWVGFSSTBXdmEweVVFNjVJSDBBX1N2YzU0WTc2ZzRMRWQxZzAtb1BiNThiRzBKYi11Y1FFQlFrQ2lPRFh6U2R3aGpmbzVwdDI1WE1JbndlU3RsdlhfOVg1UXh5cFV0UEdBZ1F6SllxaDJFQzhtX291Q292ZUJZVnd3aXd6ZkhvVU1STFp3clpSV0F2WlZFNTktM2cwQ09LemhEeTNYY25SNkdURVRMbUQ4Vl9Xbjl4ZlZ2MFBhWmlmR3Zzdk1BUWYyRnpuZDM4bnFQR1M1bldaS1d5Rk1NWEJ2clBWc3ZubGhrLW_SAfgBQVVfeXFMT05IdVFHME9sZG5QN2VqTlkySlRzd0pONFV3QS1IcW9Fd19VcklZd2toMnY3alhxZE11VFBOOFBDVllZbnNzbWlEcEpyYU5yendNVzIwWWxISWJqVGZUYWoxWHR4d3VtUV8zeWJRcGFaVUl0cUkyR0JweG9sZ21DaGtfaXBNeDB6QUV2S2JpdGVYMHgwVGJOb2ZXNkYwOGx3TUw5VGxrQXJLcUhqdlRlV0lvNlk5RDg2SEI2TW5tV2NLMmxxVTVNSFlSTzBjOFE2aFp6NElsLWRPcjBIR2lxZFNSbmJLb25sdFh4N1BwRmVQVWxpNFhlSFU?oc=5"
+   },
+   {
+    "organismo": "Chacabuco en Red",
+    "detalle": "Boletín Oficial de Chacabuco: viviendas, ambulancia, salud, basural y contrataciones por millones de pesos",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWU1vYmdZSVdiSFU5MU1FNU9YODJWTThmMmVaOUd6ZExhWUVxZnNpeU5wdjRFdUtXeGNaMS1VOW12R1ZraTAwS1VrTEFkOTEzM29XT1J5bmEybVpac093cHNYUWFOMktIQ3gwUmFwYVFxcHpYbUE1b2d4MnRESzc0WkxZT05KMV85clIwaUxNNUtnQlhZZno5bk9TSUxNdXFEUTJlQzlGMUtOTmM4d2l1cXROcWFXWi1HY0NFZGpYcFlCUERhY0tzbTJ3?oc=5"
+   },
+   {
+    "organismo": "Radio Estación 102.5",
+    "detalle": "Definiciones en el Gabinete y nuevas normas en el Boletín Oficial",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRGlkZHl3YXVGMEFEMUEzR19vdzY2NFZ6Q1RWdm1neGRxTng1Sko1TTVYV08zaVo5eHliVHdIVUFXZ1luSlR3WmhJRmwzZGVwY3hDOE1UMnhiM3pGdkttRVFiVFk1Q2NUVGlkcXFzUE5YdVA3ekdRQXF5eWlnNG4tNE11czlTRnNIbTliMGlqTlNCVDU5QjNuQTdqOVpSY042?oc=5"
+   },
+   {
+    "organismo": "NOVA Bonaerense",
+    "detalle": "Morón: ocultan los anexos del Boletín Oficial y la jefa de Gabinete reacciona con autoritarismo",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlFLQW0zRi13QkstcG5lOENCSXo5MURkVmxYYm9Yb0YwQkVNS2prVFZ0VXdveTJraEo5VmRHOE01QlhsLUlWQkdzYi1od252WUE3M2w3VU9pekI3c3FoU3JzTUhUN0pGQkdZWms0SmRJRXFOSHVyOURURE1ZandGMlpB?oc=5"
+   },
+   {
+    "organismo": "Instagram",
+    "detalle": "El Ministerio de Seguridad Nacional estableció una recompensa de $10 millones por información que permita detener a los sospechosos del asesinato de Brenda del Castillo, Morena Verdi y Lara Gutiérrez. La medida fue oficializada mediante una resolució",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1palpoRmFrbDk2bXVJektGVy1PUk9YV042YjhZU19YdGRpYXIxNVo5WURVTkx6OVhHTWZVeUstTFlBS2xDV3NzSnV1bXZOUEVQcXc?oc=5"
+   }
+  ]
+ },
+ "bo_corrientes": {
+  "modo": "noticias",
+  "items": [
+   {
+    "organismo": "El Litoral | Novedades de Corrientes",
+    "detalle": "Renatre oficializó el incremento en la Prestación por Desempleo para trabajadores rurales",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX3pEVFBkaGdkalBBOUdOUk45VFZsRWlLdVhkaURKcmN6Y3NqQlhjYklRNm1aOUUzeWM5YUJHVkxvWjNKRWZ4TFhKS3lRU05TWEtCVEJaelQzRElwdWJCNFA4YmV5dUU4d2dGVC01TzV4TklLdzhLejNhRjhTel9KSEM0WnZDYzdjNHpIUnAxVFJ6ZFBvd3FMNzk5cWotM1pTdk9RR1pEeXpGTXBFZi1YUHplWWZpVThhX3c4ZDJoVTc5UDdNVFJNNUtPUHM2SlphMHZaYW5jR2kyb0xJ?oc=5"
+   },
+   {
+    "organismo": "Impacto Corrientes",
+    "detalle": "Mientras impulsa retiros voluntarios, el Gobierno oficializó a más de 50 funcionarios",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVWZGMzhMRWIzM21fLTlCTE9ZRHY2M05XRTBhYkRGRXlfV0lzUmhBNU9IYjBrWDhXZm5wWGVDdzAwMXcyc0dIYVl5NWU3MzhKRC12MXhoa0IxdV9rT3NyLTV3djdVLVkxS0VBNjVOYUQ3dm5VR3pXWGZEYXRsSG56YXQ0UkdNUlFmaF8yVGtoaUFtM3JLcHNmVzkwa1NRNnVNWjhtZGpTT0s4bko1bGpxSVFNRXVmaVlQd1pDVlJaTkFvN1BCMDYyWVJNZHdvUGVOQXNjWG91ekIwQloxNmw0cWowcmRZSVdt?oc=5"
+   }
+  ]
+ },
+ "senado_nacion": [
+  {
+   "fecha": "2026-11-06",
+   "evento": "Jujuy brilla en el Senado"
+  },
+  {
+   "fecha": "2026-11-06",
+   "evento": "Ceremonia de entrega de la Mención de Honor al Valor Científico"
+  },
+  {
+   "fecha": "2026-11-17",
+   "evento": "Audiencia Pública de la Comisión de Acuerdos"
+  },
+  {
+   "fecha": "2026-11-18",
+   "evento": "Audiencia Pública de la Comisión de Acuerdos"
+  }
+ ],
+ "diputados_nacion": {
+  "mensaje": "Sin reuniones de comisión programadas por el momento.",
+  "items": []
+ },
+ "hcd_od": {
+  "titulo": "18ª Sesión Ordinaria del 28 de octubre de 2026 – Hora 11",
+  "rotulo": "28/10/2026 - 18ª - S.O.",
+  "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/10/Ordinaria-28-10-26.pdf",
+  "informe": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/10/Informe-28-10-26.pdf",
+  "asuntos": [
+   {
+    "item": "a.01",
+    "seccion": "Comunicaciones oficiales",
+    "expte": "",
+    "texto": "Superior Tribunal de Justicia remite Acuerdo Extraordinario N° 6/26, referente al anteproyecto de Presupuesto del Poder Judicial de la Provincia de Corrientes para el ejercicio 2027 (preliminar) y sus proyecciones para los ejercicios 2028 y 2029; y Acuerdo Extraordinario N° 7/26, referente a los ant",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "a.02",
+    "seccion": "Comunicaciones oficiales",
+    "expte": "",
+    "texto": "Honorable Senado comunica la sanción definitiva de los proyectos de ley: 6762 -Declara “Fiesta Provincial del Asado Criollo y Concurso de Asadores” a la que se realiza anualmente en el mes de noviembre, en la ciudad de Goya.-; 6763 -Declara Monumento Histórico e integrante del Patrimonio Cultural al",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.01",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20542",
+    "texto": "Carrera y Escalafón Sanitario de la Provincia de Corrientes.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.02",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20550",
+    "texto": "Creación del Programa Provincial “Mi Mérito, Mi Orgullo”.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.03",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20562",
+    "texto": "Crea el Museo “General Manuel Belgrano” en la ciudad de Curuzú Cuatiá.",
+    "autores": "Dip. Benítez E.",
+    "leconte": false
+   },
+   {
+    "item": "d.04",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20570",
+    "texto": "Regulación de la Actividad Productiva de Engorde Intensivo de Animales a Corral.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.05",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20535",
+    "texto": "Solicita al Poder Ejecutivo que informe sobre la aplicación de la ley nacional 26737 de Régimen de Protección al Dominio Nacional sobre la Propiedad, Posesión o Tenencia de las Tierras Rurales.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.06",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20536",
+    "texto": "Solicita al Poder Ejecutivo que informe sobre el choque de una barcaza de bandera paraguaya contra el pilote N° 5 del Puente General Belgrano, luego de que por decreto nacional 690/2026 se flexibilizaron las normas de navegación y practicaje.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.07",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20537",
+    "texto": "Solicita al Poder Ejecutivo que informe el plan de contingencia y contención por la abrupta caída del empleo formal y la cantidad de cierres de negocios en la provincia de Corrientes.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.08",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20539",
+    "texto": "Interpelar al Ministro de Seguridad y a la Ministra de Educación respecto a los procedimientos llevados adelante ante la desaparición de la docente rural Nanci Estela Godoy.",
+    "autores": "Dips. Aparicio, Gauna, Gortari, Lezcano y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.09",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20541",
+    "texto": "Solicita al Poder Ejecutivo que informe sobre el régimen de mantenimiento edilicio de las escuelas rurales de la provincia y la situación particular de la Escuela Primaria Común Nº 626 del paraje El Malezal, departamento de Esquina.",
+    "autores": "Dip. Cassani.",
+    "leconte": false
+   },
+   {
+    "item": "d.10",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20543",
+    "texto": "Insta al Poder Ejecutivo a reglamentar la ley 6309 -Actividad Turística en la Provincia de Corrientes-.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.11",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20544",
+    "texto": "Solicita al Ministerio de Seguridad Nacional la cooperación federal en la búsqueda de la docente Nanci Estela Godoy.",
+    "autores": "Dips. Almirón, Aparicio, Canteros, Fernández Recalde, Gauna, Gortari, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.12",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20545",
+    "texto": "Solicita al Poder Ejecutivo que informe sobre los establecimientos educativos rurales de gestión estatal de la Provincia.",
+    "autores": "Dips. Almirón, Aparicio, Canteros, Fernández Recalde, Gauna, Gortari, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.13",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20547",
+    "texto": "Solicita al Poder Ejecutivo que informe sobre la situación laboral y administrativa de la docente Nanci Estela Godoy, el funcionamiento de la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina y las actuaciones administrativas referidas a ese establecimiento.",
+    "autores": "Dips. Almirón, Aparicio, Canteros, Fernández Recalde, Gauna, Gortari, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.14",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20551",
+    "texto": "Solicita al Poder Ejecutivo que incorpore partidas en el Presupuesto 2027 para la construcción del edificio propio del Instituto Superior de Formación Docente de Gobernador Virasoro.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.15",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20552",
+    "texto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.16",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20553",
+    "texto": "Solicita al Poder Ejecutivo que informe sobre los hechos ocurridos en torno a la detención y custodia del ciudadano Ernesto Ezequiel Bordón.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.17",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20554",
+    "texto": "Solicita al Poder Ejecutivo un informe sobre la situación de revista y condiciones laborales de los docentes en cargos directivos de establecimientos de educación rural de la Provincia.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.18",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20558",
+    "texto": "Solicita al Poder Ejecutivo que cree e implemente un programa extraordinario de asistencia financiera y económica para pequeños productores de zonas costeras y áreas insulares del río Paraná damnificados por las inundaciones.",
+    "autores": "Dip. Gauna.",
+    "leconte": false
+   },
+   {
+    "item": "d.19",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20559",
+    "texto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.20",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20560",
+    "texto": "Solicita al Poder Ejecutivo que informe sobre las condiciones de los establecimientos educativos rurales clasificados como zonas inhóspitas o muy inhóspitas, con especial referencia a la Escuela Rural Nº 626 del paraje El Malezal, departamento de Esquina.",
+    "autores": "Dip. Leconte.",
+    "leconte": true
+   },
+   {
+    "item": "d.21",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20561",
+    "texto": "Solicita al Poder Ejecutivo un informe sobre la habilitación, fiscalización y protocolos de seguridad perimetral en predios rurales colindantes a la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina.",
+    "autores": "Dip. Leconte.",
+    "leconte": true
+   },
+   {
+    "item": "d.22",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20571",
+    "texto": "Solicita al Poder Ejecutivo que arbitre los medios necesarios para la instalación de un puesto de control del PRIAR (Policía Rural e Islas y Ambiente Rural) en la localidad de Carlos Pellegrini.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.23",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20572",
+    "texto": "Solicita al Ministerio de Educación un informe sobre las medidas adoptadas por los hechos acontecidos en la Escuela Nº 563 “Domingo Sarmiento” de la localidad de Carlos Pellegrini.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.24",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20575",
+    "texto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+    "autores": "Dips. Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.25",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20531",
+    "texto": "De beneplácito e interés la jornada de capacitación docente “Algunos irrenunciables educativos para el nivel inicial: Reflexiones y acciones que constituyen oportunidades” a cargo de la Lic. Laura E. Pitluk, organizada por el Instituto Superior “Daniel Lesteime” en articulación con la Fundación Ágor",
+    "autores": "Dip. Méndez Vernengo.",
+    "leconte": false
+   },
+   {
+    "item": "d.26",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20532",
+    "texto": "De beneplácito e interés el acto conmemorativo del 235° aniversario de la Primera Radicación Histórica de Goya, organizado por la Municipalidad de Goya.",
+    "autores": "Dip. Méndez Vernengo.",
+    "leconte": false
+   },
+   {
+    "item": "d.27",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20533",
+    "texto": "De beneplácito e interés el documental histórico de la ciudad de Goya, denominado “Goya, entre el río y la historia”, impulsado por la Municipalidad.",
+    "autores": "Dip. Méndez Vernengo.",
+    "leconte": false
+   },
+   {
+    "item": "d.28",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20534",
+    "texto": "De interés el 145º aniversario de la fundación de Sauce.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.29",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20538",
+    "texto": "De interés la charla “Inteligencia Artificial y Tecnologías aplicadas a la Ganadería”, en la ciudad de Corrientes. Bloque Partido Popular.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.30",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20540",
+    "texto": "De interés la 60ª edición de la Fiesta Nacional del Folclore Correntino, bajo el lema “Custodios del primer sapucay”, en el anfiteatro Genaro Berón de Astrada, de la ciudad de Santo Tomé. Bloque Partido Liberal.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.31",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20546",
+    "texto": "De interés la Muestra Técnica 2026 “Uniendo saberes, forjando futuro”, de la Escuela Técnica “Valentín Virasoro” de la ciudad de Goya.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.32",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20548",
+    "texto": "De interés la Jornada de Capacitación “Nuevas modalidades de las violencias y sus diferentes abordajes”, en el Anexo de la Honorable Cámara de Diputados de Corrientes.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.33",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20549",
+    "texto": "De interés la trayectoria institucional de trabajo en salud mental y educación emocional desarrollada por la Escuela Normal “Ramón J. Cárcano” de la ciudad de Monte Caseros.",
+    "autores": "Dip. Calvano.",
+    "leconte": false
+   },
+   {
+    "item": "d.34",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20555",
+    "texto": "De interés las Terceras Jornadas de la Red de Leche Humana y Lactancia de la Provincia de Corrientes, bajo el lema: Ciencia, solidaridad y trabajo en red para fortalecer la lactancia humana y la donación de leche humana. Bloque Partido Popular.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.35",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20556",
+    "texto": "De interés el agasajo a realizarse el 6 de noviembre en el marco del 41º aniversario del Hospital Geriátrico “Juana F. Cabral”. Bloque Partido Popular.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.36",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20557",
+    "texto": "De interés el 13º desafío Paso Timboy “Huellas”, en la ciudad de Monte Caseros. Bloque Partido Popular.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.37",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20563",
+    "texto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.38",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20564",
+    "texto": "De interés las actividades en conmemoración del Día de la Educación Física.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.39",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20565",
+    "texto": "De interés y reconocimiento para el deportista correntino Jeremías José Fisch, oriundo de la ciudad de Ituzaingó, por su destacada participación en el Campeonato Mundial de la WKF (World Kickboxing Federation) desarrollado en Cartagena de Indias, República de Colombia.",
+    "autores": "Dip. Lazaroff Pucciariello.",
+    "leconte": false
+   },
+   {
+    "item": "d.40",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20566",
+    "texto": "De interés la “Fiesta de San Cirilo”, en la Estancia San Cirilo, del departamento de General Paz.",
+    "autores": "Dip. Lazaroff Pucciariello.",
+    "leconte": false
+   },
+   {
+    "item": "d.41",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20567",
+    "texto": "De interés los actos y festejos por la celebración de “Ángeles Somos” en las distintas localidades de la Provincia.",
+    "autores": "Dip. Lazaroff Pucciariello.",
+    "leconte": false
+   },
+   {
+    "item": "d.42",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20568",
+    "texto": "De interés la 10ª Fiesta Provincial del Búfalo, en la localidad de Caá Catí.",
+    "autores": "Dip. Lazaroff Pucciariello.",
+    "leconte": false
+   },
+   {
+    "item": "d.43",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20569",
+    "texto": "De interés y reconocimiento para Josefina Azula, oriunda de la localidad de Empedrado, quien se consagró ganadora de la medalla de oro en la Olimpíada Internacional de Matemática celebrada en la República de Colombia.",
+    "autores": "Dip. Lazaroff Pucciariello.",
+    "leconte": false
+   },
+   {
+    "item": "d.44",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20574",
+    "texto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
+    "autores": "Dips. Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.45",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20573",
+    "texto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
+    "autores": "Dips. Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
+   },
+   {
+    "item": "d.46",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20576",
+    "texto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
+    "autores": "Dips. Aparicio, Lezcano y Vidal Domínguez.",
+    "leconte": false
+   }
+  ],
+  "anteriores": [
+   {
+    "rotulo": "14/10/2026 - 17ª - S.O.",
+    "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/10/Ordinaria-14-10-26.docx.pdf"
+   },
+   {
+    "rotulo": "23/09/2026 - 16ª - S.O.",
+    "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/09/Ordinaria-23-09-26.pdf"
+   },
+   {
+    "rotulo": "16/09/2026 - 15ª - S.O.",
+    "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/09/Ordinaria-16-09-26-2.pdf"
+   }
+  ]
+ },
+ "hcd_noticias": [
+  {
+   "titulo": "Sesión 18: Media Sanción para el Plan de Prevención de la Ludopatía Online",
+   "link": "https://hcdcorrientes.gov.ar/sesion-18-media-sancion-para-el-plan-de-prevencion-de-la-ludopatia-online/",
+   "fecha": "Wed, 28 Oct 2026 17:10:37 +0000",
+   "fuente": ""
+  },
+  {
+   "titulo": "Se desarrolló la Sesión Plenaria del Parlamento Norte Grande en Corrientes",
+   "link": "https://hcdcorrientes.gov.ar/se-desarrollo-la-sesion-plenaria-del-parlamento-norte-grande-en-corrientes/",
+   "fecha": "Fri, 23 Oct 2026 16:37:20 +0000",
+   "fuente": ""
+  },
+  {
+   "titulo": "El Parlamento Norte Grande reunió a su Mesa Ejecutiva y a las distintas Comisiones",
+   "link": "https://hcdcorrientes.gov.ar/el-parlamento-norte-grande-reunio-a-su-mesa-ejecutiva-y-comisiones/",
+   "fecha": "Thu, 22 Oct 2026 21:59:10 +0000",
+   "fuente": ""
+  },
+  {
+   "titulo": "Corrientes es sede de la 60 Sesión Plenaria del Parlamento Norte Grande",
+   "link": "https://hcdcorrientes.gov.ar/corrientes-es-sede-de-la-60-sesion-plenaria-del-parlamento-norte-grande/",
+   "fecha": "Tue, 20 Oct 2026 10:26:29 +0000",
+   "fuente": ""
+  },
+  {
+   "titulo": "Sesión 17: Media sanción para la ley de campaña permanente contra la Sífilis",
+   "link": "https://hcdcorrientes.gov.ar/sesion-17-media-sancion-para-la-ley-de-campana-permanente-contra-la-sifilis/",
+   "fecha": "Wed, 14 Oct 2026 17:33:31 +0000",
+   "fuente": ""
+  },
+  {
+   "titulo": "En el día del corazón: Capacitación para personal de Diputados en Primeros auxilios y RCP",
+   "link": "https://hcdcorrientes.gov.ar/en-el-dia-del-corazon-capacitacion-para-personal-de-diputados-en-primeros-auxilios-y-rcp/",
+   "fecha": "Tue, 29 Sep 2026 15:42:20 +0000",
+   "fuente": ""
+  },
+  {
+   "titulo": "Sesión 16: Avanza el proyecto de Legajo Único Digital para la Administración Pública",
+   "link": "https://hcdcorrientes.gov.ar/sesion-16-avanza-el-proyecto-de-legajo-unico-digital-para-la-administracion-publica/",
+   "fecha": "Wed, 23 Sep 2026 15:28:21 +0000",
+   "fuente": ""
+  },
+  {
+   "titulo": "Sesión 15: Cámara de Diputados apoyó reclamo de Bomberos Voluntarios",
+   "link": "https://hcdcorrientes.gov.ar/sesion-15-la-camara-de-diputados-apoyo-reclamo-de-los-bomberos-voluntarios/",
+   "fecha": "Wed, 16 Sep 2026 16:40:16 +0000",
+   "fuente": ""
+  }
+ ],
+ "senado_corrientes": [
+  {
+   "numero": "811",
+   "fecha": "2026-10-29",
+   "pdf": "https://senadoctes.gov.ar/ordenes/2026/29-10-2026.pdf"
+  },
+  {
+   "numero": "810",
+   "fecha": "2026-10-15",
+   "pdf": "https://senadoctes.gov.ar/ordenes/2026/15-10-2026.pdf"
+  },
+  {
+   "numero": "809",
+   "fecha": "2026-10-01",
+   "pdf": "https://senadoctes.gov.ar/ordenes/2026/01-10-2026.pdf"
+  }
+ ],
+ "presidente": {
+  "discursos": [
+   {
+    "titulo": "Discurso del Presidente Javier Milei en la Noche de Celebración por Israel, en la Iglesia Visión de Futuro",
+    "link": "https://www.casarosada.gob.ar/informacion/discursos/51418-discurso-del-presidente-javier-milei-en-la-noche-de-celebracion-por-israel-en-la-iglesia-vision-de-futuro",
+    "fecha": "Tue, 03 Nov 2026 02:31:19 +0000",
+    "fuente": ""
+   },
+   {
+    "titulo": "Discurso del Presidente Javier Milei en la inauguración del nuevo auditorio de la Iglesia Evangélica Bautista Jesús es Rey, en Neuquén",
+    "link": "https://www.casarosada.gob.ar/informacion/discursos/51416-discurso-del-presidente-javier-milei-en-la-inauguracion-del-nuevo-auditorio-de-la-iglesia-evangelica-bautista-jesus-es-rey-en-neuquen",
+    "fecha": "Sun, 01 Nov 2026 05:07:36 +0000",
+    "fuente": ""
+   },
+   {
+    "titulo": "Discurso del Presidente Javier Milei en la Universidad Torcuato Di Tella",
+    "link": "https://www.casarosada.gob.ar/informacion/discursos/51415-discurso-del-presidente-javier-milei-en-la-universidad-torcuato-di-tella",
+    "fecha": "Sat, 31 Oct 2026 16:27:40 +0000",
+    "fuente": ""
+   },
+   {
+    "titulo": "Discurso del Presidente Javier Milei en la inauguración de las plantas de producción de carbonato de litio de Río Tinto, en Catamarca",
+    "link": "https://www.casarosada.gob.ar/informacion/discursos/51412-discurso-del-presidente-javier-milei-en-la-inauguracion-de-las-plantas-de-produccion-de-carbonato-de-litio-de-rio-tinto-en-catamarca",
+    "fecha": "Wed, 28 Oct 2026 17:35:10 +0000",
+    "fuente": ""
+   },
+   {
+    "titulo": "Discurso del Presidente Javier Milei en la Gala Anual 2026 de la Fundación Faro",
+    "link": "https://www.casarosada.gob.ar/informacion/discursos/51409-discurso-del-presidente-javier-milei-en-la-gala-anual-2026-de-la-fundacion-faro",
+    "fecha": "Sat, 24 Oct 2026 04:42:47 +0000",
+    "fuente": ""
+   },
+   {
+    "titulo": "Discurso del Presidente Javier Milei en la presentación del Máster Universitario en Economía de la Escuela Austríaca, en la Universidad Rey Juan Carlos",
+    "link": "https://www.casarosada.gob.ar/informacion/discursos/51408-discurso-del-presidente-javier-milei-en-la-presentacion-del-master-universitario-en-economia-de-la-escuela-austriaca-en-la-universidad-rey-juan-carlos",
+    "fecha": "Wed, 21 Oct 2026 23:03:57 +0000",
+    "fuente": ""
+   }
+  ],
+  "noticias": [
+   {
+    "titulo": "Milei le dedicó un posteo al Papa a cuatro días de su llegada a Argentina: “Que su visita lleve un mensaje de paz”",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZUVBZGxiWTJKMTJlVC1OZU0zS09wMFRRQmpVQXE1dlZnWjI1NW5BalQ1aTdlOWxYazRMeGNsTUpubEdoMkVncmVBNVFTLWV3VWVsVUc3Z2JfVjZ6WkhZVzNmcU14cmZJb3ozbGJuc3VfeWZUaVhRTlp6TDcwanpvRlR5TkF4THYtT1paUktERnVHNkpzX1dNcjV3QjdZX281NmxiSHdnNFFFNDI3dmppT0NRZi1MSEFOX3NOeU9CMDI5WXl3eFhKMkJ3NWhWRjFHOUdvdHJMZzY1dXdmYVZTdVJ2c0MycE91cUk4YdIBhwJBVV95cUxOYW1BM1RPZ2FreDJzZ0xVN2pvd1ZjWTJGWGllVnNiay1Lc010ajJYNVkyR2FTbmZPdkItQlIxWHI0UGdaUGppSlltbU9mU0ZuNDZQZTdmZ3hKYjdsQ25WUDBVTks1WlZFazdpX2xYSzBNd1RONEpqU1JqZVhrS2UtVDU0NUUySE93d2d2YmEtODdPQjNjT1lGNmYzNTZXT3VmY1MzaVZiR2x0eHpfTXhtUVBCcFE2U0tXR0xxeVd3dTE0MnppVXZjTUZFdWdMdjJOSjlDbm9pRHl2bTQzSWZaZ1BXNFNHNjNiS1hnMjhjWTZKNkpKRmptdXhCdGwtU0dmVnkwaC1YTQ?oc=5",
+    "fecha": "Wed, 04 Nov 2026 18:41:00 GMT",
+    "fuente": "Infobae"
+   },
+   {
+    "titulo": "Elecciones en EEUU: para Santiago Caputo festejan \"el kirchnerismo\" y Hezbolá, y Milei posteó sobre otra cosa",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUmRaZFY3cXVtSkFIUmpDRl8zcmd1Rk9rNmFfQ1o0WGY4QWg3aHVBUzVwcm9SekRRTmlYbVd3bTJ2NzFPRl9GakcyaV9xTkZtRWk5R3BqNThjUHBNSHJkREl0dV9sMzQwSXNxanZVSHdadVJEdFkzOTlOYmJQZHY1dzR3ZlZsSkRCS3RrdjYwUjdDT2dULWxBNkVQZzc1MllMZkVMb19KaWV5YVo0WWQyT2JqbGZ4NktWRi1UM0dhblVkbDY5V2FFcE1OR01DVUtZdllTUHB5dlJlYXoycGlOa1VpWDdjcFBrblln?oc=5",
+    "fecha": "Wed, 04 Nov 2026 12:07:25 GMT",
+    "fuente": "Perfil"
+   },
+   {
+    "titulo": "La China Ansa no se hizo cargo del tuit de Javier Milei pero aseguró: \"No fui parte de ninguna emboscada\"",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQmFBZlJqcmJGTzJMdjBSR1ROd1pHN3JFSTBKU1l1X3BTRDhubnpORU5IVzFBcFZkdnQyM0tzNXVGSEpScE9na2lhTEFPTnVhXzJROGxjN1lPVmRySk0xcFphRl83VnhoX1pMcV9yem1MMFRMLTlYcHFjdkZMNDhHV3ZsNl9VQ2VpTThQN1p0MmZFN3pLNldXOTJsWHFEeW9CdVBSUXBXWGJFakZpdDAzNkUxbjU5WlpRS0Z0dnJJYXJHd1VsMDE3VVdsaW9XNVN0SEtn?oc=5",
+    "fecha": "Tue, 03 Nov 2026 13:52:24 GMT",
+    "fuente": "Radio Dos Corrientes"
+   },
+   {
+    "titulo": "“Ni un tuit”: el pedido de Mario Pergolini a Javier Milei antes de la llegada del papa León XIV",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWEhmWGhzUm5LTnRKdWZobW9valJjOEl5MWRfV2FEVXRlU2Nfajd3SEJsWWtwUzFvN204dGZfb0lEOXViV00tanVYRTN1V3l2N0RBSlMxZ0dicE81emJVemJyOTFyYVY0cm1vSHYzMUZLQmI0TmdabllKX0Jlc2xiSzIxSGRWYTBGbmZaVmhhVURTbFZzN3NuWlozRGE3Q3dtWEdPTDlta1RITll6VzBnQjlkRkthNUxzWmFablN0dnRoRFRuZ2c?oc=5",
+    "fecha": "Tue, 03 Nov 2026 17:44:04 GMT",
+    "fuente": "Radio 10 Mar del Plata"
+   },
+   {
+    "titulo": "El ruego de Mario Pergolini a Javier Milei en la previa de la visita del papa León XIV: \"Ni un tuit\"",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHRzOXVsd1Zsd3A0dHhSUWJickpQekhOV3A5UDNpaTJiQkh4bmpXaVdJMVJwWEtMYlZZM2JvV2FWUVZUWUQtR1RiRFZPRTJENnVGbzJnNDRidFBtY3g4cFBpZ281OXR2alhXTnEyNFl3UjJjaW9sNWJhcnZBV3pWdlJLU0pGdW1rb0ZURjlITjN2bnVFTWZhMFlWeDJ3emZQSHktSEtKTHNXcDNSd3VUVkdtdTJqN2wwQjl0aXk4ci1feDltR2tRSG52WUk?oc=5",
+    "fecha": "Tue, 03 Nov 2026 16:36:59 GMT",
+    "fuente": "Radio Dos Corrientes"
+   },
+   {
+    "titulo": "El irónico posteo de Cristina Kirchner para celebrar la contundente derrota a Donald Trump en las elecciones",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejFlekNxTEZWMG01dThRN2YxTkQ1RzNXZzNTS1BFcjJWUkR2RzlxcUFxN2p1bVJKQjVnUnNyMGx4cC1KczV5TE1EUXpPRmpUNHVaMEQwOGJCdW9fMk9ELUIteXI5MFBORkNLZGhPbm9Yb0NjRUtRTjlDV0ZxVnVlTDRQaFozZnBYZVFhR2swMWxDNFF1N195cmpRMjZDWHRUME9HTjFLX2F6SGR2V2FGalN3Rk4yVmxkSDFwMzlVa3A5eXcxc2FaOGFtYWsxVXNua1BKY3JB0gHWAUFVX3lxTFB6MWV6Q3FMRlYwbTV1OFE3ZjFORDVHM1dnM1NLUEVyMlZSRHZHOXFxQXE3anVtUkpCNWdSc3IwbHhwLUpzNXlMTURRek9GalQ0dVowRDA4YkJ1b18yT0QtQi15cjkwUE5GQ0tkaE9ub1hvQ2NFS1FOOUNXRnFWdWVMNFBoWjNmcFhlUWFHazAxbEM0UXU3X3lyalEyNkNYdFQwT0dOMUtfYXpIZHZXYUZqU3dGTjJWbGRIMXAzOVVrcDl5dzFzYVo4YW1hazFVc25rUEpjckE?oc=5",
+    "fecha": "Wed, 04 Nov 2026 14:10:00 GMT",
+    "fuente": "Minutouno"
+   },
+   {
+    "titulo": "El tuit del troll preferido de Karina Milei: \"CFK está hecha m...\"",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzdVNXR0ejFqeWlLd0tuOFp0RmY5UGxOcFFCX3h1dThqM0JQWi10YmUxOGFnWkluLWF4LWw1Tm9WSEZMNjF4X2UyUTRXMXRZRmFZN1A1dDRySnhUUHNNcEpBWVc0UUVJcHVyTk1KMTZ2dTllRkUtbzBLMUpZd0swN1NsMjBJRUFMblctSlBTNTZQZi0yY1pvSTNoRVBIM3M4LXBxUEtVenFFNkh2?oc=5",
+    "fecha": "Wed, 04 Nov 2026 04:54:47 GMT",
+    "fuente": "Perfil"
+   }
+  ]
+ },
+ "noticias": [
+  {
+   "titulo": "Plus Unificado de Corrientes: confirman el cronograma de pago de noviembre para estatales y jubilados",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXNhMkZwSC1wOWNsbzJwY1pDN0llYl9Tby1jUHhTTkhBQ3h2VGNfRG9yQUkwcUtjRGtVaTZsa3VEOFotTEEtVnNnazJmNmVXOGlVaXRpb3Y5aDdVZm1yQmRaV0pISGhOT213SndlVkMwREgwSDlpTWNPRVJqd0EtQzJsOGNHNXpLNDVLT1NUZFZSQnVYLWo2TkwzMGw2eUxtRWR5TlhLNTRZZjRNbDFyZGg3VHd3cGNnZUp0OEdJRHFDdGFlcmMtX1g2bXVtNDNicVRNYzhCYw?oc=5",
+   "fecha": "Wed, 04 Nov 2026 22:53:56 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "Corrientes, con una caída interanual del -28,6% en el empleo de la construcción",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVo3TTR4UEdHaTRKbDF2aGxjRTg4WVRhNG1DRjFBenU5OFdLN0ladFhnc0x3cE1oc01HaHgwNmhfdjFpYkNLODNiNDB5WXFtVFRVMlFjZkY5SnNMRTFXZFVfakxpazlRNTVqcTA4SF81b1BjQVFVY0lobVRRQTBiNHQ2Q1RMdG1CZTNSTTliS284QVdMX0hnMkxzd3VSRjlHTFlWVW5DUjNoNXBlRk1xSDJaMnZXU0lZWkpZN3RuLUFMUQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:04:01 GMT",
+   "fuente": "Momarandu Corrientes"
+  },
+  {
+   "titulo": "Corrientes dice presente en el Mundial de Talla Baja con DT y gran parte del plantel",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdE1sYmk4OENPTGoxaWxGOVBnOER2MUVldncwYVpuRndtLVRKS1RMZkhJZHJpUUNaZkI4V1FmVmdTT3gtY0RsQkZkcndOcE8zQXhXeFhnOVJFaGdpQlRsOVlhVXM2RDFiaXE3QTNHR0VRVDRxNE9EbVh1cWI5Wmd1cUZUNzlYa1ZGMXQwZGZTaHEwNGJvTU5pcTRmcjg1TG9JOUYzV25acWpBY0QyNXl3T2x1dGpON1B6TktZ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 11:50:55 GMT",
+   "fuente": "Radio Dos Corrientes"
+  },
+  {
+   "titulo": "Corrientes: CNRT reforzará los controles en pasos fronterizos por la visita del Papa León XIV a Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN1loalhWdnluSzJ4dmtYUDVSODlPSldYamtzY1BrWC02Qk5kMl9JR0xfMHJMQWRCc2phVHViUVRoaEhfZUlfaUlRUHhEa2tWQlZBbkpOWm42TWN4d2V1Z2U0WE5WSHpVOVhQWHdVUmt4TnVJRHZBdmtnUnBHWDZ2N1UzWHE4aHZZYUY0RndBX3B3ZTNmcHVMZkRnV2o1ZzI4dVJnVXBCbWRwWWFMWWdueExQSzUySXdPYlBZcEJWZG5Lbnk0YnpYenM5ZTliQXRtLTBzOUpoUlFoMUFjNHd5QXFubXkzUQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 12:36:56 GMT",
+   "fuente": "Corrientes Hoy"
+  },
+  {
+   "titulo": "Planes. Fiesta Provincial del Búfalo 2026 en Corrientes: cuándo es, dónde se realiza y qué habrá",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVFVRYVRiY1dReVFQVUZ1ZmdoWjZKY3BSS1l3Mi1VcEtabnR0d0RNU21WZDFEdF91SUZyc2FSdW1ieGtVR2JtOHJrTEdsclJCMXhQN0lfTFdkdDdHSUxfTnhGVDduci0xYjRCNldmYmhqNmN6Sm9LelBDNV9MNzFIcFIxMWFnTHRXOE5nMVhjQlozbTg4dGF2ZUl4d2FZVWVDSVRv?oc=5",
+   "fecha": "Thu, 05 Nov 2026 04:28:34 GMT",
+   "fuente": "La Voz del Interior"
+  },
+  {
+   "titulo": "Juegos Nacionales: alegría y satisfacción en los primeros medallistas de Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVNTSjRTWTNOdm9lUTJWMk9HTjhLWkdqWjdubUdWMk8yaFpuRFJvOGw5Z1FqVnI5aUgtd0FsV05vNXA2TEduYWU1a1lPMWNVYk8yOVdoMVJmR3g0REpMVWN0enFfWEZ3eUd1Q09DdFJyUU04UDB1d01rZ2g5Y1BKT1Q3eVR1M1FwT3h3SlJaZWxtSjZBRHBvbUM2TVd2OG9uZ3BnNmcxcHppSTMxRXhPOWhQZWRGLXc?oc=5",
+   "fecha": "Thu, 05 Nov 2026 10:19:40 GMT",
+   "fuente": "LT7Noticias"
+  },
+  {
+   "titulo": "Ivonne Salinas : “No vamos a retroceder en los derechos que ya conquistamos”",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHVEU1kyYm8zMGNGcXUxYWpXS3U2dFdfdm1vV1lsR3RmVDJNTENJWm1ZY3hfc0pidFBjekNkQWdWSE5WVmFhenhvZm14Nldqdlh4RGozcjdTSGwxWkJ5UEVadHZwTlJJMnEwM0VRVnpxckJRaDgyNE1nUFRXWURZRHlFeFJreDlHYlhHek8yQXVaSmVWSnJTVG14UmZZdVE4MmFVMXZiR040T2thakxPajEwdDBVV1dBSDRB?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:11:54 GMT",
+   "fuente": "La Red Corrientes"
+  },
+  {
+   "titulo": "Provincia ultima la recomposición salarial y prepara el anuncio",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1pMekdtdm90aXRac2VVY21Tc1NzY0kxUTVReGNqSzJVZGNERzJDYkxDRjIxM2JBZWtxNWVtZzl2djEtb0YwZUdjQVNjNXV1OWhyTGVkaFVsTDZLcUh1eTNjSGI2UHV5b2JJZEZiX0c3SDY3VG9JbFlCLXZmRE1XSFlJN0dCeGFsTlBxNjg5bncwVUlxYmNCeVBFYnBISTIt?oc=5",
+   "fecha": "Thu, 05 Nov 2026 03:02:56 GMT",
+   "fuente": "Diario Época Corrientes"
+  },
+  {
+   "titulo": "Decomisaron dorados y surubí en el acceso a una localidad de Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjRENGo4cW9HUVRKVDFiVFEzMDl6eFJqb19QRnI5TEhxVlRCejkzQXF4NFp6TGJDOXlCbUpOd2dCQnFQUlNrbDdiQVpqR3dpSTgtdlVVb0FKYVJhZFY4VGVTMW5DclVaZWtRVGFUM1BCMUtNR0x0dXVLZnAteHFTZ05SQkRpeVZGTW5mVVlDS3JIbHRPOEJjazlsWm8wLVJ2eXJaVEQ2ay1IMHJhVVNlam9GajlZV2pxQ192X2dDdzBmbXMxalVhZA?oc=5",
+   "fecha": "Thu, 05 Nov 2026 00:16:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Privatización de rutas: 150 trabajadores de peajes quedaron en la calle en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWV9DUmZDWXgzVWZ3MFgwRS1RbjdzQmF2bHd3VlNIVkZad1lDcmRVWjRTdEl1aTBVQVRkemdHeTRDY2JCTDNybnNRQ2VOMkhGTzZKN2t2eGRFQXJrYS1nM3pDNzdXMWxLaEY3NnhpcXozTHkwUUdkenNnMnViemhZYjNwRElieUhELTJlX01zZlFWT3BWYUkyZW5RUkJqQjZZSGhGOTQwRlJ0aE5STGYtbkNvcnh3bzVW?oc=5",
+   "fecha": "Thu, 05 Nov 2026 08:37:54 GMT",
+   "fuente": "DeGremiales.com"
+  },
+  {
+   "titulo": "Corrientes: volcó un camión con 73 vacunos, murieron unos 50 y vecinos los carnearon",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTdsUGc2NDBCNXdHRjN6cVoyYnF5aGNwOGE0VjBpTjVrYVkzbmgzT2dTSWtyU2tfRFFaMHFiYlRqMzRtZmNUQUJScG5xaWFKWEFGTDVuN0ZXckNKcnZpSEZ5dG9YaVFfbU1LN1VPcE9TMC1lODA4Vkp2Mm0ySjIySEkwUEl0bno1cXdHa2FQZTVkMy1GR0pDa1dISTBEekJQY1ZUbDl5LUVXT2ht?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:15:41 GMT",
+   "fuente": "Primera Edición"
+  },
+  {
+   "titulo": "Zonas cálidas: Corrientes ya aplica el subsidio del 50% en la tarifa eléctrica y 35 mil usuarios aún deben inscribirse",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0tfTjkxWjVqd0dNXzc3RXpCT0NfSjNza0xKTk5nV1VSbHdiMVJxSE9sQy1WODIwMThWQl9nOTRNOFdRR1RLcXBzd2hEN0VCVEdDbkE5akp2a3lySEpnUjhVOG1UeHE4cUhPbnF3aWdnYlE4R1oweEZja05ZanJacE0yOVIzNnVvU1l4VGhhUVlUaFVmUW84RzN1LU1iYkFUbXRXdnloSHhoNXlwQzFLb2Rld2YtVkl1d1FkMEU0bm1MSmFBZm9nRFlOeDFnRkFEdUJ5Vlc5MWF0YlZtMnc?oc=5",
+   "fecha": "Thu, 05 Nov 2026 02:59:30 GMT",
+   "fuente": "Radio Bella Vista 92.1"
+  },
+  {
+   "titulo": "Clima en Corrientes hoy jueves 5 de noviembre: cielo claro y temperaturas agradables",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeXZ5YnFtWnFDZkFjVWlZRTJaWVZybkNpSHkyMG9xcldCLTllVEZUQzdocDQ0Z3RSSWdOXzlKYTJrZ1FnRWdySHFJV1RHQVdsdkdsOXN1Z3hFOVNjWkxZb0NRTTBvR0gzdlZEckl6b00yWFNnTmZYc2I4QS1xVFBNb0N4cklDVTRsWEI3TjRjTmoza204enhsaXpyNGkySjRJejdnMHZxdEN4R0hzbFJpNjRyX3BRSDdHZmxKS0NZUDh0X1pRaWfSAdoBQVVfeXFMTlUzX1FhZ00ta2labVVWNFgyeWJBalFsNDJEdGEtb3ZhX0ZaVmJieklRUVR1b1VjU1JtcFh4RHVXdDgyNkRrdGI3U0FPaHpoOFhYemFZank3WWo1M2FLLVJYaHFkeS1faW0zeEZDMi0ySERObWNfZ2M3dmthbFJmdUtaZ3B6N05yVGI1UWVEZlM5cGNUeU5paTZSWlE0eXFleG82ZjVRRmotci1wMThaUEhSNlRUUVJBNXVQb08zeEhzN3dKRXd5U3NVSkJnY3JDamxOMlVGQ2Iyc1E?oc=5",
+   "fecha": "Thu, 05 Nov 2026 09:02:48 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTlXS2kzNWFMSi0zMGZOWm1GZWxHV3ZZdmZHYU1OcWxRS0g2MVEzRWNXLUpTT1FtUS1SSzFjT0FaWmZGTXJkcW55c0MtVm5RXzNiRnBhbFRLd1dDSlhkSW1KcDRxUGVNY1FDUEtfNzRZYWNWMEt3aDZUSzBGTElTRmRVSXBaSExPV0JjbmtkSWNsLTJLX1AxX0txMHdvU0pPYU9pZWt3?oc=5",
+   "fecha": "Thu, 05 Nov 2026 12:02:16 GMT",
+   "fuente": "Radio Dos Corrientes"
+  },
+  {
+   "titulo": "Acampe de Policías y peritos de Corrientes en la estancia El Curupí para determinar dónde mataron a Nancy Godoy",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOU9Na1A0b3lTYlFrX3dkbHh5TTlRRW9MNU1lYXVFM1pjZHVXZVltOVpmLTVWeUM1R2xRNXFHd2NmMUJCRWFUellVcGQ3dHkxNXAxY2hFemxkNGlocFU1MWJaa2xObGxpdHQ3LUl6dC14aGpXZ2YxaG0xV3NvUFhXQnpRYzd6QnlOUldoRW54cXQ5YVNoLUtONGtEYXY4eUh5UUV1NVlBVGVjdWdZVU51cXdHbDdtbU9rWURiVjZPRHdzWEo4REZGSnVMWTh1UHpYVXcxV3EtUjFieDYyaUxRZWhOYlFMY3B2aC1PaQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 10:55:04 GMT",
+   "fuente": "Corrientes Hoy"
+  },
+  {
+   "titulo": "El gobernador de Corrientes confirmó que asistirá al encuentro con el papa León XIV en el Palacio Libertad",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLThSUGtPa1VDbjJjMTFURW1SMmxmNkQ2SHp2SFEwS0x2V3ZteVZQQndlOW9lVTdBZTBPMmxLRWd1bHhnejFYLTFhWWhWa0xWU1I5dWwtanFETTZsTkNpNTNzbUg4dlNDWHBueVlRV1pCVkNVU0tSMmNqbXljMXE0dEVxd18wYm8xeG5pMms2RHF1TTJUSWVMdzk1OWE3TnZPZVh6eFBJckY0WkdfU3ZkczdrdjdyUkdKTTVRTzEydFllWjA5TXlNV0hMblB6a2hmemdYNTl3WjZXa3B3aE1r?oc=5",
+   "fecha": "Wed, 04 Nov 2026 13:47:25 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "Valdés propone subir a Corrientes a Vaca Muerta como proveedor de arena y enviarla desde Ituzaingó",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObzJwcDU2SEJaZkFlbUwybE1idlBsQmdGb19abWpndXkxcWFmWTA5MWR1V3RCYzhQQjRaVzVvb2FrM002dmRfRHBLMWhOY0NnYjJzcXVqQUlMNi0tc3ZCVEdoYXhOcmpKUG9qUmVrOEt0R096TlFSWklON1NkdXc5bF8yVGJzWkRVZEVIS043YkZISjFZUzViMWRXdlVFYnlJWlhrdDB5ZldlaFZOUkF2QzhoRkdOXzgwQWtrZU1DcmJkcnB1MGVQUGl5VGdodG1NT1ZSR3dPM0U?oc=5",
+   "fecha": "Tue, 03 Nov 2026 16:51:56 GMT",
+   "fuente": "Plan B Misiones"
+  },
+  {
+   "titulo": "Valdés participará de la visita del papa León XIV",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGRlYVRRU29QWDRfckJfYmd3bk1rOUFVYlBnM0hYdDR1LXlZdlFxQkRNLW12ZzF6Nl9xakVVLUM3X3RWMkhRLUZabTFmUWdmTkRHbjUxbThPOVhzdXZORlRQbHBMYkhDX2pGMWd6dW5iVzNhTkp1S3Q5SUFNaUp5WWY0UFFjVXNoNVhkQ2VPVnBaUQ?oc=5",
+   "fecha": "Wed, 04 Nov 2026 18:07:41 GMT",
+   "fuente": "Diario El Libertador de Corrientes"
+  },
+  {
+   "titulo": "JP Valdés puso las obras pluviales en el centro de su agenda territorial",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjk1UDMtR2RGeFNrbHhoYVI0VkZ5VzZmalNjMW9ZR3ZtSXNpdjhzNDFZNWRNVWtBNEMyaXBHZE5VOXBqbWVSSTI2eFRsNXpPMUl6UTRxd1ptOTU1aFpDZ2o3NmtnOG0tMWhDLTliSHIycVN3dndYeFdTM3hUNnJFVS1ndTBjQVQ0MVF5cEtMdVd6aGRwQ3pVaDVaQWxjLWkteEItMjBoVl9tV01V?oc=5",
+   "fecha": "Thu, 05 Nov 2026 03:02:51 GMT",
+   "fuente": "Diario Época Corrientes"
+  },
+  {
+   "titulo": "Juan Pablo Valdés anticipó cambios y una reestructuración en el Ministerio de Educación",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNmVvRVF6Q21DdUptbjRDRnAybGJxckJSZlZtWk1qMDR4MDBnWmRmVlREdl9KUEIybkx3bzVuWnNDSmNKRzJNUDdsQjQ4ZG02VGVDMGM4YlhvYW9HTDFEdXVvNk9PUDM0Yi1yQzNMY2ZaUFpKUEJTOElLRzZHMGU5bWRiVHFUNHpnQkRSS29fYWl3UUlRbkxiUXRSTU9JWVljczZNM1ZlSmRIYjJVODVvdVB6ZThWYXNJcHNYUDI0NWVidGhCN0tWcHdKRVlmbDhUd20tRmJZMGFEWTc4?oc=5",
+   "fecha": "Tue, 03 Nov 2026 14:08:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  }
+ ],
+ "expedientes": {
+  "20561": {
+   "asunto": "Solicita al Poder Ejecutivo un informe sobre la habilitación, fiscalización y protocolos de seguridad perimetral en predios rurales colindantes a la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina.",
+   "comision": "Seguridad y Servicios Penitenciarios",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20560": {
+   "asunto": "Solicita al Poder Ejecutivo que informe sobre las condiciones de los establecimientos educativos rurales clasificados como zonas inhóspitas o muy inhóspitas, con especial referencia a la Escuela Rural Nº 626 del paraje El Malezal, departamento de Esquina.",
+   "comision": "Educación, Cultura, Ciencia y Tecnología",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20497": {
+   "asunto": "De profundo pesar y conmemoración a la memoria de las víctimas de la masacre de Rincón Bomba ocurrida entre el 10 y el 30 de octubre de 1947 en el entonces territorio nacional de Formosa.",
+   "comision": "Sobre Tablas Aprobación: 14/10/2026 Declaración: 413/26",
+   "tipo": "Declaración",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20475": {
+   "asunto": "De protección de la propiedad privada ante trámites de regularización dominial.",
+   "comision": "Asuntos Constitucionales y Legislación General",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20474": {
+   "asunto": "De reconocimiento y homenaje a los caídos y defensores del Regimiento de Infantería de Monte 29 “Coronel Ignacio Warnes” de la ciudad de Formosa.",
+   "comision": "Sobre Tablas Aprobación: 14/10/2026 Declaración: 401/26",
+   "tipo": "Declaración",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20440": {
+   "asunto": "De Armas de Letalidad Reducida. Preferencia para dentro de 3 sesiones.",
+   "comision": "Seguridad y Servicios Penitenciarios - Asuntos Constitucionales y Legislación General",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20429": {
+   "asunto": "De interés la 2ª Jornada de Enfermedades poco Frecuentes y XXX Jornada Nacional Síndrome de Williams, en la Casa del Bicentenario de la ciudad de Corrientes.",
+   "comision": "Sobre Tablas Aprobación: 16/09/2026 Declaración: 369/26",
+   "tipo": "Declaración",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20386": {
+   "asunto": "De interés el 37º aniversario del fallecimiento de los destacados músicos de chamamé en el trágico accidente vial ocurrido en la ciudad de Bella Vista.",
+   "comision": "Sobre Tablas Aprobación: 16/09/2026 Declaración: 349/26",
+   "tipo": "Declaración",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20336": {
+   "asunto": "De bloqueo de dispositivos de comunicación móvil en establecimientos penitenciarios. 26/08/2026 Preferencia para dentro de 2 sesiones. 23/09/2026 Vuelve a la Comisión de Seguridad y Servicios Penitenciarios.",
+   "comision": "Seguridad y Servicios Penitenciarios",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20287": {
+   "asunto": "Solicita al Poder Ejecutivo arbitre los medios necesarios para proceder a la designación del Fiscal de Investigaciones Administrativas.",
+   "comision": "Asuntos Constitucionales y Legislación General",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20223": {
+   "asunto": "Adhiere a las disposiciones del artículo 100, correspondiente al Título VII de la ley nacional 27743 -Medidas Fiscales Paliativas y Relevantes-. 05/08/2026 Se adjunta al Expediente 19800.",
+   "comision": "Asuntos Constitucionales y Legislación General",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20189": {
+   "asunto": "Solicita al Poder Ejecutivo, y por su intermedio a la Agencia Correntina de Bienes del Estado (ACOBE), informe sobre el estado de cumplimiento de la ley 6639.",
+   "comision": "Asuntos Constitucionales y Legislación General",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20182": {
+   "asunto": "Prorroga por 180 días el plazo establecido en la Resolución 06/24 de creación de la Comisión Técnica Especial de Estudio, Análisis y Redacción del Proyecto de reforma a la Ley de Protección Integral de los Derechos de Niños, Niñas y Adolescentes.",
+   "comision": "Niñez, Adolescencia y Familia. Aprobación: 05/08/2026 Resolución: 12/26",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20190": {
+   "asunto": "Modernización y Gestión Profesional de los Hospitales Públicos de Corrientes “Modelo Cardiológico”.",
+   "comision": "Salud Pública",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "20021": {
+   "asunto": "“Nadia” – De Abordaje Integral de la Problemática del Suicidio.",
+   "comision": "Salud Pública",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19959": {
+   "asunto": "Solicita al Poder Ejecutivo, a través del Ministerio de Hacienda y Finanzas y/o la Dirección General de Rentas, informe sobre el régimen “Mera Compra” y su incidencia en el impuesto sobre los ingresos brutos.",
+   "comision": "Hacienda, Presupuesto e Impuestos",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19898": {
+   "asunto": "Solicita al Poder Ejecutivo que, por intermedio del Ministerio de Hacienda y Finanzas, de la Contaduría General y de la Tesorería General de la Provincia, remita informe sobre el cumplimiento del régimen de autarquía del Poder Judicial.",
+   "comision": "Asuntos Constitucionales y Legislación General - Hacienda, Presupuestos e Impuestos",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19830": {
+   "asunto": "Adhiere al Título XXIII -Régimen de Incentivo para Medianas Inversiones (RIMI)- de la ley nacional 27802 -Modernización Laboral- y su reglamentación decreto 242/26 .",
+   "comision": "Asuntos Constitucionales y Legislación General - Hacienda, Presupuesto e Impuestos",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19800": {
+   "asunto": "Adhiere al Título VII -Régimen de Transparencia Fiscal al Consumidor- de la ley nacional 27743 de Medidas Fiscales Paliativas y Relevantes, reglamentada por el decreto 658/24 . 05/08/2026 Se adjunjta al Expediente 20223.",
+   "comision": "Asuntos Constitucionales y Legislación General",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19766": {
+   "asunto": "Declara Monumento Histórico y Patrimonio Cultural al “Cenotafio Malvinas”, ubicado en la localidad de Mercedes.",
+   "comision": "Educación. Cultura, Ciencia y Tecnología",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19752": {
+   "asunto": "Adhiere a la ley nacional 27275 -Derecho de Acceso a la Información Pública-.",
+   "comision": "Asuntos Constitucionales y Legislación General",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19767": {
+   "asunto": "Solicita al Poder Ejecutivo el cumplimiento de las leyes vigentes para la construcción del Monumento al exgobernador Genaro Berón de Astrada.",
+   "comision": "Educación, Cultura, Ciencia y Tecnología",
+   "tipo": "Resolución",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  },
+  "19677": {
+   "asunto": "Modifica el artículo 90, Título V, de la ley 5571 de Administración Financiera y de los Sistemas de Control, Contrataciones y Administración de los Bienes del Sector Público Provincial.",
+   "comision": "Asuntos Constitucionales y Legislación General y Hacienda, Presupuesto e Impuestos",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-05",
+   "cambio": "",
+   "antes": ""
+  }
+ },
+ "errores": {},
+ "actualizado": "2026-11-05T10:18-03:00"
+}
