@@ -26,6 +26,8 @@ header .marca b{color:var(--acento)}
 header h1{flex:1;font-size:2.2em;font-weight:800;letter-spacing:-.01em;text-wrap:balance}
 header .reloj{text-align:right}
 header .hora{font-size:2.4em;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+.hora .dp{animation:parpadeo 1s steps(1,end) infinite}
+@keyframes parpadeo{50%{opacity:0}}
 header .fecha{color:var(--suave);font-size:.95em;margin-top:.3em}
 main{position:relative;padding:1.6vw 2.4vw;overflow:hidden}
 .pagina{position:absolute;inset:1.6vw 2.4vw;opacity:0;transition:opacity .8s;overflow:hidden}
@@ -94,6 +96,7 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 
 @media (prefers-reduced-motion: reduce){
   .pagina{transition:none}
+  .hora .dp{animation:none}
   .barra{display:none}
 }
 /* teléfono y pantallas chicas: página con scroll, sin rotación automática */
@@ -380,7 +383,8 @@ function pie() {
 }
 function reloj() {
   const n = new Date();
-  document.getElementById('hora').textContent = n.toLocaleTimeString('es-AR', {timeZone: TZ, hour:'2-digit', minute:'2-digit', hourCycle:'h23'});
+  const [hh, mm] = n.toLocaleTimeString('es-AR', {timeZone: TZ, hour:'2-digit', minute:'2-digit', hourCycle:'h23'}).split(':');
+  document.getElementById('hora').innerHTML = `${hh}<span class="dp">:</span>${mm}`;
   const f = n.toLocaleDateString('es-AR', {timeZone: TZ, weekday:'long', day:'numeric', month:'long'});
   document.getElementById('fecha').textContent = f[0].toUpperCase() + f.slice(1);
 }
@@ -397,7 +401,7 @@ async function cargar() {
   if (actual) { pos = Math.max(0, cola.findIndex(c => c.s.id === actual)); if (MOVIL.matches) mostrar(0); }
 }
 
-reloj(); setInterval(reloj, 10000);
+reloj(); setInterval(reloj, 5000);
 cargar().then(() => { if (fija) pos = cola.findIndex(c => c.s.id === fija) - 1; mostrar(1); });
 setInterval(cargar, 10 * 60 * 1000);           // datos nuevos cada 10 minutos
 setTimeout(() => location.reload(), 6 * 3600e3); // recarga completa cada 6 horas

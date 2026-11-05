@@ -27,4 +27,4 @@ jobs:
           git config user.name "panel-bot"
           git config user.email "panel-bot@users.noreply.github.com"
           git add data/live.json
-          git diff --cached --quiet || (git commit -m "Datos $(TZ=America/Argentina/Buenos_Aires date '+%d/%m %H:%M')" && git push)
+          git diff --cached --quiet || (git commit -m "Datos $(TZ=America/Argentina/Buenos_Aires date '+%d/%m %H:%M')" && (git push || (git pull --rebase -X theirs origin main && git push)))
