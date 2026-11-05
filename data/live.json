@@ -738,15 +738,9 @@
    "fuente": "Radio Bella Vista 92.1"
   },
   {
-   "titulo": "Clima en Corrientes hoy jueves 5 de noviembre: cielo claro y temperaturas agradables",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeXZ5YnFtWnFDZkFjVWlZRTJaWVZybkNpSHkyMG9xcldCLTllVEZUQzdocDQ0Z3RSSWdOXzlKYTJrZ1FnRWdySHFJV1RHQVdsdkdsOXN1Z3hFOVNjWkxZb0NRTTBvR0gzdlZEckl6b00yWFNnTmZYc2I4QS1xVFBNb0N4cklDVTRsWEI3TjRjTmoza204enhsaXpyNGkySjRJejdnMHZxdEN4R0hzbFJpNjRyX3BRSDdHZmxKS0NZUDh0X1pRaWfSAdoBQVVfeXFMTlUzX1FhZ00ta2labVVWNFgyeWJBalFsNDJEdGEtb3ZhX0ZaVmJieklRUVR1b1VjU1JtcFh4RHVXdDgyNkRrdGI3U0FPaHpoOFhYemFZank3WWo1M2FLLVJYaHFkeS1faW0zeEZDMi0ySERObWNfZ2M3dmthbFJmdUtaZ3B6N05yVGI1UWVEZlM5cGNUeU5paTZSWlE0eXFleG82ZjVRRmotci1wMThaUEhSNlRUUVJBNXVQb08zeEhzN3dKRXd5U3NVSkJnY3JDamxOMlVGQ2Iyc1E?oc=5",
-   "fecha": "Thu, 05 Nov 2026 09:02:48 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTlXS2kzNWFMSi0zMGZOWm1GZWxHV3ZZdmZHYU1OcWxRS0g2MVEzRWNXLUpTT1FtUS1SSzFjT0FaWmZGTXJkcW55c0MtVm5RXzNiRnBhbFRLd1dDSlhkSW1KcDRxUGVNY1FDUEtfNzRZYWNWMEt3aDZUSzBGTElTRmRVSXBaSExPV0JjbmtkSWNsLTJLX1AxX0txMHdvU0pPYU9pZWt3?oc=5",
-   "fecha": "Thu, 05 Nov 2026 12:02:16 GMT",
+   "titulo": "Banco de Corrientes: así será la atención durante el feriado bancario del 6, 9 y 10 de noviembre",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1hRRmFkaEtaT29qWGNlcTRneEM3RDNTS1pzeUNfc1BMN0Y1cEhxbWgxYmktZGxzU3N6REZ1SFVxaDlQdXBpTW01THIyN3hOLW44UFJDc1BjcG9BS1NzWGRGN08tSTRpUXlYU2x2cGZxY09BOWZLYVRFREhzLUdmV0UxS3o3R21NR3VDU2k2ODJETXlESXhyMU5RWjR5eXVLNTg0Z3ZkaktVSG81TnhTS0FFbGRzTXFWYXV2WW1TRldWdUVLMjI4WQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:27:47 GMT",
    "fuente": "Radio Dos Corrientes"
   },
   {
@@ -754,6 +748,12 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOU9Na1A0b3lTYlFrX3dkbHh5TTlRRW9MNU1lYXVFM1pjZHVXZVltOVpmLTVWeUM1R2xRNXFHd2NmMUJCRWFUellVcGQ3dHkxNXAxY2hFemxkNGlocFU1MWJaa2xObGxpdHQ3LUl6dC14aGpXZ2YxaG0xV3NvUFhXQnpRYzd6QnlOUldoRW54cXQ5YVNoLUtONGtEYXY4eUh5UUV1NVlBVGVjdWdZVU51cXdHbDdtbU9rWURiVjZPRHdzWEo4REZGSnVMWTh1UHpYVXcxV3EtUjFieDYyaUxRZWhOYlFMY3B2aC1PaQ?oc=5",
    "fecha": "Thu, 05 Nov 2026 10:55:04 GMT",
    "fuente": "Corrientes Hoy"
+  },
+  {
+   "titulo": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTlXS2kzNWFMSi0zMGZOWm1GZWxHV3ZZdmZHYU1OcWxRS0g2MVEzRWNXLUpTT1FtUS1SSzFjT0FaWmZGTXJkcW55c0MtVm5RXzNiRnBhbFRLd1dDSlhkSW1KcDRxUGVNY1FDUEtfNzRZYWNWMEt3aDZUSzBGTElTRmRVSXBaSExPV0JjbmtkSWNsLTJLX1AxX0txMHdvU0pPYU9pZWt3?oc=5",
+   "fecha": "Thu, 05 Nov 2026 12:02:16 GMT",
+   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "El gobernador de Corrientes confirmó que asistirá al encuentro con el papa León XIV en el Palacio Libertad",
@@ -996,7 +996,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-05T10:33-03:00",
+ "actualizado": "2026-11-05T10:36-03:00",
  "medios": {
   "derecha_diario": [
    {
