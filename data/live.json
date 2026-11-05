@@ -76,17 +76,12 @@
   ]
  },
  "bo_corrientes": {
-  "modo": "noticias",
+  "modo": "directo",
   "items": [
    {
-    "organismo": "El Litoral | Novedades de Corrientes",
-    "detalle": "Renatre oficializó el incremento en la Prestación por Desempleo para trabajadores rurales",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX3pEVFBkaGdkalBBOUdOUk45VFZsRWlLdVhkaURKcmN6Y3NqQlhjYklRNm1aOUUzeWM5YUJHVkxvWjNKRWZ4TFhKS3lRU05TWEtCVEJaelQzRElwdWJCNFA4YmV5dUU4d2dGVC01TzV4TklLdzhLejNhRjhTel9KSEM0WnZDYzdjNHpIUnAxVFJ6ZFBvd3FMNzk5cWotM1pTdk9RR1pEeXpGTXBFZi1YUHplWWZpVThhX3c4ZDJoVTc5UDdNVFJNNUtPUHM2SlphMHZaYW5jR2kyb0xJ?oc=5"
-   },
-   {
-    "organismo": "Impacto Corrientes",
-    "detalle": "Mientras impulsa retiros voluntarios, el Gobierno oficializó a más de 50 funcionarios",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVWZGMzhMRWIzM21fLTlCTE9ZRHY2M05XRTBhYkRGRXlfV0lzUmhBNU9IYjBrWDhXZm5wWGVDdzAwMXcyc0dIYVl5NWU3MzhKRC12MXhoa0IxdV9rT3NyLTV3djdVLVkxS0VBNjVOYUQ3dm5VR3pXWGZEYXRsSG56YXQ0UkdNUlFmaF8yVGtoaUFtM3JLcHNmVzkwa1NRNnVNWjhtZGpTT0s4bko1bGpxSVFNRXVmaVlQd1pDVlJaTkFvN1BCMDYyWVJNZHdvUGVOQXNjWG91ekIwQloxNmw0cWowcmRZSVdt?oc=5"
+    "organismo": "Boletín Oficial de Corrientes",
+    "detalle": "Boletín Oficial A partir del 08-08-2023",
+    "link": "https://www.corrientes.gob.ar/boletinoficial"
    }
   ]
  },
@@ -725,12 +720,6 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "CORRIENTES: Ratificaron La Solidez De La Contundente Prueba Que Habla De Loan En Dos Vehículos",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLTJOQno5M1VDb1lCazBpRTZlLWdydm9LWl9ZU2pJUFZzVGc0Sk5OWEdqNUNCS1k4X2pXMkxzamJBZjVOLWxDeTZkR0szYnRCTVQzSWZWa0xhWlBYd05oR01FV3VzMTFwS3B0MXUxaUxOVjBxcGwtbGF1XzFWckttTzJ2a2luMEdFbnBnV2RreW10Ui1fVkZVTFAxNlRaZ01GU0FXMHhGT29UdV94SFNTT1FWQ2dvSGJDcEtiSjNacUwtZ3hZRi1BWWhNdjhSanJyOW1HTGgtcE9XYTlXdE9oTEozTURERVJ4c0E?oc=5",
-   "fecha": "Thu, 05 Nov 2026 10:29:04 GMT",
-   "fuente": "Noticias del paraná"
-  },
-  {
    "titulo": "Corrientes: volcó un camión con 73 vacunos, murieron unos 50 y vecinos los carnearon",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZTdsUGc2NDBCNXdHRjN6cVoyYnF5aGNwOGE0VjBpTjVrYVkzbmgzT2dTSWtyU2tfRFFaMHFiYlRqMzRtZmNUQUJScG5xaWFKWEFGTDVuN0ZXckNKcnZpSEZ5dG9YaVFfbU1LN1VPcE9TMC1lODA4Vkp2Mm0ySjIySEkwUEl0bno1cXdHa2FQZTVkMy1GR0pDa1dISTBEekJQY1ZUbDl5LUVXT2ht?oc=5",
    "fecha": "Thu, 05 Nov 2026 13:15:41 GMT",
@@ -747,6 +736,12 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0tfTjkxWjVqd0dNXzc3RXpCT0NfSjNza0xKTk5nV1VSbHdiMVJxSE9sQy1WODIwMThWQl9nOTRNOFdRR1RLcXBzd2hEN0VCVEdDbkE5akp2a3lySEpnUjhVOG1UeHE4cUhPbnF3aWdnYlE4R1oweEZja05ZanJacE0yOVIzNnVvU1l4VGhhUVlUaFVmUW84RzN1LU1iYkFUbXRXdnloSHhoNXlwQzFLb2Rld2YtVkl1d1FkMEU0bm1MSmFBZm9nRFlOeDFnRkFEdUJ5Vlc5MWF0YlZtMnc?oc=5",
    "fecha": "Thu, 05 Nov 2026 02:59:30 GMT",
    "fuente": "Radio Bella Vista 92.1"
+  },
+  {
+   "titulo": "Clima en Corrientes hoy jueves 5 de noviembre: cielo claro y temperaturas agradables",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeXZ5YnFtWnFDZkFjVWlZRTJaWVZybkNpSHkyMG9xcldCLTllVEZUQzdocDQ0Z3RSSWdOXzlKYTJrZ1FnRWdySHFJV1RHQVdsdkdsOXN1Z3hFOVNjWkxZb0NRTTBvR0gzdlZEckl6b00yWFNnTmZYc2I4QS1xVFBNb0N4cklDVTRsWEI3TjRjTmoza204enhsaXpyNGkySjRJejdnMHZxdEN4R0hzbFJpNjRyX3BRSDdHZmxKS0NZUDh0X1pRaWfSAdoBQVVfeXFMTlUzX1FhZ00ta2labVVWNFgyeWJBalFsNDJEdGEtb3ZhX0ZaVmJieklRUVR1b1VjU1JtcFh4RHVXdDgyNkRrdGI3U0FPaHpoOFhYemFZank3WWo1M2FLLVJYaHFkeS1faW0zeEZDMi0ySERObWNfZ2M3dmthbFJmdUtaZ3B6N05yVGI1UWVEZlM5cGNUeU5paTZSWlE0eXFleG82ZjVRRmotci1wMThaUEhSNlRUUVJBNXVQb08zeEhzN3dKRXd5U3NVSkJnY3JDamxOMlVGQ2Iyc1E?oc=5",
+   "fecha": "Thu, 05 Nov 2026 09:02:48 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "La DPEC realizará trabajos de mejoras en el interior de la provincia",
@@ -773,9 +768,9 @@
    "fuente": "Plan B Misiones"
   },
   {
-   "titulo": "Valdés participará de la visita del papa León XIV",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGRlYVRRU29QWDRfckJfYmd3bk1rOUFVYlBnM0hYdDR1LXlZdlFxQkRNLW12ZzF6Nl9xakVVLUM3X3RWMkhRLUZabTFmUWdmTkRHbjUxbThPOVhzdXZORlRQbHBMYkhDX2pGMWd6dW5iVzNhTkp1S3Q5SUFNaUp5WWY0UFFjVXNoNVhkQ2VPVnBaUQ?oc=5",
-   "fecha": "Wed, 04 Nov 2026 18:07:41 GMT",
+   "titulo": "Valdés y Polich supervisaron obras hídricas fundamentales",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjRlTDd2RzFkUXJKM3VDVmVLbzE3UEpNMjl6OW9zNTAzcDQ1bFVOcC0zVWRXZkdxd3pxenNoNVlCN2xJZ0J3LUV0OThOTHRmOGFISUk5SExrZWhPalRoQ0x0ZnhQYTJMb1hGREZ1QWxhTXZuejRkRnUxOU9TcENjbUU0bzJSX21XNVd6eVA0NVhVZG8wamp4RG5XeU4?oc=5",
+   "fecha": "Wed, 04 Nov 2026 18:06:28 GMT",
    "fuente": "Diario El Libertador de Corrientes"
   },
   {
@@ -1001,7 +996,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-05T10:30-03:00",
+ "actualizado": "2026-11-05T10:33-03:00",
  "medios": {
   "derecha_diario": [
    {
