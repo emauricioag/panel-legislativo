@@ -7,6 +7,8 @@
 <meta name="color-scheme" content="dark">
 <title>Panel legislativo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="icon" href="assets/icono.svg" type="image/svg+xml">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
@@ -18,12 +20,11 @@
 html{color-scheme:dark}
 html,body{height:100%;background:var(--fondo);color:var(--texto);
   font-family:Inter,system-ui,sans-serif;overflow:hidden}
-body{display:grid;grid-template-rows:auto auto 1fr auto;font-size:1.1vw}
+body{display:grid;grid-template-rows:auto auto 1fr auto;font-size:1.1vw;font-size:max(15px, calc(1.1vw * var(--z, 1)))}
 body.quieto{cursor:none}
 header{display:flex;align-items:center;gap:2vw;padding:1.4vw 2.4vw 1vw;border-bottom:1px solid var(--borde)}
 header .marca{font-weight:800;font-size:1.1em;letter-spacing:.02em;color:var(--suave)}
 header .marca b{color:var(--acento)}
-header h1{flex:1;font-size:2.2em;font-weight:800;letter-spacing:-.01em;text-wrap:balance}
 header .reloj{text-align:right}
 header .hora{font-size:2.4em;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
 .hora .dp{animation:parpadeo 1s steps(1,end) infinite}
@@ -53,8 +54,10 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 .auto:hover{border-color:var(--suave)}
 .auto:focus-visible{outline:3px solid var(--alerta);outline-offset:2px}
 .auto.on{background:#123d2c;border-color:var(--ok);color:var(--ok)}
-.act{color:var(--suave);font-size:.8em;white-space:nowrap}
-.barra{position:fixed;left:0;bottom:0;height:3px;background:var(--acento);width:0}
+.act{color:var(--suave);font-size:.85em;white-space:nowrap}
+.act.tarde{color:var(--alerta)}
+.act.viejo{color:var(--rojo)}
+.barra{position:fixed;left:0;bottom:0;height:3px;width:100%;background:var(--acento);transform:scaleX(0);transform-origin:left}
 
 /* componentes */
 .sub{color:var(--suave);font-size:1em;margin-bottom:1.2vw}
@@ -65,30 +68,27 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 .item .det{font-size:1.15em}
 .item .meta{color:var(--suave);font-size:.85em;margin-top:.3em}
 .item.destacado{border-color:var(--acento);background:linear-gradient(90deg,#2a1c4a,var(--panel) 60%)}
-.dos{display:grid;grid-template-columns:1fr 1fr;gap:2vw;height:100%}
-.col h2{font-size:1.3em;margin-bottom:.8vw;color:var(--suave);font-weight:600}
+.dos{display:grid;grid-template-columns:1fr 1fr;gap:2vw}
+.col h2,.dias h2{font-size:1.3em;margin-bottom:.8vw;color:var(--suave);font-weight:600}
 .tabla{width:100%;border-collapse:separate;border-spacing:0 .45vw}
 .tabla td{background:var(--panel);padding:.5vw 1vw;vertical-align:top;line-height:1.25}
 .tabla td.p{color:var(--suave);text-align:right;white-space:nowrap;font-size:.9em}
 .tabla td:first-child{border-radius:.5vw 0 0 .5vw;font-weight:700;white-space:nowrap;width:5.5em}
 .tabla td:nth-child(2){width:100%}
 .tabla td:last-child{border-radius:0 .5vw .5vw 0}
-.chip{display:inline-block;padding:.15em .6em;border-radius:1em;font-size:.8em;font-weight:700;white-space:nowrap}
+.chip{display:inline-block;padding:.15em .6em;border-radius:1em;font-size:.85em;font-weight:700;white-space:nowrap}
 .chip.apro{background:#123d2c;color:var(--ok)}
 .chip.pref{background:#45330f;color:var(--alerta)}
 .chip.com{background:#1e2a44;color:#b9c6e0}
 .chip.ing{background:#2b2147;color:#c9b2ff}
 .chip.cambio{background:var(--alerta);color:#201400}
-.grilla{display:grid;grid-template-columns:repeat(2,1fr);gap:.7vw}
+.grilla{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.7vw}
+.grilla>*{min-width:0}
 .proy{background:var(--panel);border:1px solid var(--borde);border-radius:.6vw;padding:.75vw 1vw;display:grid;grid-template-columns:5.2em 1fr;gap:.2vw 1vw;line-height:1.25}
 .proy .n{font-weight:800;font-size:1.05em;color:var(--acento)}
 .proy .t{font-weight:600}
 .proy .e{grid-column:2;color:var(--suave);font-size:.85em}
 .proy.cambio{border-color:var(--alerta)}
-.resumen{display:flex;gap:1.2vw;margin-bottom:1.2vw}
-.kpi{background:var(--panel);border-radius:.6vw;padding:.7vw 1.2vw;border:1px solid var(--borde)}
-.kpi b{font-size:2em;display:block;line-height:1}
-.kpi span{color:var(--suave);font-size:.85em}
 .vacio{color:var(--suave);font-size:1.3em;padding:2vw 0}
 .mapa{display:grid;grid-template-columns:1.35fr 1fr;gap:2vw;height:100%;align-items:center}
 .mapa svg{width:100%;height:auto}
@@ -116,26 +116,60 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
 .principal main{flex:1;min-height:0;padding:0;font-size:.92em}
 .principal .pagina{inset:.9vw 1.4vw 1vw}
 .lateral{display:flex;flex-direction:column;gap:.8vw;min-height:0}
-.widget{flex:1 1 0;min-height:0;overflow:hidden;display:flex;flex-direction:column;gap:.35vw;background:var(--panel);
+.widget{position:relative;flex:1 1 0;min-height:0;overflow:hidden;display:flex;flex-direction:column;gap:.35vw;background:var(--panel);
   border:1px solid var(--borde);border-radius:.9vw;padding:.8vw 1.1vw;color:inherit;text-decoration:none;
   transition:border-color .15s,background-color .15s}
 .widget:hover{border-color:var(--suave)}
 .widget:focus-visible{outline:3px solid var(--alerta);outline-offset:2px}
 .widget.on{border-color:var(--acento);background:#171f38}
-.widget h2{display:flex;justify-content:space-between;align-items:baseline;font-size:.78em;font-weight:700;
+.widget h2{display:flex;justify-content:space-between;align-items:baseline;font-size:.8em;font-weight:700;
   text-transform:uppercase;letter-spacing:.06em;color:var(--acento)}
 .widget h2 small{font-size:1em;color:var(--suave);font-weight:600;text-transform:none;letter-spacing:0}
 .widget .mini{display:grid;grid-template-columns:repeat(4,1fr);gap:.5vw}
 .widget .mini b{display:block;font-size:1.7em;line-height:1.05;font-variant-numeric:tabular-nums}
-.widget .mini span{color:var(--suave);font-size:.72em;line-height:1.2;display:block}
+.widget .mini span{color:var(--suave);font-size:.8em;line-height:1.2;display:block}
 .renglon{display:flex;gap:.8vw;font-size:.9em;line-height:1.3;min-width:0}
 .renglon time,.renglon .h{font-weight:700;flex:none;min-width:3.3em;white-space:nowrap;font-variant-numeric:tabular-nums}
 .renglon .t{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .renglon.lec .t{color:var(--acento);font-weight:700}
-.widget .nota{color:var(--suave);font-size:.8em;line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.widget .nota{color:var(--suave);font-size:.85em;line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 .widget .nota.n1{-webkit-line-clamp:1}
 .widget>*{flex-shrink:0}
 .widget .fuerte{font-size:1em;font-weight:600;line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+
+/* enlaces a los documentos: se abren en otra pestaña */
+a.item,a.proy{color:inherit;text-decoration:none;position:relative;transition:border-color .15s,background-color .15s}
+a.item:hover,a.proy:hover{border-color:var(--suave);background-color:var(--panel2)}
+a.item:focus-visible,a.proy:focus-visible,.sub a:focus-visible,.tabla a:focus-visible{outline:3px solid var(--alerta);outline-offset:2px}
+a.item::after,a.proy::after{content:"↗";position:absolute;top:.45em;right:.6em;color:var(--suave);font-weight:700;opacity:0;transition:opacity .15s}
+a.item:hover::after,a.proy:hover::after,a.item:focus-visible::after,a.proy:focus-visible::after{opacity:1}
+@media (hover:none){a.item,a.proy{padding-right:1.9em}a.item::after,a.proy::after{opacity:1}}
+.tabla a{color:inherit;text-decoration:underline;text-decoration-color:var(--borde);text-underline-offset:.2em}
+.tabla a:hover{text-decoration-color:var(--suave)}
+/* orden del día: los demás asuntos, en dos columnas y más compactos */
+.grilla.compacta{margin-top:.75vw}
+.item.c{padding:.7vw 1vw}
+.item.c .det{font-size:1em;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.item.c .meta{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+/* comisiones por día */
+.dias{display:grid;grid-template-columns:repeat(auto-fit,minmax(15em,1fr));gap:1.2vw 2vw}
+.fila{display:grid;grid-template-columns:3.4em 1fr;gap:1vw;background:var(--panel);border-radius:.5vw;padding:.55vw 1vw;margin-bottom:.45vw;line-height:1.25}
+.fila time{font-weight:700;font-variant-numeric:tabular-nums}
+.fila small{display:block;color:var(--suave);font-size:.85em;margin-top:.15em}
+.fila.lec b{color:var(--acento)}
+.fila.pasada{opacity:.55}
+/* la sección sigue más abajo: el borde inferior se esfuma */
+.pagina.mas{-webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 3.5vw),transparent);mask-image:linear-gradient(to bottom,#000 calc(100% - 3.5vw),transparent)}
+/* la tarjeta de proyectos siempre muestra sus cuatro números; en pantallas bajas se quitan los titulares */
+.widget[data-id="proyectos"]{flex:none}
+@media (max-height: 720px) and (min-width: 901px){.widget[data-id="noticias"]{display:none}}
+.widget .tit{font-size:.9em;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+/* controles del pie: se esconden con el puntero y vuelven al mover el mouse */
+.ctl{display:flex;gap:.5vw;align-items:center;transition:opacity .4s}
+body.quieto .ctl{opacity:0}
+.ctl:focus-within{opacity:1}
+.ctl .chico{min-width:2.7em;text-align:center}
+.ctl svg{width:1em;height:1em;vertical-align:-.15em}
 
 @media (prefers-reduced-motion: reduce){
   .pagina{transition:none}
@@ -153,7 +187,7 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
   header .logos .lla{height:34px}
   header .ident{order:3;width:100%;border-left:0;padding-left:0}
   header .reloj{margin-left:auto}
-  #control{display:none}
+  #control,.ctl{display:none}
   header .marca{font-size:1em}
   header .camara{font-size:.8em}
   .cuerpo{display:flex;flex-direction:column;gap:14px;padding:12px 16px}
@@ -172,10 +206,11 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
   .tabs button{border-radius:8px;padding:8px 14px;font-size:.9em;min-height:44px}
   main{padding:14px 16px 24px;overflow:visible}
   .pagina{position:static;opacity:1;overflow:visible;margin-bottom:14px}
-  .dos,.grilla,.mapa,.resumen{grid-template-columns:1fr;gap:10px}
-  .resumen{display:grid;grid-template-columns:1fr 1fr}
+  .dos,.grilla,.mapa,.dias{grid-template-columns:1fr;gap:10px}
+  .fila{border-radius:8px;padding:8px 10px;margin-bottom:6px}
+  .grilla.compacta{margin-top:10px}
   .lista{gap:10px}
-  .item,.proy,.kpi{border-radius:10px;padding:10px 12px}
+  .item,.proy{border-radius:10px;padding:10px 12px}
   .proy{grid-template-columns:4.6em minmax(0,1fr);gap:2px 10px}
   .grilla>*,.dos>*,.lista>*{min-width:0}
   .det,.proy .t{overflow-wrap:anywhere}
@@ -191,9 +226,10 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
   .leyenda i{display:inline-block;margin-right:6px;transform:none}
   .leyenda b{margin-right:6px}
   .sub{margin-bottom:10px}
-  footer{position:sticky;bottom:0;flex-wrap:wrap;gap:6px 14px;padding:10px 16px calc(10px + env(safe-area-inset-bottom))}
-  .cot{flex-wrap:wrap;gap:4px 14px;white-space:normal;font-size:.9em}
-  .act{width:100%}
+  footer{position:sticky;bottom:0;gap:14px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));overflow-x:auto;scrollbar-width:none}
+  footer::-webkit-scrollbar{display:none}
+  .cot{flex:none;gap:14px;font-size:.9em}
+  .act{flex:none;font-size:.8em}
   .barra{display:none}
 }
 </style>
@@ -214,14 +250,19 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
   <section class="principal" aria-labelledby="titulo">
     <nav class="tabs" id="tabs" aria-label="Secciones del panel"></nav>
     <h1 id="titulo">Panel legislativo</h1>
-    <main id="main" aria-live="polite"></main>
+    <main id="main"><div class="pagina visible"><div class="vacio">Cargando…</div></div></main>
   </section>
   <aside class="lateral" id="lateral" aria-label="Resumen"></aside>
 </div>
 <footer>
   <div class="cot" id="cot"></div>
-  <div class="act" id="act"></div>
-  <button type="button" id="control" class="auto">❚❚ Pausar</button>
+  <div class="act" id="act" role="status"></div>
+  <div class="ctl">
+    <button type="button" class="auto chico" id="menos" aria-label="Achicar la letra" title="Achicar la letra (tecla −)">A−</button>
+    <button type="button" class="auto chico" id="mas" aria-label="Agrandar la letra" title="Agrandar la letra (tecla +)">A+</button>
+    <button type="button" class="auto chico" id="pantalla" aria-label="Pantalla completa" title="Pantalla completa (tecla F)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+    <button type="button" id="control" class="auto" title="Pausar o seguir rotando (barra espaciadora)">Pausar</button>
+  </div>
 </footer>
 <div class="barra" id="barra"></div>
 
@@ -242,9 +283,50 @@ const haceDias = iso => (new Date(hoyISO()) - new Date(iso)) / 864e5;
 const trozos = (arr, n) => { const o = []; for (let i = 0; i < arr.length; i += n) o.push(arr.slice(i, i + n)); return o.length ? o : [[]]; };
 const fechaRss = s => { const d = new Date(s); return isNaN(d) ? '' : d.toLocaleString('es-AR', {timeZone: TZ, day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit', hourCycle:'h23'}); };
 
+const DIAS = ['domingo','lunes','martes','miércoles','jueves','viernes','sábado'];
+const ahoraAR = () => new Date(new Date().toLocaleString('en-US', {timeZone: TZ}));
+const horaAR = () => new Date().toLocaleTimeString('es-AR', {timeZone: TZ, hour:'2-digit', minute:'2-digit', hourCycle:'h23'});
+const aMin = h => +h.slice(0, 2) * 60 + +h.slice(3, 5);
+const diaCorto = iso => new Date(iso + 'T12:00:00').toLocaleDateString('es-AR', {weekday:'long'}) + ' ' + fechaCorta(iso);
+const isoDe = s => { const m = /(\d{2})[\/-](\d{2})[\/-](\d{4})/.exec(s || ''); return m ? `${m[3]}-${m[2]}-${m[1]}` : ''; };
+const numExpte = n => String(n).replace(/^(\d{2})(\d{3})$/, '$1.$2');
+// los PDF que enlaza la propia Cámara en el orden del día
+const pdfExpte = n => `https://www.hcdcorrientes.gov.ar/boletin/Expte%20${n}.pdf`;
+const pdfNota = n => `https://www.hcdcorrientes.gov.ar/boletin/Nota%20${n}.pdf`;
+// bloque que abre su documento en otra pestaña (si no hay enlace, queda como bloque común)
+const caja = (href, clase, html) => href
+  ? `<a class="${clase}" href="${esc(href)}" target="_blank" rel="noopener">${html}</a>`
+  : `<div class="${clase}">${html}</div>`;
+
+// El estado sale de base.json, salvo que la ficha de la Cámara muestre algo más nuevo:
+// una aprobación (con su número de declaración, resolución o ley) o el giro a comisión.
+function estadoDe(p) {
+  const c = (LIVE.expedientes || {})[p.expte]?.comision || '';
+  const ap = c.match(/Aprobaci[oó]n:\s*(\d{2})\/(\d{2})\/\d{4}(?:\s*(Declaraci[oó]n|Resoluci[oó]n|Comunicaci[oó]n|Ley):\s*([\w\/.-]+))?/i);
+  if (ap && !/aprob|sanci/i.test(p.estado)) {
+    const [, d, m, inst, num] = ap;
+    if (/^ley/i.test(inst || '')) return `Sancionada (Ley ${num})`;
+    if (inst) return `Aprobada (${{Dec:'Decl.', Res:'Res.', Com:'Com.'}[inst.slice(0, 3)] || inst} ${num})`;
+    return p.tipo === 'Ley' ? `Media sanción (${d}/${m})` : `Aprobada (${d}/${m})`;
+  }
+  if (/ingres/i.test(p.estado) && c && !/sin asignar/i.test(c)) return 'En comisión';
+  return p.estado;
+}
+
+// "Archivos: 04-11-2026.pdf, Anexo BO 04-11-2026 - EPRE DPEC.pdf" → "Edición del día y anexo EPRE DPEC"
+function archivosBO(det) {
+  const m = /^Archivos:\s*(.+)$/.exec(det || ''); if (!m) return det || '';
+  const n = m[1].split(/,\s*/).map((f, i) => {
+    const t = f.replace(/\.pdf$/i, '').replace(/\d{2}-\d{2}-\d{4}/g, '').replace(/\bv\d+\b/gi, '').replace(/\bBO\b/g, '')
+      .replace(/\s+-\s+/g, ' ').replace(/\s+/g, ' ').trim() || 'edición del día';
+    return i ? t[0].toLowerCase() + t.slice(1) : t[0].toUpperCase() + t.slice(1);
+  });
+  return n.length > 1 ? n.slice(0, -1).join(', ') + ' y ' + n[n.length - 1] : n[0];
+}
+
 function chipEstado(e) {
   const t = (e || '').toLowerCase();
-  const c = t.includes('aprob') ? 'apro' : t.includes('prefer') ? 'pref' : t.includes('ingres') ? 'ing' : 'com';
+  const c = /aprob|sanci/.test(t) ? 'apro' : t.includes('prefer') ? 'pref' : t.includes('ingres') ? 'ing' : 'com';
   return `<span class="chip ${c}">${esc(e)}</span>`;
 }
 
@@ -259,10 +341,10 @@ const SECCIONES = [
     const ficha = p => {
       const r = est[p.expte] || {};
       const cambio = r.cambio && haceDias(r.cambio) <= 7;
-      return `<div class="proy ${cambio ? 'cambio' : ''}"><div class="n">${p.expte.replace(/(\d{2})(\d{3})/, '$1.$2')}</div>
+      return caja(pdfExpte(p.expte), `proy ${cambio ? 'cambio' : ''}`, `<div class="n">${numExpte(p.expte)}</div>
         <div class="t">${esc(p.tema)}</div>
-        <div class="e">${p.tipo} · ${esc(p.comision === 'Sin asignar' && r.comision ? r.comision : p.comision)} · ${chipEstado(p.estado)}
-        ${cambio ? ` <span class="chip cambio">Cambió el ${fechaCorta(r.cambio)}</span>` : ''}</div></div>`;
+        <div class="e">${p.tipo} · ${esc(p.comision === 'Sin asignar' && r.comision ? r.comision : p.comision)} · ${chipEstado(estadoDe(p))}
+        ${cambio ? ` <span class="chip cambio">Cambió el ${fechaCorta(r.cambio)}</span>` : ''}</div>`);
     };
     const orden = [...recientes, ...lista.filter(p => !recientes.includes(p))];
     return trozos(orden, 10).map(g => `<div class="grilla">${g.map(ficha).join('')}</div>`);
@@ -270,26 +352,38 @@ const SECCIONES = [
 
   {id:'od', corto:'Orden del día', titulo:'Orden del día · Diputados de Corrientes', paginas() {
     const od = LIVE.hcd_od; if (!od) return [`<div class="vacio">Sin datos del orden del día.</div>`];
-    const sub = `<div class="sub">${esc(od.titulo)} · ${od.asuntos.length} asuntos${od.asuntos.some(a=>a.leconte) ? ' · en violeta, los del Dip. Leconte' : ''}</div>`;
-    const orden = [...od.asuntos.filter(a => a.leconte), ...od.asuntos.filter(a => !a.leconte)];
-    return trozos(orden, 5).map(g => sub + `<div class="lista">${g.map(a => `
-      <div class="item ${a.leconte ? 'destacado' : ''}"><div class="org">${esc(a.item)} · ${esc(a.seccion)}${a.expte ? ' · Expte. ' + a.expte.replace(/(\d{2})(\d{3})/, '$1.$2') : ''}</div>
-      <div class="det">${esc(a.texto.length > 230 ? a.texto.slice(0, 225).replace(/\s\S*$/, '') + '…' : a.texto)}</div>${a.autores ? `<div class="meta">${esc(a.autores)}</div>` : ''}</div>`).join('')}</div>`);
+    const lec = od.asuntos.filter(a => a.leconte), resto = od.asuntos.filter(a => !a.leconte);
+    const docs = [od.pdf && `<a href="${esc(od.pdf)}" target="_blank" rel="noopener">orden del día completo</a>`,
+                  od.informe && `<a href="${esc(od.informe)}" target="_blank" rel="noopener">informe</a>`].filter(Boolean).join(' · ');
+    const sub = `<div class="sub">${esc(od.titulo)} · ${od.asuntos.length} asuntos${lec.length ? ' · primero, los del Dip. Leconte' : ''}${docs ? ' · ' + docs : ''}</div>`;
+    const enlace = a => a.expte ? pdfExpte(a.expte) : a.nota ? pdfNota(a.nota) : '';
+    const sec = t => t.replace(/^Proyectos presentados por los señores diputados$/i, 'Proyectos de diputados');
+    const rotulo = a => `${esc(a.item)} · ${esc(sec(a.seccion))}${a.expte ? ' · Expte. ' + numExpte(a.expte) : a.nota ? ' · Nota ' + esc(a.nota) : ''}`;
+    const texto = a => esc(a.texto.length > 230 ? a.texto.slice(0, 225).replace(/\s\S*$/, '') + '…' : a.texto);
+    const ficha = (a, clase) => caja(enlace(a), clase, `<div class="org">${rotulo(a)}</div><div class="det">${texto(a)}</div>${a.autores ? `<div class="meta">${esc(a.autores)}</div>` : ''}`);
+    return [sub + (lec.length ? `<div class="lista">${lec.map(a => ficha(a, 'item destacado')).join('')}</div>` : '')
+      + `<div class="grilla compacta">${resto.map(a => ficha(a, 'item c')).join('')}</div>`];
   }},
 
   {id:'comisiones', corto:'Comisiones', titulo:'Comisiones y sesiones en Corrientes', paginas() {
-    const dias = ['lunes','martes','miércoles','jueves','viernes'];
-    const hoy = new Date().toLocaleDateString('es-AR', {weekday:'long', timeZone: TZ});
-    const filas = BASE.comisiones.slice().sort((a,b) => dias.indexOf(a.dia) - dias.indexOf(b.dia) || a.hora.localeCompare(b.hora));
-    const tabla = d => filas.filter(c => c.dia === d).map(c => `<tr><td>${c.hora}</td><td>${c.leconte ? '<b style="color:var(--acento)">' : ''}${esc(c.nombre)}${c.leconte ? ' · Leconte</b>' : ''}</td><td class="p">${c.preside ? 'Preside ' + esc(c.preside) : ''}</td></tr>`).join('');
-    const sen = (LIVE.senado_corrientes || []).map(o => `<tr><td>${fechaCorta(o.fecha)}</td><td>Senado · Orden del día N.º ${o.numero}</td></tr>`).join('');
-    const hcd = LIVE.hcd_od ? `<tr><td>${esc(LIVE.hcd_od.rotulo.split(' ')[0].slice(0,5))}</td><td>Diputados · ${esc(LIVE.hcd_od.rotulo.replace(/^\S+\s*-?\s*/, ''))}</td></tr>` : '';
-    const notis = (LIVE.hcd_noticias || []).slice(0, 4).map(n => `<div class="item"><div class="det">${esc(n.titulo)}</div><div class="meta">${fechaRss(n.fecha)}</div></div>`).join('');
+    const hoyN = ahoraAR().getDay(), ya = aMin(horaAR());
+    const coms = BASE.comisiones || [];
+    // días con reuniones, empezando por hoy; las de hoy que ya pasaron quedan atenuadas
+    const dias = [0, 1, 2, 3, 4, 5, 6].map(k => (hoyN + k) % 7).filter(d => coms.some(c => c.dia === DIAS[d]));
+    const bloque = d => {
+      const filas = coms.filter(c => c.dia === DIAS[d]).sort((a, b) => a.hora.localeCompare(b.hora)).map(c =>
+        `<div class="fila ${c.leconte ? 'lec' : ''} ${d === hoyN && aMin(c.hora) < ya - 90 ? 'pasada' : ''}"><time>${c.hora}</time>
+         <div><b>${esc(c.nombre)}</b>${c.leconte ? ' · Leconte' : ''}${c.preside ? `<small>Preside ${esc(c.preside)}</small>` : ''}</div></div>`).join('');
+      return `<div><h2>${DIAS[d][0].toUpperCase() + DIAS[d].slice(1)}${d === hoyN ? ' <span class="hoy">· hoy</span>' : ''}</h2>${filas}</div>`;
+    };
+    const enlace = (u, t) => u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${t}</a>` : t;
+    const od = LIVE.hcd_od;
+    const hcd = od ? `<tr><td>${esc(od.rotulo.split(' ')[0].slice(0, 5))}</td><td>${enlace(od.pdf, 'Diputados · ' + esc(od.rotulo.replace(/^\S+\s*-?\s*/, '')))}</td></tr>` : '';
+    const sen = (LIVE.senado_corrientes || []).map(o => `<tr><td>${fechaCorta(o.fecha)}</td><td>${enlace(o.pdf, 'Senado · Orden del día N.º ' + esc(o.numero))}</td></tr>`).join('');
+    const notis = (LIVE.hcd_noticias || []).slice(0, 4).map(n => caja(n.link, 'item', `<div class="det">${esc(n.titulo)}</div><div class="meta">${fechaRss(n.fecha)}</div>`)).join('');
     return [
-      `<div class="dos"><div class="col"><h2>Martes ${hoy === 'martes' ? '<span class="hoy">· hoy</span>' : ''}</h2><table class="tabla">${tabla('martes')}</table></div>
-       <div class="col"><h2>Miércoles ${hoy === 'miércoles' ? '<span class="hoy">· hoy</span>' : ''}</h2><table class="tabla">${tabla('miércoles')}</table>
-       <h2 style="margin-top:1.2vw">Lunes</h2><table class="tabla">${tabla('lunes')}</table></div></div>`,
-      `<div class="dos"><div class="col"><h2>Últimas sesiones con orden del día</h2><table class="tabla">${hcd}${sen}</table></div>
+      `<div class="dias">${dias.map(bloque).join('')}</div>`,
+      `<div class="dos" style="margin-top:1.6vw"><div class="col"><h2>Últimas sesiones con orden del día</h2><table class="tabla">${hcd}${sen}</table></div>
        <div class="col"><h2>Novedades de la Cámara</h2><div class="lista">${notis}</div></div></div>`
     ];
   }},
@@ -298,15 +392,15 @@ const SECCIONES = [
 
   {id:'presidente', corto:'Presidente', titulo:'Presidente Javier Milei', paginas() {
     const p = LIVE.presidente || {};
-    const notas = (p.noticias || []).slice(0, 7).map(n => `<div class="item"><div class="org">${esc(n.fuente)} · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div></div>`).join('');
-    const disc = (p.discursos || []).slice(0, 5).map(n => `<div class="item"><div class="org">Casa Rosada · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div></div>`).join('');
+    const notas = (p.noticias || []).slice(0, 7).map(n => caja(n.link, 'item', `<div class="org">${esc(n.fuente)} · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div>`)).join('');
+    const disc = (p.discursos || []).slice(0, 5).map(n => caja(n.link, 'item', `<div class="org">Casa Rosada · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div>`)).join('');
     return [`<div class="dos"><div class="col"><h2>Sus publicaciones en X, según los medios (24 h)</h2><div class="lista">${notas || '<div class="vacio">Sin notas.</div>'}</div></div>
       <div class="col"><h2>Discursos y anuncios oficiales</h2><div class="lista">${disc}</div></div></div>`];
   }},
 
   {id:'noticias', corto:'Noticias', titulo:'Noticias', paginas() {
     const n = LIVE.noticias || [];
-    const tarjeta = i => `<div class="item"><div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div></div>`;
+    const tarjeta = i => caja(i.link, 'item', `<div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div>`);
     const nac = LIVE.nacionales || [];
     const pags = [];
     if (nac.length) pags.push(`<div class="sub">Titulares nacionales · Google Noticias</div><div class="lista">${nac.slice(0, 8).map(tarjeta).join('')}</div>`);
@@ -322,10 +416,12 @@ const SECCIONES = [
 
 function paginasBO(bo, fuente) {
   if (!bo || !bo.items?.length) return [`<div class="vacio">Sin publicaciones disponibles.</div>`];
-  const sub = bo.modo === 'noticias'
-    ? `<div class="sub">El sitio del Boletín no respondió: se muestran las noticias sobre normas publicadas.</div>`
-    : `<div class="sub">Últimas ediciones · ${fuente}</div>`;
-  return trozos(bo.items, 7).slice(0, 4).map(g => sub + `<div class="lista">${g.map(i => `<div class="item"><div class="org">${esc(i.organismo)}</div><div class="det">${esc(i.detalle)}</div></div>`).join('')}</div>`);
+  const directo = bo.modo !== 'noticias';
+  const sub = directo ? `<div class="sub">Últimas ediciones · ${fuente}</div>`
+    : `<div class="sub">El sitio del Boletín no respondió: se muestran las noticias sobre normas publicadas.</div>`;
+  const titulo = i => { const f = directo && isoDe(i.organismo); return f ? 'Edición del ' + diaCorto(f) : esc(i.organismo); };
+  return [sub + `<div class="lista">${bo.items.slice(0, 8).map(i =>
+    caja(i.link, 'item', `<div class="org">${titulo(i)}</div><div class="det">${esc(directo ? archivosBO(i.detalle) : i.detalle)}</div>`)).join('')}</div>`];
 }
 
 function mapa() {
@@ -373,7 +469,7 @@ function tarjetas(actual) {
   ctl.hidden = MOVIL.matches;
   ctl.className = 'auto' + (auto ? ' on' : '');
   ctl.setAttribute('aria-pressed', auto);
-  ctl.textContent = auto ? '❚❚ Pausar' : '▶ Rotar';
+  ctl.innerHTML = auto ? '<span aria-hidden="true">❚❚</span> Pausar' : '<span aria-hidden="true">▶</span> Rotar';
   const t = document.getElementById('tabs'), b = t.querySelector('.on');
   if (b) t.scrollLeft = Math.max(0, b.offsetLeft - t.clientWidth / 2 + b.offsetWidth / 2);
 }
@@ -397,7 +493,8 @@ function pausarAqui() {
   auto = false; pausado = true; fija = cola[pos]?.s.id || fija;
   detener(); tarjetas(fija); url();
 }
-['wheel', 'touchstart'].forEach(ev => document.getElementById('main').addEventListener(ev, pausarAqui, {passive: true}));
+// también al hacer clic (por ejemplo, para abrir un PDF) o al llegar con el teclado
+['wheel', 'pointerdown', 'focusin'].forEach(ev => document.getElementById('main').addEventListener(ev, pausarAqui, {passive: true}));
 document.getElementById('lateral').addEventListener('click', e => {
   const a = e.target.closest('a.widget'); if (!a) return;
   e.preventDefault(); elegir(a.dataset.id);
@@ -411,7 +508,7 @@ function url() {
 function detener() {
   clearTimeout(temporizador); cancelAnimationFrame(animacion);
   const barra = document.getElementById('barra');
-  barra.style.transition = 'none'; barra.style.width = '0';
+  barra.style.transition = 'none'; barra.style.transform = 'scaleX(0)';
 }
 function sinSubtitulosRepetidos(el) {
   const vistos = new Set();
@@ -432,17 +529,19 @@ function desplazar(el, hasta, alTerminar) {
 function programar(el) {
   const sobra = el.scrollHeight - el.clientHeight;
   const vel = 55 * innerHeight / 1080;
-  const total = sobra > 4 ? ESPERA * 2 + sobra / vel : SEG;
+  const recorrido = sobra > 4 ? sobra / vel : 0;
+  const espera = Math.max(ESPERA, (SEG - recorrido) / 2);   // ninguna sección dura menos de SEG segundos
+  const total = sobra > 4 ? espera * 2 + recorrido : SEG;
   const barra = document.getElementById('barra');
-  requestAnimationFrame(() => requestAnimationFrame(() => { barra.style.transition = `width ${total}s linear`; barra.style.width = '100%'; }));
+  requestAnimationFrame(() => requestAnimationFrame(() => { barra.style.transition = `transform ${total}s linear`; barra.style.transform = 'scaleX(1)'; }));
   if (sobra <= 4) { if (auto) temporizador = setTimeout(() => mostrar(1), SEG * 1000); return; }
   temporizador = setTimeout(() => desplazar(el, sobra, () => {
     temporizador = setTimeout(() => {
       if (auto) return mostrar(1);
       el.scrollTo({top: 0, behavior: 'smooth'});          // sección fija: vuelve arriba y repite
       detener(); temporizador = setTimeout(() => programar(el), 1500);
-    }, ESPERA * 1000);
-  }), ESPERA * 1000);
+    }, espera * 1000);
+  }), espera * 1000);
 }
 function mostrar(delta = 1) {
   if (!cola.length) return;
@@ -463,15 +562,23 @@ function mostrar(delta = 1) {
   nueva.className = 'pagina'; nueva.innerHTML = c.html;
   sinSubtitulosRepetidos(nueva);
   main.appendChild(nueva);
+  const marcar = () => nueva.classList.toggle('mas', nueva.scrollTop + nueva.clientHeight < nueva.scrollHeight - 4);
+  nueva.addEventListener('scroll', marcar, {passive: true}); marcar();
   requestAnimationFrame(() => nueva.classList.add('visible'));
   [...main.children].slice(0, -1).forEach(v => { v.classList.remove('visible'); setTimeout(() => v.remove(), 900); });
   if (c.s.alMostrar) setTimeout(c.s.alMostrar, 50);
   if (!pausado) programar(nueva);
 }
+// teclado: flechas = sección anterior o siguiente; espacio = pausar o seguir; + y − = letra; F = pantalla completa
 document.addEventListener('keydown', e => {
+  if (e.ctrlKey || e.metaKey || e.altKey) return;
   if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') { fija = null; auto = true; pausado = false; url(); mostrar(e.key === 'ArrowRight' ? 1 : -1); }
+  else if (e.key === ' ' && !e.target.closest?.('button, a')) { e.preventDefault(); document.getElementById('control').click(); }
+  else if (e.key === '+') zoom(.1);
+  else if (e.key === '-') zoom(-.1);
+  else if (e.key === 'f' || e.key === 'F') pantalla();
 });
-MOVIL.addEventListener('change', () => { auto = !fija && !MOVIL.matches; mostrar(0); });
+MOVIL.addEventListener('change', () => { auto = !fija && !MOVIL.matches; mostrar(0); ajustarTarjetas(); });
 // el puntero se esconde a los 3 segundos sin moverse (para la TV)
 let quieto;
 document.addEventListener('mousemove', () => {
@@ -480,7 +587,6 @@ document.addEventListener('mousemove', () => {
 });
 
 // ---------------------------------------------------------------- columna de tarjetas
-const DIAS = ['domingo','lunes','martes','miércoles','jueves','viernes','sábado'];
 function lateral() {
   const w = (id, titulo, extra, cuerpo) =>
     `<a class="widget" href="?s=${id}" data-id="${id}"><h2>${titulo}${extra ? `<small>${extra}</small>` : ''}</h2>${cuerpo}</a>`;
@@ -489,60 +595,88 @@ function lateral() {
   // 1. proyectos de Leconte
   const est = LIVE.expedientes || {};
   const ps = BASE.proyectos || [];
-  const cuenta = re => ps.filter(p => re.test(p.estado)).length;
+  const cuenta = re => ps.filter(p => re.test(estadoDe(p))).length;
   const cambios = ps.filter(p => est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7);
   const ult = cambios[0] || ps[0];
   out.push(w('proyectos', 'Proyectos de Leconte', '', `
     <div class="mini">
       <div><b>${ps.length}</b><span>presentados</span></div>
-      <div><b>${cuenta(/aprob/i)}</b><span>aprobados</span></div>
+      <div><b>${cuenta(/aprob|sanci/i)}</b><span>aprobados</span></div>
       <div><b>${cuenta(/comisi|ingres/i)}</b><span>en comisión</span></div>
       <div><b>${cuenta(/prefer/i)}</b><span>con preferencia</span></div>
     </div>
-    ${ult ? `<div class="nota n1">${cambios.length ? 'Movimiento' : 'Último'}: ${esc(ult.tema)} (Expte. ${ult.expte.replace(/(\d{2})(\d{3})/, '$1.$2')})</div>` : ''}`));
+    ${ult ? `<div class="nota n1">${cambios.length ? 'Movimiento' : 'Último'}: ${esc(ult.tema)} (Expte. ${numExpte(ult.expte)})</div>` : ''}`));
 
-  // 2. comisiones: hoy y los próximos días con reuniones, hasta 4 renglones
-  const hoyN = new Date(new Date().toLocaleString('en-US', {timeZone: TZ})).getDay();
+  // 2. comisiones: las de hoy que no terminaron (empezadas hace menos de 90 minutos) y las de los próximos días
+  const hoyN = ahoraAR().getDay(), ya = aMin(horaAR());
   const lista = [];
   for (let k = 0; k < 7 && lista.length < 4; k++) {
     const d = DIAS[(hoyN + k) % 7];
-    const del = (BASE.comisiones || []).filter(c => c.dia === d).sort((a, b) => a.hora.localeCompare(b.hora));
-    del.forEach(c => lista.push({...c, k}));
+    (BASE.comisiones || []).filter(c => c.dia === d && (k > 0 || aMin(c.hora) >= ya - 90))
+      .sort((a, b) => a.hora.localeCompare(b.hora)).forEach(c => lista.push({...c, k}));
   }
-  const abrev = c => c.k === 0 ? c.hora : c.dia.slice(0, 3) + ' ' + c.hora;
+  const cuando = c => c.k === 0 ? c.hora : c.dia.slice(0, 3) + ' ' + c.hora;
   out.push(w('comisiones', 'Comisiones', lista[0]?.k === 0 ? 'hoy' : 'próximas',
-    lista.slice(0, 3).map(c => `<div class="renglon ${c.leconte ? 'lec' : ''}"><time>${abrev(c)}</time><span class="t">${esc(c.nombre.split(',')[0])}${c.leconte ? ' · Leconte' : ''}</span></div>`).join('')));
+    lista.slice(0, 4).map(c => `<div class="renglon ${c.leconte ? 'lec' : ''}"><time>${cuando(c)}</time><span class="t">${esc(c.nombre.split(',')[0])}${c.leconte ? ' · Leconte' : ''}</span></div>`).join('')));
 
-  // 3. sesiones en Corrientes
+  // 3. sesiones en Corrientes: aclara si el orden del día es de la última sesión o de la próxima
   const od = LIVE.hcd_od, sc = (LIVE.senado_corrientes || [])[0];
-  const lec = od ? od.asuntos.filter(a => a.leconte).length : 0;
-  out.push(w('od', 'Sesiones en Corrientes', '', `
-    ${od ? `<div class="fuerte">Diputados: ${esc(od.titulo.replace(/\s*–.*$/, ''))}</div>
-    <div class="nota">${od.asuntos.length} asuntos${lec ? ` · ${lec} del Dip. Leconte` : ''}</div>` : ''}
-    ${sc ? `<div class="renglon"><time>${fechaCorta(sc.fecha)}</time><span class="t">Senado · orden del día N.º ${sc.numero}</span></div>` : ''}`));
+  if (od) {
+    const f = isoDe(od.rotulo), prox = f && f >= hoyISO();
+    const hora = (/Hora\s*(\d{1,2})/i.exec(od.titulo) || [])[1];
+    const lec = od.asuntos.filter(a => a.leconte).length;
+    out.push(w('od', 'Sesiones en Corrientes', prox ? (f === hoyISO() ? 'hoy' : 'próxima') : '', `
+      <div class="fuerte">${prox ? 'Próxima sesión' : 'Última sesión'}: ${f ? diaCorto(f) : esc(od.rotulo)}${hora ? `, ${hora} h` : ''}</div>
+      <div class="nota">${esc(od.titulo.replace(/\s+del\s.*$/, ''))} · ${od.asuntos.length} asuntos${lec ? ` · ${lec} del Dip. Leconte` : ''}</div>
+      ${sc ? `<div class="renglon"><time>${fechaCorta(sc.fecha)}</time><span class="t">Senado · orden del día N.º ${esc(sc.numero)}</span></div>` : ''}`));
+  } else out.push(w('od', 'Sesiones en Corrientes', '', '<div class="nota">Sin orden del día publicado.</div>'));
 
   // 4. Boletín Oficial de Corrientes
-  const bcs = LIVE.bo_corrientes?.items || [], bc = bcs[0], directo = LIVE.bo_corrientes?.modo !== 'noticias';
-  out.push(w('boctes', 'Boletín Oficial de Corrientes', bc && directo ? esc(bc.organismo.replace('Boletín Oficial ', '')) : '',
-    bc ? `<div class="nota">${esc(bc.detalle)}</div>` : '<div class="nota">Sin ediciones disponibles.</div>'));
+  const bo = LIVE.bo_corrientes, bc = bo?.items?.[0], directo = bo?.modo !== 'noticias';
+  const fb = bc && directo ? isoDe(bc.organismo) : '';
+  out.push(w('boctes', 'Boletín Oficial de Corrientes', fb ? (fb === hoyISO() ? 'hoy' : '') : '',
+    bc ? `${fb ? `<div class="fuerte">Edición del ${diaCorto(fb)}</div>` : ''}<div class="nota">${esc(directo ? archivosBO(bc.detalle) : bc.detalle)}</div>`
+       : '<div class="nota">Sin ediciones disponibles.</div>'));
 
   // 5. titulares nacionales
-  const nac = (LIVE.nacionales || []).slice(0, 2);
+  const nac = (LIVE.nacionales || []).slice(0, 3);
   out.push(w('noticias', 'Titulares nacionales', '',
-    nac.map(i => `<div class="renglon"><span class="t">${esc(i.titulo)}</span></div>`).join('') || '<div class="nota">Sin titulares.</div>'));
+    nac.map(i => `<div class="tit">${esc(i.titulo)}</div>`).join('') || '<div class="nota">Sin titulares.</div>'));
 
   document.getElementById('lateral').innerHTML = out.join('');
   const actual = cola[pos]?.s.id;
   document.querySelectorAll('.widget').forEach(x => x.classList.toggle('on', x.dataset.id === actual));
+  ajustarTarjetas();
 }
 
+// En pantallas bajas, lo que no entra en una tarjeta se oculta entero: nunca medio renglón.
+function ajustarTarjetas() {
+  document.querySelectorAll('.widget').forEach(w => {
+    const hijos = [...w.children].slice(1);
+    hijos.forEach(h => { h.style.visibility = ''; });
+    if (MOVIL.matches) return;
+    const limite = w.clientHeight - parseFloat(getComputedStyle(w).paddingBottom);
+    hijos.forEach(h => { if (h.offsetTop + h.offsetHeight > limite + 1) h.style.visibility = 'hidden'; });
+  });
+}
+let reajuste;
+addEventListener('resize', () => { clearTimeout(reajuste); reajuste = setTimeout(ajustarTarjetas, 150); });
+document.fonts?.ready.then(ajustarTarjetas);
+
+let sinConexion = false;
 function pie() {
   const d = LIVE.dolar || [];
   const nombre = {'Oficial':'Oficial','Blue':'Blue','Bolsa':'MEP','Contado con liquidación':'CCL','Mayorista':'Mayorista'};
   const rp = LIVE.riesgo_pais;
   document.getElementById('cot').innerHTML = d.filter(x => x.casa !== 'Mayorista').map(x => `<div><span>Dólar ${nombre[x.casa] || x.casa}</span><b>$ ${fmtN(x.venta)}</b></div>`).join('')
     + (rp ? `<div class="rp"><span>Riesgo país</span><b>${fmtN(rp.valor)} pb</b></div>` : '');
-  if (LIVE.actualizado) document.getElementById('act').textContent = 'Datos: ' + new Date(LIVE.actualizado).toLocaleString('es-AR', {timeZone: TZ, day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit', hourCycle:'h23'});
+  // datos con más de 3 horas: aviso en ámbar; con más de 8 o sin conexión: en rojo
+  if (!LIVE.actualizado) return;
+  const act = document.getElementById('act');
+  const t = new Date(LIVE.actualizado), horas = (Date.now() - t) / 36e5;
+  const cuando = t.toLocaleString('es-AR', {timeZone: TZ, day:'2-digit', month:'2-digit', hour:'2-digit', minute:'2-digit', hourCycle:'h23'});
+  act.className = 'act' + (sinConexion || horas > 8 ? ' viejo' : horas > 3 ? ' tarde' : '');
+  act.textContent = (sinConexion ? 'Sin conexión · ' : '') + 'Datos: ' + cuando + (!sinConexion && horas > 3 ? ' · sin actualizar' : '');
 }
 function reloj() {
   const n = new Date();
@@ -556,20 +690,66 @@ function reloj() {
 async function cargar() {
   const v = '?v=' + Date.now();
   try {
-    const [b, l] = await Promise.all([fetch('data/base.json' + v).then(r => r.json()), fetch('data/live.json' + v).then(r => r.json())]);
-    BASE = b; LIVE = l;
-  } catch (e) { console.error('No se pudieron leer los datos', e); }
+    const [b, l] = await Promise.all(['data/base.json', 'data/live.json'].map(u =>
+      fetch(u + v, {cache: 'no-store'}).then(r => { if (!r.ok) throw new Error(u + ' ' + r.status); return r.json(); })));
+    BASE = b; LIVE = l; sinConexion = false;
+  } catch (e) { sinConexion = true; console.error('No se pudieron leer los datos', e); }
+  if (!BASE.proyectos) {   // nunca llegó a cargar: aviso y nuevo intento en un minuto
+    const aviso = document.querySelector('#main .vacio');
+    if (aviso) aviso.textContent = 'Sin conexión. Se vuelve a intentar en un minuto…';
+    setTimeout(cargar, 60e3);
+    return;
+  }
   pie();
-  const actual = cola[pos]?.s.id;
+  const primera = pos === -1, actual = cola[pos]?.s.id;
   armarCola();
   lateral();
-  if (actual) { pos = Math.max(0, cola.findIndex(c => c.s.id === actual)); if (MOVIL.matches) mostrar(0); }
+  if (primera) mostrar(1);
+  else if (actual) { pos = Math.max(0, cola.findIndex(c => c.s.id === actual)); if (MOVIL.matches) mostrar(0); }
 }
 
+// Si cambia el diseño publicado, la página se recarga sola (y además cada 6 horas).
+// Antes se comprueba que haya conexión: sin ella, la TV quedaría en una página de error.
+let firma = null;
+const huella = t => { let h = 5381; for (let i = 0; i < t.length; i++) h = (h * 33 + t.charCodeAt(i)) | 0; return h; };
+async function revisarVersion() {
+  try {
+    const r = await fetch(location.pathname + '?v=' + Date.now(), {cache: 'no-store'});
+    if (!r.ok) return;
+    const h = huella(await r.text());
+    if (firma === null) firma = h;
+    else if (h !== firma || performance.now() > 6 * 3600e3) location.reload();
+  } catch (e) { /* sin conexión: se vuelve a probar en la próxima vuelta */ }
+}
+
+// Tamaño de letra de cada pantalla. Ctrl + y Ctrl − no sirven acá porque todo se mide por el ancho.
+const leer = k => { try { return localStorage.getItem(k); } catch (e) { return null; } };
+const anotar = (k, v) => { try { localStorage.setItem(k, v); } catch (e) { /* sin almacenamiento */ } };
+let Z = +(P.get('z') || leer('panel-zoom') || 1) || 1;
+function zoom(d) {
+  Z = Math.min(1.6, Math.max(.8, Math.round((Z + d) * 10) / 10));
+  document.documentElement.style.setProperty('--z', Z);
+  if (d) anotar('panel-zoom', Z);
+  ajustarTarjetas();
+}
+function pantalla() {
+  if (document.fullscreenElement) document.exitFullscreen?.();
+  else document.documentElement.requestFullscreen?.().catch(() => {});
+}
+document.getElementById('menos').addEventListener('click', () => zoom(-.1));
+document.getElementById('mas').addEventListener('click', () => zoom(.1));
+document.getElementById('pantalla').addEventListener('click', pantalla);
+
+// Que la pantalla no se apague mientras el panel está a la vista.
+async function despierto() {
+  try { if ('wakeLock' in navigator && document.visibilityState === 'visible') await navigator.wakeLock.request('screen'); } catch (e) { /* no disponible */ }
+}
+document.addEventListener('visibilitychange', despierto);
+
+zoom(0); despierto();
 reloj(); setInterval(reloj, 5000);
-cargar().then(() => mostrar(1));
-setInterval(cargar, 10 * 60 * 1000);           // datos nuevos cada 10 minutos
-setTimeout(() => location.reload(), 6 * 3600e3); // recarga completa cada 6 horas
+cargar(); revisarVersion();
+setInterval(() => { cargar(); revisarVersion(); }, 10 * 60 * 1000);   // datos nuevos cada 10 minutos
 </script>
 </body>
 </html>

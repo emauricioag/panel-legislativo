@@ -242,9 +242,11 @@ def hcd_ordenes():
         if ma:
             autores = ma.group(1)
             cuerpo = cuerpo[: ma.start()]
+        nota = re.match(r"Notas?\s([\d.]+)", cuerpo)
         cuerpo = re.sub(r"^(Expte\.?\s*[\d.]+[^:]*:|Notas?\s[\d, y]+:)\s*", "", cuerpo)
         asuntos.append({"item": m.group(1), "seccion": seccion,
                         "expte": ex.group(1).replace(".", "") if ex else "",
+                        "nota": nota.group(1).replace(".", "") if nota else "",
                         "texto": cuerpo[:300], "autores": autores,
                         "leconte": "Leconte" in txt})
         bloque.clear()
