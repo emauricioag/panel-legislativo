@@ -2,7 +2,7 @@ name: Actualizar datos del panel
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 minutos
+    - cron: "7,37 * * * *"   # cada 30 minutos, fuera de las horas en punto (en :00 y :30 GitHub demora o descarta corridas)
   workflow_dispatch: {}       # botón "Run workflow" para forzarlo a mano
 
 permissions:
