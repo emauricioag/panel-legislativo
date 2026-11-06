@@ -174,152 +174,183 @@
   {
    "apellido": "Améndola",
    "nombre": "Ana Gabriela",
-   "partido": "Vamos Corrientes"
+   "partido": "Vamos Corrientes",
+   "foto": "assets/diputados/amendola.jpg"
   },
   {
    "apellido": "Almirón",
    "nombre": "Ana Claudia",
-   "partido": "PJ"
+   "partido": "PJ",
+   "foto": "assets/diputados/almiron.jpg"
   },
   {
    "apellido": "Aparicio",
    "nombre": "María Sara",
-   "partido": "Frente Renovador"
+   "partido": "Frente Renovador",
+   "foto": "assets/diputados/aparicio.jpg"
   },
   {
    "apellido": "Ast",
    "nombre": "Norberto",
-   "partido": "UCR"
+   "partido": "UCR",
+   "foto": "assets/diputados/ast.jpg"
   },
   {
    "apellido": "Benítez",
    "nombre": "Edgar V.",
-   "partido": "Unión Popular"
+   "partido": "Unión Popular",
+   "foto": "assets/diputados/benitez-edgar.jpg"
   },
   {
    "apellido": "Benítez",
    "nombre": "Hugo Daniel",
-   "partido": "Alianza Esquina Crece"
+   "partido": "Alianza Esquina Crece",
+   "foto": "assets/diputados/benitez-hugo.jpg"
   },
   {
    "apellido": "Brambilla",
    "nombre": "Sofía",
-   "partido": "PRO"
+   "partido": "PRO",
+   "foto": "assets/diputados/brambilla.jpg"
   },
   {
    "apellido": "Branz",
    "nombre": "Mario Jacinto",
-   "partido": "PANU"
+   "partido": "PANU",
+   "foto": "assets/diputados/branz.jpg"
   },
   {
    "apellido": "Calvano",
    "nombre": "Hugo Ricardo",
-   "partido": "Coalición Cívica ARI"
+   "partido": "Coalición Cívica ARI",
+   "foto": "assets/diputados/calvano.jpg"
   },
   {
    "apellido": "Canteros",
    "nombre": "Gustavo J. A.",
-   "partido": "Nuevo País"
+   "partido": "Nuevo País",
+   "foto": "assets/diputados/canteros.jpg"
   },
   {
    "apellido": "Cassani",
    "nombre": "Pedro Gerardo",
-   "partido": "ELI"
+   "partido": "ELI",
+   "foto": "assets/diputados/cassani.jpg"
   },
   {
    "apellido": "Fernández Recalde",
    "nombre": "Emiliano",
-   "partido": "Encuentro por Corrientes"
+   "partido": "Encuentro por Corrientes",
+   "foto": "assets/diputados/fernandez-recalde.jpg"
   },
   {
    "apellido": "Gauna",
    "nombre": "Ana María Marlene",
-   "partido": "PJ"
+   "partido": "PJ",
+   "foto": "assets/diputados/gauna.jpg"
   },
   {
    "apellido": "Giotta",
    "nombre": "Andrea María",
-   "partido": "UCR"
+   "partido": "UCR",
+   "foto": "assets/diputados/giotta.jpg"
   },
   {
    "apellido": "Gortari",
    "nombre": "María Cecilia",
-   "partido": "Encuentro por Corrientes"
+   "partido": "Encuentro por Corrientes",
+   "foto": "assets/diputados/gortari.jpg"
   },
   {
    "apellido": "Hardoy",
    "nombre": "Eduardo Daniel",
-   "partido": "Partido Liberal"
+   "partido": "Partido Liberal",
+   "foto": "assets/diputados/hardoy.jpg"
   },
   {
    "apellido": "Lazaroff",
    "nombre": "Lorena",
-   "partido": "PRO"
+   "partido": "PRO",
+   "foto": "assets/diputados/lazaroff.jpg"
   },
   {
    "apellido": "Leconte",
    "nombre": "Ricardo Guillermo",
-   "partido": "La Libertad Avanza"
+   "partido": "La Libertad Avanza",
+   "foto": "assets/diputados/leconte.jpg"
   },
   {
    "apellido": "Lezcano",
    "nombre": "César Daniel",
-   "partido": "Frente Renovador"
+   "partido": "Frente Renovador",
+   "foto": "assets/diputados/lezcano.jpg"
   },
   {
    "apellido": "Méndez Vernengo",
    "nombre": "Jesús Raúl",
-   "partido": "UCR"
+   "partido": "UCR",
+   "foto": "assets/diputados/mendez-vernengo.jpg"
   },
   {
    "apellido": "Nazer",
    "nombre": "Eliana Graciela",
-   "partido": "PANU"
+   "partido": "PANU",
+   "foto": "assets/diputados/nazer.jpg"
   },
   {
    "apellido": "Ojeda",
    "nombre": "Juan de la Cruz",
-   "partido": "PJ"
+   "partido": "PJ",
+   "foto": "assets/diputados/ojeda.jpg"
   },
   {
    "apellido": "Pavón",
    "nombre": "Valeria Luciana",
-   "partido": "UCR"
+   "partido": "UCR",
+   "foto": "assets/diputados/pavon.jpg"
   },
   {
    "apellido": "Pereyra",
    "nombre": "Lucía Elizabeth",
-   "partido": "UCR"
+   "partido": "UCR",
+   "foto": "assets/diputados/pereyra.jpg"
   },
   {
    "apellido": "Romero",
    "nombre": "Jessica Natalia",
-   "partido": "Partido Liberal"
+   "partido": "Partido Liberal",
+   "foto": "assets/diputados/romero.jpg"
   },
   {
    "apellido": "Rotela Cañete",
    "nombre": "Albana Virginia",
-   "partido": "Partido Popular"
+   "partido": "Partido Popular",
+   "foto": "assets/diputados/rotela-canete.jpg"
   },
   {
    "apellido": "Tassano",
    "nombre": "Eduardo Adolfo",
-   "partido": "UCR"
+   "partido": "UCR",
+   "foto": "assets/diputados/tassano.jpg",
+   "cargo": "Presidente de la Cámara"
   },
   {
    "apellido": "Vallejos",
    "nombre": "Víctor Hugo",
-   "partido": "Norte Grande"
+   "partido": "Norte Grande",
+   "foto": "assets/diputados/vallejos.jpg"
   },
   {
    "apellido": "Vassel",
    "nombre": "José Lisandro",
-   "partido": "Partido Popular"
+   "partido": "Partido Popular",
+   "foto": "assets/diputados/vassel.jpg"
   },
   {
    "apellido": "Vidal Domínguez",
    "nombre": "Adriana Cleofe",
-   "partido": "Frente Renovador"
+   "partido": "Frente Renovador",
+   "foto": "assets/diputados/vidal-dominguez.jpg"
   }
  ],
  "partidos": [

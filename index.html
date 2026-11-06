@@ -91,11 +91,18 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 .proy .e .chip{font-size:.95em}
 .proy.cambio{border-color:var(--alerta)}
 .vacio{color:var(--suave);font-size:1.3em;padding:2vw 0}
-.mapa{display:grid;grid-template-columns:1.35fr 1fr;gap:2vw;height:100%;align-items:center}
-.mapa svg{width:100%;height:auto}
-.leyenda{display:flex;flex-direction:column;gap:.45vw;font-size:.95em}
-.leyenda div{display:flex;gap:.6vw;align-items:baseline}
-.leyenda i{width:.9vw;height:.9vw;border-radius:50%;flex:none;transform:translateY(.1vw)}
+/* mapa de la Cámara: hemiciclo con las fotos y, debajo, los bloques */
+.mapa{display:flex;flex-direction:column;align-items:center;gap:1.4vw}
+.mapa svg{display:block;width:100%;height:auto;max-height:max(60vh,420px)}
+.mapa .fila{fill:none;stroke:var(--borde);stroke-width:2}
+.mapa .nom{font-size:15px;font-weight:600;fill:var(--texto);paint-order:stroke;stroke:var(--fondo);stroke-width:4px;stroke-linejoin:round}
+.mapa .propia .nom{fill:var(--acento);font-weight:800}
+.mapa .rol{font-size:14px;font-weight:600;fill:var(--suave);letter-spacing:.06em;text-transform:uppercase}
+.mapa .total{font-size:38px;font-weight:800;fill:var(--texto)}
+.mapa .bloques{font-size:18px;fill:var(--suave)}
+.leyenda{display:grid;grid-template-columns:repeat(auto-fill,minmax(16em,1fr));gap:.45vw 2vw;font-size:.9em;width:100%}
+.leyenda div{display:flex;gap:.6em;align-items:baseline;min-width:0}
+.leyenda i{width:.85em;height:.85em;border-radius:50%;flex:none;transform:translateY(.05em)}
 .leyenda b{white-space:nowrap}
 .leyenda span{color:var(--suave)}
 .hoy{color:var(--alerta);font-weight:800}
@@ -221,11 +228,11 @@ body.quieto .ctl{opacity:0}
   .tabla td.p{white-space:normal;font-size:.8em}
   .tabla td:first-child{border-radius:8px 0 0 8px}
   .tabla td:last-child{border-radius:0 8px 8px 0}
-  .leyenda{gap:6px}
-  .leyenda i{width:12px;height:12px}
+  .leyenda{grid-template-columns:1fr;gap:6px}
   .leyenda div{display:block}
   .leyenda i{display:inline-block;margin-right:6px;transform:none}
   .leyenda b{margin-right:6px}
+  .mapa .nom,.mapa .rol{display:none}
   .sub{margin-bottom:10px}
   footer{position:sticky;bottom:0;gap:14px;padding:10px 16px calc(10px + env(safe-area-inset-bottom));overflow-x:auto;scrollbar-width:none}
   footer::-webkit-scrollbar{display:none}
@@ -429,24 +436,50 @@ function mapa() {
   const orden = BASE.partidos.map(p => p.nombre);
   const color = Object.fromEntries(BASE.partidos.map(p => [p.nombre, p.color]));
   const dips = BASE.diputados.slice().sort((a, b) => (orden.indexOf(a.partido) - orden.indexOf(b.partido)) || a.apellido.localeCompare(b.apellido));
-  // hemiciclo: 4 filas (6, 7, 8 y 9 bancas); se ordenan por ángulo y se asignan de izquierda a derecha
-  const filas = [{r: 120, n: 6}, {r: 168, n: 7}, {r: 216, n: 8}, {r: 264, n: 9}];
+  const presi = dips.find(d => /^presid/i.test(d.cargo || ''));
+  const resto = dips.filter(d => d !== presi);
+  // Hemiciclo de 3 filas de 6, 10 y 13 bancas, con casi la misma distancia entre bancas que entre filas.
+  // Todas las filas empiezan y terminan sobre la misma base y la presidencia va abajo al medio.
+  // Las bancas se numeran por fila, de adelante hacia atrás y de izquierda a derecha: 1 a 6, 7 a 16 y 17 a 29
+  // (?bancas muestra los números). Quien tenga "banca": N en base.json se sienta ahí; el resto ocupa las
+  // libres en el orden de los bloques, de izquierda a derecha, así cada bloque queda junto.
+  const CX = 500, BASE_Y = 452, D = 68, R = D / 2, RP = 42;
+  const filas = [{r: 196, n: 6}, {r: 302, n: 10}, {r: 408, n: 13}];
+  filas[2].n += Math.max(0, resto.length - 29);
   const asientos = [];
   for (const f of filas) for (let i = 0; i < f.n; i++) {
-    const a = Math.PI - (Math.PI * (i + .5) / f.n);
-    asientos.push({x: 300 + f.r * Math.cos(a), y: 290 - f.r * Math.sin(a), a});
+    const a = Math.PI - Math.PI * i / (f.n - 1);
+    asientos.push({num: asientos.length + 1, x: CX + f.r * Math.cos(a), y: BASE_Y - f.r * Math.sin(a), a: +a.toFixed(6), r: f.r});
   }
-  asientos.sort((p, q) => q.a - p.a);
-  const rep = a => dips.filter(x => x.apellido === a).length > 1;
-  const abrev = d => rep(d.apellido) ? d.nombre[0] + '.' + d.apellido.slice(0, 3) : d.apellido.split(' ')[0].slice(0, 4);
-  const circ = asientos.map((s, i) => {
-    const d = dips[i]; const lla = d.partido === 'La Libertad Avanza';
-    return `<g><circle cx="${s.x.toFixed(1)}" cy="${s.y.toFixed(1)}" r="20" fill="${color[d.partido] || '#666'}" stroke="${lla ? '#fff' : '#0b1220'}" stroke-width="${lla ? 4 : 2}"/>
-      <text x="${s.x.toFixed(1)}" y="${(s.y + 5).toFixed(1)}" text-anchor="middle" font-size="10.5" font-weight="700" fill="#fff" style="paint-order:stroke;stroke:#0009;stroke-width:3px">${esc(abrev(d))}</text></g>`;
-  }).join('');
+  for (const d of resto) { const s = asientos[d.banca - 1]; if (s && !s.d) s.d = d; }
+  const libres = resto.filter(d => !asientos.some(s => s.d === d));
+  asientos.slice().sort((p, q) => (q.a - p.a) || (p.r - q.r)).forEach(s => { if (!s.d) s.d = libres.shift(); });
+  const numeros = new URLSearchParams(location.search).has('bancas');
+  // En la etiqueta va el primer apellido; si se repite, con la inicial del nombre.
+  const corto = d => { const ap = d.apellido.split(' ')[0]; return dips.filter(x => x.apellido.split(' ')[0] === ap).length > 1 ? `${ap} ${d.nombre[0]}.` : ap; };
+  const banca = (d, cx, cy, r, num, rol) => {
+    const propia = d.apellido === 'Leconte';
+    const x = cx.toFixed(1), y = cy.toFixed(1);
+    return `<g class="banca${propia ? ' propia' : ''}"><title>${esc(d.nombre + ' ' + d.apellido)} · ${esc(d.partido)}${d.cargo ? ' · ' + esc(d.cargo) : ''}</title>
+      <circle cx="${x}" cy="${y}" r="${r}" fill="${color[d.partido] || '#666'}"/>
+      ${d.foto ? `<image href="${esc(d.foto)}" x="${(cx - r + 4).toFixed(1)}" y="${(cy - r + 4).toFixed(1)}" width="${2 * r - 8}" height="${2 * r - 8}" clip-path="url(#redondo)" preserveAspectRatio="xMidYMid slice"/>` : ''}
+      ${propia ? `<circle cx="${x}" cy="${y}" r="${r + 5}" fill="none" stroke="#fff" stroke-width="3"/>` : ''}
+      <text class="nom" x="${x}" y="${(cy + r + 17).toFixed(1)}" text-anchor="middle">${numeros && num ? num + '. ' : ''}${esc(corto(d))}</text>
+      ${rol ? `<text class="rol" x="${x}" y="${(cy + r + 36).toFixed(1)}" text-anchor="middle">${esc(rol)}</text>` : ''}</g>`;
+  };
+  const arcos = filas.map(f => `<path class="fila" d="M${CX - f.r} ${BASE_Y}A${f.r} ${f.r} 0 0 1 ${CX + f.r} ${BASE_Y}"/>`).join('');
+  const bancas = asientos.map(s => s.d ? banca(s.d, s.x, s.y, R, s.num) : '').join('')
+    + (presi ? banca(presi, CX, BASE_Y + 16, RP, 0, 'Presidente') : '');
   const grupos = orden.map(p => ({p, ds: dips.filter(d => d.partido === p)})).filter(g => g.ds.length);
-  const ley = grupos.map(g => `<div><i style="background:${color[g.p]}"></i><b>${esc(g.p)} (${g.ds.length})</b><span>${g.ds.map(d => esc(d.apellido)).join(', ')}</span></div>`).join('');
-  return `<div class="mapa"><svg viewBox="0 0 600 310"><text x="300" y="285" text-anchor="middle" font-size="22" font-weight="800" fill="#e8edf6">30 bancas</text>${circ}</svg><div class="leyenda">${ley}</div></div>`;
+  const ley = grupos.map(g => `<div><i style="background:${color[g.p]}"></i><b>${esc(g.p)} (${g.ds.length})</b><span>${
+    g.ds.map(d => esc(d.apellido) + (d === presi ? ' (presidente)' : '')).join(', ')}</span></div>`).join('');
+  const ext = filas[filas.length - 1].r + R, x0 = CX - ext - 14, y0 = BASE_Y - ext - 8, alto = BASE_Y + 16 + RP + 44 - y0;
+  return `<div class="mapa"><svg viewBox="${x0} ${y0} ${2 * (CX - x0)} ${alto}" role="img" aria-label="Hemiciclo de la Cámara de Diputados: ${dips.length} bancas por bloque">
+    <defs><clipPath id="redondo" clipPathUnits="objectBoundingBox"><circle cx=".5" cy=".5" r=".5"/></clipPath></defs>
+    ${arcos}
+    <text class="total" x="${CX}" y="${BASE_Y - 80}" text-anchor="middle">${dips.length} bancas</text>
+    <text class="bloques" x="${CX}" y="${BASE_Y - 52}" text-anchor="middle">${grupos.length} bloques</text>
+    ${bancas}</svg><div class="leyenda">${ley}</div></div>`;
 }
 
 // ---------------------------------------------------------------- rotación
