@@ -20,7 +20,7 @@
 html{color-scheme:dark}
 html,body{height:100%;background:var(--fondo);color:var(--texto);
   font-family:Inter,system-ui,sans-serif;overflow:hidden}
-body{display:grid;grid-template-rows:auto auto 1fr auto;font-size:1.1vw;font-size:max(15px, calc(1.1vw * var(--z, 1)))}
+body{display:grid;grid-template-rows:auto auto 1fr auto;grid-template-columns:minmax(0,1fr);font-size:1.1vw;font-size:max(15px, calc(1.1vw * var(--z, 1)))}
 body.quieto{cursor:none}
 header{display:flex;align-items:center;gap:2vw;padding:1.4vw 2.4vw 1vw;border-bottom:1px solid var(--borde)}
 header .marca{font-weight:800;font-size:1.1em;letter-spacing:.02em;color:var(--suave)}
@@ -36,11 +36,15 @@ main{position:relative;padding:1.6vw 2.4vw;overflow:hidden}
 .pagina .grilla+.grilla,.pagina .lista+.lista,.pagina .lista+.sub{margin-top:.75vw}
 .pagina.visible{opacity:1}
 footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#080e1a;border-top:1px solid var(--borde)}
-.cot{display:flex;gap:1.8vw;flex:1;white-space:nowrap}
+.cot{display:flex;gap:1.8vw;flex:1;min-width:0;overflow:hidden;white-space:nowrap}
 .cot div{font-variant-numeric:tabular-nums}
 .cot span{color:var(--suave);margin-right:.4em}
 .cot b{font-weight:700}
 .cot .rp b{color:var(--alerta)}
+.cot .et{color:var(--suave);font-size:.8em;font-weight:700;letter-spacing:.06em;text-transform:uppercase;align-self:center;margin-right:calc(.6em - 1.8vw)}
+.cot em{font-style:normal;font-weight:700;font-size:.85em;margin-left:.45em}
+.cot em.bien{color:var(--ok)}
+.cot em.mal{color:var(--rojo)}
 .tabs{display:flex;gap:.6vw;padding:.8vw 2.4vw;border-bottom:1px solid var(--borde);overflow-x:auto;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tabs button{font:inherit;font-size:.9em;font-weight:600;color:var(--suave);background:var(--panel);border:1px solid var(--borde);
@@ -412,6 +416,9 @@ const SECCIONES = [
     const nac = LIVE.nacionales || [];
     const pags = [];
     if (nac.length) pags.push(`<div class="sub">Titulares nacionales · Google Noticias</div><div class="lista">${nac.slice(0, 8).map(tarjeta).join('')}</div>`);
+    const fa = LIVE.finanzas_argy || [];
+    if (fa.length) pags.push(`<div class="sub">Finanzas Argy · canal de Telegram</div><div class="lista">${fa.slice(0, 8).map(i =>
+      caja(i.link, 'item', `<div class="org">${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div>`)).join('')}</div>`);
     if (n.length) pags.push(`<div class="sub">De Corrientes · Google Noticias</div><div class="lista">${n.slice(0, 7).map(tarjeta).join('')}</div>`);
     const m = LIVE.medios;
     if (m) pags.push(`<div class="dos"><div class="col"><h2>La Derecha Diario</h2><div class="lista">${m.derecha_diario.slice(0, 5).map(tarjeta).join('')}</div></div>
@@ -612,7 +619,7 @@ document.addEventListener('keydown', e => {
   else if (e.key === '-') zoom(-.1);
   else if (e.key === 'f' || e.key === 'F') pantalla();
 });
-MOVIL.addEventListener('change', () => { auto = !fija && !MOVIL.matches; mostrar(0); ajustarTarjetas(); });
+MOVIL.addEventListener('change', () => { auto = !fija && !MOVIL.matches; mostrar(0); ajustarTarjetas(); ajustarPie(); });
 // el puntero se esconde a los 3 segundos sin moverse (para la TV)
 let quieto;
 document.addEventListener('mousemove', () => {
@@ -693,18 +700,39 @@ function ajustarTarjetas() {
     hijos.forEach(h => { if (h.offsetTop + h.offsetHeight > limite + 1) h.style.visibility = 'hidden'; });
   });
 }
+// Si las cotizaciones no entran en el pie, se ocultan enteras, de la menos a la más importante.
+function ajustarPie() {
+  const c = document.getElementById('cot');
+  const items = [...c.querySelectorAll('[data-p]')].sort((a, b) => a.dataset.p - b.dataset.p);
+  items.forEach(x => { x.hidden = false; });
+  if (MOVIL.matches) return;
+  for (const x of items) { if (c.scrollWidth <= c.clientWidth) break; x.hidden = true; }
+}
 let reajuste;
-addEventListener('resize', () => { clearTimeout(reajuste); reajuste = setTimeout(ajustarTarjetas, 150); });
-document.fonts?.ready.then(ajustarTarjetas);
+addEventListener('resize', () => { clearTimeout(reajuste); reajuste = setTimeout(() => { ajustarTarjetas(); ajustarPie(); }, 150); });
+document.fonts?.ready.then(() => { ajustarTarjetas(); ajustarPie(); });
 
 let sinConexion = false;
 function pie() {
   const d = LIVE.dolar || [];
   const nombre = {'Oficial':'Oficial','Blue':'Blue','Bolsa':'MEP','Contado con liquidación':'CCL','Mayorista':'Mayorista'};
-  const rp = LIVE.riesgo_pais;
-  document.getElementById('cot').innerHTML = d.filter(x => x.casa !== 'Mayorista').map(x => `<div><span>Dólar ${nombre[x.casa] || x.casa}</span><b>$ ${fmtN(x.venta)}</b></div>`).join('')
-    + (rp ? `<div class="rp"><span>Riesgo país</span><b>${fmtN(rp.valor)} pb</b></div>` : '');
-  // datos con más de 3 horas: aviso en ámbar; con más de 8 o sin conexión: en rojo
+  // El riesgo país sale de ArgentinaDatos o de Finanzas Argy, el que tenga el cierre más nuevo.
+  const rpA = LIVE.riesgo_pais, rpF = LIVE.mercado?.riesgo_pais, mv = LIVE.mercado?.merval;
+  const rp = rpF && (!rpA || rpF.fecha >= rpA.fecha) ? rpF : rpA;
+  // Variación del día: verde si es buena noticia (Merval que sube, riesgo país que baja), roja si es mala.
+  const vari = (v, alReves) => v == null || isNaN(v) ? '' : `<em class="${v === 0 ? '' : (v > 0) !== !!alReves ? 'bien' : 'mal'}">${
+    v > 0 ? '▲' : v < 0 ? '▼' : ''}${Math.abs(v).toLocaleString('es-AR', {maximumFractionDigits: 1})}%</em>`;
+  // data-p: si el pie no entra, se ocultan primero los de número más bajo.
+  const dol = d.filter(x => x.casa !== 'Mayorista'), prio = {'Oficial': 3, 'Blue': 6, 'Bolsa': 2};
+  document.getElementById('cot').innerHTML = (dol.length ? '<div class="et">Dólar</div>' : '')
+    + dol.map(x => `<div data-p="${prio[x.casa] || 1}"><span>${nombre[x.casa] || x.casa}</span><b>$ ${fmtN(x.venta)}</b></div>`).join('')
+    + (rp ? `<div class="rp" data-p="5"><span>Riesgo país</span><b>${fmtN(rp.valor)} pb</b>${vari(rp.variacion, true)}</div>` : '')
+    + (mv ? `<div data-p="4"><span>Merval</span><b>${fmtN(mv.valor)}</b>${vari(mv.variacion)}</div>` : '');
+  aviso();
+  ajustarPie();
+}
+// Datos con más de 3 horas: aviso en ámbar; con más de 8 o sin conexión: en rojo.
+function aviso() {
   if (!LIVE.actualizado) return;
   const act = document.getElementById('act');
   const t = new Date(LIVE.actualizado), horas = (Date.now() - t) / 36e5;
@@ -765,6 +793,7 @@ function zoom(d) {
   document.documentElement.style.setProperty('--z', Z);
   if (d) anotar('panel-zoom', Z);
   ajustarTarjetas();
+  ajustarPie();
 }
 function pantalla() {
   if (document.fullscreenElement) document.exitFullscreen?.();

@@ -390,6 +390,76 @@ def medios_afines():
     return {"derecha_diario": ldd, "carajo": carajo}
 
 
+def finanzas_argy():
+    """Últimos mensajes del canal público de Telegram de Finanzas Argy (t.me/s/ se lee sin cuenta)."""
+    s = texto("https://t.me/s/FinanzasArgy")
+    out = []
+    for b in s.split('<div class="tgme_widget_message_wrap')[1:]:
+        num = re.search(r'data-post="[^"/]+/(\d+)"', b)
+        cuando = re.search(r'<time datetime="([^"]+)"', b)
+        cuerpo = re.search(r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>', b, re.S)
+        if not (num and cuando and cuerpo):
+            continue  # fotos o videos sin texto
+        t = html.unescape(re.sub(r"<[^>]+>", "", re.sub(r"<br\s*/?>", "\n", cuerpo.group(1))))
+        renglones = [re.sub(r"\s+([:.,;%])", r"\1", sin_emojis(x)).strip(" -|") for x in t.split("\n")]
+        renglones = [r for r in renglones if r]
+        if not renglones:
+            continue
+        # Si el primer renglón es un rótulo corto ("Jornada financiera"), se le suman los que siguen.
+        titulo = renglones[0]
+        if len(titulo) < 40:
+            for r in renglones[1:]:
+                if len(titulo) + len(r) > 230:
+                    break
+                titulo += (": " if titulo == renglones[0] and not titulo.endswith((":", ".")) else " · ") + r
+        if len(titulo) > 280:
+            titulo = titulo[:277].rsplit(" ", 1)[0] + "…"
+        out.append({"titulo": titulo, "fecha": cuando.group(1), "fuente": "Finanzas Argy",
+                    "link": f"https://t.me/FinanzasArgy/{num.group(1)}"})
+    if not out:
+        raise ValueError("el canal no trajo mensajes con texto")
+    return sorted(out, key=lambda i: i["fecha"], reverse=True)[:12]
+
+
+def _astro(v):
+    """Deshace la serialización de las props de Astro: cada valor viene como [tipo, dato]."""
+    if isinstance(v, dict):
+        return {k: _astro(x) for k, x in v.items()}
+    tipo, dato = v
+    if tipo == 1:
+        return [_astro(x) for x in dato]
+    return _astro(dato) if isinstance(dato, dict) else dato
+
+
+def _numero(s):
+    """'84.594,69', '-4.13%', '8,57%' o '925' a número."""
+    s = str(s).replace("%", "").replace(" ", "").strip()
+    if "," in s:
+        s = s.replace(".", "").replace(",", ".")
+    elif re.fullmatch(r"-?\d{1,3}(\.\d{3})+", s):
+        s = s.replace(".", "")
+    return float(s)
+
+
+def _fecha(s):
+    m = re.fullmatch(r"(\d{2})-(\d{2})-(\d{4})", s or "")
+    return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else (s or "")[:10]
+
+
+def mercado():
+    """Merval y riesgo país del último cierre, de la portada de finanzasargy.com (vienen incrustados en la página)."""
+    s = texto("https://finanzasargy.com/")
+    m = re.search(r'component-export="CommoditiesIsland"[^>]*?props="([^"]+)"', s)
+    datos = {d["commoditie"]: d.get("data") or {} for d in _astro(json.loads(html.unescape(m.group(1))))["initialData"]}
+    mv, rp = datos["Merval"], datos["Riesgo País"]
+    out = {"merval": {"valor": _numero(mv["ultimo"]), "variacion": _numero(mv["variacion"]), "fecha": _fecha(mv["fecha"])},
+           "riesgo_pais": {"valor": _numero(rp["valor"]), "variacion": _numero(rp["variacion"]), "fecha": _fecha(rp["fecha"])}}
+    if not (1e3 < out["merval"]["valor"] < 1e8 and 50 < out["riesgo_pais"]["valor"] < 1e4
+            and abs(out["merval"]["variacion"]) < 50 and abs(out["riesgo_pais"]["variacion"]) < 80):
+        raise ValueError(f"valores fuera de rango: {out}")
+    return out
+
+
 # ---------------------------------------------------------------- main
 
 def main():
@@ -427,6 +497,8 @@ def main():
     correr("noticias", noticias_corrientes)
     correr("nacionales", noticias_nacionales)
     correr("medios", medios_afines)
+    correr("finanzas_argy", finanzas_argy)
+    correr("mercado", mercado)
     correr("expedientes", lambda: expedientes_leconte(base, previo.get("expedientes", {})))
 
     live["errores"] = errores
