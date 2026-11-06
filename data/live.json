@@ -990,10 +990,9 @@
   }
  },
  "errores": {
-  "medios": "HTTP Error 404: Not Found",
-  "mercado": "HTTP Error 403: Forbidden"
+  "medios": "HTTP Error 404: Not Found"
  },
- "actualizado": "2026-11-05T21:45-03:00",
+ "actualizado": "2026-11-05T21:49-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1092,10 +1091,10 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Otra derrota para Tapia: la Corte anuló el fallo que le impedía a la Inspección General de Justicia controlar los balances de la AFA",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVGhJNHlRYU9LX2g2dF94OHc5VTRQVDd5MWRYS25fT1NhOXpIMFlibkNCb29TN2drdXZXSHR3U2N3YXJZTjJ6b0pqZEtKeXBBMGJ0VWs1MWtQUUIwTE9lQ1pWOUo4Y2lRNmVieGJzWXZjLWRseG5NQmhnaThZWnVUdklIc2NmVUE3NTdGa2FDcGc2XzhDT19jZHJJSDBhd2p4S3ZaMEFIQjBWOHdoNm0zUTJHNWF1eVZOclhrbW9JNmVEY3hSejR0Rzc5TlNiSjFfdEVHaEVubEJ0VVRteXdfRnln?oc=5",
-   "fecha": "Thu, 05 Nov 2026 21:33:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "La Corte Suprema ordenó aplicar la reforma laboral para actualizar las indemnizaciones en juicios en trámite",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUHIwTG5rSmQtaE00UzhaOWVqcFZhY3ByQmlnbWN0TEtCTnZ1cjRiOVRXMHEyakZLT2lMblU0Z3lNS2RETUZCSVdHV0RSTEF3Qkg0TzJWSk1zSDlNVS1WOUFraHZoMUk0d2lMNmVsQXhwaXQwQTV3Z0dQdzVobmZaYW9ySkE1RVo1WTV5bF9aY1NGa3doUWFSZEtNZTVKX1ctYjdFVHhtUFpGUm1LZG9ZMkdqNm9nV2xOTW16dnlhRjUyLUJYSkFPU2dFTHVHZHc1SWlRTw?oc=5",
+   "fecha": "Thu, 05 Nov 2026 21:00:00 GMT",
+   "fuente": "Ambito"
   },
   {
    "titulo": "Pedro Sánchez, tajante sobre los insultos que recibe por parte de Javier Milei",
@@ -1104,10 +1103,22 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Día por día, así será el recorrido del papa León XIV por Latinoamérica",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXhpaGxCLUFGbmlaSlpEeGlqTHJLQ0dJZzVGM042VDRCNEgzZkl4UFJ6UUxNX0NkRzFoc2pJU1k2a2NvWF9WV29KUFN4RjJOVEF1a3EyV0p4QlZGR0dkTlJBWGVQT0I2Y3puMkloOXNoeDQ3dGhlbXZ6SHRkbXM3SXZNTThmT1FoS2pHSmgtUGZwZjBlVkc4b0xyQ1JEdnRM?oc=5",
-   "fecha": "Thu, 05 Nov 2026 13:53:00 GMT",
-   "fuente": "CNN en Español"
+   "titulo": "La Corte confirmó un fallo histórico sobre la responsabilidad de la Ford en secuestros durante la dictadura",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaFF2aVRKSXliSEtSSk40YzJuRXNsd0dCQzc3UkVYVWxKLVlnUS1jOTFvdFhPcUR2SW5PbHlfOGF4eG9rVXR3U09qYTEwMUNOLTljOUs0ZnNaVHNLTU1HS3VIbjRPdTE2TTFlbDl6STNfbWkzak1maE4tMjdibmFNbEVzd01kQkhRZjNEcExtTXRrbTlOVndpYndlN2hMNU1RSkdhZDc0VS1RQmpscEx3VDRkaHhaek9RT2pfM1NsSGQwdWU4TTkzd0pLamY4TzhBMU9UUU1JNkVya3RjMDZxLQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 21:01:53 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Mano a mano con El Tres, Kicillof habló de la visita del Papa León XIV, del impacto de la derrota de Trump ...",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcU1uczJpbWFPanROQjg5U0lXSFVTcFFqQU9TZDJTSXRBWmNSeW5TOXJFaEhyOXNQZ285VERIajZGTnE5QmFRN1VRcmIwVFlLbXZOZ3NPdVRvc1c3OHhkSjVHU2dTZnFZVVhUbG1ZaDZpMHVOT3JidEpYWWI3SjQ4aVQyc0RBTnpkNnZfOXZfSUpHUDdHbS1Rb1Nvblg1dmd1VURzX0RUSXY0Rm53MVpkMjdoNEVMeEhYRjVUNW52VHlmblNMT01zYXg0dTE0ZGFYOHp6LUhINkRwcUJXZDFwTlZnb3cyeDFZU3BxeHAxdEFNb1hMTFhVS2dISlFockNJZXVMSXk5b3hSYnFOSUFnaWxyaHhzeWZBWDZlWTFnU3pvVzhHdUZSVEV6QndmZkdzenc1eXpqUUZ6NG1r0gG8AkFVX3lxTE9xTW5zMmltYU9qdE5CODlTSVdIVVNwUWpBT1NkMlNJdEFaY1J5blM5ckVoSHI5c1BnbzlUREhqNkZOcTlCYVE3VVFyYjBUWUttdk5nc091VG9zVzc4eGRKNUdTZ1NmcVlVWFRsbVloNmkwdU5PcmJ0SlhZYjdKNDhpVDJzREFOemQ2dl85dl9JSkdQN0dtLVFvU29uWDV2Z3VVRHNfRFRJdjRGbncxWmQyN2g0RUx4SFhGNVQ1bnZUeWZuU0xPTXNheDR1MTRkYVg4enotSEg2RHBxQldkMXBOVmdvdzJ4MVlTcHF4cDF0QU1vWExMWFVLZ0hKUWhyQ0lldUxJeTlveFJicU5JQWdpbHJoeHN5ZkFYNmVZMWdTem9XOEd1RlJURXpCd2ZmR3N6dzV5empRRno0bWs?oc=5",
+   "fecha": "Wed, 04 Nov 2026 18:18:00 GMT",
+   "fuente": "Rosario3"
+  },
+  {
+   "titulo": "Expectativa en Uruguay: cómo se prepara el país más laico de la región para recibir al papa León XIV",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODdaTHNySDNCSWxIOFc3TzBIVktBOE12UlR5cUhSMzZrb0xjZS1uRG5vX3lwMlR5Q3MtRnRhVkpMUTd4amRxS0QwOFJFTDItTFNNX0VINjRFYXhqVDlOLU9ESE5icUcybE1MVW5IQ042Yk9mc1Z2cV9ic2Y3aHl2QWxxQ3NIbk1BY1NSWFpKMzZmdVk4RjdTNGRJSHpsTDJzVDFIUG84M1AyU1g0NTBjdFBUTkZna3QwRmZnaEZwX0U5TERGOVliVURkUkVGdW5Rd0pjaHg5NHR1X2VUcncyMWFFVQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 20:16:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "La mayoría de los diputados y senadores confirmaron su presencia al evento con el Papa León XIV",
@@ -1128,18 +1139,6 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Crisis de Ueno Bank. Qué contaban los empleados argentinos sobre los despidos dos meses antes del colapso",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWG51dTJtbTdtQlVVSE51bkY2UGt1N0dac0Q2VjBEQW5PY0lIa0FLWGRIbmRLV3VscmhvZk9sdFowQkRsTjJPNTBFeTc3dkk1NXZTcUNNMW83Ri1PTUttQkdHeWJrdlg0X0M1S19OVERXZ3BHYi1hdHg3c3ZDRWlXQ2RtQ21ROUxzeW9uc1lRSDJ1a2Jkb0VEclBsNzkwWk92d1ZrclBSNA?oc=5",
-   "fecha": "Thu, 05 Nov 2026 18:41:00 GMT",
-   "fuente": "La Voz del Interior"
-  },
-  {
-   "titulo": "Mano a mano con El Tres, Kicillof habló de la visita del Papa León XIV, del impacto de la derrota de Trump ...",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcU1uczJpbWFPanROQjg5U0lXSFVTcFFqQU9TZDJTSXRBWmNSeW5TOXJFaEhyOXNQZ285VERIajZGTnE5QmFRN1VRcmIwVFlLbXZOZ3NPdVRvc1c3OHhkSjVHU2dTZnFZVVhUbG1ZaDZpMHVOT3JidEpYWWI3SjQ4aVQyc0RBTnpkNnZfOXZfSUpHUDdHbS1Rb1Nvblg1dmd1VURzX0RUSXY0Rm53MVpkMjdoNEVMeEhYRjVUNW52VHlmblNMT01zYXg0dTE0ZGFYOHp6LUhINkRwcUJXZDFwTlZnb3cyeDFZU3BxeHAxdEFNb1hMTFhVS2dISlFockNJZXVMSXk5b3hSYnFOSUFnaWxyaHhzeWZBWDZlWTFnU3pvVzhHdUZSVEV6QndmZkdzenc1eXpqUUZ6NG1r0gG8AkFVX3lxTE9xTW5zMmltYU9qdE5CODlTSVdIVVNwUWpBT1NkMlNJdEFaY1J5blM5ckVoSHI5c1BnbzlUREhqNkZOcTlCYVE3VVFyYjBUWUttdk5nc091VG9zVzc4eGRKNUdTZ1NmcVlVWFRsbVloNmkwdU5PcmJ0SlhZYjdKNDhpVDJzREFOemQ2dl85dl9JSkdQN0dtLVFvU29uWDV2Z3VVRHNfRFRJdjRGbncxWmQyN2g0RUx4SFhGNVQ1bnZUeWZuU0xPTXNheDR1MTRkYVg4enotSEg2RHBxQldkMXBOVmdvdzJ4MVlTcHF4cDF0QU1vWExMWFVLZ0hKUWhyQ0lldUxJeTlveFJicU5JQWdpbHJoeHN5ZkFYNmVZMWdTem9XOEd1RlJURXpCd2ZmR3N6dzV5empRRno0bWs?oc=5",
-   "fecha": "Wed, 04 Nov 2026 18:18:00 GMT",
-   "fuente": "Rosario3"
-  },
-  {
    "titulo": "Rodrigo De Paul repudió el ataque a mujeres trans en Palermo y compartió mensajes de concientización",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVDlSYXNPWVhIQjVOY0UzOFVZTnF3dzF2ZEFvWDdVR2pSSEFOM1dLMG03QnZsX0FKWWJleVlKaFFPNGkwazJUQWt6eW1ia2R2bnNYS0J0dW1ndjB2Wl9ab0FHRmtOVWNkM2wxNDVjOTFVZUxIV1MyRHFNZ0QwTU1iR0FXUlMzam1MY3NWMi1RdGdHaXZ2V3Mzc1JyWVhyOE04Z1pwazdLeHhrQXVZcGFhYVJvY2JFanhOSmVvV19HWXR6Ql9FZERSY3NYMEVWbUFvX3NzYWFaWFlRTE9BbDRR0gHzAUFVX3lxTE1taWM4aVZoUlpELTc0QVJCS2p4bmRtcTZQeG4xU0tPUVVqSVlGRWFkeTFJaHJfdVVqNGdqVlR2TWlxeWoxQTNocUY3blNGeFh6VVNMc2VDZUdJNkJwODVPT2Z0RHNKdkxCcllHcG1XUEo2M3RWa21OV0hSdjA4bldyZ3NnaXZPWi1lVnBJNWVrTFdnejY2Y1dySDhQQWZhT1V3NmhnakJTYjQtUTVEdFFIVVdzNTBVbklQOWdtREtRcnJ2el9wVmoxaC1lUFBRVDFyblVwVE1FQjJxdjNlcmRBMXFVaGlNMmpCVVJBel9KYy1lWQ?oc=5",
    "fecha": "Wed, 04 Nov 2026 23:26:47 GMT",
@@ -1152,10 +1151,10 @@
    "fuente": "Diario Nuevo Día"
   },
   {
-   "titulo": "Investigan si el Gobierno usó fondos públicos para facilitar la salida de Flávio Bolsonaro de la Argentina",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXRaMzhRV2pDNGkySWhHSkhNV3VlelJ6OWRPOUNrbVBjaVdtRS1aUWt3VnE4c0NvZEw4WXpOSEQ4NVJidm1xcmhGbmRKcjNZODBRYVdTVWFTRlY4SVEwdGdjTXl6VkNZTXJPeGlOa0hCYWNFWUtRWTF1LXFjQm01aXlaWFBMTWhfeGxJTWpuRmt5aUVPRmFCLUl2VkZZMmxTc0pMTHZvYXJ5LThYN0xOUGNxY0dWNUUtT0xKMHBHS3hnUHd6MF82c2c5V0NaMFJKRkHSAdcBQVVfeXFMT3pVZFVsOXhHVkZldnA5SXpybmVrbGFmR0xXemxyTEpHLWs2SldxOHF6ZDItUHNjSk85RVpJdllHLTRaSXdFcS1UZzY1cVhvNXV4VmJBT1AtVElmdEwzaG9sNURabG90QnE3TjR2czk4SWNvb0Fram1ZRmxBekRQZG8zWV9qaHVyRFpsTDhUZ09udDR5bURGd0pKbThoYlluN0xRamlQSktPaVJ6YnJfOUEyS0h1VWZtajRyT2ZXVG1acWJFcFRteVh2S1ZKZm5Xdmo4Um9Qckk?oc=5",
-   "fecha": "Thu, 05 Nov 2026 15:11:56 GMT",
-   "fuente": "Ambito"
+   "titulo": "Crisis de Ueno Bank. Qué contaban los empleados argentinos sobre los despidos dos meses antes del colapso",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWG51dTJtbTdtQlVVSE51bkY2UGt1N0dac0Q2VjBEQW5PY0lIa0FLWGRIbmRLV3VscmhvZk9sdFowQkRsTjJPNTBFeTc3dkk1NXZTcUNNMW83Ri1PTUttQkdHeWJrdlg0X0M1S19OVERXZ3BHYi1hdHg3c3ZDRWlXQ2RtQ21ROUxzeW9uc1lRSDJ1a2Jkb0VEclBsNzkwWk92d1ZrclBSNA?oc=5",
+   "fecha": "Thu, 05 Nov 2026 18:41:00 GMT",
+   "fuente": "La Voz del Interior"
   },
   {
    "titulo": "Murió Patricia Walsh, la exdiputada que impulsó la nulidad de las leyes de la impunidad",
@@ -1164,22 +1163,22 @@
    "fuente": "Página|12"
   },
   {
+   "titulo": "Marcha del Orgullo 2026: los detalles de un histórico evento atravesado por el ataque transodiante y la visita del papa",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT21XVFZjcF83UDJxUklBM1pGMHBRdlJzNldJMnl5TU12b2pSUXpLNGV0Rlg2RUtoVVVLM3JNeFZSM3NiR0xqNDMtcUNyYTVtdW5fQmlEVWFyRV9IZDlFOTBEV1F4NGo0MTh1NDNNbHp2NWZ2RmR6TWhuTGFnY0NTSTE4UEFvSFctUWFEZ3FuVTlCLVpaMDdKODFiVEU3bVZmTzYzeU5mZUhreVAybV9oV3oySTJLWXNSVExlaWRFRHhZc3JtdEZFS1NnTDNIVnJnc05Z?oc=5",
+   "fecha": "Thu, 05 Nov 2026 20:50:34 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Una fiscal pidió investigar si se usaron fondos públicos para facilitar la salida de Flávio Bolsonaro hacia Estados Unidos",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTTlMakR0RTNQU3cxbVRqNVBVSldqWlVfb1JzM1hram1sbEJ3T2ZJNmpjTFpmeDVvWnZaY0Z2Qlo4cl8xSEE1c2tiLXUzdi1WU2ZxSE9IbElRTFNDQnJjNmNuMG02ejE4X0VBUkZmTDFUREFlNFJlV1pKdTg4MVNaV2ZCY2pzNXdSQkIyOGVXbTRqSzJlMFdia3E5aGhoV2xDb0hiNVhxNTNEdEpFZ2RjbW8zbnVKZ2dLWS1JNlBoM0FuejR0RTJnSWhVYTNMTzE2Vzk4SzBtWm5qREdSUkVOaXRNMzNxTFFsZHJaUWF0azl2Q1JyVmpQbjVBNE8td9IBmAJBVV95cUxOMVVHTUVFalRnQzh3aV8tM3JwNEZWMTVjU1ppQXkzTjQ5ZGg1NHhzanJLSTZCTVd2ZWktOTBKV3VxSk9nd3MtLVdGSVhwd0VaeHluOHV5S2hFWHItTExQWlRibnZDSHR0eFBJUUZZRThPR1VGVExCNk9IZFJYb1YwQkoybEhJRFlsaVpHaUREcDNERmxqQWZEaG55d2dUQUhjdGQwMUVNcEhaR3NNcTJaSWhTOW1RR3N6Wks1WTlJUVlkSmxuOXNUZGx1T2hZX0ZHNk9ndG9RUGFkMGotcjliYWJlMmRYZk90TExlWlk2ajNPZjJkWW9jTExCRWZkc2FfZGZIMVRJQ1BuelJpTEhiYktNSi0tdmd0?oc=5",
+   "fecha": "Thu, 05 Nov 2026 17:01:47 GMT",
+   "fuente": "Infobae"
+  },
+  {
    "titulo": "Murió Elsa Pavón: la historia detrás de uno de los primeros nietos recuperados en Argentina",
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONGVZVHhvYjI2dEdxRENISVRhS1o0RElHT3NidjB4LV80TGQwS0R3Yl9scU8wY2xiblZlQlJPaGE3SVdwZ3F1UEV3ZkgxNHc1Z3ZiUnNvS1ZUbGFWU0VUbnUzMmd6STdGaGhQMjNDWUt3bkQ3ZE45WUYtYklmRGVySmNYTjNFd0RmQVg2cE00ek54ajZNeEtqc3psbUtUdWVobW9PVFdVQnhkSlE1bFd4VmpaMkkzV3J4UmZqdGE2OE5xcWI3bjREdEVzMWFkbEtTSDNwakd4WVlvRDFGeVpSczJWQnVQdTY1XzVFNXdVUmQwb3FIS0l2cjR3eUNHN3VmYW5OakNTNU9JU0hTUmVRdXFjR1gtUQ?oc=5",
    "fecha": "Thu, 05 Nov 2026 14:13:53 GMT",
    "fuente": "El Litoral"
-  },
-  {
-   "titulo": "“Fue peor de lo esperado, qué va a decir”: Milei persiste en el silencio ante las derrotas de Trump y Bolsonaro",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQVZOejNaS3Vqa19BU1JUT2l6elZjRk9IWEVCWHQwaGtvNHFHVGVsaEg0YlFURHVXVHFNZ0I5ekdXVXk5ZHZDaTZYU1QzT0kzNDFnLWlBcFBkVDk1MGVqeG13ZzdKTGRWSEJNcTJHMHB4QXFmXzBKUHlJaE9NaWpsWVpSRTRFeEZaYU5LcFhhUE1lczYzQkZmZTFqZGRWM0ZTMU04VExNTzk0QnlUakI4WVl4X0loV0ZvdEYybmZvRGloX3lkbjVtQ2hpbzBHUW02QzgyVXQ4dUo3QQ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 21:12:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Marcha del Orgullo 2026: dónde es, a qué hora empieza y cómo es el lineup de los artistas que tocarán",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0dmYkE1eDRJWWlQM1dRbVlZOGltMjZUWDRLUGxRY0hxY3hkTHJoTXQ5d1hDbnMxckFfWGpLemlHb29aMWpvWnotdjA3OUg1dl9pSlNPUmtZa0E0eTZBaEJVREtHMVpTM2xYMUgwa2ZhdmR1dmI1ekNWTTFYbGNQVk5uNlZfSm4weko0eTlpM04xYjRBOHE3RkJqQ1Z2dUZwQ2o2X1lPVzBQZnVseWw4Y2xDcm1wUks5NDdqQkZNSkFHbDQ4M0kzcWhQcUVuSFVqMEVQZjB6R2wtNmRR0gH3AUFVX3lxTE5lNHh6Sm9vY0dYQmp1TTVKZ3hWWkhsdDNKVk1OOE00MkNJdVVFLVNjNmtZUTFLdTJSOVZ0SEFIb1djeVc3WFl3TzU5d2g4Q1NiaHlQY20yYU84NUlhZUNVVzFWZmZ5TGowdXFqMXgzLXliUGtMREkzdDB5X1lNaWhkdWxXeG4tdF9mRGwtakduT3N1MkxRV3AweWFUbVY5YWtvd1pVT0NrZzByVHFnLUhFaG4wZ29YNG5icjZGV0RCWGgwWm9RdkZ3TmZUUFRySnJtajhaQUp0R0Q0SzhQdDdQZW1QR0YtMEZLS2JFUWZMOGNrVkRhN0k?oc=5",
-   "fecha": "Wed, 04 Nov 2026 17:56:32 GMT",
-   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
@@ -1255,5 +1254,12 @@
    "fuente": "Finanzas Argy",
    "link": "https://t.me/FinanzasArgy/28054"
   }
- ]
+ ],
+ "mercado": {
+  "riesgo_pais": {
+   "valor": 925.0,
+   "variacion": 8.6,
+   "fecha": "2026-11-05"
+  }
+ }
 }
