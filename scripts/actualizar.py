@@ -334,24 +334,6 @@ def expedientes_leconte(base, previo):
     return estado
 
 
-def presidente():
-    vistos = set()
-
-    def nuevo(i):
-        k = i["titulo"].lower()[:50]
-        if k in vistos:
-            return False
-        vistos.add(k)
-        return True
-
-    return {
-        "discursos": rss("https://www.casarosada.gob.ar/informacion/discursos?format=feed&type=rss", 6),
-        "noticias": [i for i in gnews('Milei (tuit OR tuiteó OR posteo OR posteó OR "en su cuenta de X" OR "publicó en X") when:2d', 30)
-                     if re.search(r"tuit|poste|publicó|cuenta de X|en X", i["titulo"], re.I)
-                     and not re.search(r"amenaza|detenid|detuvieron", i["titulo"], re.I) and nuevo(i)][:10],
-    }
-
-
 def noticias_corrientes():
     vistos, out = set(), []
     for q in ["Corrientes provincia when:1d", "Corrientes Valdés OR Legislatura OR diputados when:2d"]:
@@ -461,7 +443,7 @@ def main():
         previo = {}
     base = json.load(open(BASE, encoding="utf-8"))
     live = dict(previo)
-    for viejo in ("bo_nacional", "senado_nacion", "diputados_nacion"):  # secciones quitadas el 5/11
+    for viejo in ("bo_nacional", "senado_nacion", "diputados_nacion", "presidente"):  # secciones quitadas el 5/11 y el 6/11
         live.pop(viejo, None)
     errores = {}
 
@@ -485,7 +467,6 @@ def main():
     correr("hcd_od", hcd_ordenes)
     correr("hcd_noticias", hcd_noticias)
     correr("senado_corrientes", senado_corrientes)
-    correr("presidente", presidente)
     correr("noticias", noticias_corrientes)
     correr("nacionales", noticias_nacionales)
     correr("medios", medios_afines)

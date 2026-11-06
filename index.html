@@ -402,14 +402,6 @@ const SECCIONES = [
 
   {id:'boctes', corto:'BO Ctes.', titulo:'Boletín Oficial de Corrientes', paginas() { return paginasBO(LIVE.bo_corrientes, 'corrientes.gob.ar/boletinoficial'); }},
 
-  {id:'presidente', corto:'Presidente', titulo:'Presidente Javier Milei', paginas() {
-    const p = LIVE.presidente || {};
-    const notas = (p.noticias || []).slice(0, 7).map(n => caja(n.link, 'item', `<div class="org">${esc(n.fuente)} · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div>`)).join('');
-    const disc = (p.discursos || []).slice(0, 5).map(n => caja(n.link, 'item', `<div class="org">Casa Rosada · ${fechaRss(n.fecha)}</div><div class="det">${esc(n.titulo)}</div>`)).join('');
-    return [`<div class="dos"><div class="col"><h2>Sus publicaciones en X, según los medios (24 h)</h2><div class="lista">${notas || '<div class="vacio">Sin notas.</div>'}</div></div>
-      <div class="col"><h2>Discursos y anuncios oficiales</h2><div class="lista">${disc}</div></div></div>`];
-  }},
-
   {id:'noticias', corto:'Noticias', titulo:'Noticias', paginas() {
     const n = LIVE.noticias || [];
     const tarjeta = i => caja(i.link, 'item', `<div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div>`);
@@ -586,6 +578,7 @@ function programar(el) {
 }
 function mostrar(delta = 1) {
   if (!cola.length) return;
+  if (fija && !cola.some(c => c.s.id === fija)) { fija = null; auto = !MOVIL.matches; url(); }  // ?s= de una sección que ya no está
   if (fija) pos = cola.findIndex(c => c.s.id === fija);
   else pos = (pos + delta + cola.length) % cola.length;
   const c = cola[pos];
