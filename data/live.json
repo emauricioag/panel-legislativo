@@ -27,8 +27,8 @@
   }
  ],
  "riesgo_pais": {
-  "valor": 852,
-  "fecha": "2026-11-04"
+  "valor": 925,
+  "fecha": "2026-11-05"
  },
  "bo_corrientes": {
   "modo": "directo",
@@ -586,79 +586,19 @@
    "pdf": "https://senadoctes.gov.ar/ordenes/2026/01-10-2026.pdf"
   }
  ],
- "presidente": {
-  "discursos": [
-   {
-    "titulo": "Discurso del Presidente Javier Milei en la Noche de Celebración por Israel, en la Iglesia Visión de Futuro",
-    "link": "https://www.casarosada.gob.ar/informacion/discursos/51418-discurso-del-presidente-javier-milei-en-la-noche-de-celebracion-por-israel-en-la-iglesia-vision-de-futuro",
-    "fecha": "Tue, 03 Nov 2026 02:31:19 +0000",
-    "fuente": ""
-   },
-   {
-    "titulo": "Discurso del Presidente Javier Milei en la inauguración del nuevo auditorio de la Iglesia Evangélica Bautista Jesús es Rey, en Neuquén",
-    "link": "https://www.casarosada.gob.ar/informacion/discursos/51416-discurso-del-presidente-javier-milei-en-la-inauguracion-del-nuevo-auditorio-de-la-iglesia-evangelica-bautista-jesus-es-rey-en-neuquen",
-    "fecha": "Sun, 01 Nov 2026 05:07:36 +0000",
-    "fuente": ""
-   },
-   {
-    "titulo": "Discurso del Presidente Javier Milei en la Universidad Torcuato Di Tella",
-    "link": "https://www.casarosada.gob.ar/informacion/discursos/51415-discurso-del-presidente-javier-milei-en-la-universidad-torcuato-di-tella",
-    "fecha": "Sat, 31 Oct 2026 16:27:40 +0000",
-    "fuente": ""
-   },
-   {
-    "titulo": "Discurso del Presidente Javier Milei en la inauguración de las plantas de producción de carbonato de litio de Río Tinto, en Catamarca",
-    "link": "https://www.casarosada.gob.ar/informacion/discursos/51412-discurso-del-presidente-javier-milei-en-la-inauguracion-de-las-plantas-de-produccion-de-carbonato-de-litio-de-rio-tinto-en-catamarca",
-    "fecha": "Wed, 28 Oct 2026 17:35:10 +0000",
-    "fuente": ""
-   },
-   {
-    "titulo": "Discurso del Presidente Javier Milei en la Gala Anual 2026 de la Fundación Faro",
-    "link": "https://www.casarosada.gob.ar/informacion/discursos/51409-discurso-del-presidente-javier-milei-en-la-gala-anual-2026-de-la-fundacion-faro",
-    "fecha": "Sat, 24 Oct 2026 04:42:47 +0000",
-    "fuente": ""
-   },
-   {
-    "titulo": "Discurso del Presidente Javier Milei en la presentación del Máster Universitario en Economía de la Escuela Austríaca, en la Universidad Rey Juan Carlos",
-    "link": "https://www.casarosada.gob.ar/informacion/discursos/51408-discurso-del-presidente-javier-milei-en-la-presentacion-del-master-universitario-en-economia-de-la-escuela-austriaca-en-la-universidad-rey-juan-carlos",
-    "fecha": "Wed, 21 Oct 2026 23:03:57 +0000",
-    "fuente": ""
-   }
-  ],
-  "noticias": [
-   {
-    "titulo": "Milei le dedicó un posteo al Papa a cuatro días de su llegada a Argentina: “Que su visita lleve un mensaje de paz”",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZUVBZGxiWTJKMTJlVC1OZU0zS09wMFRRQmpVQXE1dlZnWjI1NW5BalQ1aTdlOWxYazRMeGNsTUpubEdoMkVncmVBNVFTLWV3VWVsVUc3Z2JfVjZ6WkhZVzNmcU14cmZJb3ozbGJuc3VfeWZUaVhRTlp6TDcwanpvRlR5TkF4THYtT1paUktERnVHNkpzX1dNcjV3QjdZX281NmxiSHdnNFFFNDI3dmppT0NRZi1MSEFOX3NOeU9CMDI5WXl3eFhKMkJ3NWhWRjFHOUdvdHJMZzY1dXdmYVZTdVJ2c0MycE91cUk4YdIBhwJBVV95cUxOYW1BM1RPZ2FreDJzZ0xVN2pvd1ZjWTJGWGllVnNiay1Lc010ajJYNVkyR2FTbmZPdkItQlIxWHI0UGdaUGppSlltbU9mU0ZuNDZQZTdmZ3hKYjdsQ25WUDBVTks1WlZFazdpX2xYSzBNd1RONEpqU1JqZVhrS2UtVDU0NUUySE93d2d2YmEtODdPQjNjT1lGNmYzNTZXT3VmY1MzaVZiR2x0eHpfTXhtUVBCcFE2U0tXR0xxeVd3dTE0MnppVXZjTUZFdWdMdjJOSjlDbm9pRHl2bTQzSWZaZ1BXNFNHNjNiS1hnMjhjWTZKNkpKRmptdXhCdGwtU0dmVnkwaC1YTQ?oc=5",
-    "fecha": "Wed, 04 Nov 2026 18:41:00 GMT",
-    "fuente": "Infobae"
-   },
-   {
-    "titulo": "Elecciones en EEUU: para Santiago Caputo festejan \"el kirchnerismo\" y Hezbolá, y Milei posteó sobre otra cosa",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUmRaZFY3cXVtSkFIUmpDRl8zcmd1Rk9rNmFfQ1o0WGY4QWg3aHVBUzVwcm9SekRRTmlYbVd3bTJ2NzFPRl9GakcyaV9xTkZtRWk5R3BqNThjUHBNSHJkREl0dV9sMzQwSXNxanZVSHdadVJEdFkzOTlOYmJQZHY1dzR3ZlZsSkRCS3RrdjYwUjdDT2dULWxBNkVQZzc1MllMZkVMb19KaWV5YVo0WWQyT2JqbGZ4NktWRi1UM0dhblVkbDY5V2FFcE1OR01DVUtZdllTUHB5dlJlYXoycGlOa1VpWDdjcFBrblln?oc=5",
-    "fecha": "Wed, 04 Nov 2026 12:07:25 GMT",
-    "fuente": "Perfil"
-   },
-   {
-    "titulo": "Javier Milei no pega una: Vuelve $LIBRA y recibió burlas de algunos exaliados en X",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2JTS0JFbS13YjdONUxYb25ROWQ0NjVzYWJDck1KOHZfSjVoNDFsWXBaVnRTLWJaWldOaXVzM212M1hkRE03YjRWaVh0MTFEbjZPdWtjTld4S2tkQWRwX0FLLTJnNUc5UC1lcDg4dHEwVnYzU3ZVNmEzMnQtR2dST001N29ickpGSkdtU0hIS05wZmwwTWd6bm9NdVYxNW1hVFZXSTVhZ0xub1pBRE9pddIBtgFBVV95cUxPVmRQWlpGUnRfOV9ERVNUc0JFMW56aGpid3hyLVNITmhjSWN5SnU5OE9iWUc3ZHZuZkVBNXNFaC1WRWtyeG50amVPbG1XQzhpT2c5N202X3o0U1lla251aEhIcVBXUVRlT0xWa1BqWGRGV1VEd0ZSVUEzYmt2SEZTWGk0QkdHamZobjduc2NUalFGT0NHLXRjbUM0SlZhZU1ZSHNUeUhjVDJtZjVfVjRXcFRvWVN3UQ?oc=5",
-    "fecha": "Thu, 05 Nov 2026 14:16:00 GMT",
-    "fuente": "Urgente24"
-   },
-   {
-    "titulo": "El tuit del troll preferido de Karina Milei: \"CFK está hecha m...\"",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzdVNXR0ejFqeWlLd0tuOFp0RmY5UGxOcFFCX3h1dThqM0JQWi10YmUxOGFnWkluLWF4LWw1Tm9WSEZMNjF4X2UyUTRXMXRZRmFZN1A1dDRySnhUUHNNcEpBWVc0UUVJcHVyTk1KMTZ2dTllRkUtbzBLMUpZd0swN1NsMjBJRUFMblctSlBTNTZQZi0yY1pvSTNoRVBIM3M4LXBxUEtVenFFNkh2?oc=5",
-    "fecha": "Wed, 04 Nov 2026 04:54:47 GMT",
-    "fuente": "Perfil"
-   },
-   {
-    "titulo": "El irónico posteo de Cristina Kirchner para celebrar la contundente derrota a Donald Trump en las elecciones",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejFlekNxTEZWMG01dThRN2YxTkQ1RzNXZzNTS1BFcjJWUkR2RzlxcUFxN2p1bVJKQjVnUnNyMGx4cC1KczV5TE1EUXpPRmpUNHVaMEQwOGJCdW9fMk9ELUIteXI5MFBORkNLZGhPbm9Yb0NjRUtRTjlDV0ZxVnVlTDRQaFozZnBYZVFhR2swMWxDNFF1N195cmpRMjZDWHRUME9HTjFLX2F6SGR2V2FGalN3Rk4yVmxkSDFwMzlVa3A5eXcxc2FaOGFtYWsxVXNua1BKY3JB0gHWAUFVX3lxTFB6MWV6Q3FMRlYwbTV1OFE3ZjFORDVHM1dnM1NLUEVyMlZSRHZHOXFxQXE3anVtUkpCNWdSc3IwbHhwLUpzNXlMTURRek9GalQ0dVowRDA4YkJ1b18yT0QtQi15cjkwUE5GQ0tkaE9ub1hvQ2NFS1FOOUNXRnFWdWVMNFBoWjNmcFhlUWFHazAxbEM0UXU3X3lyalEyNkNYdFQwT0dOMUtfYXpIZHZXYUZqU3dGTjJWbGRIMXAzOVVrcDl5dzFzYVo4YW1hazFVc25rUEpjckE?oc=5",
-    "fecha": "Wed, 04 Nov 2026 14:10:00 GMT",
-    "fuente": "Minutouno"
-   }
-  ]
- },
  "noticias": [
+  {
+   "titulo": "Valdés supervisó el avance de la pavimentación de la Ruta Provincial 126",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGpBSVh6YUVDS0ljWllqdlZHUWtwUWhQbUtyVnMtVUJFSGR6d2cwS1oxTnZVUW5SaTBmLW1zRDR5VWxZY3pGazZNWFhnRVNvOU56Zk5nSUNRSm5GZW5XNmlXWUl3emFWc1RmRzNncXFsLWlKY3ZSeXJMcHZmN1ZfZkl5MHdGTXg5VTFMSkR0bDdGeXBmaVNraktEenJUMklKTS1OMVVVLXJraFRsV3FTUGxNY25jZGJLdlhneg?oc=5",
+   "fecha": "Fri, 06 Nov 2026 05:08:28 GMT",
+   "fuente": "Momarandu Corrientes"
+  },
+  {
+   "titulo": "Siete Puntas Digital",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYl96RXN3S2FNVTRld3o5b1EycVJMTWdpMTFJZVItU1JtQjFuMmtodHZBdml0NG45SFhMZVZaQnhjdG9iMTVOQWF5MkRzN1otSHRqY0w4SXQzZ3hoVUhQRTVmTTRRSERFS2JabGZBd1R4M3BSellvUWt2UDVHTDJKYzFnc1M1UWpJSVdLU1JTRjRRN3NpeWFjWlF1eHl3Q2xydU9sVHh3N3pKZ2hhbWVYVjlsVGRNS0ZoeWNV?oc=5",
+   "fecha": "Fri, 06 Nov 2026 04:13:39 GMT",
+   "fuente": "Siete Puntas Digital"
+  },
   {
    "titulo": "El Paraná se estaciona y Corrientes tiene 1.967 evacuados por la crecida",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0huakpyLUVtMVl3UjdBVnhrU2Y4N29UQkVOUHhyZmVvcnlYWGVkdm5ZQ0RMQU1LTTFpZEFPX3JpZEdHbTBPRWIxcGRudkl5M1k4Y3ZUUFdBUzlwNzRsdERSOGo3RkR3ZVo5dXFWSUxoSFFuLTY2S2tPZi1kSVNNQ2lRUzhhanpYQ2xZMVJ4NFZJMFIzS2NKUFpwV3BMOFloUkk5Sk9IMzFYXzU2dkdhNjBZZnRfWGoyZ0d4ODBFOUdRVHJ2dkg4?oc=5",
@@ -678,22 +618,16 @@
    "fuente": "Diario El Libertador de Corrientes"
   },
   {
+   "titulo": "Juan Pablo Valdés supervisó el avance de la pavimentación de la ruta provincial 126",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWG1aZ18zYXVva0VxMXAzZzlqWDMtUTBEbkNRTjhsTUpJUGpnS1RjWVp5U1liTVJSbEhneU96QlYxckNuVzR6UFEyTG5xMU1Ed0tvMHlybmVoZTczckc3NklhQ0diYlpnb1hmMWJLV3JIdlZWbDdDUHRWTC1SQWsyQW1vbE1zekUxT3lEZm1xTlAzOG84STJkT2pRT2hidkxCcFhlNVJUdlJPSHBLeng0aUVxcm1QWXBVbWI2aV84VTlOUFBBSWc?oc=5",
+   "fecha": "Fri, 06 Nov 2026 02:40:16 GMT",
+   "fuente": "República de Corrientes"
+  },
+  {
    "titulo": "Corrientes sancionó una ley que indemnizará a ganaderos por ataques de yaguaretés y pumas",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEhsa1hETHdHaUZDYXQ1cjVIVWJHd1BWLVpRMHhOSWQtTWZKT2luQ1Y4NS1DLUtFM2R4Ukc5NFN4dkFvNXRHMlo3d3pEVURHcWpuQUxzcmFGb1E3T3ZZLUlYd05IS3ZqOG1KR095LWROZEJhbGMybHVMWHNQTnVCODlEd2puLUVCczRfSDZ1VW5PSzluMHlqN0hNelhncWxVZHIxdjkwc0M3RTIzZnliQ0tNSzRUYlVUWWRLQ283QjBCWkZyUVlTdw?oc=5",
    "fecha": "Thu, 05 Nov 2026 14:35:35 GMT",
    "fuente": "Perfil"
-  },
-  {
-   "titulo": "Corrientes proyecta más de $4,86 billones para 2027 con foco en obras de prevención",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHlLVjZoU0VmWEJ4a2R2M0F6Nm5ISGoycG5GbW00cExlMDUxVUpuRGtTN1piVFpwNXU4ODhvS19SNkNTdnl5ZUhLZlZIRFhoejJ6S3pIa1lWNW1rUjhydXpNb24tUHMyalBDbVBqVXE2bExGNGd2SFVnY3cxMzZ0cGhfNkRuSEp3TXR6NTNVY2Z0XzJlYldZTUd0Y1FmQzJzcDNVTUNQWll6WE5QeUdORVBieGMycDR2?oc=5",
-   "fecha": "Thu, 05 Nov 2026 14:32:46 GMT",
-   "fuente": "Diario Época Corrientes"
-  },
-  {
-   "titulo": "Con embarcaciones, la Policía continúa llevando asistencia a afectados por la crecida",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanh2dDZkaTQxT19yY2lqUS1QbFJfUG1lOUI5TmxYMGZydlQ5T1NvVHd2Vi05TDB5bExNM0lFOEdWUG9adVhoQjgxa1RobU9oN1V2X1Z2X2Jod0drZVo1d3Q1M0Y4MS1aX0dQMTZseWtKSFFSa3JLQlpVdUFOSWpxcWtRU0preTJFTGUzYzNzMThKQ3AtSTVDRF9IZmVGY0VGbHo0ZDBBb0wxTkVWd0NVeEhyd1d0aEJkanZj?oc=5",
-   "fecha": "Thu, 05 Nov 2026 23:53:10 GMT",
-   "fuente": "Diario Norte"
   },
   {
    "titulo": "El Gobierno de la Provincia realizará un operativo integral en el barrio Santa Marta",
@@ -702,28 +636,22 @@
    "fuente": "Radio Dos Corrientes"
   },
   {
+   "titulo": "Con embarcaciones, la Policía continúa llevando asistencia a afectados por la crecida",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOanh2dDZkaTQxT19yY2lqUS1QbFJfUG1lOUI5TmxYMGZydlQ5T1NvVHd2Vi05TDB5bExNM0lFOEdWUG9adVhoQjgxa1RobU9oN1V2X1Z2X2Jod0drZVo1d3Q1M0Y4MS1aX0dQMTZseWtKSFFSa3JLQlpVdUFOSWpxcWtRU0preTJFTGUzYzNzMThKQ3AtSTVDRF9IZmVGY0VGbHo0ZDBBb0wxTkVWd0NVeEhyd1d0aEJkanZj?oc=5",
+   "fecha": "Thu, 05 Nov 2026 23:53:10 GMT",
+   "fuente": "Diario Norte"
+  },
+  {
+   "titulo": "Privatización de rutas: 150 trabajadores de peajes quedaron en la calle en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWV9DUmZDWXgzVWZ3MFgwRS1RbjdzQmF2bHd3VlNIVkZad1lDcmRVWjRTdEl1aTBVQVRkemdHeTRDY2JCTDNybnNRQ2VOMkhGTzZKN2t2eGRFQXJrYS1nM3pDNzdXMWxLaEY3NnhpcXozTHkwUUdkenNnMnViemhZYjNwRElieUhELTJlX01zZlFWT3BWYUkyZW5RUkJqQjZZSGhGOTQwRlJ0aE5STGYtbkNvcnh3bzVW?oc=5",
+   "fecha": "Thu, 05 Nov 2026 23:46:55 GMT",
+   "fuente": "DeGremiales.com"
+  },
+  {
    "titulo": "Corrientes adhirió a la emergencia hídrica y climática por 180 días ante el fenómeno de El Niño",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTJ0Z2ZjQWxtUGJkLXE0MzlvVHVlRVJYQVJqLWFEV2ZZYXQ3ZUM1WGxvbGd2TWFnMVJieVBtZUVLUmo2Z0huT1ZCUU1LNVVpRjFEa0pDNE1jamM3Z3ZaNzNJSEtpeDBlMUlValVudnN2X1lTTEVrdm95RF9UY0NZeUVTUEJGZEpQTjNWNndkMzBPQUVOcC1OZUFwN25IUkFmWkFIc0NwRFo2ZWQ1TGNWSTFrNlNKUUN2QzIzeVp6Y3BUV3l3ODlGaQ?oc=5",
    "fecha": "Thu, 05 Nov 2026 20:47:12 GMT",
    "fuente": "LT7Noticias"
-  },
-  {
-   "titulo": "Se encuentran habilitadas las Tarjetas Sapucay",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMjlXUGtVMlhvZUE3ZE16a0lwaE5XTGtneGNfZmpBdHFkeC1lSy1hWDIyUnJrNDZuTDRoNjB3QTk1SEpadHZxRDhxZXd3Z0FGb2F4R1B1aDh3WDVqMUFvREphQzJjNlBvMExvLTQ1eEdPTm14NFY0d0syaGRhZXlUNjVJNm1IUXU3X0pVcXJDUHFXT1U?oc=5",
-   "fecha": "Thu, 05 Nov 2026 22:09:10 GMT",
-   "fuente": "Corrientes en el aire"
-  },
-  {
-   "titulo": "Silvina Rollet renunció al cargo de presidenta del Consejo de Educación de Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWRLaVVjQVNaZXZLdGVZV2MyaFVkZUM5X1hIOU53R2kyRHVsNk41amJnZEdQaEl3NWZIZXhWdDlWdDJmWnh5VGVPLUFiRDFqbW5hUFBzVU9BSExIdnFzLVduRkJCVHR4c0VnVjlicWZ1a2RKc2UzZ3piQVZLaWJBZzY5NWRibG5Ram9nMldWVm5YYWJMZk1BMjdkbHFEYU02VzFGXzJwdDVJTnZhSW52bWhyaXZNUUNTTFNkTGtlaTFjU3ljWnVYcw?oc=5",
-   "fecha": "Thu, 05 Nov 2026 20:10:47 GMT",
-   "fuente": "República de Corrientes"
-  },
-  {
-   "titulo": "Corrientes, con una caída interanual del -28,6% en el empleo de la construcción",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVo3TTR4UEdHaTRKbDF2aGxjRTg4WVRhNG1DRjFBenU5OFdLN0ladFhnc0x3cE1oc01HaHgwNmhfdjFpYkNLODNiNDB5WXFtVFRVMlFjZkY5SnNMRTFXZFVfakxpazlRNTVqcTA4SF81b1BjQVFVY0lobVRRQTBiNHQ2Q1RMdG1CZTNSTTliS284QVdMX0hnMkxzd3VSRjlHTFlWVW5DUjNoNXBlRk1xSDJaMnZXU0lZWkpZN3RuLUFMUQ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 13:04:01 GMT",
-   "fuente": "Momarandu Corrientes"
   },
   {
    "titulo": "Corrientes recibe a un experto internacional que dará dos charlas sobre Medio Oriente",
@@ -738,16 +666,16 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Judiciales de todo el país deliberan frente al ajuste y el deterioro salarial",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRUtnd19BYWVrRlROWmRVcnMyelZLR3UxcUdELUdLdFliTG5FWk1IblNpalJjdnk3UEx1Tm9PSGc3RDhuOEZ0ZkxjQURkZXllaUExbTlKSWF6QlFyS3JadkM2SGQ3aEJPUEVlNjF2YU1hODdLOVRDc3ctSDltVlZBR3pqNmxoUXlHajFadEEwb2VZRmNIQVB1VUhTRWM0RFVad2g2cGptWmNIZ0lNakE2RDdGQ01aNEE2UWVaNFhYRDBFUXpHeWpVM001ekg5elE?oc=5",
-   "fecha": "Thu, 05 Nov 2026 22:04:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
+   "titulo": "Corrientes, con una caída interanual del -28,6% en el empleo de la construcción",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVo3TTR4UEdHaTRKbDF2aGxjRTg4WVRhNG1DRjFBenU5OFdLN0ladFhnc0x3cE1oc01HaHgwNmhfdjFpYkNLODNiNDB5WXFtVFRVMlFjZkY5SnNMRTFXZFVfakxpazlRNTVqcTA4SF81b1BjQVFVY0lobVRRQTBiNHQ2Q1RMdG1CZTNSTTliS284QVdMX0hnMkxzd3VSRjlHTFlWVW5DUjNoNXBlRk1xSDJaMnZXU0lZWkpZN3RuLUFMUQ?oc=5",
+   "fecha": "Thu, 05 Nov 2026 13:04:01 GMT",
+   "fuente": "Momarandu Corrientes"
   },
   {
-   "titulo": "Renunció la Presidenta del Consejo de Educación de Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUpseUR6cGZ3TTVJTmVGNVVjMFJWbmhkd0pFQ1ZBUG9fYkJtNnR0czlHandCSnFkQXN6cnJfRXBjWGFxS052NXJQdGwtamVZWWZHM2p4cHJFemotWk5xWmIxTVpHdEU0Z3NuU19SVGpuck4ya3kwdUJ3ZUZ4cTBBWEdYX3ZvaU5DMFVSaDMyUDY1RkhLSjAwX3kzZjkxU1daV255Y0t6Zw?oc=5",
-   "fecha": "Thu, 05 Nov 2026 16:52:50 GMT",
-   "fuente": "Corrientes Hoy"
+   "titulo": "Hasta cuándo estarán habilitadas las tarjetas Sapucay en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaDlUbzZsOUF2d2w2MUJyTWxpU2JidjRqdlZDTHNCN3VCY2ttY3JiaDRmZzZ1ejJERjFXazFzUHo1ODhqenVPcWtNZlFjcHVfX2FPUURtbm4wZmRXOGlFWW9IY1hKQWtZN0pOc09HREVnZjl3Y3ZrZzY0SlRaNzFnTnZXNU5rb1VweDZDTjJKQVFyZ1Q1aXQ3MTNRRWlnb2k2anJIdVZSaFpZa3NZcGxpSXRnb1Rrb2k5clpYbFl1VFU?oc=5",
+   "fecha": "Thu, 05 Nov 2026 15:59:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Juan Pablo Valdés supervisó la pavimentación de la Ruta 126, obra vial estratégica entre Sauce y Curuzú Cuatiá",
@@ -762,10 +690,10 @@
    "fuente": "Corrientes en el aire"
   },
   {
-   "titulo": "El gobernador de Corrientes confirmó que asistirá al encuentro con el papa León XIV en el Palacio Libertad",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLThSUGtPa1VDbjJjMTFURW1SMmxmNkQ2SHp2SFEwS0x2V3ZteVZQQndlOW9lVTdBZTBPMmxLRWd1bHhnejFYLTFhWWhWa0xWU1I5dWwtanFETTZsTkNpNTNzbUg4dlNDWHBueVlRV1pCVkNVU0tSMmNqbXljMXE0dEVxd18wYm8xeG5pMms2RHF1TTJUSWVMdzk1OWE3TnZPZVh6eFBJckY0WkdfU3ZkczdrdjdyUkdKTTVRTzEydFllWjA5TXlNV0hMblB6a2hmemdYNTl3WjZXa3B3aE1r?oc=5",
-   "fecha": "Thu, 05 Nov 2026 04:17:22 GMT",
-   "fuente": "Perfil"
+   "titulo": "Presupuesto Provincial 2027: ministro Grachot informó detalles a legisladores",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmM4SlBOd2NqRHpnNnEydWo4cUduNE9kdGppQ1RJekNMVWxSc1JSNnAyWGFISFFWMEpyOWd0c0ZiUXlqUDBwMEh4eGM2cnRUVHdvc2Z6X1h6d0U5RndUOEdFbHV1eFZDaUk0UTJIYmVXU2pHOUlGN0Z0NVB0VzV2RWtVMnN1SDNGeXJsS2lPN1RubTNQX29EZ1czSjZ4dkowRS1ObENWSFA0T1p1TFlNd2EwVThJYWtO?oc=5",
+   "fecha": "Thu, 05 Nov 2026 14:35:23 GMT",
+   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "De Loan a Nancy: Corrientes se tiñe de sangre, pero nadie habla de Valdés",
@@ -774,10 +702,10 @@
    "fuente": "Diario Junio"
   },
   {
-   "titulo": "Valdés y Polich recorrieron la obra de desagüe del Pirayuí: beneficiará a más de 250.000 correntinos",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZEhNMXlZUmVnYjlKUzZNNDhzb2xPcFNWbVptellrUWFjVFI2SkxvN1R1dXpSaWp3aHNjN1JMc3l5WjlyTDllUGRMaklaUkxUY19udlNxMGVCazRxNzJXUlN1Wl91TktzZW9fbE5GUkI3a2RJX09sM2hVbVBGUW9HbUl0eXkxc1NRYWMyTnYzVGJYa25NUDlCQjVpdndydDVQYmdNemlxbVRjOXdCTjRZYzhtRW91YjdHSlpvN3BuZ1FTRWlPbW5FQm9IZ19JRk9QSnNhRkVPTWVSZ1FoOERRa2ZIZXpnSm5YQXUwWg?oc=5",
-   "fecha": "Thu, 05 Nov 2026 16:08:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
+   "titulo": "El gobernador de Corrientes confirmó que asistirá al encuentro con el papa León XIV en el Palacio Libertad",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLThSUGtPa1VDbjJjMTFURW1SMmxmNkQ2SHp2SFEwS0x2V3ZteVZQQndlOW9lVTdBZTBPMmxLRWd1bHhnejFYLTFhWWhWa0xWU1I5dWwtanFETTZsTkNpNTNzbUg4dlNDWHBueVlRV1pCVkNVU0tSMmNqbXljMXE0dEVxd18wYm8xeG5pMms2RHF1TTJUSWVMdzk1OWE3TnZPZVh6eFBJckY0WkdfU3ZkczdrdjdyUkdKTTVRTzEydFllWjA5TXlNV0hMblB6a2hmemdYNTl3WjZXa3B3aE1r?oc=5",
+   "fecha": "Thu, 05 Nov 2026 04:17:22 GMT",
+   "fuente": "Perfil"
   }
  ],
  "expedientes": {
@@ -992,7 +920,7 @@
  "errores": {
   "medios": "HTTP Error 404: Not Found"
  },
- "actualizado": "2026-11-05T21:49-03:00",
+ "actualizado": "2026-11-06T03:32-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1085,88 +1013,52 @@
  },
  "nacionales": [
   {
-   "titulo": "Visita del Papa a la Argentina, EN VIVO: León XIV regresa a América Latina en un \"viaje muy deseado\", destacó el Vaticano",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1pUVFB0dkp5clJRNmtUMURPWHh3emllUWZTRGJscWYyTFdzZ0lYVXFFWS0wUUpfeGlUSVZqclJhbmFBdWdfZGtVbzJycU5QbDRWUk54MzVIcVVabjR6VnFObWpKOVRzR3RRSnpJUW41dXVYUnZkeVNudE1ONXlmdkpzRG9PdTFMbzM4ZTlLQmdSVXNiQmxMZHJtV2ZMbVZIeDNiV2FtMHUwSnljVmFqUXkwYmlqWVdNcmctTlZ3dl9hX0x6TG9vM0pHME1qUFdpbWkxWk5R?oc=5",
-   "fecha": "Fri, 06 Nov 2026 00:23:31 GMT",
+   "titulo": "Pedro Sánchez le respondió a Milei: “El insulto no forma parte de mi forma de entender la política”",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmJMZDBNOXl2Q0w4Q0JnQ05pNFJPMHZWRk5qMVYyLWhORnRYb2JIYTJhbkxNcmdGOHppVHp5a2tTTnhlSXpfVm9lNEZPWTdHTy02Y3RzQUpIMGZLZEQ3Qm9MQ1pGMjRJUkRnUE9qYmVUTExVYWNFekFFU0JhZHJUTzI1RDBzbVNjbEdYSUVQMEN6MEFiMUNGU1g0YV9mZGtHNTEtUlJlWVlZcUZwa1NRdG5HSjRYX2FqVm40Q1pYWUk?oc=5",
+   "fecha": "Thu, 05 Nov 2026 19:51:15 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "La Corte Suprema ordenó aplicar la reforma laboral para actualizar las indemnizaciones en juicios en trámite",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUHIwTG5rSmQtaE00UzhaOWVqcFZhY3ByQmlnbWN0TEtCTnZ1cjRiOVRXMHEyakZLT2lMblU0Z3lNS2RETUZCSVdHV0RSTEF3Qkg0TzJWSk1zSDlNVS1WOUFraHZoMUk0d2lMNmVsQXhwaXQwQTV3Z0dQdzVobmZaYW9ySkE1RVo1WTV5bF9aY1NGa3doUWFSZEtNZTVKX1ctYjdFVHhtUFpGUm1LZG9ZMkdqNm9nV2xOTW16dnlhRjUyLUJYSkFPU2dFTHVHZHc1SWlRTw?oc=5",
-   "fecha": "Thu, 05 Nov 2026 21:00:00 GMT",
-   "fuente": "Ambito"
-  },
-  {
-   "titulo": "Pedro Sánchez, tajante sobre los insultos que recibe por parte de Javier Milei",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0VxS3B0dnBsWlJpYUxMakhGLXBYUjBLNzR1UzljV3AyUHduZXpaVFdwUXNpUkFSNXFTWjVDRmFTTmZiUGRFdGxaNUlpbGN6NE40TjF6UVVjNzFtYmdHZ01TT3ExcHQyU1R4cnFtZ3VLTWdrZF9KTlM1RVBXSkY3Qko3MmVYaFJ6ZjJvbUJqRHNVWkJjbjRNVjVXSmJ2YTFMMmNtaEphSFRjQTZtQXFtd3lmN1hFalR3?oc=5",
-   "fecha": "Thu, 05 Nov 2026 22:24:39 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "La Corte confirmó un fallo histórico sobre la responsabilidad de la Ford en secuestros durante la dictadura",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaFF2aVRKSXliSEtSSk40YzJuRXNsd0dCQzc3UkVYVWxKLVlnUS1jOTFvdFhPcUR2SW5PbHlfOGF4eG9rVXR3U09qYTEwMUNOLTljOUs0ZnNaVHNLTU1HS3VIbjRPdTE2TTFlbDl6STNfbWkzak1maE4tMjdibmFNbEVzd01kQkhRZjNEcExtTXRrbTlOVndpYndlN2hMNU1RSkdhZDc0VS1RQmpscEx3VDRkaHhaek9RT2pfM1NsSGQwdWU4TTkzd0pLamY4TzhBMU9UUU1JNkVya3RjMDZxLQ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 21:01:53 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "Mano a mano con El Tres, Kicillof habló de la visita del Papa León XIV, del impacto de la derrota de Trump ...",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPcU1uczJpbWFPanROQjg5U0lXSFVTcFFqQU9TZDJTSXRBWmNSeW5TOXJFaEhyOXNQZ285VERIajZGTnE5QmFRN1VRcmIwVFlLbXZOZ3NPdVRvc1c3OHhkSjVHU2dTZnFZVVhUbG1ZaDZpMHVOT3JidEpYWWI3SjQ4aVQyc0RBTnpkNnZfOXZfSUpHUDdHbS1Rb1Nvblg1dmd1VURzX0RUSXY0Rm53MVpkMjdoNEVMeEhYRjVUNW52VHlmblNMT01zYXg0dTE0ZGFYOHp6LUhINkRwcUJXZDFwTlZnb3cyeDFZU3BxeHAxdEFNb1hMTFhVS2dISlFockNJZXVMSXk5b3hSYnFOSUFnaWxyaHhzeWZBWDZlWTFnU3pvVzhHdUZSVEV6QndmZkdzenc1eXpqUUZ6NG1r0gG8AkFVX3lxTE9xTW5zMmltYU9qdE5CODlTSVdIVVNwUWpBT1NkMlNJdEFaY1J5blM5ckVoSHI5c1BnbzlUREhqNkZOcTlCYVE3VVFyYjBUWUttdk5nc091VG9zVzc4eGRKNUdTZ1NmcVlVWFRsbVloNmkwdU5PcmJ0SlhZYjdKNDhpVDJzREFOemQ2dl85dl9JSkdQN0dtLVFvU29uWDV2Z3VVRHNfRFRJdjRGbncxWmQyN2g0RUx4SFhGNVQ1bnZUeWZuU0xPTXNheDR1MTRkYVg4enotSEg2RHBxQldkMXBOVmdvdzJ4MVlTcHF4cDF0QU1vWExMWFVLZ0hKUWhyQ0lldUxJeTlveFJicU5JQWdpbHJoeHN5ZkFYNmVZMWdTem9XOEd1RlJURXpCd2ZmR3N6dzV5empRRno0bWs?oc=5",
-   "fecha": "Wed, 04 Nov 2026 18:18:00 GMT",
-   "fuente": "Rosario3"
-  },
-  {
-   "titulo": "Expectativa en Uruguay: cómo se prepara el país más laico de la región para recibir al papa León XIV",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODdaTHNySDNCSWxIOFc3TzBIVktBOE12UlR5cUhSMzZrb0xjZS1uRG5vX3lwMlR5Q3MtRnRhVkpMUTd4amRxS0QwOFJFTDItTFNNX0VINjRFYXhqVDlOLU9ESE5icUcybE1MVW5IQ042Yk9mc1Z2cV9ic2Y3aHl2QWxxQ3NIbk1BY1NSWFpKMzZmdVk4RjdTNGRJSHpsTDJzVDFIUG84M1AyU1g0NTBjdFBUTkZna3QwRmZnaEZwX0U5TERGOVliVURkUkVGdW5Rd0pjaHg5NHR1X2VUcncyMWFFVQ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 20:16:00 GMT",
+   "titulo": "El Gobierno agrega una actividad a la agenda de León XIV: Jorge Macri le entregará las llaves de la Ciudad",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdUtzMzZqSVBfQmRwRlZKYTYzNVd0WlJLNFhxd2k1R3JQclkwMlhNbXM2bTYwU3NxaUt0TEZEdDhwbW5KeFZuMUpqNll6WjgwU3h5WDh0dkdZVnJocTFrODlLcktnWVplM3pYSW4yRmhrVUJZUXVNZmc2NGFwVE93eTVld0FZTmVKSGdOczNxN3RWZndweWFLcTJOU291c1kzSkVYOER6eVVFMklTY3VlaVFBQlJlNmlUOG5LQTVuaWs0dVZCWlZLMTZrdFdrRzc0dDdNa1hMZnE1YzduS0thOUtn?oc=5",
+   "fecha": "Fri, 06 Nov 2026 01:46:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "La mayoría de los diputados y senadores confirmaron su presencia al evento con el Papa León XIV",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdjNLS3c4MHN3MWhGaEtyRzd4VVVvdXd6OGJpWGxmVmpzV0Y4akhQd0huS2Y1b3FOMmJSS0lhMGh6SVVoLXBZVFFZQXZpM3gyMkJlX0szSGhPTnpJa3BlZ3dWOFJiOUpFM3ZRR2lPa2QtcElod2EzWVRJQnVtNFBSelg4VWRueVctcy1rZ19QOVlwR0JFODNMYmxxdXk4LU5PNEcwRW4xUlJOUzY4dmdSbS1WRWFkdzVGMFh4YmtDOWNWQ2VheDdXa2Q2dXBrSUcxM0pSVVFIc9IB8gFBVV95cUxPTHVxV1UwOU1UWk9weGlMTkdlSTFMdVJHbmxpVnBhZm5taUpIb0ZDVlFXUE9faVV5V0ZqMVR2WGJqdGRoeGdpVnFnclktNnRnRy1TYlYtZnRxSU1Jakx3NHpuWnR2T3NaVVlwMVBBVk9nbU4zZnVicG91bUNQUFNKOG1RLXRPbWFpY2pLTzQyWVR5SXQySHpoNVR6SzN0clRmZ0h5dFBGZGdZUGNkY3EtVjRtRzlLcE1udzVJY0RsSjRxdTQtR1lfZ0JUWEZ4bThFZkJiYldkOXpTblA5MDVvUGxRSkpFb05PRWVvaENTMXJYQQ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 19:33:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Visita del Papa a la Argentina, EN VIVO: León XIV regresa a América Latina en un \"viaje muy deseado\", destacó el Vaticano",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM1pUVFB0dkp5clJRNmtUMURPWHh3emllUWZTRGJscWYyTFdzZ0lYVXFFWS0wUUpfeGlUSVZqclJhbmFBdWdfZGtVbzJycU5QbDRWUk54MzVIcVVabjR6VnFObWpKOVRzR3RRSnpJUW41dXVYUnZkeVNudE1ONXlmdkpzRG9PdTFMbzM4ZTlLQmdSVXNiQmxMZHJtV2ZMbVZIeDNiV2FtMHUwSnljVmFqUXkwYmlqWVdNcmctTlZ3dl9hX0x6TG9vM0pHME1qUFdpbWkxWk5R?oc=5",
+   "fecha": "Fri, 06 Nov 2026 06:18:02 GMT",
+   "fuente": "Clarin.com"
   },
   {
-   "titulo": "Feriado papal: así funcionará la atención pública, bancos y transporte en Mendoza",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTR2NkNBWnB2Vk9ER09ZLW10UUhDdzBicEZmMTZ5RGttamQ0TmZmbGctYTI1Yk9yRDJTcFVPSUtFTUtxcXFGM2xzREFsdjhwWWNBRTl6eTVUc1Y4VWtBVDdyaGduczRGUnlRcXp5d1hwbkNiUVpXd3VpMlNjd3RqWkFNa1F6Mmlqcm9rWkQ2ZHVLVl9iQkhZdEMxdTJ5ZHNvWWJ6NEJxemVtSThSZHhBeUF4QQ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 13:20:02 GMT",
-   "fuente": "Diario El Sol Mendoza"
-  },
-  {
-   "titulo": "Presupuesto 2027: los aliados presionan al Gobierno con pedidos que comprometen el déficit cero",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVlSTGZsMTZtS1YyUUZTcTdKODZlSTFFd29scU1HRC1qY2JZVnVIUkxSYXdCUEwwRGNuRWhXZnhTRnVuVWhzTWZ5MkFFb0RUT2ZCTWprTXdKc3p1LXdNMUktN0EzRlhWRHJZVC1fcmEyLWtTTFQ0SkIzVmJQVldjd0tXTTZHTDFiOWtDTE5qem9kOEF0RHFtSmdsWFB2QUtVVW1UczA1d0dHQ282UDFpVnhtbU1wcUc0SEltTnZCNk9KalFIbHVkTHdDVl95bUluRXVRT1Rn0gHwAUFVX3lxTE5RRUlQM0huNi00SEJKS0NRXzY4bnJJS2l0M2hRRS1iNWZRcllORU56NTViY01pM3htMWxYT0FrZmxYRlNQV051cTVCVGF3WGtrYUN2S2JhMnFjVHJUa3dBVkh1azhQZE04S2Rsb1hTSUk5YmRCc3NxTnF2U1NNZjFXSi1jUmRJRzVxYzhzcWtQNldvTnRZam5Xbk1zTVlNWG5BcG1BUmpiV242OGstVFFnQ1E4dUNhSGhvNmJQQmw0MUFjRHI2NzNZSXNpWkVQNGZvRW1CVG01Z0xKWE5vclk3YmNjT1BtNzRwLXBUYlpHXw?oc=5",
-   "fecha": "Wed, 04 Nov 2026 22:03:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Rodrigo De Paul repudió el ataque a mujeres trans en Palermo y compartió mensajes de concientización",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVDlSYXNPWVhIQjVOY0UzOFVZTnF3dzF2ZEFvWDdVR2pSSEFOM1dLMG03QnZsX0FKWWJleVlKaFFPNGkwazJUQWt6eW1ia2R2bnNYS0J0dW1ndjB2Wl9ab0FHRmtOVWNkM2wxNDVjOTFVZUxIV1MyRHFNZ0QwTU1iR0FXUlMzam1MY3NWMi1RdGdHaXZ2V3Mzc1JyWVhyOE04Z1pwazdLeHhrQXVZcGFhYVJvY2JFanhOSmVvV19HWXR6Ql9FZERSY3NYMEVWbUFvX3NzYWFaWFlRTE9BbDRR0gHzAUFVX3lxTE1taWM4aVZoUlpELTc0QVJCS2p4bmRtcTZQeG4xU0tPUVVqSVlGRWFkeTFJaHJfdVVqNGdqVlR2TWlxeWoxQTNocUY3blNGeFh6VVNMc2VDZUdJNkJwODVPT2Z0RHNKdkxCcllHcG1XUEo2M3RWa21OV0hSdjA4bldyZ3NnaXZPWi1lVnBJNWVrTFdnejY2Y1dySDhQQWZhT1V3NmhnakJTYjQtUTVEdFFIVVdzNTBVbklQOWdtREtRcnJ2el9wVmoxaC1lUFBRVDFyblVwVE1FQjJxdjNlcmRBMXFVaGlNMmpCVVJBel9KYy1lWQ?oc=5",
-   "fecha": "Wed, 04 Nov 2026 23:26:47 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "Vidal anticipó un gran anuncio para los trabajadores y apuntó contra la oposición",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVzdIcHB2YTFleG9SbmNNMFpfTGFqUzUzMy1Ob1pOalRmOGZubEFVZkNmSks3N01UelpLaVdpSEx4SmpVbzI5aTN1QnUyU2hMZjFyaVdEYUZEdDRWUVBZTmxTWTlESlNwVTJ3R1k1MXo4OXlIMEVrNC13TXItZnQ4cVBHOTFkWFptcy05ZjFCX1dDblViRHd6d0dlMXVhVWFlQWc2UDlSU2pRbkZ3Vml2TDNldnJwWUJxUE9DT3poVEJNa29j?oc=5",
-   "fecha": "Wed, 04 Nov 2026 21:55:52 GMT",
-   "fuente": "Diario Nuevo Día"
-  },
-  {
-   "titulo": "Crisis de Ueno Bank. Qué contaban los empleados argentinos sobre los despidos dos meses antes del colapso",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWG51dTJtbTdtQlVVSE51bkY2UGt1N0dac0Q2VjBEQW5PY0lIa0FLWGRIbmRLV3VscmhvZk9sdFowQkRsTjJPNTBFeTc3dkk1NXZTcUNNMW83Ri1PTUttQkdHeWJrdlg0X0M1S19OVERXZ3BHYi1hdHg3c3ZDRWlXQ2RtQ21ROUxzeW9uc1lRSDJ1a2Jkb0VEclBsNzkwWk92d1ZrclBSNA?oc=5",
-   "fecha": "Thu, 05 Nov 2026 18:41:00 GMT",
-   "fuente": "La Voz del Interior"
-  },
-  {
-   "titulo": "Murió Patricia Walsh, la exdiputada que impulsó la nulidad de las leyes de la impunidad",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVplSFNHX1cyeWFrSkZkdm1BOHozWkxFeWwyUXdQcFM3dnZLVGJqX3VheFlnMmV2X1FYWmIwa1BDTU9yWUhIVkxVSTVSWnlSSkxBMmlUSlRaaWNLYTFZcmtSN1VHU3B4ckVfNkVtWFVJd0REV2RkN09KUFJyY21oa0xlUm9mSXRUSHZBR1NGbEhPd0hXZlhrNHd6QkhKTUlKWXV3bnpfTEJFWnlzd0xGbm14RWJWOXFXS0NPbkRaZ1hQeTRn?oc=5",
-   "fecha": "Thu, 05 Nov 2026 15:03:13 GMT",
+   "titulo": "Ataque a mujeres trans: una radio abierta para denunciar y concientizar",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWdReVlPUWtXMVFpWVpiUV9NbnpUek81N0t1NU0wcm1XcU4xWkFtZlp4anhnY1hXOGZPY2ZrOWZtYU5QWXBGcndpLTRmLXpOd05hc0xEV1hKbXlya0V0Z3RTaGc0Q0N5NHluVi1Sc3M3cEtXbTA4ZThsbGk2eTdKZll5VkxQWnZhTWRDd3hiUC10RU5JeW9ueGY2NUZLRlp2aE1OTFNTeHRxRXkxY2ln?oc=5",
+   "fecha": "Fri, 06 Nov 2026 02:46:40 GMT",
    "fuente": "Página|12"
   },
   {
-   "titulo": "Marcha del Orgullo 2026: los detalles de un histórico evento atravesado por el ataque transodiante y la visita del papa",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT21XVFZjcF83UDJxUklBM1pGMHBRdlJzNldJMnl5TU12b2pSUXpLNGV0Rlg2RUtoVVVLM3JNeFZSM3NiR0xqNDMtcUNyYTVtdW5fQmlEVWFyRV9IZDlFOTBEV1F4NGo0MTh1NDNNbHp2NWZ2RmR6TWhuTGFnY0NTSTE4UEFvSFctUWFEZ3FuVTlCLVpaMDdKODFiVEU3bVZmTzYzeU5mZUhreVAybV9oV3oySTJLWXNSVExlaWRFRHhZc3JtdEZFS1NnTDNIVnJnc05Z?oc=5",
-   "fecha": "Thu, 05 Nov 2026 20:50:34 GMT",
+   "titulo": "Marcha del Orgullo 2026: así será el recorrido hacia el Congreso",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLV9XNXIwSEpuUi1HTGRyTkhaS3Jrb19GMU1NWGJ1V201eWhRTGpmcmNRUTdEMHJXbE5zSW92Y003RUlkNl9kaFg1eDltRDM2M2FXTTl3LUdlMDRYRGVtQi1qV2ZsLUotbTdpSHU3cjhYaUYtNVJOQ1p1MTB0OXZNb1N4U0UtalNFbGFxMTNmWTFoaVdTcXh1ZXpiUXVlY3hWTnotNVBn?oc=5",
+   "fecha": "Thu, 05 Nov 2026 22:58:13 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "Hay un “León” especialista en crecimiento y no es Milei",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbnF6dlQ5UzNEV0I1dmppMUFLM3dGTGZkUnVaVU9SVEYybGRPNW9EbWNmYmU2cGxjSFNsdG1EUjZ4bGg0Y3J0bU9XeFRJYTd5V1hVUVBIU1B0LXBxOEFxcTd2Vzd4VnpzLVpjd0JiNk5zVjB3bUZNd3VyejktR3owREdFbllaUEx1RGNaNWFtUHR6Tko5OFpMXw?oc=5",
+   "fecha": "Thu, 05 Nov 2026 20:58:39 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "\"Déjennos trabajar”: Una empresaria local cuestionó los feriados por la visita del Papa",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNERDUVQxaG9COF9nVjQxSWNncXhzOUFZZWU5NGMtVUtzNC1HVnpUWmhxbFdaTXJBdVc2bnFZQm9oV1Y4WkJ0V1hiTUM2U3pSdnBhcFlqWlpBTzMtbHVISnd5RmplcE1JZjZUeHBwOHFmeGQzY2pRQmQyTTY2RDFkdGhvVGtBc1hpVE9NcGp4ME1TeExHRGVPZVBvWGtyT0ZERW95X3c1amVFaVJTZlJxVmRSc1plWUZBQi1v?oc=5",
+   "fecha": "Thu, 05 Nov 2026 20:33:33 GMT",
+   "fuente": "El Eco"
+  },
+  {
+   "titulo": "Ingreso de un frente frío con alerta por vientos y tormentas en Mendoza: el tiempo para mañana",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUVDUTYxN0NVOHo5OGYyYlNORGEwcmpCT3pqcDQ0cnljSE56YmVmdl9PNTVVM1hhYjA1MDVOMDBwMkUtS1lQMDV4VkQ2czd0cTlkQXZCVHM4Nk03bDRrWUJXM1M3M3YtVEo0S3FjRGxDM25MamMtUGVpTmJNQnprZi1HRW1QNEFTTkI0TTR1QXFmcDktTC1rT3Y3Tmk5SzlaRDA3Tlp6NFdPYlZFYTkxQWRXaHBneU5RaHdfMg?oc=5",
+   "fecha": "Thu, 05 Nov 2026 23:53:00 GMT",
+   "fuente": "Los Andes"
   },
   {
    "titulo": "Una fiscal pidió investigar si se usaron fondos públicos para facilitar la salida de Flávio Bolsonaro hacia Estados Unidos",
@@ -1175,10 +1067,46 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Murió Elsa Pavón: la historia detrás de uno de los primeros nietos recuperados en Argentina",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONGVZVHhvYjI2dEdxRENISVRhS1o0RElHT3NidjB4LV80TGQwS0R3Yl9scU8wY2xiblZlQlJPaGE3SVdwZ3F1UEV3ZkgxNHc1Z3ZiUnNvS1ZUbGFWU0VUbnUzMmd6STdGaGhQMjNDWUt3bkQ3ZE45WUYtYklmRGVySmNYTjNFd0RmQVg2cE00ek54ajZNeEtqc3psbUtUdWVobW9PVFdVQnhkSlE1bFd4VmpaMkkzV3J4UmZqdGE2OE5xcWI3bjREdEVzMWFkbEtTSDNwakd4WVlvRDFGeVpSczJWQnVQdTY1XzVFNXdVUmQwb3FIS0l2cjR3eUNHN3VmYW5OakNTNU9JU0hTUmVRdXFjR1gtUQ?oc=5",
-   "fecha": "Thu, 05 Nov 2026 14:13:53 GMT",
+   "titulo": "La incertidumbre financiera y el feriado bancario alimentan las dudas sobre qué pasará con el dólar",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdzZtZzQzNWZlSUhDVjV1Q2hLM3VKcUR6VjBXMVZwNHBjNzh3UEpBMHl2bEN1c2ZWVmxQYzF4T0lYWXNpOGMwTHJuX2t1dzFBOTd2aVZxU0ZQN1BNVlozYlNNSm1iOGZDcXQ3QXRnZXBXYlBDNjBEbmlYUF9FSm85MkljOTlUT0ZMUS12TjJMc3Y1a1J1TlAzMTRVSHFsVVUzeWJPZVBlY0VvOXZRYUpBWGJnODI0WHpadVRMRjB0OXlnSjd3WVQ1VzdmU1V3WUloSlg0cncwWHZIQ2NR?oc=5",
+   "fecha": "Fri, 06 Nov 2026 00:05:58 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "Falleció Patricia Walsh, hija de Rodolfo y gran luchadora por los derechos humanos",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1R1VC1BUFdGd1hoV3lZN3lZZW9yOXpBejhtRDJ0d0kycnlZUXNmVFRjd3BYY1BNVFdHQkU2by0xRmhSSi1jUGRHazFEZlM3LTBySzM2RldTcjVaS3FfTG5MOE9IMEFtazlWRDc0ZzZ4S01sRHJ6N3ZhZG01N2RzdFZ6bzR0TVFlVnJVZlR5cjRDaldFcF9OVmFtb2dPdGpFajVvekRrbjdhV0RwM3k1YlBvZ3Y3QdIBvgFBVV95cUxNRURDY1FYNTVFSWhCc0FBX0czYi1jazBJcXQ5bGRCM2NLZnJGdDhlQzZwUEJRaGxUZEgtVzN2MnBHY2xqeldHdVVpVXNFRUdSYlJEVlJCSWEzWnZ0SHc3eXJZdDE2aWFSb0FsWjdQbm1QV1dWR1A2WGZvZGx3Zk43WVY0TDg4amZkbW03ZGtsSWZMd2JCYWQxNlFhUnlGbUJmWFVERmhtZ04wdlY3aVNJNGphRjdIVC16dGEyQ2dn?oc=5",
+   "fecha": "Thu, 05 Nov 2026 16:18:46 GMT",
+   "fuente": "La Izquierda Diario"
+  },
+  {
+   "titulo": "Día del Empleado Municipal: una comuna adelantó el asueto al viernes ¿y las demás?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWppakJrVVU1RTNiWlBLSWwyOXpDdWE5QWxJcFBUa1dUNUZ0MUU4SWFtdHN6b3pIdm1jN2lQZWh4ckZPVHV1R2FuaGVEMGpfNGZHTlQzaEFTNFRLM1BOaHlIajR0U1hqdlhTdGZXNF9Dczk3TUlnSzVLeHJBcDZFbGZsbF83cS1KOW9Ea2xvVjlLNVM2MlJwVGRPUTJ2STlkRzFaQlh4TGJnNmRxeHYzcEZ1bw?oc=5",
+   "fecha": "Thu, 05 Nov 2026 15:56:22 GMT",
+   "fuente": "Diario El Sol Mendoza"
+  },
+  {
+   "titulo": "Amnistía Internacional publicó una carta abierta al papa León XIV antes de su visita a Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUVpal95TEpaMDNEODlvWFVkZnJ1UjBPZW9FVS1LelNiOFktTl9wMkE0RWJBTWRyVzAzSE9WbS01a1RkZlRlQjEzZHVkXzRSaGZleXZOdV9XdkhfMHJMelRib3YwbzhwTy02QlNTLUdRWTlvTHhaSDlDY1FENDdrN1ZMbU9XbWlmRGZSVGNnT195Y3ZZako0NXN6TXJuUHl1Wm9rM09LOGFLY2ZWY2lIT1pYMlZfVTllZEQzMUgxd2JXV0JJUFRDSTQwRHJQcXZQYkZCV0w5MUjSAfMBQVVfeXFMTXBQb3VfeVVYV3ZzUGNaQVFVMVlzbmJVTVVMTlpVY0FTRF9ldHRqRU1TV3hoT2NkM3VyVnhYNkxabHh4TkJhdEltQzcwdjZUOWVUd3ZTR1FfVE5OSjdQOGZzbzF2OTdIVzdBbm9hOVBMckpnS1BWWi1oU3JjSVZEeVlMd2VHcm5xb1dVd0g1LVNfRi1yblJMU3NKMDNKdGtsN1hYUmI0blhtVUwwb2xockFEeWZUMkVJdmo1SUVTLUxCS3MzQlliSEpSMmd6eWcxWUxLdWpNYjV2MS1HNndpb0FnNEM3M0hiQTU2Z2ViYklPcWVN?oc=5",
+   "fecha": "Thu, 05 Nov 2026 18:58:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "La crisis de Ueno Bank en Paraguay impacta en la Argentina: suspendieron a 1000 empleados de una empresa vinculada al banco",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWjI1R3k1VWJOUXhOT0NPQlY4UGljRTRCYnV6d3Q2MXVlMTNnelczVUxSYUNJMEFyNHc5cVliYWU2czZ2clNjdWJ0b3MwdFBlUzZVYkN0Vno5eWpvU2FjMHc3WlNkSVh3NEx1QXlCZVc5X1diNDZBVXpfZTFiVURKclFWb1drSDdMd3pNMzAzVTc3djhadzVsVlJfRTJXMldkY3ZndVl1NktiRVBJNU5wdWNhWkNsb3pnZlF2Z1FCWVp0RFNvVDYzUHZJS0xneUJ5ZWhTZ0E3eUdZLXRkLWxoeXgxR0M3NExpT0MxelQtVHhjc3PSAYcCQVVfeXFMTXY1SjBUd2NENjlWNjNWNk95aWVFR21OVnh1cnUzOTc1SkRJTFFrTlpMMGJYM2pOdFJ6emxKX1ZiNXc4NFRZc3JRaGd1OWljQWhRTmdrSFZNSkhCYktZVjNjVzVRV0F3SUVEN2V4R2dFbWotc2tqSW5Pc213UjdPS0p5eGxicE5kWndkbUREYzRqcjU2V05nRTB5RmJoS1d4TjhlODlNdFNzbmk2ZXAyUzBiMUNSczMwcmxMMXVvN2ZjQUQyMTkyZ2Y2bkJFY2FFMWFBdFZnRDlhRGktdlRway1WX2NidmlZTmwzWTJvVnZBZjh3YTgtRU0wUlF3LTBRQlFwa1RST2c?oc=5",
+   "fecha": "Thu, 05 Nov 2026 18:03:07 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "Cómo funcionarán los servicios municipales en Santa Fe durante el fin de semana largo",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZ3ZiZUhWaEZKdEREMDMxLVl3MFVBbW5tS0Z5U0Z1OTdPZXZiOFczQ09uWmR5NGduVHQweGNuVjJod1ZTY0NDandWaksxQ1JzMWRveGdkWFZaOEVhR2Fvc2o5T3doQ3lxUGwtbWRUMGdDejhGM00xNmRCeXpKeWhhZUtZS1lWVHlMbmZIYzRVdVVlaHc3cU9KdUY2VG91RXBNejNrUm9uMU5JZ2RHU0h2dlVYcmFMWmNlUWd4Um5lT29IdDcxd3FLU0FQVzU0Mlp0ZVdJamVxd3ZBTGpoTjN2a1BFNW1pMzBYbHpGRzZXMXNlZVVib2lyZ0ZzLU90NXZNQUhVT2pEZ055a2lOZkVoSGtoWEY2bnJKVWFNaklweWI0VmEyRTlRczEyXzNnUUpJYUJZUHV5bw?oc=5",
+   "fecha": "Thu, 05 Nov 2026 10:26:33 GMT",
    "fuente": "El Litoral"
+  },
+  {
+   "titulo": "Ofensiva pampeana por el petróleo: La Pampa sale a competirle a Neuquén con tierra barata y blindaje fiscal",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXVYakpIYkppdjNFN08wM3BBRTc2XzM0cVduQWowSHNBSzQwR2N1NnczVGVQUDFQRWpqNFUyWHlxYkd5RXBOSmhZMmVKaEs3eU9Ia0ExN3g3ZlNKT21RVzJBU1NiMlBDNGptNnFPSkdZclFuZnZlU21qVzhMQlVOVnlUTDVmNjM3UGRiQlNPVC1ObHVpMFM4WVBaeTFocDFDbGFicVNmcVp1Y0g2V2JYejZzeGtzNDlxZGFEdHJTOG1QTzUyTktNVg?oc=5",
+   "fecha": "Wed, 04 Nov 2026 17:49:00 GMT",
+   "fuente": "El Economista - Últimas noticias económicas y financieras"
   }
  ],
  "finanzas_argy": [
