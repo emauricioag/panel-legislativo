@@ -716,9 +716,11 @@ let sinConexion = false;
 function pie() {
   const d = LIVE.dolar || [];
   const nombre = {'Oficial':'Oficial','Blue':'Blue','Bolsa':'MEP','Contado con liquidación':'CCL','Mayorista':'Mayorista'};
-  // El riesgo país sale de ArgentinaDatos o de Finanzas Argy, el que tenga el cierre más nuevo.
-  const rpA = LIVE.riesgo_pais, rpF = LIVE.mercado?.riesgo_pais, mv = LIVE.mercado?.merval;
+  // El riesgo país sale de ArgentinaDatos o del resumen diario de Finanzas Argy, el que tenga el cierre más nuevo.
+  // El Merval sale del mismo resumen diario y solo se muestra si es del último cierre.
+  const rpA = LIVE.riesgo_pais, rpF = LIVE.mercado?.riesgo_pais;
   const rp = rpF && (!rpA || rpF.fecha >= rpA.fecha) ? rpF : rpA;
+  const mv = LIVE.mercado?.merval && LIVE.mercado.merval.fecha >= (rp?.fecha || '') ? LIVE.mercado.merval : null;
   // Variación del día: verde si es buena noticia (Merval que sube, riesgo país que baja), roja si es mala.
   const vari = (v, alReves) => v == null || isNaN(v) ? '' : `<em class="${v === 0 ? '' : (v > 0) !== !!alReves ? 'bien' : 'mal'}">${
     v > 0 ? '▲' : v < 0 ? '▼' : ''}${Math.abs(v).toLocaleString('es-AR', {maximumFractionDigits: 1})}%</em>`;
@@ -727,7 +729,7 @@ function pie() {
   document.getElementById('cot').innerHTML = (dol.length ? '<div class="et">Dólar</div>' : '')
     + dol.map(x => `<div data-p="${prio[x.casa] || 1}"><span>${nombre[x.casa] || x.casa}</span><b>$ ${fmtN(x.venta)}</b></div>`).join('')
     + (rp ? `<div class="rp" data-p="5"><span>Riesgo país</span><b>${fmtN(rp.valor)} pb</b>${vari(rp.variacion, true)}</div>` : '')
-    + (mv ? `<div data-p="4"><span>Merval</span><b>${fmtN(mv.valor)}</b>${vari(mv.variacion)}</div>` : '');
+    + (mv ? `<div data-p="4"><span>Merval</span>${mv.valor ? `<b>${fmtN(mv.valor)}</b>` : ''}${vari(mv.variacion)}</div>` : '');
   aviso();
   ajustarPie();
 }

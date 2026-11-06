@@ -421,43 +421,35 @@ def finanzas_argy():
     return sorted(out, key=lambda i: i["fecha"], reverse=True)[:12]
 
 
-def _astro(v):
-    """Deshace la serialización de las props de Astro: cada valor viene como [tipo, dato]."""
-    if isinstance(v, dict):
-        return {k: _astro(x) for k, x in v.items()}
-    tipo, dato = v
-    if tipo == 1:
-        return [_astro(x) for x in dato]
-    return _astro(dato) if isinstance(dato, dict) else dato
-
-
-def _numero(s):
-    """'84.594,69', '-4.13%', '8,57%' o '925' a número."""
-    s = str(s).replace("%", "").replace(" ", "").strip()
-    if "," in s:
-        s = s.replace(".", "").replace(",", ".")
-    elif re.fullmatch(r"-?\d{1,3}(\.\d{3})+", s):
-        s = s.replace(".", "")
-    return float(s)
-
-
-def _fecha(s):
-    m = re.fullmatch(r"(\d{2})-(\d{2})-(\d{4})", s or "")
-    return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else (s or "")[:10]
-
-
 def mercado():
-    """Merval y riesgo país del último cierre, de la portada de finanzasargy.com (vienen incrustados en la página)."""
-    s = texto("https://finanzasargy.com/")
-    m = re.search(r'component-export="CommoditiesIsland"[^>]*?props="([^"]+)"', s)
-    datos = {d["commoditie"]: d.get("data") or {} for d in _astro(json.loads(html.unescape(m.group(1))))["initialData"]}
-    mv, rp = datos["Merval"], datos["Riesgo País"]
-    out = {"merval": {"valor": _numero(mv["ultimo"]), "variacion": _numero(mv["variacion"]), "fecha": _fecha(mv["fecha"])},
-           "riesgo_pais": {"valor": _numero(rp["valor"]), "variacion": _numero(rp["variacion"]), "fecha": _fecha(rp["fecha"])}}
-    if not (1e3 < out["merval"]["valor"] < 1e8 and 50 < out["riesgo_pais"]["valor"] < 1e4
-            and abs(out["merval"]["variacion"]) < 50 and abs(out["riesgo_pais"]["variacion"]) < 80):
-        raise ValueError(f"valores fuera de rango: {out}")
-    return out
+    """Riesgo país (y el Merval cuando figura) del último resumen "Jornada financiera" del canal de
+    Finanzas Argy. La portada de finanzasargy.com tiene el dato completo pero rechaza a GitHub (403)."""
+    s = texto("https://t.me/s/FinanzasArgy")
+    for b in reversed(s.split('<div class="tgme_widget_message_wrap')[1:]):  # del más nuevo al más viejo
+        cuerpo = re.search(r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>', b, re.S)
+        cuando = re.search(r'<time datetime="([^"]+)"', b)
+        if not (cuerpo and cuando):
+            continue
+        t = sin_emojis(html.unescape(re.sub(r"<[^>]+>", " ", cuerpo.group(1))))
+        i = t.lower().find("riesgo pa")
+        if "jornada financiera" not in t.lower() or i < 0:
+            continue
+        tramo = t[i:i + 90]  # "Riesgo País: 852 puntos" o "el riesgo país subió 8,6%, a 925 puntos"
+        n = re.search(r"(\d[\d.]{2,5})\s*puntos", tramo)
+        if not n:
+            continue
+        valor = float(n.group(1).replace(".", ""))
+        v = re.search(r"(subi|baj|cay|trep|aument|retrocedi|descendi)[oó]\s+(?:un\s+)?(\d+(?:,\d+)?)\s*%", tramo, re.I)
+        variacion = float(v.group(2).replace(",", ".")) * (-1 if v and v.group(1).lower() in ("baj", "cay", "retrocedi", "descendi") else 1) if v else None
+        if not 100 <= valor <= 5000:
+            raise ValueError(f"riesgo país fuera de rango: {valor}")
+        fecha = dt.datetime.fromisoformat(cuando.group(1)).astimezone(AR).date().isoformat()
+        out = {"riesgo_pais": {"valor": valor, "variacion": variacion, "fecha": fecha}}
+        m = re.search(r"merval[^:\d%]{0,15}:\s*([+\-−]?\d+(?:,\d+)?)\s*%", t, re.I)
+        if m:
+            out["merval"] = {"valor": None, "variacion": float(m.group(1).replace("−", "-").replace(",", ".")), "fecha": fecha}
+        return out
+    raise ValueError("no hay un resumen de la jornada en los últimos mensajes")
 
 
 # ---------------------------------------------------------------- main
