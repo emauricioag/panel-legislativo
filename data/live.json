@@ -588,6 +588,12 @@
  ],
  "noticias": [
   {
+   "titulo": "La Noche de los Museos convocó a vecinos y turistas a recorrer los espacios culturales de Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbk9LNWJxRThHalhob2NiZTRpU05NOG44NHdaVERucktFUFNLMkpoZ3dQTWk5cEoyWUR0SHlXc296UTgxVF9sWjhIZGVadm5KV1dDZy1CNUF3cDV5cWpLaVJsRkJtUWZUX1h0eDQ1dExEM3R2S1NjRTJhLWppX1M4a1B4NEhqc3MwNXhUYWFnbnBfbFN0T2xwY1Z4UWFMNFJOT3FScmR2VGIxbmJfZWNIQmpoZ05DNGxHQW83OVZ6cGtadGdwODdtdU0ydw?oc=5",
+   "fecha": "Sun, 08 Nov 2026 21:22:23 GMT",
+   "fuente": "Instituto de Cultura de Corrientes"
+  },
+  {
    "titulo": "El día que un Papa llegó a Corrientes y miles de fieles resistieron un temporal",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNW1HU1BCZmljUHE1aFlnd1piUGdsZm40ejFiU2hCRVdaQm9UaEoyRDVLZl9Wa3hRNXJNQTJ1OGhjVldSYktQNE5MT1ZULUs0UUV6UlRpbWp0dTVtMjFIbVpTaWp0TjBlQjlpbVowNFRUek82bjBBcUZfZWxlNU1UWk83TzY2TkJjRlNoeG9hbmtZTWhkT09XNGVoWGZHTHRZaXBzNURjWjJrQjhxY3lEWEEtcElkNDItQlR1a3BRUkUwaTQtQ2lGSFFOTVhJU3po?oc=5",
    "fecha": "Sun, 08 Nov 2026 18:27:00 GMT",
@@ -600,28 +606,22 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Corrientes refuerza los controles en rutas por la visita del Papa a la Argentina",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeGhGU2M3S2pjTFBFZWQ4V3FKSnByX2JpanFHQnlvdGhIc2tOZmhZZmRIRjJGNl83LXU4WDdtSjl6dkNyaS1DbFJZNmVjdE1xRDdQZ0xhTThSQ2VDZlFJbml4c3c1TXFIbUo2eG5yRUpzc1hJN0ZKMEotY09oalFDUHZJV3p6MGRnc0p6d2ZkcEZHb09EX2h2SGZrVF9lV1Bhcm1IbkkwSHRCd2pCUG12eEcyR18yZEg1ZktGQkx3?oc=5",
-   "fecha": "Sun, 08 Nov 2026 14:05:09 GMT",
-   "fuente": "Corrientes al Día"
-  },
-  {
    "titulo": "Corrientes e Itatí transmitirán en pantalla gigante la histórica visita del Papa León",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGY3VEJ1eUl6MEd5TVlHd0RZUk52MnR5eW0zaU1xM01JX0tfWl9lS2xyeTF1RGpqWE96c1ZxQkRfbU1rb2ZpaC1HTGVlVWg1ZUY1Y3puWWF4SFMzWHNQMmJWTnFTMXNRRWZVcE5hUHcxRnhFTVgxRXhaeG95WnFuRzRuU1pXQWstTUw1Xy1SY3hXaFdCSjhzVXFKVnZSX0dpcXhFYw?oc=5",
    "fecha": "Sun, 08 Nov 2026 16:50:29 GMT",
    "fuente": "Diario El Libertador de Corrientes"
   },
   {
-   "titulo": "Corrientes evalúa sumar carne de búfalo a las promociones de Navidad",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFFwYkVWbjN2T3lIVUpnRFRHNHJSbHQzdjhoUzJZdmpTMk84RVA2RWtCSC1TUVZRdUJERlRoYXZCRUV0SnY2N2laamUwd2Fwd1dCc1I5N0F1YS0yTlJBb3Q4aldCdnIzNThNdE5tSUdFb3o5bXNFcENOZFlvVTdBWXlDS0c5VnBRdS1hNl95dzR0WWJRQUp1V3dCX2E3bUpHVDZ4RWlBY1loS1U?oc=5",
-   "fecha": "Sun, 08 Nov 2026 17:03:12 GMT",
-   "fuente": "VirasoroVirtual"
-  },
-  {
    "titulo": "Fiesta Provincial del Búfalo: Juan Pablo Valdés destacó el potencial ganadero de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLWZEMXhRVkRZZU1xdFh3YjFfOEhMZm50NnpSWnI0UWJuNEZ3cXlKTUNCa25SbDhYQy1WbkJ1TFEtRW5UWEFNV1hqYzhVSkdNa2UyNGdlWUVYdnQ4MXdGX1kzOXFyZkk4elZhcnlrX1Q1THhOVjN4ektUZnVIb3ZsQVkxcjRoMUtTNkhLVU9CaEFrM2VFcjFmblBsX0JUT3FfWmRWOVQzalhqMGw1V3A0dmU0UXhyU3VNQVc3dUFicW54UXl4STlaMldGcUFMd0F5d2hKWkNxYUpRMjR1TXJkaWdNUk5INWJwNnF5aWpIcU5tNDZoMVpz?oc=5",
    "fecha": "Sun, 08 Nov 2026 16:20:09 GMT",
    "fuente": "Impacto Corrientes"
+  },
+  {
+   "titulo": "Corrientes evalúa sumar carne de búfalo a las promociones de Navidad",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFFwYkVWbjN2T3lIVUpnRFRHNHJSbHQzdjhoUzJZdmpTMk84RVA2RWtCSC1TUVZRdUJERlRoYXZCRUV0SnY2N2laamUwd2Fwd1dCc1I5N0F1YS0yTlJBb3Q4aldCdnIzNThNdE5tSUdFb3o5bXNFcENOZFlvVTdBWXlDS0c5VnBRdS1hNl95dzR0WWJRQUp1V3dCX2E3bUpHVDZ4RWlBY1loS1U?oc=5",
+   "fecha": "Sun, 08 Nov 2026 17:03:12 GMT",
+   "fuente": "VirasoroVirtual"
   },
   {
    "titulo": "La Noche de los Museos convocó a recorrer los espacios culturales de Corrientes",
@@ -654,10 +654,10 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "Asisten a unas 92 familias autoevacuadas en Goya",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1JTQ2IzOHFOR054RFdhaDNFLWFCNTh2emF1N0dXdDFtSGd0ZWNCZzV6R1FUUUIwd0x0WDAxWGRBQ2gwOHo1T0Q2MHpFVngzQVhIbVdoWTg1MHVMVURGUmhjLTdXMDBMYlhUblVjdTNwS1Q2S0xMRHFrd1RKYXdZTWRLTDFEc3pjS0hwQVJCTS1IS3lsLVgw?oc=5",
-   "fecha": "Sun, 08 Nov 2026 14:03:29 GMT",
-   "fuente": "República de Corrientes"
+   "titulo": "Posadas está de aniversario: 156 años de encuentro, historia e identidad",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcS0tQl80VEZIWE52V3pyaVBlMXJSOURrVWtzcXMzLTdFb0oxT0xrQUJSN0tfLWl4elBRcmxEakJfT3JhaV9jU3FqVVpKUjBFUFFSUEpWLUJ3Ti1WWGoyRE11TWFNNWg4TUY4bFBvLWZaTE53REJuOXFHM2Y1VzFRQUsteHRTY0ZrX2I1cks2cFptR2l4VTVWRWNQeXl0QUVBemxKSG16TQ?oc=5",
+   "fecha": "Sun, 08 Nov 2026 16:00:00 GMT",
+   "fuente": "MisionesOpina"
   },
   {
    "titulo": "San Martín de Corrientes visita a San Lorenzo en su segundo compromiso en Buenos Aires",
@@ -917,8 +917,10 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-08T17:24-03:00",
+ "errores": {
+  "medios": "HTTP Error 404: Not Found"
+ },
+ "actualizado": "2026-11-08T20:59-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1011,10 +1013,10 @@
  },
  "nacionales": [
   {
-   "titulo": "Foto y regalos sin discursos en la Rosada: así recibirá Milei a León XIV",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXlVdTVTdTYzVlowSVNsazFMNmFOZ0cyRHM2U1ViVXVFalFMRUMtRkVVSHllV3RZTTFaQWpiVXZPZGhkaklBbmhiVWlyazEzaFZ2VWdqY0o0cTlpU19mMVl3Tl9oZUZONm03V1hoNkVDTlJidXk3ZFVDa0QyLXFaQk1vN0ltTUZGb1pzYzVZWXoxdURrSGgzeUNqN0t3Zw?oc=5",
-   "fecha": "Sun, 08 Nov 2026 19:06:55 GMT",
-   "fuente": "Página|12"
+   "titulo": "En Argentina, el recorrido de León XIV expone las decisiones más controversiales de Milei",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX18xdXRSLWs0eHNDeGpDT1dTMHJQY3AxaG9SQk9MNmJKNkpXVDNuM2xYVWtqQXpwQm9wYmR6MmlpUmp0eFFTQU1Obm9JVGNuTU9fOWJLYUFLcnVJWHNVY0ZxdHN5VzhOSXZVUnlIa1RrZG9wU3ZmNVk3VjRzc1VsdkRWbzBGTlc1VXF3?oc=5",
+   "fecha": "Sun, 08 Nov 2026 21:37:00 GMT",
+   "fuente": "CNN en Español"
   },
   {
    "titulo": "Lo que deja la visita del papa León XIV a Uruguay y qué se espera de su mensaje en la Argentina",
@@ -1023,46 +1025,40 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Bullrich lleva al límite la interna con Menem y Karina: incómodos y leales en LLA",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUFBZTR5YXVKNXptTmtDaUtlVnhfNF9Gb1dVY0xCSEZyZXpldEp1Wk5seVJWME9od3NlejBkeHczY2JkbTllbDF3OEN5QkJsTjZnNkRYYW1tdmhLazVfem1LSTJOSGg2b2ptUUFvLVhyQXRkQmtoUHczazloYy1VVkNUdkt0OEhRek1JQ2JDV2ZLYjMyWEZPZDkyR3h3UTJ5Z2twNGtwUThCSlpHaTJQcENxeDdyb2hZeGFrSGU0dFRKdUdra0xTZjF3?oc=5",
-   "fecha": "Sun, 08 Nov 2026 10:24:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Marcha del Orgullo 2026: una multitud copó las calles de Buenos Aires con música y pedidos de más derechos",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZnJGVEtPZjNGRVlSYm9lel84eTB0ZHZqZTNQOXJSVEYzYkxDX25aODEtTXczLVUxamxIZWVIemVabExQX0JKUWFqSmt2SDdmRU5JYjBodlI5ODB2aTN0Wl9nUlZKdUNMVHA2Z1NaT1J2ZXpLQ1pBNURDRVNTNzVlY1YwRDBZeDhVOTFIVWtMNm9IXzdvM2haZ2t4RUZ1V1RzcEJaNEFvdHB4YUo4bm9mQ18wUzRGcVlaWjlBQWpYNUFQZi1FajNJdXV3MWhhOFY0Z3gydkJLa2JCUV9CaTNUSFF3cHc?oc=5",
    "fecha": "Sun, 08 Nov 2026 01:44:53 GMT",
    "fuente": "Perfil"
   },
   {
-   "titulo": "Marcelo Longobardi contó que se sintió amenazado en una reunión con Sergio Berni durante el gobierno de Cristina",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSmxmU0R6OENES2xDdTZCWXV1Yks0TEZ0UHhFbXZpMDFnaDhJV3RaSUk0elgxbEJFZE03UzZZZ1RuVnNEY0R5QVRuS1FwR3pnZFZ1MnBvT282Zmp2SWU5T2p1c2VhYlpRdjNLNGxZQ3BqQlh5S1VGVUZJR1dmOGN5WGpLdVo0em5lZ0haOHA1SmJkbFRSdGkwaWItSTVqTlhuX25oVFRhcFNNZTh0UVNaTVhYdEZJdG1xX3NVMkRvTXZ1VGtXVDItOGxvYTdudnQ1MVE0V3dhZHFsdkVyMVRkNWdPUXg?oc=5",
-   "fecha": "Sun, 08 Nov 2026 14:18:00 GMT",
+   "titulo": "Contra lo esperado, Mauricio Macri llegó al Palacio Libertad para recibir al papa León XIV",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWXNQUnZMakZrQ2JreFh4ZkRBVy1vZzY1UDlJdEhDY01OYjU4QkRqRHM0SUJENVFjRURabWx4M081RVNVX0dYN2xaUEJTb3M5eWM2LVdFbHpoM1BpMEQwOXVtazJEa09GOV9mazNlNF9Dc1dFRks3cGRyZXo0TmtLZlBaek5Zb2N4dTB3bkNRcmFtbEdHMkYzanZoaTBNMUg0Y1k3YWFXQnZMVXZ4TXdYR3lSR0dYRmxibzFSQklTR09HN3ZSVTZkZUREY3l2M1ROUEdqQmtR?oc=5",
+   "fecha": "Sun, 08 Nov 2026 21:25:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "El día que Juan Pablo II frenó en Morón de camino a Luján y desató la alegría de los fieles: “Bajamos la Virgen del altar y se la llevamos hasta la estación”",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNFVJVWlQenpEY1VUbDFOMHBkbEo0dkExTFZ6MTNSdE01WENnM3J1eXphdzBwNGFvR3VtYUF0VHJ3dXJEc2V6RDFuMW5xM0JMTG5BNVFQNW96cXZobDV2eWxMczF6S3hlX05LcmZ2T1VDN3h6NktHWFZ4Nkw1NzVNRmhHa21RQV83bDFEaVpKQ3YxRklUWXltSnBpcElnRHBvRVU1cDllOHhrUnB1VnhjNHJnSXhoMU9jTUkwa3RWdXoxSEctWUV4dDVNTTFsaFdpRFF4WTZ5TW05alJjUWpsTURMOA?oc=5",
-   "fecha": "Sun, 08 Nov 2026 12:54:03 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Palermo: detuvieron a un falso bombero con varios equipos de comunicación muy cerca del escenario del papa León XIV",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmh6Mmd4SUtvX3pMeXIxWGFibVJQeE9wa1VzTHUyQ0o4S1dIckdhd2Y5Z0pYUnNlUWItSXNMY0swQUx2VzRBdi1fWnluNU5EOWVZQjRvWi1JczBHb2kzdXM3eXB6aFdlaTk3LUdBWjBndVFKVkNOaUZSdXFjWHV3aGJNQl90SGxlYkZnYjMwSGxWMVRWU0JocjNHOVI1R3EyOHpsaVdPbmgzUkd2Vm1FYXRpZFFpNEV3bV84ZjE2YmVyU0xoUVV0Tmhqc29ZbjRQN2RiLVJJRQ?oc=5",
-   "fecha": "Sun, 08 Nov 2026 16:37:30 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "Días difíciles para ser libertario",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5feFhhNlk4LXFWWmVGNEZ5amJfSW0zeTBlYWpMUnFaTGlwVUpBdEZXLVdHNmN0VS1HNDhTY011UjhKdEZ0Z2ZLQm1qR3dPYmtKVV9Oa3ZXSDRpV3RtQTF0YW1NZXk3d2wwWFhxb2xuVC1LU09ieUVtVDlkVXV4WjQ?oc=5",
-   "fecha": "Sun, 08 Nov 2026 16:32:51 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "Reencuentros incómodos por la cita con León XIV en el Palacio Libertad y las primeras advertencias a Patricia Bullrich",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZWJBNjNNYTFLTTJZbTlfaFh0Zi1OTmNKSUQwakFETC1KWnhjaGlPcUgycm5BOFdaMU5lWDhUUkVjQkR5UjdtUnRKWm1ic3B3QV9aY3VYSndjTzROdjNzTlZXTjRFTmZYSEN2VnhUTmx5Q2JFeXVvZ1BPalNtYkloLWdtSUdtYU9KUFhyRGU1TmllQUJIOEJRNFZTZ004aU1FMDI5MWNyb0daN3dONHpoYzVpT3FJbzV3djNQVFlMMHF1TEZhU1R1QWk2b0RmdGJxN1gwZFB4RGhsV3dKT21JNFpJRDV0YzBtOEVjY0VWNkFrTmhnWnfSAZACQVVfeXFMUHJOa21qZS02TmczdDZMUmRPQWVtc2lLZ1hoZEpwbXVfdFBXVVVWREJISTBLT2JJUWhPLWd6VFF0SzVaOGdEQlcxc1g2alQzWmlmOG1vRUVIdTN1bmcxdzB1TlI1VkxPQWJwdXRiLVhMNHVJOEZBSGY4OTNLUzBrOEhYdmIycmtDS2ZTMmNFc0tvSDQ4ME05YnFDXzdSRnRsSi1QNy1RSzBHQVNnY3owWVlYTEI5a2ZKc3NnN1dKbmNOYzR5MTMxSkxiRGh2N0RGbmYyUTNhWXhCOWhuVW12cUVJNHA3aDJiMmw4bnZJTGRmRmdfc3I0S2Nabm9HT1VSQkFWUWF4Q3J5d2xSVm5ueHI?oc=5",
-   "fecha": "Sun, 08 Nov 2026 04:53:00 GMT",
+   "titulo": "La interna entre Bullrich y el Gobierno preocupa a los aliados del Senado de cara al fin del período ordinario",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeTYtZ0RXbVV1OGZKYWlxd0xlV3ZoT05acm9XTVg5bXI3Z0RRSGx5VlJGSllVQkxSUy1nUUNZZW5NWXZVR3lERnE4Q3RlM2hweFlvNzlYM0tvTWthVDhwSVYyLWNLdDhuYVBIU09NZno1RTBxWDUtLXN6U1E4R1JyZUMzcXMzV2s1ei1YMDA0MXRjSHYtVFRwZWE5VGJ1NmxTZ3lVdF9PZEdPZWxGeTZ2alR1bDNISGtZVVJTcFEzbmRPbE9KN2JNMEZRQjF4VS12aFh4cEdkRXk5TGprLU1kQVpuclJaM1JCWlVJ0gGGAkFVX3lxTE5RWGxVTVBUZjBaOWRHQ1N6RHc0OUJwSXlwMlRiTXZFenNkYjBMMTVpU3BBU2x4M19mcDlVQXY0LVdrRERGS0ZfdWxBekpoUHJveWthR21uRnFGcUdwajVjNFVEVHczQjBPdFEzajdOdW1EWng2Yk5oNVd3N3JGRGE1c01McGJqbmFiem5KaE0zV1JsSzBHMUg2emV3TkM2eEswX2pZMi1UUlRYdm94QjZrYW5aUEpZalN0eURuSmMtSVZCWnc1cmNwMUIwS2tESXdSZkR2LThQaU43azFFMmh5bEFrdmEzNndqbU92eHo3MENyOXo2VURIcEJBTlpuZzhGbzdNSXc?oc=5",
+   "fecha": "Sun, 08 Nov 2026 05:00:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Atraparon a un falso bombero ubicado a metros del escenario del Papa León XIV",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTZWaFpOeDJ2cGpXMzVJSzNNZDZOdHdadGtDbEF4eGdIR05xT2JEdHRtRzJfcXZETGpLTmh0aFZCU1h4R1p2OS1zeC1ZbF91SXdfVTBKMmg3Wlk2RHpYNnpMbnBVUzFzT3lEZFFTM2hFR2R3dnFkbFlVMG5OWjU5NUpDTUVMQzFRMFFhazdndkIxcGdiWVdOR2FCNDUwTEhiMnMxMmg2Zm9uM0x0Nl9TRnYydFBnU2Y5c2xLMFpWYWJOUEFXZ05iWjRQd2o?oc=5",
+   "fecha": "Sun, 08 Nov 2026 19:16:00 GMT",
+   "fuente": "Diario El Día de La Plata"
+  },
+  {
+   "titulo": "Un polémico decreto de Santa Cruz busca avalar el traspaso de tierras protegidas de la Patagonia a un magnate de Dubái",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSHlnT3BLUG5KblhhQWd6djI1OWtRWlN3VGQyN1JjZkxnZEljM1p2TU5kWHRtX2UxS3Z4Z3pITkNCZ0ZHR1M0N1loUjhDTmswMzU5SkJrc0NOSU5VQWsxbWYxWC1Gb0d3M3JNWmFCRVdhRTNuNlFjQzhyVzhCc3pjNVM2YkNSc280MW5yZGlFSjU2S04ySUN6VlNwT0lOd0hRTWxfS3pKei1rNFJwdnFJQXFCUE92N19sQWY1SmMxZzJXeERlR09pUmYtSWtCUmFwdy1nUTNoVUVraWRDZVdrUHhPSUJBd0RvSkZNUkpmSTQxa3Jaa0o5dzBqUEMyUzhaT1ItYk1YdDFKdV9zZVE?oc=5",
+   "fecha": "Sun, 08 Nov 2026 13:10:00 GMT",
+   "fuente": "ADNSUR"
+  },
+  {
+   "titulo": "Vuelco en la Ruta 188: cinco monjas sufrieron un accidente cuando iban a ver al papa León XIV",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFM0MFUzZ1JUR3BidWtuRGJ5TWFsOGc2OExBUUx4VnlYSEtCUElQc2dVLWJiOWM0SmVXNHNiZGVPRjA5cWVyR1p0Y1hDMTFYdlJpQUFMUHZMMkY1VnRJNy16cWlhMmJBdFJhY05KOGMtNW9JTzB1TlpRYzVoZDVtYzhKYUt5TExVcXlpb0s3UWQ5UGZENGl2bm96eFZoVkwyQks0OFJkVXAwZ1c1bWdabUNQeGtYQQ?oc=5",
+   "fecha": "Sun, 08 Nov 2026 20:47:14 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Un incidente en Derecho que terminó con la “expulsión” de un graduado",
@@ -1071,28 +1067,22 @@
    "fuente": "Diario El Día de La Plata"
   },
   {
-   "titulo": "Planazo de domingo: cómo será el tercer día de Colectividades",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnZKMk5QbFhpbDRfa2hPZUk1NXBFS0lFYzVLMXJDdHNMMmU4eTNQSkxOeGNTLWxyZDMtdjlfdENXcHAwSzlxNkF0MWJWM3RndE93Qk00eHNKSkdOS1hLcm1xWEFXSDRsRlNna0RHM0QtS0pGZEt4UXo2VHF0TW5SSGEta09Fcl9LSi0zUi11aXdjRDBLeTRnNXN0bXpHXzloTEtNS1hIdHJzbE9a?oc=5",
-   "fecha": "Sun, 08 Nov 2026 14:39:00 GMT",
-   "fuente": "La Capital"
-  },
-  {
-   "titulo": "Fueron a matar a un narco y los tiros impactaron a sus vecinos: murió un bebé de 10 meses y fueron heridas su mamá y su hermanita de 10 años",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWjNnS2thOEFlLThwcFJwWlRYc3paT3FVTHA2RUtiSmdDZHR2bkFaYmNVWm5obExRYWdJT21IbmVrV3h5UjR4clNaMDNndlJhdDlfR0k5MHNESlVxb2JFellLUXA4QWl0dHFURXhtZ1l0UjVNUThwSndOdmRuU0JkZE5JNm40bXREUWRXUVFhdDlSYXNaNHY2Y3pzMWtaamxpcTR0NjR2M2tFQ3pGcTZGZTRWYXhtdkZLSFhDZ09abUVEQlhkemQ2d3hmQTJvbFFiaC1PaTNn0gHbAUFVX3lxTE5BbDluc0ktQjFNSkxXVVdsWnVWWVpPU09SZ0hrNWFLU3pyZWFsTkU3bW9xQXNpVm5FVlkyLVdFZnJHb3pOb3hGMF9vWWQyYm9mZFdKd0tncEt6emRoVm1yX29tOVFWSmRYR3d2R2pzQlRPNkkzZ3pWNEQxVkRRTjhmQUFGYVlIcmtsWW9YOVZkUzhyZUhiTXY3LU96b3JjeXZrYzBmU29VQWI1d2ExTEZEdU50V0RUZkpEWWVEQWNfRGZ6cjViVzY2V0R2bGVfZHFqa3F2VGpvY2ZkMA?oc=5",
-   "fecha": "Sun, 08 Nov 2026 16:00:26 GMT",
+   "titulo": "Victoria Villarruel dijo que de la visita del Papa espera \"la palabra de la Doctrina Social de la Iglesia\"",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUVieXBNaDh5Wm10LWZfMHhDWk9NTjBVc05rOENBQmpabC03WmlMRXJCRXVRdDJhajRhQkVJdUpIZTEzM1RHa213MjA4UDFrTUllTTVpMkVLc2FRbXlZNnJ1X0dfbFdDUUF4LU04MW1Zc3gzSDIzZ21uZkVLSG5zOWFHa1laOTRhRlU3N05lUjYwakF5V2tTbHRRd2Vwb2ZSVE14eFdvT294dG96SUFLT2l6aHMzb04xMHNKNjY5VEdWZ0U?oc=5",
+   "fecha": "Sun, 08 Nov 2026 21:19:21 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Una mujer santafesina y su hijo de 6 años murieron en un río de Córdoba: qué se sabe",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0c5SkxTQ1J2MkRKYnJNcmppclk3OEVqajBocHQ2UlZma0tPdnd6a29HZF9yVDk0MWJrZUlMQUNmNmN4UGpCUldpTzNWZlJ5NXU0d0VTaTBlellNb2xpUWI3ZFhiYVFodXJxa1ZPcmY1VUdVbF9NNmJ2NmxYem43SndRVHU3elBGUmdhZ1E3WUZpTmFabVE1MUIwOTVXeVU0T0Vxbks1dHZpVmdkTW93Y01QY2haNC1FM2l4MERSaEtyYUtWb1pQc0FnbER3UHNyUUxqSkdwX1ZMNnM?oc=5",
-   "fecha": "Sun, 08 Nov 2026 12:04:30 GMT",
-   "fuente": "El Litoral"
+   "titulo": "Las diferencias irreconciliables entre la economía del Papa y la de Javier Milei",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1RFZDdNLW05VG1uekxydHoyMXVQUnh3djBacGhTUDRNNkpmX2lvZDg1bVYyTm5XVlJIU3pPZ3diRXVIX0tRQXJuOFgtTHFlYzFHeUVRU0VJdFRWLXVMWGxmWDhqdnJjeGJrMFRjYUlYSUNERWlsU0hnVGcySmh5WVhqend0VTFPa1pMZndkbDBsblNfSE56ekFPckNYYVhTcHdKSzVNZnBsVUpKNHV6T0k5Z0Vwcm43NW4xZ0RoSUlwQXpaNmI0?oc=5",
+   "fecha": "Sun, 08 Nov 2026 04:36:20 GMT",
+   "fuente": "Perfil"
   },
   {
-   "titulo": "Hallaron muerta a una mujer cerca de Quimilí: fue identificada y un familiar quedó demorado",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWJMZFhlWXRvWDBDSEhLUmQxU3Z6OUl1VlA2aWt1Q2o3c01GTEVTMFpxVGZiRktYdmw1R2g3WVNsYi02OG5GN2NPS0FLXzBpN05PLURBRzdBMXM3MG9xVTVXVzVYU21EOTE5ejlfWEozNk1LdzRETjlFcEV6X0lXYUNHUGgzSVpKWWtHaEFEOEZZX1ZzNEZ4dXZ1ck5peDQzMDBOUVN2RW93cHVLSktSeTlvemV4MmFCcE1HVFY1N0x3SkhhajNkbldTa1MyS2FSZjJIeVd30gHfAUFVX3lxTE9nYkExNVpHYXAyWUVGSWZZUEF2VjE0TzhmYjZoaUlPSlBtM2xZVzIxQmx1Q2I5dUN6SnRrRlhiQ0UwdTVrZXpjOGJwR1ZzVVdjMm5MSDlyeHMwelo3ZHV3MDRuS252dmc3bXRvZzlFOEdScHZpVHNtQ2prQTZjZFRfMzdZYUt6Zk5oRU1xcktzZERURDFONjRkSklKak54UEhqcG9pTDVhYm42YVVRbWdDZ1VLT0RxRDBTdVdDWXRSckdBM3IwUEdxTGxlY1VFRXUxdG9RTi0tMzdzS0M5cWM?oc=5",
-   "fecha": "Sun, 08 Nov 2026 17:10:00 GMT",
-   "fuente": "El Liberal"
+   "titulo": "Emanuel Noir pidió disculpas tras agredir a un policía y ser detenido en Entre Ríos: “Nada justifica lo que pasó”",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdGZHcnh2SDZSem80ZmlCMzczQzhKbmxQcGE5X2FrZERxUmY1VEVCQ3c3ZjRyTlpxNzMzak1Lck1XWTFCUXJ1V3VnMnlPN0pYVVZJSzJ1RzIyRkpfZzJ5LW1fUlRSTGQzdHk3TUMxcFhkLURVUTM2U1p5RzhqSEJ2b3lkNFVrZVY2aWs1eUtQcE51OVBQRTZUemg2emctZDZmMkZXeXpoMk5uX1FxYW9MWWE2c1hTdXJtVHAtY0NjSUlQSGt6UEVOYVVjcE16Q3hzSzF6bTRuOGxiVl9kZ0FwbmtLVVpKZl9PdFJGWXRWTkRUME90Vnc?oc=5",
+   "fecha": "Sun, 08 Nov 2026 19:51:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "León XIV se reunirá con 20 cordobeses después de la misa en Fadea: quiénes fueron elegidos",
@@ -1101,10 +1091,22 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "Accidente fatal en la Ruta 34: una joven de 18 años que circulaba en moto murió tras ser embestida por un camión",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNUs5YU0tT2pDakFkaWFzT3NSLVFUVzR2OU9TWWFfQVZXQm9UbEk1UjJ4dkdIdzFOZTBPQVR4Wnp6SUpZR0VHeDVzQ2pLdXV3ZkdKTzJSSXFHaFVkUVlwb0JEQVRybGxtVWVmZVVSeTZIVVJTS3JrR04xT1phM25QT2VOZ0ZXQU9USnNkS1M3YnRmTHFIeVhnUlRVVVJIVlNoUVFRTHl4MXpqRmVCYWpiMDFZYVowTEZRdDhBRkhKZFBRZDVHZnBFNENwTG5iQVBhc2tLWlJ6WTjSAewBQVVfeXFMTkVGNGwxUUJEc0tvWklEbnpCSndrSEdLdFh4U0J0c2o0RTZwc01CaVZSa0Ryd0NaaF9VSGFMZEZXdHZpWHNZMnA5U0g0Zl9iUFdRc3hrU3VfaUZkMExUYkFUdHdCMWswWE1yXzNsM0pTWWt4bEZodWJhaVZzQllYRGxqSVNIeTVMRDJLTFF6TnBoRGIyTi1HRGU2ZHZYQVh2a3FibGdnRG1yUkVSdnNyWnhiandOajRycXlMeXMzNkxMZmo0U0c1eVQwR2hweG85OUVBNDV3Zy1DdC1RVXV2ell0NUtQYm5IZnk1SjQ?oc=5",
-   "fecha": "Sun, 08 Nov 2026 11:31:55 GMT",
-   "fuente": "TN"
+   "titulo": "Feriados por la visita del Papa: qué días son y en qué provincias no se trabaja",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjVZMzRuQmxVTXF1eWk5Z0Z5cXpnQ2VMN1k1Q1A2akdoaHp4T2pRQTl4NVVGTXduRXZLSHNlSHBmaFViMXdSeE50WHNlYlJaMFo2NFlrbmwwTEtiYld5RE5QYTh6ZVM4N1oxejY2Z29zUmUzeG50U2d4enY5YzNRYV9FYnUzaEE0S0JDYU5IamFHZEFMQ2s1cWFzZHlvQVo5WjVvTkM2M0c?oc=5",
+   "fecha": "Sun, 08 Nov 2026 23:50:29 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Moreno: fueron a balear a un vecino por una disputa narco y mataron a un bebé de 10 meses",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3dBZy1wTGlSRjRfa25qS2ozMmhSSVpzYXZMeWtVUVVSSUx3dndsUGl6MFhaYzBKWHA2Q093ellJMFpBa1l1UGE0dFI2SUhIYnlzaUc4MUhhTVdlRmQtSG5nV183UXdseE5GUHdlNURPSWh4eXR3OS1DMFBObUNIUW5HZzFXOTFXSHgyQ1VKb1UyOFBRck9zU19LV1lPWGdPazVLdUZjWVAwVjBRMXd2Q3pyNEUtVVlVdllfMGpXZ1paMmtzdGltMV8tMzVhVldRTzFRWnl2UnR1dmZ10gH3AUFVX3lxTE5LdE9kMHlnV2drNTd6eFFaSVFkeE1MTWNYWjBiTUxTRTk2ejl6N201cEdhcHg3cjVtbTVvODVONWpZbzBCSmstaTVtMzdpcEY4UGdicE1LVEZIWk85RmJSckdkc1hYYmUzMXNBWVpNSkpJRjdLU2hfbnpacXVHQVpKTU1YRXNSUUpWeTZndnpXSGE2TFFtcXRoYjVla3FiWE1TTVJNTU9FcjFQY2ZNaW9sbkRCS25sY0ttaWZ4Qmd4ZFRnYkZSWVFMWndWa2FiajFfbldoUExOLTF5YzA5TEltRWxjWlVCTVVueDU4N25JdG5xSm56LU0?oc=5",
+   "fecha": "Sun, 08 Nov 2026 17:28:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Hallaron muerta a una mujer cerca de Quimilí: fue identificada y un familiar quedó demorado",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWJMZFhlWXRvWDBDSEhLUmQxU3Z6OUl1VlA2aWt1Q2o3c01GTEVTMFpxVGZiRktYdmw1R2g3WVNsYi02OG5GN2NPS0FLXzBpN05PLURBRzdBMXM3MG9xVTVXVzVYU21EOTE5ejlfWEozNk1LdzRETjlFcEV6X0lXYUNHUGgzSVpKWWtHaEFEOEZZX1ZzNEZ4dXZ1ck5peDQzMDBOUVN2RW93cHVLSktSeTlvemV4MmFCcE1HVFY1N0x3SkhhajNkbldTa1MyS2FSZjJIeVd30gHfAUFVX3lxTE9nYkExNVpHYXAyWUVGSWZZUEF2VjE0TzhmYjZoaUlPSlBtM2xZVzIxQmx1Q2I5dUN6SnRrRlhiQ0UwdTVrZXpjOGJwR1ZzVVdjMm5MSDlyeHMwelo3ZHV3MDRuS252dmc3bXRvZzlFOEdScHZpVHNtQ2prQTZjZFRfMzdZYUt6Zk5oRU1xcktzZERURDFONjRkSklKak54UEhqcG9pTDVhYm42YVVRbWdDZ1VLT0RxRDBTdVdDWXRSckdBM3IwUEdxTGxlY1VFRXUxdG9RTi0tMzdzS0M5cWM?oc=5",
+   "fecha": "Sun, 08 Nov 2026 17:10:00 GMT",
+   "fuente": "El Liberal"
   }
  ],
  "finanzas_argy": [
