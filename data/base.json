@@ -175,182 +175,368 @@
    "apellido": "Améndola",
    "nombre": "Ana Gabriela",
    "partido": "Vamos Corrientes",
-   "foto": "assets/diputados/amendola.jpg"
+   "foto": "assets/diputados/amendola.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Asuntos Constitucionales y Legislación General",
+    "Asuntos Municipales",
+    "Salud Pública",
+    "Legislación del Trabajo"
+   ]
   },
   {
    "apellido": "Almirón",
    "nombre": "Ana Claudia",
    "partido": "PJ",
-   "foto": "assets/diputados/almiron.jpg"
+   "foto": "assets/diputados/almiron.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Hacienda",
+    "Peticiones, Reglamento y Poderes",
+    "Legislación del Trabajo"
+   ]
   },
   {
    "apellido": "Aparicio",
    "nombre": "María Sara",
    "partido": "Frente Renovador",
-   "foto": "assets/diputados/aparicio.jpg"
+   "foto": "assets/diputados/aparicio.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Asuntos Constitucionales",
+    "DD.HH., Género y Diversidad",
+    "Políticas Sociales"
+   ]
   },
   {
    "apellido": "Ast",
    "nombre": "Norberto",
    "partido": "UCR",
-   "foto": "assets/diputados/ast.jpg"
+   "foto": "assets/diputados/ast.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Hacienda",
+    "Asuntos Municipales"
+   ]
   },
   {
    "apellido": "Benítez",
    "nombre": "Edgar V.",
    "partido": "Unión Popular",
-   "foto": "assets/diputados/benitez-edgar.jpg"
+   "foto": "assets/diputados/benitez-edgar.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Educación",
+    "Hacienda",
+    "Producción",
+    "Ecología y Ambiente"
+   ]
   },
   {
    "apellido": "Benítez",
    "nombre": "Hugo Daniel",
    "partido": "Alianza Esquina Crece",
-   "foto": "assets/diputados/benitez-hugo.jpg"
+   "foto": "assets/diputados/benitez-hugo.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Políticas Sociales",
+    "Deportes",
+    "Prevención de Adicciones"
+   ]
   },
   {
    "apellido": "Brambilla",
    "nombre": "Sofía",
    "partido": "PRO",
-   "foto": "assets/diputados/brambilla.jpg"
+   "foto": "assets/diputados/brambilla.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Producción",
+    "Peticiones",
+    "Niñez"
+   ]
   },
   {
    "apellido": "Branz",
    "nombre": "Mario Jacinto",
    "partido": "PANU",
-   "foto": "assets/diputados/branz.jpg"
+   "foto": "assets/diputados/branz.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Energía y Transporte",
+    "Legislación del Trabajo"
+   ]
   },
   {
    "apellido": "Calvano",
    "nombre": "Hugo Ricardo",
    "partido": "Coalición Cívica ARI",
-   "foto": "assets/diputados/calvano.jpg"
+   "foto": "assets/diputados/calvano.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Energía",
+    "Educación",
+    "Defensa del Consumidor"
+   ]
   },
   {
    "apellido": "Canteros",
    "nombre": "Gustavo J. A.",
    "partido": "Nuevo País",
-   "foto": "assets/diputados/canteros.jpg"
+   "foto": "assets/diputados/canteros.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    ""
+   ]
   },
   {
    "apellido": "Cassani",
    "nombre": "Pedro Gerardo",
    "partido": "ELI",
-   "foto": "assets/diputados/cassani.jpg"
+   "foto": "assets/diputados/cassani.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Defensa del Consumidor",
+    "Juicio Político"
+   ]
   },
   {
    "apellido": "Fernández Recalde",
    "nombre": "Emiliano",
    "partido": "Encuentro por Corrientes",
-   "foto": "assets/diputados/fernandez-recalde.jpg"
+   "foto": "assets/diputados/fernandez-recalde.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Defensa del Consumidor"
+   ]
   },
   {
    "apellido": "Gauna",
    "nombre": "Ana María Marlene",
    "partido": "PJ",
-   "foto": "assets/diputados/gauna.jpg"
+   "foto": "assets/diputados/gauna.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Políticas Sociales",
+    "Deportes",
+    "Prevención de Adicciones"
+   ]
   },
   {
    "apellido": "Giotta",
    "nombre": "Andrea María",
    "partido": "UCR",
-   "foto": "assets/diputados/giotta.jpg"
+   "foto": "assets/diputados/giotta.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Asuntos Constitucionales",
+    "Salud Pública",
+    "Juicio Político"
+   ]
   },
   {
    "apellido": "Gortari",
    "nombre": "María Cecilia",
    "partido": "Encuentro por Corrientes",
-   "foto": "assets/diputados/gortari.jpg"
+   "foto": "assets/diputados/gortari.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "DD.HH.",
+    "Seguridad y Servicios Penitenciarios",
+    "Prevención de Adicciones",
+    "Discapacidad"
+   ]
   },
   {
    "apellido": "Hardoy",
    "nombre": "Eduardo Daniel",
    "partido": "Partido Liberal",
-   "foto": "assets/diputados/hardoy.jpg"
+   "foto": "assets/diputados/hardoy.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Asuntos Constitucionales",
+    "Peticiones",
+    "Deportes"
+   ]
   },
   {
    "apellido": "Lazaroff",
    "nombre": "Lorena",
    "partido": "PRO",
-   "foto": "assets/diputados/lazaroff.jpg"
+   "foto": "assets/diputados/lazaroff.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Hacienda",
+    "Legislación del Trabajo",
+    "Defensa del Consumidor",
+    "Discapacidad",
+    "Juicio Político"
+   ]
   },
   {
    "apellido": "Leconte",
    "nombre": "Ricardo Guillermo",
    "partido": "La Libertad Avanza",
-   "foto": "assets/diputados/leconte.jpg"
+   "foto": "assets/diputados/leconte.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Salud Pública",
+    "Ecología y Ambiente",
+    "Niñez, Adolescencia y Familia"
+   ]
   },
   {
    "apellido": "Lezcano",
    "nombre": "César Daniel",
    "partido": "Frente Renovador",
-   "foto": "assets/diputados/lezcano.jpg"
+   "foto": "assets/diputados/lezcano.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Energía",
+    "Educación",
+    "Ecología"
+   ]
   },
   {
    "apellido": "Méndez Vernengo",
    "nombre": "Jesús Raúl",
    "partido": "UCR",
-   "foto": "assets/diputados/mendez-vernengo.jpg"
+   "foto": "assets/diputados/mendez-vernengo.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Hacienda",
+    "Legislación del Trabajo",
+    "Prevención de Adicciones",
+    "Juicio Político"
+   ]
   },
   {
    "apellido": "Nazer",
    "nombre": "Eliana Graciela",
    "partido": "PANU",
-   "foto": "assets/diputados/nazer.jpg"
+   "foto": "assets/diputados/nazer.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Educación",
+    "DD.HH.",
+    "Seguridad y Servicios Penitenciarios",
+    "Ecología"
+   ]
   },
   {
    "apellido": "Ojeda",
    "nombre": "Juan de la Cruz",
    "partido": "PJ",
-   "foto": "assets/diputados/ojeda.jpg"
+   "foto": "assets/diputados/ojeda.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Salud Pública",
+    "Deporte",
+    "Asuntos Municipales"
+   ]
   },
   {
    "apellido": "Pavón",
    "nombre": "Valeria Luciana",
    "partido": "UCR",
-   "foto": "assets/diputados/pavon.jpg"
+   "foto": "assets/diputados/pavon.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Educación",
+    "Peticiones",
+    "Defensa del Consumidor",
+    "Niñez",
+    "Discapacidad"
+   ]
   },
   {
    "apellido": "Pereyra",
    "nombre": "Lucía Elizabeth",
    "partido": "UCR",
-   "foto": "assets/diputados/pereyra.jpg"
+   "foto": "assets/diputados/pereyra.jpg",
+   "mandato": "2025-2027",
+   "comisiones": [
+    "Energía",
+    "Producción",
+    "Ecología",
+    "Políticas Sociales"
+   ]
   },
   {
    "apellido": "Romero",
    "nombre": "Jessica Natalia",
    "partido": "Partido Liberal",
-   "foto": "assets/diputados/romero.jpg"
+   "foto": "assets/diputados/romero.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Seguridad y Servicios Penitenciarios",
+    "DD.HH.",
+    "Asuntos Municipales",
+    "Producción",
+    "Políticas Sociales",
+    "Niñez"
+   ]
   },
   {
    "apellido": "Rotela Cañete",
    "nombre": "Albana Virginia",
    "partido": "Partido Popular",
-   "foto": "assets/diputados/rotela-canete.jpg"
+   "foto": "assets/diputados/rotela-canete.jpg",
+   "mandato": "2025-2029",
+   "comisiones": [
+    "Salud Pública",
+    "Asuntos Municipales",
+    "Discapacidad",
+    "Juicio Político"
+   ]
   },
   {
    "apellido": "Tassano",
    "nombre": "Eduardo Adolfo",
    "partido": "UCR",
    "foto": "assets/diputados/tassano.jpg",
-   "cargo": "Presidente de la Cámara"
+   "cargo": "Presidente de la Cámara",
+   "mandato": "2025-2029",
+   "comisiones": []
   },
   {
    "apellido": "Vallejos",
    "nombre": "Víctor Hugo",
    "partido": "Norte Grande",
-   "foto": "assets/diputados/vallejos.jpg"
+   "foto": "assets/diputados/vallejos.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "DD.HH.",
+    "Deportes",
+    "Prevención de Adicciones"
+   ]
   },
   {
    "apellido": "Vassel",
    "nombre": "José Lisandro",
    "partido": "Partido Popular",
-   "foto": "assets/diputados/vassel.jpg"
+   "foto": "assets/diputados/vassel.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Asuntos Constitucionales",
+    "Energía",
+    "DD.HH.",
+    "Seguridad y Servicios Penitenciarios",
+    "Peticiones"
+   ]
   },
   {
    "apellido": "Vidal Domínguez",
    "nombre": "Adriana Cleofe",
    "partido": "Frente Renovador",
-   "foto": "assets/diputados/vidal-dominguez.jpg"
+   "foto": "assets/diputados/vidal-dominguez.jpg",
+   "mandato": "2023-2027",
+   "comisiones": [
+    "Producción",
+    "Seguridad y Servicios Penitenciarios",
+    "Niñez",
+    "Discapacidad"
+   ]
   }
  ],
  "partidos": [

@@ -2,11 +2,14 @@ name: Actualizar datos del panel
 
 on:
   schedule:
-    - cron: "7,37 * * * *"   # cada 30 minutos, fuera de las horas en punto (en :00 y :30 GitHub demora o descarta corridas)
+    - cron: "7,37 * * * *"   # GitHub lo cumple cada 4 a 8 horas: sirve para rearrancar la cadena si se corta
   workflow_dispatch: {}       # botón "Run workflow" para forzarlo a mano
 
+# GitHub atrasa mucho las corridas programadas. Por eso cada corrida, al terminar, espera
+# y lanza la siguiente: de día cada 25 minutos y de noche cada 55.
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: actualizar
@@ -15,16 +18,39 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 80
     steps:
+      - name: ¿Ya hay una cadena andando?
+        id: cadena
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          otras=$(gh api "repos/${{ github.repository }}/actions/workflows/actualizar.yml/runs?per_page=20" \
+            --jq '[.workflow_runs[] | select(.id != ${{ github.run_id }}) | select(.status != "completed")] | length')
+          echo "otras=$otras" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$otras" != "0" ]; then echo "seguir=no" >> "$GITHUB_OUTPUT"; else echo "seguir=si" >> "$GITHUB_OUTPUT"; fi
       - uses: actions/checkout@v4
+        if: steps.cadena.outputs.seguir == 'si'
       - name: Instalar pdftotext
+        if: steps.cadena.outputs.seguir == 'si'
         run: sudo apt-get install -y -qq poppler-utils >/dev/null
       - name: Leer las fuentes
-        run: python3 scripts/actualizar.py
+        if: steps.cadena.outputs.seguir == 'si'
+        run: |
+          python3 scripts/actualizar.py
+          python3 scripts/diputados.py || true
       - name: Guardar cambios
+        if: steps.cadena.outputs.seguir == 'si'
         run: |
           git config user.name "panel-bot"
           git config user.email "panel-bot@users.noreply.github.com"
-          git add data/live.json
+          git add data/live.json data/diputados.json data/cache-diputados.json
           git diff --cached --quiet || (git commit -m "Datos $(TZ=America/Argentina/Buenos_Aires date '+%d/%m %H:%M')" && (git push || (git pull --rebase -X theirs origin main && git push)))
+      - name: Esperar y lanzar la próxima corrida
+        if: steps.cadena.outputs.seguir == 'si' && steps.cadena.outputs.otras == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          h=$(TZ=America/Argentina/Buenos_Aires date +%-H)
+          if [ "$h" -ge 7 ] && [ "$h" -lt 23 ]; then sleep 1500; else sleep 3300; fi
+          gh api -X POST "repos/${{ github.repository }}/actions/workflows/actualizar.yml/dispatches" -f ref=main

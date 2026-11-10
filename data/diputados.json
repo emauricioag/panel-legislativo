@@ -1,0 +1,1277 @@
+{
+ "actualizado": "2026-11-10T17:54-03:00",
+ "desde": "2025-12-10",
+ "sesiones": 20,
+ "ultima_sesion": "2026-10-14",
+ "expedientes": 906,
+ "diputados": {
+  "Améndola|Ana Gabriela": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-06-03",
+    "2026-07-08"
+   ],
+   "presentados": 25,
+   "aprobados": 17,
+   "en_comision": 8,
+   "solo": 20,
+   "tipos": {
+    "Declaración": 15,
+    "Ley": 7,
+    "Resolución": 3
+   },
+   "ultimos": [
+    {
+     "expte": "20577",
+     "tipo": "Declaración",
+     "asunto": "De interés la Asamblea Extraordinaria del Consejo Federal del Catastro (CFC), en la ciudad de Corrientes.",
+     "aprobado": true
+    },
+    {
+     "expte": "20529",
+     "tipo": "Ley",
+     "asunto": "Crea la figura del agente sanitario en el ámbito del Ministerio de Salud Pública.",
+     "aprobado": false
+    },
+    {
+     "expte": "20506",
+     "tipo": "Declaración",
+     "asunto": "De interés el Torneo Internacional de Pádel FEBAP Ituzaingó.",
+     "aprobado": true
+    },
+    {
+     "expte": "20486",
+     "tipo": "Ley",
+     "asunto": "Modificación de ley 2839.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Almirón|Ana Claudia": {
+   "presentes": 19,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-09-23"
+   ],
+   "presentados": 71,
+   "aprobados": 24,
+   "en_comision": 47,
+   "solo": 5,
+   "tipos": {
+    "Resolución": 35,
+    "Ley": 9,
+    "Declaración": 27
+   },
+   "ultimos": [
+    {
+     "expte": "20572",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación un informe sobre las medidas adoptadas por los hechos acontecidos en la Escuela Nº 563 “Domingo Sarmiento” de la localidad de Carlos Pellegrini.",
+     "aprobado": false
+    },
+    {
+     "expte": "20571",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que arbitre los medios necesarios para la instalación de un puesto de control del PRIAR (Policía Rural e Islas y Ambiente Rural) en la localidad de Carlos Pellegrini.",
+     "aprobado": false
+    },
+    {
+     "expte": "20570",
+     "tipo": "Ley",
+     "asunto": "Regulación de la Actividad Productiva de Engorde Intensivo de Animales a Corral.",
+     "aprobado": false
+    },
+    {
+     "expte": "20554",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo un informe sobre la situación de revista y condiciones laborales de los docentes en cargos directivos de establecimientos de educación rural de la Provincia.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Aparicio|María Sara": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-06-03",
+    "2026-09-23"
+   ],
+   "presentados": 91,
+   "aprobados": 32,
+   "en_comision": 59,
+   "solo": 0,
+   "tipos": {
+    "Declaración": 35,
+    "Resolución": 46,
+    "Ley": 10
+   },
+   "ultimos": [
+    {
+     "expte": "20576",
+     "tipo": "Declaración",
+     "asunto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
+     "aprobado": true
+    },
+    {
+     "expte": "20575",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "aprobado": false
+    },
+    {
+     "expte": "20574",
+     "tipo": "Declaración",
+     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
+     "aprobado": true
+    },
+    {
+     "expte": "20573",
+     "tipo": "Declaración",
+     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Ast|Norberto": {
+   "presentes": 20,
+   "ausencias": 0,
+   "ultimas_ausencias": [],
+   "presentados": 7,
+   "aprobados": 5,
+   "en_comision": 2,
+   "solo": 4,
+   "tipos": {
+    "Declaración": 3,
+    "Ley": 2,
+    "Resolución": 2
+   },
+   "ultimos": [
+    {
+     "expte": "20419",
+     "tipo": "Declaración",
+     "asunto": "De interés el “II Congreso del Club Mundial de Filosofía. Genealogías y perspectiva de la pobreza: la crisis civilizatoria en el cuarto de siglo”, en el Centro Universitario de Ciencias Sociales y Humanidades de la Unive",
+     "aprobado": false
+    },
+    {
+     "expte": "20341",
+     "tipo": "Declaración",
+     "asunto": "De interés el 40° aniversario del programa radial deportivo “Eventos & Marcas”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20273",
+     "tipo": "Declaración",
+     "asunto": "De interés el 4º Congreso Ecoturístico de la Región Litoral, organizado por el Gobierno de la Provincia de Corrientes, a través del Ministerio de Turismo y el Comité Iberá, bajo el lema “ReGenera Turismo: viajes con prop",
+     "aprobado": true
+    },
+    {
+     "expte": "20271",
+     "tipo": "Ley",
+     "asunto": "Modifica el artículo 1º de la ley 6753 -Día Provincial del Granadero Correntino-, sustituyendo la palabra “Batalla” por el término “Combate”.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Benítez|Edgar V.": {
+   "presentes": 17,
+   "ausencias": 3,
+   "ultimas_ausencias": [
+    "2026-04-08",
+    "2026-07-08",
+    "2026-09-23"
+   ],
+   "presentados": 87,
+   "aprobados": 80,
+   "en_comision": 7,
+   "solo": 8,
+   "tipos": {
+    "Ley": 7,
+    "Declaración": 79,
+    "Resolución": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20562",
+     "tipo": "Ley",
+     "asunto": "Crea el Museo “General Manuel Belgrano” en la ciudad de Curuzú Cuatiá.",
+     "aprobado": false
+    },
+    {
+     "expte": "20489",
+     "tipo": "Declaración",
+     "asunto": "De interés el XIV Salón Bienal 2026 – 3º de Arte Contemporáneo, organizado por la Asociación Cultural y Artística Curuzucuatiense – Biblioteca Popular “Rivadavia” (ACYAC-BPR), en la ciudad de Curuzú Cuatiá.",
+     "aprobado": true
+    },
+    {
+     "expte": "20466",
+     "tipo": "Declaración",
+     "asunto": "De interés la XXIII Fiesta Provincial del Ladrillo, en San Lorenzo.",
+     "aprobado": true
+    },
+    {
+     "expte": "20465",
+     "tipo": "Declaración",
+     "asunto": "De interés la XIX Fiesta Provincial del Peón Rural, en Concepción del Yaguareté Corá.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Benítez|Hugo Daniel": {
+   "presentes": 10,
+   "ausencias": 10,
+   "ultimas_ausencias": [
+    "2026-08-05",
+    "2026-09-23",
+    "2026-10-14"
+   ],
+   "presentados": 8,
+   "aprobados": 8,
+   "en_comision": 0,
+   "solo": 5,
+   "tipos": {
+    "Declaración": 7,
+    "Resolución": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20463",
+     "tipo": "Declaración",
+     "asunto": "De interés la imposición del nombre “Juan Daniel Cafferata Soto” a la Escuela Nº 625 del paraje Tranquera Cadena, departamento de Esquina.",
+     "aprobado": true
+    },
+    {
+     "expte": "20462",
+     "tipo": "Declaración",
+     "asunto": "De interés la trayectoria histórica, educativa y comunitaria de la Escuela Nº 587 “Elvira Ceferina Sánchez de Maciel”, del paraje Itá Corá, departamento de Mercedes.",
+     "aprobado": true
+    },
+    {
+     "expte": "20421",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo Nacional, garantice la efectiva transferencia y distribución de los fondos correspondientes al Sistema Nacional de Bomberos Voluntarios, establecido por ley nacional 25054 .",
+     "aprobado": true
+    },
+    {
+     "expte": "20389",
+     "tipo": "Declaración",
+     "asunto": "De interés el libro sobre la vida y obra de “Raúl Benito Castillo – Gobernador 1952 – 1955”, autoría de Aníbal Expedito Méndez.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Brambilla|Sofía": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-04-29",
+    "2026-05-06"
+   ],
+   "presentados": 19,
+   "aprobados": 12,
+   "en_comision": 7,
+   "solo": 15,
+   "tipos": {
+    "Resolución": 6,
+    "Ley": 7,
+    "Declaración": 6
+   },
+   "ultimos": [
+    {
+     "expte": "20485",
+     "tipo": "Resolución",
+     "asunto": "Insta al Poder Ejecutivo Nacional a que arbitre las medidas necesarias para la construcción y adecuación de las obras de paso existentes sobre la RN Nº 12, en los cruces de los arroyos Santa María, Baí, Santa Lucía, Sant",
+     "aprobado": true
+    },
+    {
+     "expte": "20484",
+     "tipo": "Ley",
+     "asunto": "Modifica el artículo 31 del Código Procesal de Familia, Niñez y Adolescencia – ley 6580 .",
+     "aprobado": false
+    },
+    {
+     "expte": "20430",
+     "tipo": "Declaración",
+     "asunto": "De interés la conmemoración del 174º aniversario de la elevación de Goya al rango de ciudad, acontecida el 7 de octubre de 1852.",
+     "aprobado": true
+    },
+    {
+     "expte": "20332",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo Nacional que, por intermedio del Ministerio de Defensa y/o del Ejército Argentino, arbitre las medidas necesarias para la reactivación de un servicio regular de cruce fluvial mediante balsa en",
+     "aprobado": true
+    }
+   ]
+  },
+  "Branz|Mario Jacinto": {
+   "presentes": 19,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-07-08"
+   ],
+   "presentados": 11,
+   "aprobados": 7,
+   "en_comision": 4,
+   "solo": 10,
+   "tipos": {
+    "Declaración": 6,
+    "Ley": 4,
+    "Resolución": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20442",
+     "tipo": "Ley",
+     "asunto": "Día Provincial de Concientización sobre la Parálisis Cerebral y Afecciones Neuromotoras y del Neurodesarrollo Relacionadas.",
+     "aprobado": false
+    },
+    {
+     "expte": "20441",
+     "tipo": "Declaración",
+     "asunto": "De interés los actos y eventos de concientización del Día Mundial de la Parálisis Cerebral.",
+     "aprobado": true
+    },
+    {
+     "expte": "20306",
+     "tipo": "Declaración",
+     "asunto": "De interés el documental “Regreso a Caá Catí. El viaje de las Hermanas Vera”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20251",
+     "tipo": "Ley",
+     "asunto": "Crea el Régimen de Patrocinio Deportivo y Mecenazgo o Tutoría del Deporte.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Calvano|Hugo Ricardo": {
+   "presentes": 16,
+   "ausencias": 4,
+   "ultimas_ausencias": [
+    "2026-08-05",
+    "2026-08-19",
+    "2026-08-26"
+   ],
+   "presentados": 39,
+   "aprobados": 33,
+   "en_comision": 6,
+   "solo": 36,
+   "tipos": {
+    "Declaración": 26,
+    "Ley": 9,
+    "Resolución": 4
+   },
+   "ultimos": [
+    {
+     "expte": "20549",
+     "tipo": "Declaración",
+     "asunto": "De interés la trayectoria institucional de trabajo en salud mental y educación emocional desarrollada por la Escuela Normal “Ramón J. Cárcano” de la ciudad de Monte Caseros.",
+     "aprobado": true
+    },
+    {
+     "expte": "20512",
+     "tipo": "Declaración",
+     "asunto": "De interés el homenaje y reconocimiento al Ing. Antonio Ramón Ferreyra.",
+     "aprobado": true
+    },
+    {
+     "expte": "20511",
+     "tipo": "Ley",
+     "asunto": "Adhesión a la ley nacional 27333 – “15 de septiembre Día Nacional de la Concientización del Linfoma”-.",
+     "aprobado": false
+    },
+    {
+     "expte": "20501",
+     "tipo": "Declaración",
+     "asunto": "De interés el Encuentro de Muralismo y Expo Feria Regional 2026: Rumbo a los 140 años de la Escuela Normal José Manuel Estrada.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Canteros|Gustavo J. A.": {
+   "presentes": 13,
+   "ausencias": 7,
+   "ultimas_ausencias": [
+    "2026-05-27",
+    "2026-09-23",
+    "2026-10-14"
+   ],
+   "presentados": 180,
+   "aprobados": 94,
+   "en_comision": 86,
+   "solo": 0,
+   "tipos": {
+    "Declaración": 96,
+    "Resolución": 49,
+    "Ley": 35
+   },
+   "ultimos": [
+    {
+     "expte": "20564",
+     "tipo": "Declaración",
+     "asunto": "De interés las actividades en conmemoración del Día de la Educación Física.",
+     "aprobado": true
+    },
+    {
+     "expte": "20563",
+     "tipo": "Declaración",
+     "asunto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20559",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
+     "aprobado": false
+    },
+    {
+     "expte": "20552",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Cassani|Pedro Gerardo": {
+   "presentes": 14,
+   "ausencias": 6,
+   "ultimas_ausencias": [
+    "2026-06-17",
+    "2026-07-08",
+    "2026-08-26"
+   ],
+   "presentados": 27,
+   "aprobados": 5,
+   "en_comision": 22,
+   "solo": 27,
+   "tipos": {
+    "Resolución": 13,
+    "Ley": 9,
+    "Declaración": 5
+   },
+   "ultimos": [
+    {
+     "expte": "20541",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que informe sobre el régimen de mantenimiento edilicio de las escuelas rurales de la provincia y la situación particular de la Escuela Primaria Común Nº 626 del paraje El Malezal, departamento",
+     "aprobado": false
+    },
+    {
+     "expte": "20395",
+     "tipo": "Ley",
+     "asunto": "Prohibición de Gastos Reservados, Secretos o Exceptuados de Rendición de Cuentas en el ámbito del Estado Provincial de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20374",
+     "tipo": "Ley",
+     "asunto": "Programa Provincial de Prevención del Suicidio en Adolescentes – Plataforma Digital “Corrientes te Escucha”.",
+     "aprobado": false
+    },
+    {
+     "expte": "20373",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo informe respecto del funcionamiento del Hogar “María Nazaret Vicuña” de la ciudad de Corrientes.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Fernández Recalde|Emiliano": {
+   "presentes": 19,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-09-23"
+   ],
+   "presentados": 184,
+   "aprobados": 96,
+   "en_comision": 88,
+   "solo": 0,
+   "tipos": {
+    "Declaración": 99,
+    "Resolución": 51,
+    "Ley": 34
+   },
+   "ultimos": [
+    {
+     "expte": "20564",
+     "tipo": "Declaración",
+     "asunto": "De interés las actividades en conmemoración del Día de la Educación Física.",
+     "aprobado": true
+    },
+    {
+     "expte": "20563",
+     "tipo": "Declaración",
+     "asunto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20559",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
+     "aprobado": false
+    },
+    {
+     "expte": "20552",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Gauna|Ana María Marlene": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-03-11",
+    "2026-09-23"
+   ],
+   "presentados": 66,
+   "aprobados": 21,
+   "en_comision": 45,
+   "solo": 56,
+   "tipos": {
+    "Resolución": 26,
+    "Declaración": 23,
+    "Ley": 17
+   },
+   "ultimos": [
+    {
+     "expte": "20558",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que cree e implemente un programa extraordinario de asistencia financiera y económica para pequeños productores de zonas costeras y áreas insulares del río Paraná damnificados por las inundaci",
+     "aprobado": false
+    },
+    {
+     "expte": "20547",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que informe sobre la situación laboral y administrativa de la docente Nanci Estela Godoy, el funcionamiento de la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina y las a",
+     "aprobado": false
+    },
+    {
+     "expte": "20545",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que informe sobre los establecimientos educativos rurales de gestión estatal de la Provincia.",
+     "aprobado": false
+    },
+    {
+     "expte": "20544",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Seguridad Nacional la cooperación federal en la búsqueda de la docente Nanci Estela Godoy.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Giotta|Andrea María": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-04-29",
+    "2026-05-06"
+   ],
+   "presentados": 27,
+   "aprobados": 24,
+   "en_comision": 3,
+   "solo": 21,
+   "tipos": {
+    "Ley": 4,
+    "Declaración": 21,
+    "Resolución": 2
+   },
+   "ultimos": [
+    {
+     "expte": "20529",
+     "tipo": "Ley",
+     "asunto": "Crea la figura del agente sanitario en el ámbito del Ministerio de Salud Pública.",
+     "aprobado": false
+    },
+    {
+     "expte": "20509",
+     "tipo": "Declaración",
+     "asunto": "De interés la X Jornada de Capacitación sobre Medidas de Prevención y Control de Infecciones Asociadas al Cuidado de la Salud (IACS) y Seguridad del Paciente, en la Casa de la Cultura “Pedro Mendoza” de la ciudad de Bell",
+     "aprobado": true
+    },
+    {
+     "expte": "20490",
+     "tipo": "Declaración",
+     "asunto": "De interés el “NEA TECH 2026”, encuentro regional de tecnología, innovación y desarrollo en el Museo de Arte Contemporáneo de Corrientes (MACC).",
+     "aprobado": true
+    },
+    {
+     "expte": "20488",
+     "tipo": "Declaración",
+     "asunto": "De interés la “XXIII Fiesta Provincial de la Miel y el Desarrollo Emprendedor”, en la ciudad de Saladas.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Gortari|María Cecilia": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-04-29",
+    "2026-09-23"
+   ],
+   "presentados": 187,
+   "aprobados": 97,
+   "en_comision": 90,
+   "solo": 0,
+   "tipos": {
+    "Declaración": 99,
+    "Resolución": 53,
+    "Ley": 35
+   },
+   "ultimos": [
+    {
+     "expte": "20564",
+     "tipo": "Declaración",
+     "asunto": "De interés las actividades en conmemoración del Día de la Educación Física.",
+     "aprobado": true
+    },
+    {
+     "expte": "20563",
+     "tipo": "Declaración",
+     "asunto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20559",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
+     "aprobado": false
+    },
+    {
+     "expte": "20552",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Hardoy|Eduardo Daniel": {
+   "presentes": 19,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-08-05"
+   ],
+   "presentados": 37,
+   "aprobados": 26,
+   "en_comision": 11,
+   "solo": 2,
+   "tipos": {
+    "Declaración": 23,
+    "Ley": 12,
+    "Resolución": 2
+   },
+   "ultimos": [
+    {
+     "expte": "20540",
+     "tipo": "Declaración",
+     "asunto": "De interés la 60ª edición de la Fiesta Nacional del Folclore Correntino, bajo el lema “Custodios del primer sapucay”, en el anfiteatro Genaro Berón de Astrada, de la ciudad de Santo Tomé.",
+     "aprobado": true
+    },
+    {
+     "expte": "20495",
+     "tipo": "Declaración",
+     "asunto": "De interés el evento “Octubre Rosa 2026: una noche para cuidarnos”, organizado por el Rotaract Club Corrientes Costanera.",
+     "aprobado": true
+    },
+    {
+     "expte": "20494",
+     "tipo": "Declaración",
+     "asunto": "De interés las actividades en conmemoración del Día del Obrero Marítimo, en el anfiteatro Marcos Herminio Ramírez de la localidad de Empedrado.",
+     "aprobado": true
+    },
+    {
+     "expte": "20493",
+     "tipo": "Declaración",
+     "asunto": "De interés el 1º Congreso Nacional de Psicología Social y Neurociencias Aplicadas denominado “La construcción del tejido social: educación vs. aprendizaje”.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Lazaroff|Lorena": {
+   "presentes": 16,
+   "ausencias": 4,
+   "ultimas_ausencias": [
+    "2026-04-29",
+    "2026-07-08",
+    "2026-09-16"
+   ],
+   "presentados": 43,
+   "aprobados": 34,
+   "en_comision": 9,
+   "solo": 42,
+   "tipos": {
+    "Declaración": 31,
+    "Resolución": 3,
+    "Ley": 9
+   },
+   "ultimos": [
+    {
+     "expte": "20569",
+     "tipo": "Declaración",
+     "asunto": "De interés y reconocimiento para Josefina Azula, oriunda de la localidad de Empedrado, quien se consagró ganadora de la medalla de oro en la Olimpíada Internacional de Matemática celebrada en la República de Colombia.",
+     "aprobado": true
+    },
+    {
+     "expte": "20568",
+     "tipo": "Declaración",
+     "asunto": "De interés la 10ª Fiesta Provincial del Búfalo, en la localidad de Caá Catí.",
+     "aprobado": true
+    },
+    {
+     "expte": "20567",
+     "tipo": "Declaración",
+     "asunto": "De interés los actos y festejos por la celebración de “Ángeles Somos” en las distintas localidades de la Provincia.",
+     "aprobado": true
+    },
+    {
+     "expte": "20566",
+     "tipo": "Declaración",
+     "asunto": "De interés la “Fiesta de San Cirilo”, en la Estancia San Cirilo, del departamento de General Paz.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Leconte|Ricardo Guillermo": {
+   "presentes": 20,
+   "ausencias": 0,
+   "ultimas_ausencias": [],
+   "presentados": 23,
+   "aprobados": 5,
+   "en_comision": 18,
+   "solo": 22,
+   "tipos": {
+    "Resolución": 8,
+    "Declaración": 4,
+    "Ley": 11
+   },
+   "ultimos": [
+    {
+     "expte": "20561",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo un informe sobre la habilitación, fiscalización y protocolos de seguridad perimetral en predios rurales colindantes a la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina.",
+     "aprobado": false
+    },
+    {
+     "expte": "20560",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo que informe sobre las condiciones de los establecimientos educativos rurales clasificados como zonas inhóspitas o muy inhóspitas, con especial referencia a la Escuela Rural Nº 626 del paraje E",
+     "aprobado": false
+    },
+    {
+     "expte": "20497",
+     "tipo": "Declaración",
+     "asunto": "De profundo pesar y conmemoración a la memoria de las víctimas de la masacre de Rincón Bomba ocurrida entre el 10 y el 30 de octubre de 1947 en el entonces territorio nacional de Formosa.",
+     "aprobado": true
+    },
+    {
+     "expte": "20475",
+     "tipo": "Ley",
+     "asunto": "De protección de la propiedad privada ante trámites de regularización dominial.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Lezcano|César Daniel": {
+   "presentes": 19,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-09-23"
+   ],
+   "presentados": 94,
+   "aprobados": 32,
+   "en_comision": 62,
+   "solo": 3,
+   "tipos": {
+    "Declaración": 35,
+    "Resolución": 49,
+    "Ley": 10
+   },
+   "ultimos": [
+    {
+     "expte": "20576",
+     "tipo": "Declaración",
+     "asunto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
+     "aprobado": true
+    },
+    {
+     "expte": "20575",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "aprobado": false
+    },
+    {
+     "expte": "20574",
+     "tipo": "Declaración",
+     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
+     "aprobado": true
+    },
+    {
+     "expte": "20573",
+     "tipo": "Declaración",
+     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Méndez Vernengo|Jesús Raúl": {
+   "presentes": 16,
+   "ausencias": 4,
+   "ultimas_ausencias": [
+    "2026-04-29",
+    "2026-06-03",
+    "2026-06-17"
+   ],
+   "presentados": 9,
+   "aprobados": 8,
+   "en_comision": 1,
+   "solo": 8,
+   "tipos": {
+    "Declaración": 7,
+    "Resolución": 1,
+    "Ley": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20533",
+     "tipo": "Declaración",
+     "asunto": "De beneplácito e interés el documental histórico de la ciudad de Goya, denominado “Goya, entre el río y la historia”, impulsado por la Municipalidad.",
+     "aprobado": true
+    },
+    {
+     "expte": "20532",
+     "tipo": "Declaración",
+     "asunto": "De beneplácito e interés el acto conmemorativo del 235° aniversario de la Primera Radicación Histórica de Goya, organizado por la Municipalidad de Goya.",
+     "aprobado": true
+    },
+    {
+     "expte": "20531",
+     "tipo": "Declaración",
+     "asunto": "De beneplácito e interés la jornada de capacitación docente “Algunos irrenunciables educativos para el nivel inicial: Reflexiones y acciones que constituyen oportunidades” a cargo de la Lic. Laura E. Pitluk, organizada p",
+     "aprobado": true
+    },
+    {
+     "expte": "20427",
+     "tipo": "Declaración",
+     "asunto": "De interés la I Jornada Binacional de Terapia Ocupacional Argentina – Paraguay; la II Jornada de Terapia Ocupacional del Nordeste Argentino (NEA) y la IV Jornada Provincial de Terapia Ocupacional de Misiones, en las ciud",
+     "aprobado": true
+    }
+   ]
+  },
+  "Nazer|Eliana Graciela": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-05-13",
+    "2026-09-16"
+   ],
+   "presentados": 30,
+   "aprobados": 29,
+   "en_comision": 1,
+   "solo": 29,
+   "tipos": {
+    "Declaración": 28,
+    "Resolución": 1,
+    "Ley": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20578",
+     "tipo": "Declaración",
+     "asunto": "De interés el XXVIII aniversario de la creación y colocación de la escultura “Cristo de la hermandad” en la localidad de Itá Ibaté.",
+     "aprobado": true
+    },
+    {
+     "expte": "20439",
+     "tipo": "Declaración",
+     "asunto": "De interés la fiesta patronal en honor a San Miguel Arcángel, bajo el lema “Comunión, participación y misión”, en la localidad de San Miguel.",
+     "aprobado": true
+    },
+    {
+     "expte": "20345",
+     "tipo": "Declaración",
+     "asunto": "De interés la 47ª Peregrinación Juvenil del NEA a Itatí, bajo el lema “Caminamos con María, para sanar, soñar y servir”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20255",
+     "tipo": "Declaración",
+     "asunto": "De interés las actividades que se realicen en conmemoración del paso a la inmortalidad del General José de San Martín.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Ojeda|Juan de la Cruz": {
+   "presentes": 19,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-09-23"
+   ],
+   "presentados": 59,
+   "aprobados": 17,
+   "en_comision": 42,
+   "solo": 2,
+   "tipos": {
+    "Declaración": 21,
+    "Resolución": 30,
+    "Ley": 8
+   },
+   "ultimos": [
+    {
+     "expte": "20575",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "aprobado": false
+    },
+    {
+     "expte": "20574",
+     "tipo": "Declaración",
+     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
+     "aprobado": true
+    },
+    {
+     "expte": "20573",
+     "tipo": "Declaración",
+     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
+     "aprobado": true
+    },
+    {
+     "expte": "20572",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación un informe sobre las medidas adoptadas por los hechos acontecidos en la Escuela Nº 563 “Domingo Sarmiento” de la localidad de Carlos Pellegrini.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Pavón|Valeria Luciana": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-04-08",
+    "2026-07-08"
+   ],
+   "presentados": 14,
+   "aprobados": 9,
+   "en_comision": 5,
+   "solo": 12,
+   "tipos": {
+    "Declaración": 6,
+    "Ley": 6,
+    "Resolución": 2
+   },
+   "ultimos": [
+    {
+     "expte": "20510",
+     "tipo": "Declaración",
+     "asunto": "De reconocimiento a la trayectoria y aporte a la educación de la Sra. Laura Lewin.",
+     "aprobado": true
+    },
+    {
+     "expte": "20371",
+     "tipo": "Declaración",
+     "asunto": "De reconocimiento a la destacada trayectoria, labor y vocación de servicio de las docentes María Irupé Leyes, Rosa Isabel Robledo, Rosa Estela Bejarano y Mirta Isabel Giménez.",
+     "aprobado": true
+    },
+    {
+     "expte": "20301",
+     "tipo": "Declaración",
+     "asunto": "De interés las XLVII Jornadas Universitarias de Contabilidad.",
+     "aprobado": true
+    },
+    {
+     "expte": "20200",
+     "tipo": "Ley",
+     "asunto": "Crea la Campaña Provincial Permanente de Concientización, Prevención y Control de la Sífilis.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Pereyra|Lucía Elizabeth": {
+   "presentes": 15,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-05-06"
+   ],
+   "presentados": 4,
+   "aprobados": 3,
+   "en_comision": 1,
+   "solo": 3,
+   "tipos": {
+    "Declaración": 2,
+    "Resolución": 1,
+    "Ley": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20136",
+     "tipo": "Declaración",
+     "asunto": "De interés la presentación del libro “Amor a Sauce”, autoría de la escritora Liliana Noemí Bordón, organizada por la Secretaría de Cultura de la Municipalidad de Sauce.",
+     "aprobado": true
+    },
+    {
+     "expte": "20097",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Economía de la Nación que, en el marco de la Licitación Pública N° 504-0001-LPU26 – Etapa III de la Red Federal de Concesiones, Tramo Litoral, se incorpore al objeto de la concesión el tramo urb",
+     "aprobado": true
+    },
+    {
+     "expte": "20057",
+     "tipo": "Declaración",
+     "asunto": "De interés el evento “ Hackathon 2026: Ecosistemas Digitales 4.0”, organizado por la Facultad de Ciencias Exactas y Naturales y Agrimensura (FaCENA) de la Universidad Nacional del Nordeste (UNNE).",
+     "aprobado": true
+    },
+    {
+     "expte": "20024",
+     "tipo": "Ley",
+     "asunto": "Código de Protección de los Derechos de Usuarios y Consumidores de la Provincia de Corrientes.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Romero|Jessica Natalia": {
+   "presentes": 19,
+   "ausencias": 1,
+   "ultimas_ausencias": [
+    "2026-09-16"
+   ],
+   "presentados": 37,
+   "aprobados": 26,
+   "en_comision": 11,
+   "solo": 1,
+   "tipos": {
+    "Declaración": 23,
+    "Ley": 12,
+    "Resolución": 2
+   },
+   "ultimos": [
+    {
+     "expte": "20540",
+     "tipo": "Declaración",
+     "asunto": "De interés la 60ª edición de la Fiesta Nacional del Folclore Correntino, bajo el lema “Custodios del primer sapucay”, en el anfiteatro Genaro Berón de Astrada, de la ciudad de Santo Tomé.",
+     "aprobado": true
+    },
+    {
+     "expte": "20495",
+     "tipo": "Declaración",
+     "asunto": "De interés el evento “Octubre Rosa 2026: una noche para cuidarnos”, organizado por el Rotaract Club Corrientes Costanera.",
+     "aprobado": true
+    },
+    {
+     "expte": "20494",
+     "tipo": "Declaración",
+     "asunto": "De interés las actividades en conmemoración del Día del Obrero Marítimo, en el anfiteatro Marcos Herminio Ramírez de la localidad de Empedrado.",
+     "aprobado": true
+    },
+    {
+     "expte": "20493",
+     "tipo": "Declaración",
+     "asunto": "De interés el 1º Congreso Nacional de Psicología Social y Neurociencias Aplicadas denominado “La construcción del tejido social: educación vs. aprendizaje”.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Rotela Cañete|Albana Virginia": {
+   "presentes": 18,
+   "ausencias": 2,
+   "ultimas_ausencias": [
+    "2026-04-29",
+    "2026-06-03"
+   ],
+   "presentados": 82,
+   "aprobados": 70,
+   "en_comision": 12,
+   "solo": 6,
+   "tipos": {
+    "Declaración": 69,
+    "Ley": 11,
+    "Resolución": 2
+   },
+   "ultimos": [
+    {
+     "expte": "20557",
+     "tipo": "Declaración",
+     "asunto": "De interés el 13º desafío Paso Timboy “Huellas”, en la ciudad de Monte Caseros.",
+     "aprobado": true
+    },
+    {
+     "expte": "20556",
+     "tipo": "Declaración",
+     "asunto": "De interés el agasajo a realizarse el 6 de noviembre en el marco del 41º aniversario del Hospital Geriátrico “Juana F. Cabral”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20555",
+     "tipo": "Declaración",
+     "asunto": "De interés las Terceras Jornadas de la Red de Leche Humana y Lactancia de la Provincia de Corrientes, bajo el lema: Ciencia, solidaridad y trabajo en red para fortalecer la lactancia humana y la donación de leche humana.",
+     "aprobado": true
+    },
+    {
+     "expte": "20538",
+     "tipo": "Declaración",
+     "asunto": "De interés la charla “Inteligencia Artificial y Tecnologías aplicadas a la Ganadería”, en la ciudad de Corrientes.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Tassano|Eduardo Adolfo": {
+   "presentes": 20,
+   "ausencias": 0,
+   "ultimas_ausencias": [],
+   "presentados": 6,
+   "aprobados": 5,
+   "en_comision": 1,
+   "solo": 4,
+   "tipos": {
+    "Declaración": 5,
+    "Ley": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20524",
+     "tipo": "Declaración",
+     "asunto": "De interés la IIIª Jornada sobre la Protección Jurídica de las Personas con Discapacidad y el Derecho Administrativo.",
+     "aprobado": true
+    },
+    {
+     "expte": "20274",
+     "tipo": "Declaración",
+     "asunto": "De interés la “104ª Exposición Feria Nacional de Ganadería, Granja, Industria y Comercio” y la “2ª Exposición Brangus del Ñandubay”, organizadas por la Sociedad Rural de Curuzú Cuatiá.",
+     "aprobado": true
+    },
+    {
+     "expte": "20132",
+     "tipo": "Declaración",
+     "asunto": "De interés la Segunda Edición del Encuentro de Mujeres Emprendedoras de Corrientes (EMEC).",
+     "aprobado": true
+    },
+    {
+     "expte": "20125",
+     "tipo": "Declaración",
+     "asunto": "De interés la 2ª Jornada Institucional del Colegio Argentino de Cardioangiología Intervencionista (CACI) Corrientes 2026 (Distrito Noreste), a celebrarse en el Salón Auditorio del Instituto de Cardiología de Corrientes “",
+     "aprobado": true
+    }
+   ]
+  },
+  "Vallejos|Víctor Hugo": {
+   "presentes": 15,
+   "ausencias": 5,
+   "ultimas_ausencias": [
+    "2026-08-05",
+    "2026-08-19",
+    "2026-10-14"
+   ],
+   "presentados": 2,
+   "aprobados": 1,
+   "en_comision": 1,
+   "solo": 1,
+   "tipos": {
+    "Resolución": 1,
+    "Ley": 1
+   },
+   "ultimos": [
+    {
+     "expte": "20097",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Economía de la Nación que, en el marco de la Licitación Pública N° 504-0001-LPU26 – Etapa III de la Red Federal de Concesiones, Tramo Litoral, se incorpore al objeto de la concesión el tramo urb",
+     "aprobado": true
+    },
+    {
+     "expte": "20024",
+     "tipo": "Ley",
+     "asunto": "Código de Protección de los Derechos de Usuarios y Consumidores de la Provincia de Corrientes.",
+     "aprobado": false
+    }
+   ]
+  },
+  "Vassel|José Lisandro": {
+   "presentes": 14,
+   "ausencias": 6,
+   "ultimas_ausencias": [
+    "2026-07-08",
+    "2026-08-26",
+    "2026-09-16"
+   ],
+   "presentados": 73,
+   "aprobados": 69,
+   "en_comision": 4,
+   "solo": 1,
+   "tipos": {
+    "Declaración": 67,
+    "Resolución": 2,
+    "Ley": 4
+   },
+   "ultimos": [
+    {
+     "expte": "20557",
+     "tipo": "Declaración",
+     "asunto": "De interés el 13º desafío Paso Timboy “Huellas”, en la ciudad de Monte Caseros.",
+     "aprobado": true
+    },
+    {
+     "expte": "20556",
+     "tipo": "Declaración",
+     "asunto": "De interés el agasajo a realizarse el 6 de noviembre en el marco del 41º aniversario del Hospital Geriátrico “Juana F. Cabral”.",
+     "aprobado": true
+    },
+    {
+     "expte": "20555",
+     "tipo": "Declaración",
+     "asunto": "De interés las Terceras Jornadas de la Red de Leche Humana y Lactancia de la Provincia de Corrientes, bajo el lema: Ciencia, solidaridad y trabajo en red para fortalecer la lactancia humana y la donación de leche humana.",
+     "aprobado": true
+    },
+    {
+     "expte": "20538",
+     "tipo": "Declaración",
+     "asunto": "De interés la charla “Inteligencia Artificial y Tecnologías aplicadas a la Ganadería”, en la ciudad de Corrientes.",
+     "aprobado": true
+    }
+   ]
+  },
+  "Vidal Domínguez|Adriana Cleofe": {
+   "presentes": 12,
+   "ausencias": 8,
+   "ultimas_ausencias": [
+    "2026-07-08",
+    "2026-09-16",
+    "2026-09-23"
+   ],
+   "presentados": 96,
+   "aprobados": 30,
+   "en_comision": 66,
+   "solo": 10,
+   "tipos": {
+    "Declaración": 32,
+    "Resolución": 50,
+    "Ley": 14
+   },
+   "ultimos": [
+    {
+     "expte": "20576",
+     "tipo": "Declaración",
+     "asunto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
+     "aprobado": true
+    },
+    {
+     "expte": "20575",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "aprobado": false
+    },
+    {
+     "expte": "20574",
+     "tipo": "Declaración",
+     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
+     "aprobado": true
+    },
+    {
+     "expte": "20573",
+     "tipo": "Declaración",
+     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
+     "aprobado": true
+    }
+   ]
+  }
+ }
+}

@@ -21,6 +21,7 @@ html{color-scheme:dark}
 html,body{height:100%;background:var(--fondo);color:var(--texto);
   font-family:Inter,system-ui,sans-serif;overflow:hidden}
 body{display:grid;grid-template-rows:auto auto 1fr auto;grid-template-columns:minmax(0,1fr);font-size:1.1vw;font-size:max(15px, calc(1.1vw * var(--z, 1)))}
+body{background:radial-gradient(120% 80% at 85% -10%,#1b1640 0,transparent 55%),radial-gradient(90% 70% at 0 110%,#0f2238 0,transparent 60%),var(--fondo)}
 body.quieto{cursor:none}
 header{display:flex;align-items:center;gap:2vw;padding:1.4vw 2.4vw 1vw;border-bottom:1px solid var(--borde)}
 header .marca{font-weight:800;font-size:1.1em;letter-spacing:.02em;color:var(--suave)}
@@ -131,9 +132,31 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
 .widget{position:relative;flex:1 1 0;min-height:0;overflow:hidden;display:flex;flex-direction:column;gap:.35vw;background:var(--panel);
   border:1px solid var(--borde);border-radius:.9vw;padding:.8vw 1.1vw;color:inherit;text-decoration:none;
   transition:border-color .15s,background-color .15s}
-.widget:hover{border-color:var(--suave)}
-.widget:focus-visible{outline:3px solid var(--alerta);outline-offset:2px}
-.widget.on{border-color:var(--acento);background:#171f38}
+.widget.fija{flex:none}
+.widget a{color:inherit;text-decoration:none}
+.widget a:hover{text-decoration:underline;text-underline-offset:.2em}
+.widget a:focus-visible{outline:3px solid var(--alerta);outline-offset:2px}
+.widget .mini.tres{grid-template-columns:repeat(3,1fr)}
+.widget .mini b small{font-size:.5em;font-weight:600;color:var(--suave)}
+.widget .enlaces{display:flex;gap:.6vw;flex-wrap:wrap;margin-top:.2vw}
+.widget .enlaces a{font-size:.8em;font-weight:600;border:1px solid var(--borde);border-radius:99px;padding:.25em .9em;background:var(--panel2)}
+.widget .bloque{line-height:1.25;margin-bottom:.25vw}
+.widget .bloque b{display:block;font-size:.92em;font-weight:600}
+.widget .bloque span{color:var(--suave);font-size:.82em}
+.widget .nota.libre{display:block;-webkit-line-clamp:unset}
+.renglon.ok .h{color:var(--ok)}
+.ficha{display:flex;gap:1vw;align-items:center;min-width:0}
+.ficha img{width:4.6em;height:4.6em;border-radius:50%;object-fit:cover;border:.22em solid;flex:none}
+.ficha>div{min-width:0}
+.ficha .nombre{font-size:1.2em;font-weight:800;line-height:1.15;letter-spacing:-.01em}
+.ficha .partido{display:flex;align-items:center;gap:.5em;font-weight:600;font-size:.92em;margin:.2em 0}
+.ficha .partido i{width:.75em;height:.75em;border-radius:50%;flex:none}
+.lateral .fuente{color:var(--suave);font-size:.72em;line-height:1.3;padding:0 .3vw}
+.mapa .banca{cursor:pointer;outline:none}
+.mapa .banca.sel>circle:first-of-type,.mapa .banca:focus-visible>circle:first-of-type{stroke:#fff;stroke-width:5}
+body.sin-lateral .cuerpo{grid-template-columns:minmax(0,1fr)}
+body.sin-lateral .lateral{display:none}
+@media (min-width:901px){body.sin-lateral .pagina .lista{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-content:start}}
 .widget h2{display:flex;justify-content:space-between;align-items:baseline;font-size:.8em;font-weight:700;
   text-transform:uppercase;letter-spacing:.06em;color:var(--acento)}
 .widget h2 small{font-size:1em;color:var(--suave);font-weight:600;text-transform:none;letter-spacing:0}
@@ -149,6 +172,13 @@ header .camara{color:var(--suave);font-size:.95em;margin-top:.2em}
 .widget>*{flex-shrink:0}
 .widget .fuerte{font-size:1em;font-weight:600;line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 
+dialog{margin:auto;max-width:min(32em,92vw);background:var(--panel);color:var(--texto);border:1px solid var(--borde);border-radius:1em;padding:1.5em 1.7em;box-shadow:0 1.5em 4em #000a}
+dialog::backdrop{background:#050a14cc}
+dialog h2{font-size:1.3em;margin-bottom:.6em}
+dialog p{line-height:1.4;margin-bottom:.7em}
+dialog .gratis b{color:var(--ok)}
+dialog .chica{color:var(--suave);font-size:.88em}
+dialog .botones{display:flex;justify-content:flex-end;gap:.6em;margin-top:1.1em}
 /* enlaces a los documentos: se abren en otra pestaña */
 a.item,a.proy{color:inherit;text-decoration:none;position:relative;transition:border-color .15s,background-color .15s}
 a.item:hover,a.proy:hover{border-color:var(--suave);background-color:var(--panel2)}
@@ -173,8 +203,6 @@ a.item:hover::after,a.proy:hover::after,a.item:focus-visible::after,a.proy:focus
 /* la sección sigue más abajo: el borde inferior se esfuma */
 .pagina.mas{-webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 3.5vw),transparent);mask-image:linear-gradient(to bottom,#000 calc(100% - 3.5vw),transparent)}
 /* la tarjeta de proyectos siempre muestra sus cuatro números; en pantallas bajas se quitan los titulares */
-.widget[data-id="proyectos"]{flex:none}
-@media (max-height: 720px) and (min-width: 901px){.widget[data-id="noticias"]{display:none}}
 .widget .tit{font-size:.9em;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 /* controles del pie: se esconden con el puntero y vuelven al mover el mouse */
 .ctl{display:flex;gap:.5vw;align-items:center;transition:opacity .4s}
@@ -182,6 +210,20 @@ body.quieto .ctl{opacity:0}
 .ctl:focus-within{opacity:1}
 .ctl .chico{min-width:2.7em;text-align:center}
 .ctl svg{width:1em;height:1em;vertical-align:-.15em}
+
+/* retoques del 10/11: fondo con profundidad, tarjetas con relieve y pestañas redondeadas */
+header,footer{background:#080e1ad9}
+.principal{background:linear-gradient(180deg,#101a2e 0,#0d1524 100%);box-shadow:0 .6vw 2vw #0006}
+.principal .tabs{background:transparent;border-bottom:1px solid var(--borde)}
+.tabs button{border-radius:99px}
+.tabs button.on{background:linear-gradient(135deg,#7a4be0,#5b34c4);border-color:#9d7bff;box-shadow:0 .2vw .9vw #6a3fd166}
+#titulo{display:flex;align-items:center;gap:.5em}
+#titulo::before{content:"";width:.22em;height:1em;border-radius:99px;background:linear-gradient(180deg,var(--acento),var(--lla));flex:none}
+.widget{background:linear-gradient(160deg,#16213a 0,#111a2d 70%);box-shadow:0 .4vw 1.4vw #0004}
+.widget h2{padding-bottom:.35vw;border-bottom:1px solid #24314d99;margin-bottom:.1vw}
+.item,.proy,.fila{background:linear-gradient(160deg,#141e33 0,#111a2c 100%)}
+.widget .mini b{background:linear-gradient(180deg,#fff,#c9b6ff);-webkit-background-clip:text;background-clip:text;color:transparent}
+.widget .mini b small{-webkit-text-fill-color:var(--suave)}
 
 @media (prefers-reduced-motion: reduce){
   .pagina{transition:none}
@@ -273,10 +315,18 @@ body.quieto .ctl{opacity:0}
     <button type="button" class="auto chico" id="menos" aria-label="Achicar la letra" title="Achicar la letra (tecla −)">A−</button>
     <button type="button" class="auto chico" id="mas" aria-label="Agrandar la letra" title="Agrandar la letra (tecla +)">A+</button>
     <button type="button" class="auto chico" id="pantalla" aria-label="Pantalla completa" title="Pantalla completa (tecla F)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+    <button type="button" class="auto chico" id="refrescar" aria-label="Actualizar los datos" title="Actualizar los datos (tecla R)"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 11a8 8 0 1 0-2.3 6.3M20 4v7h-7"/></svg></button>
     <button type="button" id="control" class="auto" title="Pausar o seguir rotando (barra espaciadora)">Pausar</button>
   </div>
 </footer>
 <div class="barra" id="barra"></div>
+<dialog id="dlg" aria-labelledby="dlg-t">
+  <h2 id="dlg-t">¿Actualizar los datos?</h2>
+  <p class="gratis"><b>No consume tokens de Claude.</b></p>
+  <p>Vuelve a leer lo último que publicó el robot del panel, que corre gratis en GitHub cada media hora. <span id="dlg-u"></span></p>
+  <p class="chica">Lo único que gasta tokens es pedirle cambios a Claude en el chat.</p>
+  <div class="botones"><button type="button" class="auto" id="dlg-no">Cancelar</button><button type="button" class="auto on" id="dlg-si">Actualizar</button></div>
+</dialog>
 
 <script>
 // ?t=25 cambia los segundos por pantalla; ?s=mapa deja fija una sección.
@@ -459,7 +509,7 @@ function mapa() {
   const banca = (d, cx, cy, r, num, rol) => {
     const propia = d.apellido === 'Leconte';
     const x = cx.toFixed(1), y = cy.toFixed(1);
-    return `<g class="banca${propia ? ' propia' : ''}"><title>${esc(d.nombre + ' ' + d.apellido)} · ${esc(d.partido)}${d.cargo ? ' · ' + esc(d.cargo) : ''}</title>
+    return `<g class="banca${propia ? ' propia' : ''}" data-k="${esc(d.apellido + '|' + d.nombre)}" tabindex="0" role="button"><title>${esc(d.nombre + ' ' + d.apellido)} · ${esc(d.partido)}${d.cargo ? ' · ' + esc(d.cargo) : ''}</title>
       <circle cx="${x}" cy="${y}" r="${r}" fill="${color[d.partido] || '#666'}"/>
       ${d.foto ? `<image href="${esc(d.foto)}" x="${(cx - r + 4).toFixed(1)}" y="${(cy - r + 4).toFixed(1)}" width="${2 * r - 8}" height="${2 * r - 8}" clip-path="url(#redondo)" preserveAspectRatio="xMidYMid slice"/>` : ''}
       ${propia ? `<circle cx="${x}" cy="${y}" r="${r + 5}" fill="none" stroke="#fff" stroke-width="3"/>` : ''}
@@ -528,10 +578,6 @@ function pausarAqui() {
 }
 // también al hacer clic (por ejemplo, para abrir un PDF) o al llegar con el teclado
 ['wheel', 'pointerdown', 'focusin'].forEach(ev => document.getElementById('main').addEventListener(ev, pausarAqui, {passive: true}));
-document.getElementById('lateral').addEventListener('click', e => {
-  const a = e.target.closest('a.widget'); if (!a) return;
-  e.preventDefault(); elegir(a.dataset.id);
-});
 // la dirección refleja la sección elegida (se puede guardar o compartir)
 function url() {
   const q = new URLSearchParams(location.search);
@@ -585,17 +631,18 @@ function mostrar(delta = 1) {
   const main = document.getElementById('main');
   detener();
   tarjetas(c.s.id);
-  document.querySelectorAll('.widget').forEach(w => w.classList.toggle('on', w.dataset.id === c.s.id));
   document.getElementById('titulo').textContent = c.s.titulo;
   if (MOVIL.matches) {   // sección completa, sin transición ni temporizador
     main.innerHTML = `<div class="pagina">${c.html}</div>`;
     sinSubtitulosRepetidos(main);
+    lateral();
     return;
   }
   const nueva = document.createElement('div');
   nueva.className = 'pagina'; nueva.innerHTML = c.html;
   sinSubtitulosRepetidos(nueva);
   main.appendChild(nueva);
+  lateral();
   const marcar = () => nueva.classList.toggle('mas', nueva.scrollTop + nueva.clientHeight < nueva.scrollHeight - 4);
   nueva.addEventListener('scroll', marcar, {passive: true}); marcar();
   requestAnimationFrame(() => nueva.classList.add('visible'));
@@ -611,6 +658,7 @@ document.addEventListener('keydown', e => {
   else if (e.key === '+') zoom(.1);
   else if (e.key === '-') zoom(-.1);
   else if (e.key === 'f' || e.key === 'F') pantalla();
+  else if (e.key === 'r' || e.key === 'R') pedirRefresco();
 });
 MOVIL.addEventListener('change', () => { auto = !fija && !MOVIL.matches; mostrar(0); ajustarTarjetas(); ajustarPie(); });
 // el puntero se esconde a los 3 segundos sin moverse (para la TV)
@@ -621,67 +669,109 @@ document.addEventListener('mousemove', () => {
 });
 
 // ---------------------------------------------------------------- columna de tarjetas
-function lateral() {
-  const w = (id, titulo, extra, cuerpo) =>
-    `<a class="widget" href="?s=${id}" data-id="${id}"><h2>${titulo}${extra ? `<small>${extra}</small>` : ''}</h2>${cuerpo}</a>`;
-  const out = [];
-
-  // 1. proyectos de Leconte
-  const est = LIVE.expedientes || {};
-  const ps = BASE.proyectos || [];
-  const cuenta = re => ps.filter(p => re.test(estadoDe(p))).length;
-  const cambios = ps.filter(p => est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7);
-  const ult = cambios[0] || ps[0];
-  out.push(w('proyectos', 'Proyectos de Leconte', '', `
-    <div class="mini">
-      <div><b>${ps.length}</b><span>presentados</span></div>
-      <div><b>${cuenta(/aprob|sanci/i)}</b><span>aprobados</span></div>
-      <div><b>${cuenta(/comisi|ingres/i)}</b><span>en comisión</span></div>
-      <div><b>${cuenta(/prefer/i)}</b><span>con preferencia</span></div>
-    </div>
-    ${ult ? `<div class="nota n1">${cambios.length ? 'Movimiento' : 'Último'}: ${esc(ult.tema)} (Expte. ${numExpte(ult.expte)})</div>` : ''}`));
-
-  // 2. comisiones: las de hoy que no terminaron (empezadas hace menos de 90 minutos) y las de los próximos días
-  const hoyN = ahoraAR().getDay(), ya = aMin(horaAR());
-  const lista = [];
-  for (let k = 0; k < 7 && lista.length < 4; k++) {
-    const d = DIAS[(hoyN + k) % 7];
-    (BASE.comisiones || []).filter(c => c.dia === d && (k > 0 || aMin(c.hora) >= ya - 90))
-      .sort((a, b) => a.hora.localeCompare(b.hora)).forEach(c => lista.push({...c, k}));
-  }
-  const cuando = c => c.k === 0 ? c.hora : c.dia.slice(0, 3) + ' ' + c.hora;
-  out.push(w('comisiones', 'Comisiones', lista[0]?.k === 0 ? 'hoy' : 'próximas',
-    lista.slice(0, 4).map(c => `<div class="renglon ${c.leconte ? 'lec' : ''}"><time>${cuando(c)}</time><span class="t">${esc(c.nombre.split(',')[0])}${c.leconte ? ' · Leconte' : ''}</span></div>`).join('')));
-
-  // 3. sesiones en Corrientes: aclara si el orden del día es de la última sesión o de la próxima
-  const od = LIVE.hcd_od, sc = (LIVE.senado_corrientes || [])[0];
-  if (od) {
-    const f = isoDe(od.rotulo), prox = f && f >= hoyISO();
+// Cada sección tiene su propia columna; Noticias no lleva y usa todo el ancho.
+let DIPS = {}, elegido = 'Leconte|Ricardo Guillermo';
+const W = (titulo, extra, cuerpo, cls = '') => `<div class="widget ${cls}"><h2>${titulo}${extra ? `<small>${extra}</small>` : ''}</h2>${cuerpo}</div>`;
+const renglon = (h, t, link, cls = '') => `<div class="renglon ${cls}"><span class="h">${h}</span>${link ? `<a class="t" href="${esc(link)}" target="_blank" rel="noopener">${esc(t)}</a>` : `<span class="t">${esc(t)}</span>`}</div>`;
+const LATERALES = {
+  proyectos() {
+    const est = LIVE.expedientes || {}, ps = BASE.proyectos || [];
+    const cuenta = re => ps.filter(p => re.test(estadoDe(p))).length;
+    const tipos = ['Ley', 'Resolución', 'Declaración'].map(t => [t, ps.filter(p => p.tipo === t).length]);
+    const cambios = ps.filter(p => est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7);
+    const pref = ps.filter(p => /prefer/i.test(estadoDe(p)));
+    const fila = p => renglon(numExpte(p.expte), p.tema, pdfExpte(p.expte));
+    return [
+      W('Proyectos de Leconte', '', `<div class="mini">
+        <div><b>${ps.length}</b><span>presentados</span></div><div><b>${cuenta(/aprob|sanci/i)}</b><span>aprobados</span></div>
+        <div><b>${cuenta(/comisi|ingres/i)}</b><span>en comisión</span></div><div><b>${pref.length}</b><span>con preferencia</span></div></div>`, 'fija'),
+      W('Por tipo', '', `<div class="mini tres">${tipos.map(([t, n]) => `<div><b>${n}</b><span>${t === 'Ley' ? 'de ley' : 'de ' + t.toLowerCase()}</span></div>`).join('')}</div>`, 'fija'),
+      pref.length ? W('Con preferencia', 'se votan pronto', pref.slice(0, 3).map(fila).join(''), 'fija') : '',
+      W(cambios.length ? 'Movimientos de la semana' : 'Últimos presentados', '', (cambios.length ? cambios : ps).slice(0, 6).map(fila).join('')),
+    ];
+  },
+  od() {
+    const od = LIVE.hcd_od, sen = LIVE.senado_corrientes || [];
+    if (!od) return [W('Sesiones en Corrientes', '', '<div class="nota">Sin orden del día publicado.</div>')];
+    const f = isoDe(od.rotulo) || isoDe(od.titulo), prox = f && f >= hoyISO();
     const hora = (/Hora\s*(\d{1,2})/i.exec(od.titulo) || [])[1];
-    const lec = od.asuntos.filter(a => a.leconte).length;
-    out.push(w('od', 'Sesiones en Corrientes', prox ? (f === hoyISO() ? 'hoy' : 'próxima') : '', `
-      <div class="fuerte">${prox ? 'Próxima sesión' : 'Última sesión'}: ${f ? diaCorto(f) : esc(od.rotulo)}${hora ? `, ${hora} h` : ''}</div>
-      <div class="nota">${esc(od.titulo.replace(/\s+del\s.*$/, ''))} · ${od.asuntos.length} asuntos${lec ? ` · ${lec} del Dip. Leconte` : ''}</div>
-      ${sc ? `<div class="renglon"><time>${fechaCorta(sc.fecha)}</time><span class="t">Senado · orden del día N.º ${esc(sc.numero)}</span></div>` : ''}`));
-  } else out.push(w('od', 'Sesiones en Corrientes', '', '<div class="nota">Sin orden del día publicado.</div>'));
-
-  // 4. Boletín Oficial de Corrientes
-  const bo = LIVE.bo_corrientes, bc = bo?.items?.[0], directo = bo?.modo !== 'noticias';
-  const fb = bc && directo ? isoDe(bc.organismo) : '';
-  out.push(w('boctes', 'Boletín Oficial de Corrientes', fb ? (fb === hoyISO() ? 'hoy' : '') : '',
-    bc ? `${fb ? `<div class="fuerte">Edición del ${diaCorto(fb)}</div>` : ''}<div class="nota">${esc(directo ? archivosBO(bc.detalle) : bc.detalle)}</div>`
-       : '<div class="nota">Sin ediciones disponibles.</div>'));
-
-  // 5. titulares nacionales
-  const nac = (LIVE.nacionales || []).slice(0, 3);
-  out.push(w('noticias', 'Titulares nacionales', '',
-    nac.map(i => `<div class="tit">${esc(i.titulo)}</div>`).join('') || '<div class="nota">Sin titulares.</div>'));
-
+    const lec = od.asuntos.filter(a => a.leconte);
+    const secc = {}; od.asuntos.forEach(a => { secc[a.seccion] = (secc[a.seccion] || 0) + 1; });
+    return [
+      W('Sesión', prox ? (f === hoyISO() ? 'hoy' : 'próxima') : 'última', `
+        <div class="fuerte">${f ? diaCorto(f) : esc(od.rotulo)}${hora ? `, ${hora} h` : ''}</div>
+        <div class="nota">${esc(od.titulo.replace(/\s+del\s.*$/, ''))} · ${od.asuntos.length} asuntos</div>
+        <div class="enlaces"><a href="${esc(od.pdf)}" target="_blank" rel="noopener">Orden del día</a>${od.informe ? `<a href="${esc(od.informe)}" target="_blank" rel="noopener">Informe</a>` : ''}</div>`, 'fija'),
+      W('Asuntos del Dip. Leconte', String(lec.length), lec.length ? lec.slice(0, 5).map(a => renglon(a.item, a.texto, a.expte ? pdfExpte(a.expte) : '', 'lec')).join('')
+        : '<div class="nota">Ninguno en este orden del día.</div>', lec.length ? '' : 'fija'),
+      W('Qué trae', '', Object.entries(secc).sort((x, y) => y[1] - x[1]).slice(0, 5).map(([k, n]) => renglon(n, k)).join(''), 'fija'),
+      sen.length ? W('Senado', 'órdenes del día', sen.slice(0, 3).map(o => renglon(fechaCorta(o.fecha), 'Orden del día N.º ' + o.numero, o.pdf)).join(''), 'fija') : '',
+    ];
+  },
+  comisiones() {
+    const hoyN = ahoraAR().getDay(), ya = aMin(horaAR()), lista = [], cs = BASE.comisiones || [];
+    for (let k = 0; k < 7 && lista.length < 6; k++) {
+      const d = DIAS[(hoyN + k) % 7];
+      cs.filter(c => c.dia === d && (k > 0 || aMin(c.hora) >= ya - 90)).sort((a, b) => a.hora.localeCompare(b.hora)).forEach(c => lista.push({...c, k}));
+    }
+    const cuando = c => c.k === 0 ? c.hora : c.dia.slice(0, 3) + ' ' + c.hora;
+    const mias = cs.filter(c => c.leconte);
+    return [
+      W('Próximas reuniones', lista[0]?.k === 0 ? 'hoy' : '', lista.slice(0, 6).map(c => renglon(cuando(c), c.nombre.split(',')[0] + (c.leconte ? ' · Leconte' : ''), '', c.leconte ? 'lec' : '')).join('')),
+      W('Las que integra Leconte', String(mias.length), mias.map(c => `<div class="bloque"><b>${esc(c.nombre.split(',')[0])}</b><span>${c.dia} ${c.hora}${c.preside ? ' · preside ' + esc(c.preside) : ''}</span></div>`).join('') || '<div class="nota">Sin datos.</div>'),
+      W('En números', '', `<div class="mini tres"><div><b>${cs.length}</b><span>comisiones</span></div><div><b>${cs.filter(c => c.dia === DIAS[hoyN]).length}</b><span>se reúnen hoy</span></div><div><b>${mias.length}</b><span>con Leconte</span></div></div>`, 'fija'),
+    ];
+  },
+  boctes() {
+    const bo = LIVE.bo_corrientes, bc = bo?.items?.[0], directo = bo?.modo !== 'noticias';
+    const fb = bc && directo ? isoDe(bc.organismo) : '';
+    const not = LIVE.hcd_noticias || [], sen = LIVE.senado_corrientes || [];
+    return [
+      W('Última edición', fb === hoyISO() ? 'hoy' : '', bc ? `${fb ? `<div class="fuerte">${diaCorto(fb)}</div>` : ''}<div class="nota">${esc(directo ? archivosBO(bc.detalle) : bc.detalle)}</div>
+        ${bc.link ? `<div class="enlaces"><a href="${esc(bc.link)}" target="_blank" rel="noopener">Abrir el Boletín</a></div>` : ''}` : '<div class="nota">Sin ediciones disponibles.</div>', 'fija'),
+      W('Novedades de la Cámara', '', not.slice(0, 5).map(n => renglon(fechaRss(n.fecha).split(',')[0], n.titulo, n.link)).join('') || '<div class="nota">Sin novedades.</div>'),
+      sen.length ? W('Senado', 'órdenes del día', sen.slice(0, 3).map(o => renglon(fechaCorta(o.fecha), 'Orden del día N.º ' + o.numero, o.pdf)).join(''), 'fija') : '',
+    ];
+  },
+  mapa() {
+    const d = (BASE.diputados || []).find(x => x.apellido + '|' + x.nombre === elegido) || (BASE.diputados || [])[0];
+    if (!d) return [];
+    const k = d.apellido + '|' + d.nombre, r = (DIPS.diputados || {})[k];
+    const color = (BASE.partidos.find(p => p.nombre === d.partido) || {}).color || '#666';
+    const cab = `<div class="ficha">${d.foto ? `<img src="${esc(d.foto)}" alt="" style="border-color:${color}">` : ''}<div>
+      <div class="nombre">${esc(d.nombre + ' ' + d.apellido)}</div>
+      <div class="partido"><i style="background:${color}"></i>${esc(d.partido)}</div>
+      <div class="nota n1">${d.cargo ? esc(d.cargo) + ' · ' : ''}Mandato ${esc((d.mandato || '').replace('-', ' a '))}</div></div></div>`;
+    if (!r) return [W('Diputado', '', cab + '<div class="nota">Todavía no hay datos de su labor.</div>')];
+    const ses = r.presentes + r.ausencias, coaut = r.presentados - r.solo;
+    const tipos = Object.entries(r.tipos).sort((x, y) => y[1] - x[1]).map(([t, n]) => `${n} de ${t === 'Ley' ? 'ley' : t.toLowerCase()}`).join(' · ');
+    return [
+      W('Diputado', 'tocá una banca', cab, 'fija'),
+      W('Labor en el período', 'desde ' + fechaCorta(DIPS.desde) + '/' + DIPS.desde.slice(2, 4), `<div class="mini">
+        <div><b>${r.presentados}</b><span>proyectos</span></div><div><b>${r.aprobados}</b><span>aprobados</span></div>
+        <div><b>${r.en_comision}</b><span>en trámite</span></div><div><b>${r.presentes}<small>/${ses}</small></b><span>asistencias</span></div></div>
+        <div class="nota">${tipos || 'Sin proyectos'}${coaut > 0 ? ` · ${coaut} con otros diputados` : ''}</div>
+        ${r.ausencias ? `<div class="nota n1">Últimas ausencias: ${r.ultimas_ausencias.map(fechaCorta).join(', ')}</div>` : ''}`, 'fija'),
+      (d.comisiones || []).length ? W('Comisiones', String(d.comisiones.length), `<div class="nota libre">${d.comisiones.map(esc).join(' · ')}</div>`, 'fija') : '',
+      W('Últimos proyectos', '', r.ultimos.map(u => renglon(numExpte(u.expte), u.asunto, pdfExpte(u.expte), u.aprobado ? 'ok' : '')).join('') || '<div class="nota">Ninguno en el período.</div>'),
+      `<div class="fuente">Asistencias: ${DIPS.sesiones} sesiones con versión taquigráfica, hasta el ${fechaCorta(DIPS.ultima_sesion)}. Proyectos: fichas de la Cámara.</div>`,
+    ];
+  },
+};
+function lateral() {
+  const id = cola[pos]?.s.id, out = ((!MOVIL.matches || id) && LATERALES[id] ? LATERALES[id]() : []).filter(Boolean);
+  document.body.classList.toggle('sin-lateral', !out.length);
   document.getElementById('lateral').innerHTML = out.join('');
-  const actual = cola[pos]?.s.id;
-  document.querySelectorAll('.widget').forEach(x => x.classList.toggle('on', x.dataset.id === actual));
+  document.querySelectorAll('.mapa .banca').forEach(g => g.classList.toggle('sel', g.dataset.k === elegido));
   ajustarTarjetas();
 }
+// En el mapa, tocar una banca muestra la ficha de ese diputado.
+function elegirBanca(e) {
+  const g = e.target.closest?.('.banca[data-k]'); if (!g || (e.type === 'keydown' && e.key !== 'Enter' && e.key !== ' ')) return;
+  e.preventDefault(); elegido = g.dataset.k; lateral();
+  if (MOVIL.matches) document.getElementById('lateral').scrollIntoView({block: 'start', behavior: 'smooth'});
+}
+['click', 'keydown'].forEach(ev => document.getElementById('main').addEventListener(ev, elegirBanca));
 
 // En pantallas bajas, lo que no entra en una tarjeta se oculta entero: nunca medio renglón.
 function ajustarTarjetas() {
@@ -750,6 +840,7 @@ async function cargar() {
     const [b, l] = await Promise.all(['data/base.json', 'data/live.json'].map(u =>
       fetch(u + v, {cache: 'no-store'}).then(r => { if (!r.ok) throw new Error(u + ' ' + r.status); return r.json(); })));
     BASE = b; LIVE = l; sinConexion = false;
+    fetch('data/diputados.json' + v, {cache: 'no-store'}).then(r => r.ok ? r.json() : DIPS).then(d => { DIPS = d; if (cola[pos]?.s.id === 'mapa') lateral(); }).catch(() => {});
   } catch (e) { sinConexion = true; console.error('No se pudieron leer los datos', e); }
   if (!BASE.proyectos) {   // nunca llegó a cargar: aviso y nuevo intento en un minuto
     const aviso = document.querySelector('#main .vacio');
@@ -797,6 +888,23 @@ function pantalla() {
 document.getElementById('menos').addEventListener('click', () => zoom(-.1));
 document.getElementById('mas').addEventListener('click', () => zoom(.1));
 document.getElementById('pantalla').addEventListener('click', pantalla);
+// Actualizar a mano: antes de confirmar se avisa que no gasta tokens.
+const dlg = document.getElementById('dlg');
+function pedirRefresco() {
+  const t = LIVE.actualizado ? new Date(LIVE.actualizado) : null;
+  document.getElementById('dlg-u').textContent = t ? 'Lo que ves es de las ' + t.toLocaleTimeString('es-AR', {timeZone: TZ, hour:'2-digit', minute:'2-digit', hourCycle:'h23'}) + '.' : '';
+  if (!dlg.open) dlg.showModal();
+}
+document.getElementById('refrescar').addEventListener('click', pedirRefresco);
+document.getElementById('dlg-no').addEventListener('click', () => dlg.close());
+document.getElementById('dlg-si').addEventListener('click', async () => {
+  const b = document.getElementById('dlg-si'), antes = LIVE.actualizado;
+  b.disabled = true; b.textContent = 'Leyendo…';
+  await cargar(); mostrar(0);
+  b.disabled = false; b.textContent = 'Actualizar';
+  document.getElementById('dlg-u').textContent = sinConexion ? 'No hay conexión: no se pudo leer.' : LIVE.actualizado === antes ? 'Ya estaba al día: el robot no publicó nada nuevo.' : 'Listo, hay datos nuevos.';
+  setTimeout(() => dlg.close(), 1800);
+});
 
 // Que la pantalla no se apague mientras el panel está a la vista.
 async function despierto() {
