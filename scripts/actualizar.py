@@ -358,18 +358,10 @@ def noticias_nacionales():
 
 
 def medios_afines():
-    """La Derecha Diario (solo política y economía) y los últimos programas de Carajo en YouTube."""
+    """La Derecha Diario (solo política y economía)."""
     ldd = [dict(i, fuente="La Derecha Diario") for i in rss("https://derechadiario.com.ar/rss", 60)
            if re.search(r"derechadiario\.com\.ar/(politica|economia)/", i["link"])][:8]
-    ns = {"a": "http://www.w3.org/2005/Atom"}
-    raiz = ET.fromstring(get("https://www.youtube.com/feeds/videos.xml?channel_id=UC4mdhKZXjrKoq5aVG6juHEg"))
-    carajo = []
-    for e in raiz.findall("a:entry", ns)[:6]:
-        link = e.find("a:link", ns)
-        carajo.append({"titulo": sin_emojis(e.findtext("a:title", "", ns) or ""),
-                       "link": link.get("href") if link is not None else "",
-                       "fecha": e.findtext("a:published", "", ns), "fuente": "Carajo"})
-    return {"derecha_diario": ldd, "carajo": carajo}
+    return {"derecha_diario": ldd}
 
 
 def finanzas_argy():

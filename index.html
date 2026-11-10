@@ -69,6 +69,10 @@ footer{display:flex;align-items:center;gap:1.6vw;padding:.9vw 2.4vw;background:#
 .sub a{color:var(--suave)}
 .lista{display:flex;flex-direction:column;gap:.75vw}
 .item{background:var(--panel);border:1px solid var(--borde);border-radius:.6vw;padding:.9vw 1.2vw;line-height:1.3}
+.item.noti{position:relative;padding-top:1.1vw}
+.item.noti .medio{position:absolute;top:.6vw;right:.8vw;max-width:45%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:.72em;font-weight:700;color:var(--suave);background:var(--panel2);border:1px solid var(--borde);border-radius:99px;padding:.15em .7em}
+.item.noti .org{padding-right:46%}
+a.item.noti::after{top:auto;bottom:.45em}
 .item .org{color:var(--acento);font-weight:700;font-size:.85em;text-transform:uppercase;letter-spacing:.03em;margin-bottom:.25em}
 .item .det{font-size:1.15em}
 .item .meta{color:var(--suave);font-size:.85em;margin-top:.3em}
@@ -453,19 +457,13 @@ const SECCIONES = [
   {id:'boctes', corto:'BO Ctes.', titulo:'Boletín Oficial de Corrientes', paginas() { return paginasBO(LIVE.bo_corrientes, 'corrientes.gob.ar/boletinoficial'); }},
 
   {id:'noticias', corto:'Noticias', titulo:'Noticias', paginas() {
-    const n = LIVE.noticias || [];
-    const tarjeta = i => caja(i.link, 'item', `<div class="org">${esc(i.fuente)} · ${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div>`);
-    const nac = LIVE.nacionales || [];
-    const pags = [];
-    if (nac.length) pags.push(`<div class="sub">Titulares nacionales · Google Noticias</div><div class="lista">${nac.slice(0, 8).map(tarjeta).join('')}</div>`);
-    const fa = LIVE.finanzas_argy || [];
-    if (fa.length) pags.push(`<div class="sub">Finanzas Argy · canal de Telegram</div><div class="lista">${fa.slice(0, 8).map(i =>
-      caja(i.link, 'item', `<div class="org">${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div>`)).join('')}</div>`);
-    if (n.length) pags.push(`<div class="sub">De Corrientes · Google Noticias</div><div class="lista">${n.slice(0, 7).map(tarjeta).join('')}</div>`);
-    const m = LIVE.medios;
-    if (m) pags.push(`<div class="dos"><div class="col"><h2>La Derecha Diario</h2><div class="lista">${m.derecha_diario.slice(0, 5).map(tarjeta).join('')}</div></div>
-      <div class="col"><h2>Carajo · últimos programas</h2><div class="lista">${m.carajo.slice(0, 5).map(tarjeta).join('')}</div></div></div>`);
-    return pags;
+    // Todas las fuentes juntas, de la más reciente a la más vieja; el medio va en la esquina.
+    const todas = [...(LIVE.nacionales || []), ...(LIVE.finanzas_argy || []), ...(LIVE.noticias || []), ...(LIVE.medios?.derecha_diario || [])]
+      .map(i => ({...i, t: +new Date(i.fecha) || 0}));
+    const vistos = new Set(), lista = todas.sort((x, y) => y.t - x.t).filter(i => {
+      const k = i.titulo.toLowerCase().replace(/\W+/g, '').slice(0, 50); if (vistos.has(k)) return false; vistos.add(k); return true; }).slice(0, 30);
+    if (!lista.length) return ['<div class="vacio">Sin noticias.</div>'];
+    return [`<div class="lista">${lista.map(i => caja(i.link, 'item noti', `<span class="medio">${esc(i.fuente || '')}</span><div class="org">${fechaRss(i.fecha)}</div><div class="det">${esc(i.titulo)}</div>`)).join('')}</div>`];
   }},
 
   {id:'mapa', corto:'Mapa', titulo:'Cámara de Diputados de Corrientes', paginas() { return [mapa()]; }},
