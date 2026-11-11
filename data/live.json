@@ -612,16 +612,16 @@
    "fuente": "TN24.com.ar"
   },
   {
-   "titulo": "El Niño: Karina Milei y Diego Santilli viajarán el jueves a Corrientes para reunirse con autoridades provinciales",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX01TTjFJdlV5Q0l6R1B1ZTFPS0FVZUJHXzBKZThSUC1RZ0lZR1J5Q0tMVWNwT0ZwclZpdVJyYmpVTnR6SkdqaW44QzNmT1ZDSllDWmNRR2JvVFVRVG5XYW1WbzdTNzV6aHVoU2syRmdub3hZWno2eVZVMDBoeTgxeVJib3dsUVFDN3BycHdnQi1JT3Ata3ZpdGljY3c1WjRpQUE5eDZpbTdVTmhuSzNaSUNfX3NMQkN1aUV5cnJhX3FzQVMzdmQ5V0RKbk1ZMlUtR3hEMTE3WXp2czlKWW1KSkZhQU41Y3lBZVdpS3NR0gGIAkFVX3lxTE8yTjBCMWhzdHNJZ2RGZHU3SVdkMzdBTWUtT0M1SU1hOUJiV1JFU3l0SXVqZ2R5NkEwWjJtZU1TMFdQZ0wwc0Z0UDRRa0pDTTZCSGtEMXF6MmRWVU5qck9vcGR6dTZjMVNhZkpLTTdXR0h2Mno5OVlRWUtoTVJITHlYcjFRamNYRWItbUxUSTd0Sjk2TjVHbE9wQlhMOUVvNHkzaURobGxYYUhHOGRma0F5X3JOMXRiUWpCaUdfNU91ZGFvRHhjcWtqUkg3LXdwbGloSDNqa1FNRTdzLXlEbTdobDM1SFhPS1JIcXRQeVVKVnQ3Y05oNmVOZnVreXYyMkJMUUEzZlo3Ug?oc=5",
-   "fecha": "Tue, 10 Nov 2026 20:43:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
    "titulo": "Alertas por tormenta en toda la provincia",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMndUQWJkZ25QU0pZd2dxeW9GX0hSY2tPX29FVXVTQzQ4UXFoQnIzMVZ3MGlrT29kTWVMaWFnT3lYU0NxWG9vWHZYZ09vbDFBNDBIbnlzTkxHR1dNNkRSU29LSEZrLUt6OU1FajlqSzJSSkVWc1B4eEFOZFgyZVo5ZFR3LTJ6czg?oc=5",
    "fecha": "Wed, 11 Nov 2026 00:18:12 GMT",
    "fuente": "Diario El Libertador de Corrientes"
+  },
+  {
+   "titulo": "El Niño: Karina Milei y Diego Santilli viajarán el jueves a Corrientes para reunirse con autoridades provinciales",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX01TTjFJdlV5Q0l6R1B1ZTFPS0FVZUJHXzBKZThSUC1RZ0lZR1J5Q0tMVWNwT0ZwclZpdVJyYmpVTnR6SkdqaW44QzNmT1ZDSllDWmNRR2JvVFVRVG5XYW1WbzdTNzV6aHVoU2syRmdub3hZWno2eVZVMDBoeTgxeVJib3dsUVFDN3BycHdnQi1JT3Ata3ZpdGljY3c1WjRpQUE5eDZpbTdVTmhuSzNaSUNfX3NMQkN1aUV5cnJhX3FzQVMzdmQ5V0RKbk1ZMlUtR3hEMTE3WXp2czlKWW1KSkZhQU41Y3lBZVdpS3NR0gGIAkFVX3lxTE8yTjBCMWhzdHNJZ2RGZHU3SVdkMzdBTWUtT0M1SU1hOUJiV1JFU3l0SXVqZ2R5NkEwWjJtZU1TMFdQZ0wwc0Z0UDRRa0pDTTZCSGtEMXF6MmRWVU5qck9vcGR6dTZjMVNhZkpLTTdXR0h2Mno5OVlRWUtoTVJITHlYcjFRamNYRWItbUxUSTd0Sjk2TjVHbE9wQlhMOUVvNHkzaURobGxYYUhHOGRma0F5X3JOMXRiUWpCaUdfNU91ZGFvRHhjcWtqUkg3LXdwbGloSDNqa1FNRTdzLXlEbTdobDM1SFhPS1JIcXRQeVVKVnQ3Y05oNmVOZnVreXYyMkJMUUEzZlo3Ug?oc=5",
+   "fecha": "Tue, 10 Nov 2026 20:43:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Axel Kicillof consolida su espacio político en Corrientes con la inauguración de la sede del MDF",
@@ -918,9 +918,15 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-10T21:31-03:00",
+ "actualizado": "2026-11-10T21:58-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Más de un millón de fieles se congregaron en Palermo para recibir al papa León XIV",
+    "link": "https://derechadiario.com.ar/politica/millon-fieles-congregaron-en-palermo-recibir-papa-leon-xiv",
+    "fecha": "Wed, 11 Nov 2026 00:51:07 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "EN VIVO | El Papa León XIV encabeza una vigilia con jóvenes en Buenos Aires",
     "link": "https://derechadiario.com.ar/politica/en-vivo-papa-leon-xiv-encabeza-vigilia-jovenes-en-buenos-aires",
@@ -962,12 +968,6 @@
     "link": "https://derechadiario.com.ar/politica/maria-ibarzabal-encabezo-reclamo-argentino-explotacion-petrolera-en-malvinas",
     "fecha": "Tue, 10 Nov 2026 15:02:08 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "La izquierda de Myriam Bregman rechazó la visita del papa León XIV y atacó su discurso sobre la familia y el aborto",
-    "link": "https://derechadiario.com.ar/politica/izquierda-myriam-bregman-rechazo-visita-papa-leon-xiv-ataco-discurso-familia-aborto",
-    "fecha": "Tue, 10 Nov 2026 03:18:21 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -979,28 +979,34 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Falleció Ximena De Tezanos Pintos, la vecina de Cristina Kirchner en Recoleta",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdzZ1eTd4LV9LNC1BSzA4WTRXWm56VkZBUnJ1TElTUWQ1QV96WlRvbGtUMFNaMjNzRWVEdTJFV0FKeHpMcGhQZWNiT1V4OHlqOG9rYmxmZzdIRl9fRlJXYUtjTzZBejZRLUVEU2dRTG5mdzB6eVpsM3JQczFrV0hfVGRGRURJbTlvY0gtLTBpdDkyN29qTGVMeld6cFZTNUI4VWFiVGs4RDFHOXdsS25jUm5CSjB1Z2JpYlBSWi1qUF92V0xwRUc0OXp6S3FLd2VGdFA2cDF5SFZGeExodlRZWjloVQ?oc=5",
-   "fecha": "Tue, 10 Nov 2026 23:22:37 GMT",
+   "titulo": "Murió Ximena De Tezanos Pinto, la exvecina de Cristina Kirchner que vivía en el edificio de Recoleta",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN1Bpb2hEQXg1dG1hRkdFaUp2QzIyNlVIVzlaRjdQWkZZWjMwZzhpdmJMWjY0TVd3NkdQa1F0SUxBc0JfTU9ZM3h3cDluX0M2Yk4xcTNrWllqTjJFYjZFdHZGbFpvWE43QmFjNWp2UDRyVmpMN3d5NDM2RlNOSTlPaUlYZXhqV2lmYlVCeEVSalNab1lJUlZCVHdxRm5jQXh2WVF5U0ozbWxQeHZPM2cyU1pVakNMel9NdHdubV9lRHphR2VFWmpJbFpSUmM0dFMwSVkxZ19lWU1VUlZaOVRuZXQtN0g?oc=5",
+   "fecha": "Tue, 10 Nov 2026 23:53:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Murió Héctor Aguer, Arzobispo Emérito de La Plata, a los 83 años",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFVienhwLWVjTG01UUx5VTlvSHRVZVlfOGFWRWtHT21ickxNZTVZbnFWOFd5dFRrdWNTZUwxdDF0bnYxdHJiWjBTLVUtZ0FyLVZkMU8xU29uMkpoVUgyZjhpN3YxbDhlTVFEYzU2QlN2SXFsRWZ5NWdPc1hCN1hQV0NLVHRBdXFlVmdHRGtqa0FvVHJDWUtjRkkyVFVoV2hmbXdDLWx1SEc2RmNiYXhOSWZmRmJWQQ?oc=5",
+   "fecha": "Tue, 10 Nov 2026 16:26:00 GMT",
    "fuente": "Diario El Día de La Plata"
   },
   {
-   "titulo": "Murió el ex arzobispo de La Plata Héctor Aguer, uno de los máximos exponentes de la ultraderecha católica",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWjVEYno3NGZnWEluNEZQU0RILW1oSzFZb0owcXFHQVhWUTlGcGdiV1ViaTlRbXFEcVBSUnFLSm5hU3U1eEhIQ2JPT1p0VW1SOHlQN0c3TkZ0QmhtNnV5OVJNNmFGa3pGR014NkhhQURnYUN5a1U1WERKWU1jOENaZnJGNjdVT3R2WTdvaFp4akhSOHZidll0LVdaWmpya0F2blBUQzliZVZMUTZfemc0Vy0tZU5BRVNCMUpHR1JTT09GemRPdmpiT2VwVE5sWGJQa2VHTkhfTW41bzJM?oc=5",
-   "fecha": "Tue, 10 Nov 2026 17:40:10 GMT",
-   "fuente": "Página|12"
+   "titulo": "Quiénes fueron Mama Antula y el Cura Brochero, los santos argentinos que recordó el papa León XIV en Córdoba",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0p3TnBjZk9mWDFWU3dfakQxOXJWd1FrWVFOQ0xITUZFcGhBc28wcGxPaFdYVTg4bzNieTI2SEVJX0plX2I4S1JrZVNFX3hyQWhYVFNHZ2xLZFk0VE5kcjNIdkhGZWM1UHBSRkZHazJDOWdvQlVrdm1faVMxNGFCdWM2eXBKN0Y4WHJxNklfVkNWekJiV0NETWVMaFNlWkFPbGpNVGJka0NJbzBZelhOUnBHUUR0WElud0tSNG9qRUNacTRxM1Z5RlA4RVpVQQ?oc=5",
+   "fecha": "Tue, 10 Nov 2026 17:52:49 GMT",
+   "fuente": "El Litoral"
   },
   {
-   "titulo": "La visita de León XIV en Argentina, en vivo | El Papa ante los obispos: “El hambre y las injusticias apremian y reclaman una respuesta”",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYURSRGs3UHVNT0FGeEVaQVhrM05JaHF4N3NhZjUtZDR6TjFmT2tDSFRMM3FEM0REZWlkaS1sQklBQjRPTEU3WkVGUWRRUi00amJHM09UVnJ4VVZON2ZaQ1lNUGc5a1dsYm53XzF5b2VJbXpWTWs0T2Y1UnF0UE81bFRveWVZUkhaZ0VIelRwbm1paWNyRWt1Yw?oc=5",
-   "fecha": "Wed, 11 Nov 2026 00:30:23 GMT",
-   "fuente": "EL PAÍS"
-  },
-  {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno desmiente a Villarruel por la invitación a la misa del Papa en Palermo",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOHJfdk5DSVBGaEI2cVVpb05wWkI1VjYzcXpBZVU3Vm1RQzdRYTlWZXVlVjItV2FBejF2YTVVOF9BZVg1bmV0dWdVSDh3bEdMUGpSZ3BxcXJtQmd6SWhJWlRuVTl4N1N6M1I1QUpsVXVuMUNSenRDYUxNeXhOZnFFZzgyaVI4R1Y2c2FTX0ctbUpuNGR3YW04X3FxTk1WSmwtejAxVHRxRmJGTzc3YzFGMWp2QzlHU0Z4VzZMSFo3Q3hhNkhObEpNckZya21EVFcwT1Y2cFFQUG9qRVduMldfWQ?oc=5",
-   "fecha": "Tue, 10 Nov 2026 23:45:00 GMT",
+   "titulo": "Fred Machado fue condenado a seis años de prisión en Estados Unidos por lavado de dinero y fraude",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjZUQnI0bWtxUERORVBZSlkwM1J1enZJM1EtZURMV3pmeG5ZdXpPeFdBS243OXV4d3VUMVBMS2FubU4xMGppOERqYnEwRUo4ekN2eS1rRm1WMEVtdFg1S1hCT2Y2cHN2MHZENVRvaVZESHZUanFXVkVHdDRKRFoyWWo3UmdjRFhuT003VENndXpnVG5JeTVLa3ltMG13dXVyN1BwZlRuR3hJbEFxdkIwQjExXzVRRU1HNzVac2JJQ0xNc05YZVN3aUNqUDZDMEE1VjVZdGlHc3hEaWJrQVFfNA?oc=5",
+   "fecha": "Tue, 10 Nov 2026 19:22:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Guerra entre el Gobierno y Villarruel por su ausencia en la misa de León XIV y su breve encuentro del domingo",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQlVvTHBiVVp6Nzh4MEZfVGhUY3hXUjRNa29EeVNLQ0NUeUtsUGJyZjRIVnhfbGs0cVZmLVBQLWk0b2pLMFZoUXlrNlZlcDFuVVE3ekwyUndHNUY4QXh5Mk5jT3hsQ1FzUnpWR3RMSVlmSDRfMzFLUGJLYjJiWmc2elVoX2F3eC1rN1ZGZE1VQUZwZWxqSUFwTEYxakVzam16aVpBWjJZaTR5ZDAtZXNVNjh0aGdYZFFwRkdoWTVnVEVkVlVQNGJJb0s0cXdvZGVPMEU2Ym02NmsxSFRfTWNudWVYZ09IN2p5dEE?oc=5",
+   "fecha": "Tue, 10 Nov 2026 08:37:37 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Histórico. Así fue el saludo de los clubes cordobeses al papa León XIV: \"Bienvenido Padre\"",
@@ -1015,10 +1021,10 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Empresarios y sindicalistas piden al Gobierno abrir una mesa de diálogo tras la visita del Papa",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGhfVnlPVDBmTy1Ja2x3UG5wZjBhUTBLRzl1elROeHI3bzcxQXJ5dV9jaThSaGlxX29WSkprUTM5SUJJTWZCWlJ3MnBwU1hqclFrVVVqRHZBYkhRWWpJWHdqcDZBNjBpcmx5dll6dm92NWp2MmUwVVFoakpUbGhhOHg0dWluWGdCakJ0elc3dlpVZkdCb1ZnSGtHbm5XRHVVTVJSa3cyRlF0T3B5MWhoWTVhNjgtVC0zLXlwWktNZmJCcHVqaEIydmVLOC1UOHFLVEJzOTFIUWViRFRqV1E?oc=5",
-   "fecha": "Tue, 10 Nov 2026 15:43:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "“Milei lo aplaude pero hace todo lo contrario a lo que dice el Papa”: la reflexión de la cartonera que expuso frente a León XIV",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSFZScnFUeEJfWTFEemktVjh6aFUtTTdDT1B5RXhpS01YYTNlN3h3cDhpd2dISGxuejA1Y0J6MnctS3FuVGNwNTQtaXhpUDJZNldGMkFXTE5nTHVrMU9VeDk3d2QyTDQ2Z09PMEw1cV9FbGpPOElHSC0zN181dVVyUFlua19ielRJTXFmakNnQ3gzQWdvN0dIT0pRWUxudUxGZXVPSm8wZ196OC1lTzZPekE5R3haelBYcVp3YXRzT2RwaDd2VUNFVmNYNkZjWFRSTzh1UHJCOVZ6emdiZ2ROanQ2dlEwVzhiUEVDLVpkQTQzNXVhRGhv?oc=5",
+   "fecha": "Tue, 10 Nov 2026 16:03:08 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "El Gobierno toma nota de los mensajes del Papa, pero dice no sentirse aludido",
@@ -1033,16 +1039,22 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "“Imposible rechazar la invitación”: el marido de Valeria Mazza sobre la carpa VIP de la misa del papa",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORUg3NmVkQngxbWNXU0hITFdHT0NnUDlTVkE5dTZ2SU0wRHdGNnZHU1dJM0tmbmNiZnhRWHk2WmJYZVJyVVU2WUJBRTZZOWxwcTZvODB0eGg1QjFMcVZBVXhBb1Q5dGp0OVBRT3JFMXdMSzBIVDJ1MjVVRTFVbjU5dl8tT05TZmhMVUctaF9NVGVfeVpnajFDdEdyTllIYU9BSk5BS0RYeUJ1cUM1VXUyNkY2R1g5enlKV0V6Z1JwXzJRelJpWlBKLThacjVZeVI3QlpjbUxPUF9HMG9WbFVSczJoakJRejRoMVJ3ZW9R?oc=5",
-   "fecha": "Tue, 10 Nov 2026 20:38:18 GMT",
-   "fuente": "Diario El Día de La Plata"
+   "titulo": "Jorge Rial expuso a Yanina Latorre con una foto de la misa del papa León XIV en Palermo: “Robaban sándwiches”",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQazFJa25MZDVyQ0RnUHNoOF9LbG5Sbm5NQ0NUWndpVTNYSEh5LWhFaXRidTM4SGhvSkhZbHY4LV80QlZCZ0hBR3kzMDkzU0VzYTQzMTU0Yk1zeHRTSUdPWThYVXB3S3UxZ2dkM3c1Zlo0Ym9WcjBNM1U4ZnR5Y1ZRTXVOVFJ6NzFBZGozd1VURzF4QXlEZnpsUy01QTNxNjRlTUdlRnZLc2hfQWNpY3EtTVVHNGdpbW9SOGRTaFplOW9IMGg5bC1SMVVaejRlOFNIdmZmU0ZCaFIxQktuTDFicFhFUdIB9wFBVV95cUxPZmhmQ3NkSld6ZGVSNmZpdFRvWlN6UnVOYUtsc3hMNUFMOVM2YTdCVmdiTUFtTXRlb0pIRGcyMWxfZVAxVU5TS3lDVDJ1YkRtN1U5R3RvdGN6WXFLRlA3MkRjNnlnMnNDbzgtZU1GMHA3RDNIZFJEOEtRUXd0NVpocnJ1emVnbGVlUVB3N1Z1Szl0SjhxaGxyQ3BMZ3ZGVThNUXZrbjA0Q1c1LTZEQXZxbHZVRkVRYzdUTWFEOVdSMWd3SVZmTGVhdGVtTmtnVEtpLUpBU0drWDRqV1ZjSEo0UlVEWThvTmt4OEplYkJ2RFZOX0pXSHZJ?oc=5",
+   "fecha": "Tue, 10 Nov 2026 10:56:06 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "La mujer con discapacidad que conmovió al Papa en Don Orione criticó el ajuste de Milei a los sectores vulnerables",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWFpjQ3VOS21RTXJldThObDg5c1BUNURLem5pNGdJd3M3eWxLVjZteDZobVFWUzNnRTlrNjFpQVdmN1Q2RFlDTXBZMDNDaEQ4VU1rM2FVRGVUMnFTNUppZ21tYW5JX2ppZGtjdnhValNFdlc1WWZxX3ZCMklLMnlsM3BZQlFjNzNHX0dqWU5xSU4xQTVJN0M1QzlGcEplME1QNnR5ZlFjVDZjdjYtUFFqQkdNV0IzU1lrYVVhV1FZaEc0ZVdrRDRFQ0pQNzg0R1IwbU8zSjVsdnN6SC1uUHRCYWZhUHE3eWZEcGc?oc=5",
    "fecha": "Tue, 10 Nov 2026 14:12:34 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "Karina Milei, Martín Menem y Juan Schiaretti, en primera fila durante la misa del papa León XIV en Córdoba",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMHE4TU1FNW9EZGlBbTJ6aGN4d3lteU9wajBwMVJVdEdtd3NlcDJyTE1wV1kwQjUyMV9DYlFJS0doUUdHSTRFbExWbzFpbk4yMW12aGszMU03SHRDU08wNXVkS1J0SFNKZldjQ1VfQUJWOW4zNUVVSHV6cHdjMmZnTGtZNTBFMWdKbFVxTXZjVlh6UVRVeWVFcURJS3dKVHYtdmVvc0p4YnZ1VUE5M3RwS0dyLTJrNHhialdsY2phR0VOZWtQc2hfWUJObHhMSWlt?oc=5",
+   "fecha": "Tue, 10 Nov 2026 13:47:14 GMT",
+   "fuente": "Diario Panorama"
   },
   {
    "titulo": "Los secretos de la visita de León XIV a la Argentina este martes, EN VIVO: Sergio Rubin cuenta lo que no se ve del viaje del Papa",
@@ -1055,18 +1067,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTdLV0J0MERoVHJzVlBwUzM3cWFpaHRza19sd3IxUXpubXdWc3pIb2hfZGpOc01OamIxb0pkTG11NExNa3BkQnl3c0w5VnhQMTVnWmZubWNoMzBFR3NGQXlXR3h4a1FHcTRNcGdUUW5iX1hoTlJaU2lBQ1pCc004ZFFZSm0wcVNCR1J1MzlCQ1BDVldoUzJQS0dSQlZ5eUZ5bTBJcnc5VVRMVXZ4TkVRYzBVQk5reWYzcDV3ZVA4b3BUMFFGMWNxbzNvSmZHQ2tKVFUySmxnNkI3MDVvUVJV?oc=5",
    "fecha": "Tue, 10 Nov 2026 10:51:28 GMT",
    "fuente": "El Litoral"
-  },
-  {
-   "titulo": "“Yo voy a matar al Papa”: la amenaza al 911 contra León XVI",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXY1NU5tenpjUEc1bnRLZm1STkR4SFdWdnFIZmloYl90dlNpYkFzdjI3VVdIOFRXbWV0SWwxRll2WjRBVGxhazNKY3Q4ZEF6SmNEQU4tLWZnMnV0T1FLSFR0MTZ5TlNXb1dlNkNhdHhxWFgwbzVFX0JyUHJhdVN5WnoyeU45dEVJZzM1LXlNX2xXSThUOTlWYno4bU5VeVp1RHVFSTdVdWlMQ1NFeWNWMnJR0gHMAUFVX3lxTE1ac0VsaDBENW1CR2FRRkZrRlpRUUZtQTlNS0tHdzFQZDNMQnQ5Y2xCbmN3NXRpOFFPX0FjOVJRd0pla1dZQS12SDVrU0xMbThhRDF3U1F1UXBJX21ReDFnUXptQ2JsSnloLThva0YyeWVfZ0JJX2hpeDVWZXNwMjBBSEMyS2hlTS16X3hERGsxM0NlNEgyMlVDb19NbEpPbDd1cllPaDROdFdfYkxkVGxHYUNrcjd4Nmp5TW1BRDczQ1lsc2g0LXZkenVVMQ?oc=5",
-   "fecha": "Tue, 10 Nov 2026 15:29:56 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Por qué Javier Milei no viajó a Córdoba para la misa del papa León XIV: la agenda del martes",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbF9sM3JNLTJUMzFnYUFxbEV4RUhYakhsX0l0bF9jaWs5SHJ4alB0RXZzcE1JaF9DanhxWG9RV01fS0V5eEctd3ZHalV3UEZld3ZJNjVlQUlZLThRS092dFVLNGhMR0FEb3FDX1F5YVNUUG1mdS1UYlBjRXdEMXl3NWtqQS1qdDBmMmhMdTJEZUREYktCY3BZbUVDNW9YYUFNb29EZUgtQm4xbzczZk40UEc4OUhNR1Z2UkxmN0xBMVA1SHRZMHd30gHHAUFVX3lxTE9sX2wzck0tMlQzMWdhQXFsRXhFSFhqSGxfSXRsX2NpazlIcnhqUHRFdnNwTUloX0NqeHFYb1FXTV9LRXl4Ry13dkdqVXdQRmV3dkk2NWVBSVktOFFLT3Z0VUs0aExHQURvcUNfUXlhU1RQbWZ1LVRiUGNFd0QxeXc1a2pBLWp0MGYyaEx1MkRlRERiS0JjcFltRUM1b1hhQU1vb0RlSC1CbjFvNzNmTjRQRzg5SE1HVnZSTGY3TEExUDVIdFkwd3c?oc=5",
-   "fecha": "Tue, 10 Nov 2026 14:15:00 GMT",
-   "fuente": "MinutoUno"
   }
  ],
  "finanzas_argy": [
