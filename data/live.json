@@ -12,8 +12,8 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1569.4,
-   "venta": 1571.9
+   "compra": 1572.3,
+   "venta": 1573.6
   },
   {
    "casa": "Contado con liquidación",
@@ -22,8 +22,8 @@
   },
   {
    "casa": "Mayorista",
-   "compra": 1536.5,
-   "venta": 1545.5
+   "compra": 1535,
+   "venta": 1544
   }
  ],
  "riesgo_pais": {
@@ -588,16 +588,16 @@
  ],
  "noticias": [
   {
-   "titulo": "¿Regresan las lluvias a Corrientes?: rige alerta amarilla en toda la provincia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk1udmJxOER4YTRHZXF2NlNnT1pBZUUtWTQ1b2N4aHhPVjBqQnFNUGdMMmdPU3JLVS1BbFRjV2QyYVd2RTMxMzJES3Q5UUh0bEtfU3A0a0RTRGs0eGpCdVpFZ0kzakpjdGVwcXhINmhOUU5LTkt3VGROaXR0aUJPLVliVEp0Qi1JRDVhZlBEWS1NQ1BmQWFYNFhMbHVCZ0tFcWZJWUNnRG1LelAwWWVPX004UThiWUFzV3VTTDExVktBbmt0NHBJaGFiN1M?oc=5",
-   "fecha": "Wed, 11 Nov 2026 10:40:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
-  },
-  {
    "titulo": "Misión en China: Corrientes envió una delegación para captar inversiones internacionales",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbk9oYkpzZWgxaXU5Vmd3eGd1cVlvMVpHRmVDTWxWSTdkcUlyb1VOZUxabll5M2ZzWHFONjdSUURTRDZBRWctTWZxZVFDLXhQeTVzcGtRZ3hlMU5xalUtc0k1WTdsWXlQVU9DcFpnRzJYbEZVenV1V3J6Xy1XM04zWDYwa1FhMF9HSjZoZzRlaHVLWmNyM2UyYnpIN0dZejVqdGF3QllmMl9DX1FLemlidTVuNjZpN1MydDJZSmwxZHEwLVdSZ3c?oc=5",
    "fecha": "Wed, 11 Nov 2026 13:07:37 GMT",
    "fuente": "Perfil"
+  },
+  {
+   "titulo": "¿Regresan las lluvias a Corrientes?: rige alerta amarilla en toda la provincia",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk1udmJxOER4YTRHZXF2NlNnT1pBZUUtWTQ1b2N4aHhPVjBqQnFNUGdMMmdPU3JLVS1BbFRjV2QyYVd2RTMxMzJES3Q5UUh0bEtfU3A0a0RTRGs0eGpCdVpFZ0kzakpjdGVwcXhINmhOUU5LTkt3VGROaXR0aUJPLVliVEp0Qi1JRDVhZlBEWS1NQ1BmQWFYNFhMbHVCZ0tFcWZJWUNnRG1LelAwWWVPX004UThiWUFzV3VTTDExVktBbmt0NHBJaGFiN1M?oc=5",
+   "fecha": "Wed, 11 Nov 2026 10:40:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Corrientes bajo alerta amarilla por tormentas fuertes y severas",
@@ -606,16 +606,16 @@
    "fuente": "Identidad Correntina"
   },
   {
-   "titulo": "Padrón Extraordinario Interinatos y Suplencias Noviembre 2026",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0tDUWR0UUhDNDRpLXJTVVJ5elREZXNzVVJFYk1HQURxdGVFNzNnSFZ5bHA5eVBieGFCdnlSMldfMXZfellIOTF6SkZLMkV1TjBBZW5tZHEyQUZiVFdkUTVybTlTaUlhNmhfSmphaG1saFRyRDloUU91MnRyMzU1UzlDMjVNcHpONGNPbXJn?oc=5",
-   "fecha": "Wed, 11 Nov 2026 12:51:53 GMT",
-   "fuente": "Ministerio de Educación de Corrientes"
-  },
-  {
    "titulo": "Corrientes con elevada temperatura y pronóstico de lluvias",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE10SzZkcnJJdVY0cUtRbHlmY0U1cGFWRnRxQVhwMVZveWQ2a0ZFVzZDbV8wUTNwNWF5QzdSUllRU0JwVzQwU09SVHMyS3FzRHk0a2lLcVpfbVRHcFU0TnREZk5rWDhnSmp2Uy1lRlVCa3VzWTgyVFNPaE1HOGtoQ1l4SHJRS3lZcVJfa1cwaHNJMWdWWWJLdWdB?oc=5",
    "fecha": "Wed, 11 Nov 2026 17:35:29 GMT",
    "fuente": "Diario Época Corrientes"
+  },
+  {
+   "titulo": "Padrón Extraordinario Interinatos y Suplencias Noviembre 2026",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0tDUWR0UUhDNDRpLXJTVVJ5elREZXNzVVJFYk1HQURxdGVFNzNnSFZ5bHA5eVBieGFCdnlSMldfMXZfellIOTF6SkZLMkV1TjBBZW5tZHEyQUZiVFdkUTVybTlTaUlhNmhfSmphaG1saFRyRDloUU91MnRyMzU1UzlDMjVNcHpONGNPbXJn?oc=5",
+   "fecha": "Wed, 11 Nov 2026 12:51:53 GMT",
+   "fuente": "Ministerio de Educación de Corrientes"
   },
   {
    "titulo": "Almirón sobre la llegada de Karina Milei a Corrientes: Es institucional",
@@ -666,16 +666,16 @@
    "fuente": "NewsDigitales"
   },
   {
-   "titulo": "Una Virgen de barro correntino será obsequiada al papa León XIV",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDVkR2VaN0ZGU0Y5eGdUQkdudE04LVJiODM2b0RDdTJreW1FMmJ3TGcwNzNwS19vVGhIbkdyS2xtRWxqYzZxbUo1MlBuV1RDOVNTSmpwWVN4bVBOZUVtTmxyaElFVFBObWRRU2g1d1NpX2o5WTFUaTZPY0FrMXFMNXVEaURJSVptRXplX2FaeXdQNU5tQ09oNXhTT01aMnlUWEFSQldwUHNBeXNEN05xZw?oc=5",
-   "fecha": "Wed, 11 Nov 2026 14:23:17 GMT",
-   "fuente": "Momarandu Corrientes"
-  },
-  {
    "titulo": "Abigeato en Corrientes: registran una reducción del 50% de los delitos rurales",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3IxM2ljcXRoaFBnR29uTUFWUGpqWWotSXlPOG1DZjdnWmptLU10R0V6bzNrcV9zaE1UMlJCeXZnZGJiVVVaV042TzNlQ2VZbDdFTktEMHZONEduZFo1N1UyZFRQazBWSzRKUVRpM1RFbzRGWTFiWnZPLU1NdUNTbnBmQ1gtdFp1UWxYb1M4TVFKU0NyVWYwR21ER1VXNEl2dUUwTzBMbXBPc0s0MzBFcUxUdlpURURUZldmbW12RnhQMC1sYTdQOVI4Rkdnci1Z?oc=5",
    "fecha": "Wed, 11 Nov 2026 17:25:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Se renovó el alerta amarilla por tormentas para toda Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTIzMXNxMFJzWTdNVkxaUC04WkdyZFVHMm9xM09BVWk3a21Fa1o0THNvMGs1cjdPeVlvMHF3X19LdUp6cThJWElJZERtZHFja2NfeVVmbTdJLWxSbURmQTNqZjBwbXc2WGRJZ0puLTh4WlhsS010VnVmT05UVTRXcHlKVVYyLXU0c1VwbzlYSjZJR2RTeVZmUlhIQllWN2l5?oc=5",
+   "fecha": "Wed, 11 Nov 2026 11:04:12 GMT",
+   "fuente": "Diario Época Corrientes"
   },
   {
    "titulo": "La influencia de la arquitectura francesa en Corrientes, eje de una charla en la Legislatura",
@@ -696,16 +696,16 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "El Niño: Karina Milei y Diego Santilli llegan este jueves a Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNmhrVUN5T3BkVDNITFhMY09BQXpJMHduTVNrX194T3hTNE1QT3BTalcyaklBbjFPOGN1b1h6U0s4eHZrWnA1ZXFHZjlGTVE4c2hYbVBZQ09maThwaTF1dnRDRzJ1cHpzckF2cE10NXh4UzRYNmZ4Tm1ZVUFHMlpmWTdwcm1RMGhJZ0Izdm9EeU9sb0I1RTIwNlJyb0RSUVhod2xzLTRDZ29LUWJXUzE0?oc=5",
-   "fecha": "Tue, 10 Nov 2026 20:52:02 GMT",
-   "fuente": "www.libertaddigital.com.ar"
-  },
-  {
    "titulo": "Una frase y seis líneas \"muy claras\": Juan Pablo Valdés destacó la visita de León XIV",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZG5PUGxGMm5WRVhJbnFEdXZILWY4aDRtWHdsTEJBOGhxN0x4c3FSRmxHM1dYZDZwRnVGR1RzVmp4RmxwWnBXZE5yZ3E2UHNJajVTLXZ3ck9QQ2dMWGpWM3puUmFsekdVZkRfWFIybmRZRE1MLWRvY2liMXZZUk14LWlIMWRWVXNKNUtUSXdsRlR4cEtCdkNncEowX0FHcG92Z2VDTm1JN3pZZUlCdEowejEzeTRxNmc5c2hvbi1aTnFIQkFTOVJ5Y3VQdG4wclg0TnB6M19taw?oc=5",
    "fecha": "Tue, 10 Nov 2026 20:03:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Valdés anunció inversiones para potenciar el desarrollo de Goya",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmFKTXZ4Zi14UGRQR3dWdFoySzFtS1NwaDlGNlRWblEwMEJJOHVpenJiTDMzOUt2NEIxN0ZOMnNJSjFCV0plR0dBZ19zNDJsbHNYTFZQWVAtRXd2QjBpSHh6X0hQQW9WdlJzTkdiOVhLZWNOMmdrZHZHejRhWHhlQlhKdFVaWjdOQzlNV2lJQjhHbkpHZ2pibldkNzd4LWM2?oc=5",
+   "fecha": "Tue, 10 Nov 2026 13:49:52 GMT",
+   "fuente": "https://www.noticiero9.com.ar/"
   }
  ],
  "expedientes": {
@@ -918,9 +918,15 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-11T15:44-03:00",
+ "actualizado": "2026-11-11T16:10-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Kicillof obligó a policías a dormir en la calle durante el operativo por la visita del Papa a Luján",
+    "link": "https://derechadiario.com.ar/politica/kicillof-obligo-policias-dormir-en-calle-operativo-por-visita-papa-lujan",
+    "fecha": "Wed, 11 Nov 2026 19:01:37 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "EN VIVO: El vocero presidencial Adrian Ravier da una conferencia de prensa",
     "link": "https://derechadiario.com.ar/politica/en-vivo-vocero-presidencial-adrian-ravier-da-conferencia-prensa",
@@ -962,33 +968,27 @@
     "link": "https://derechadiario.com.ar/politica/milei-agradecio-personalmente-fuerzas-seguridad-por-historico-operativo-recibir-papa-leon-xiv",
     "fecha": "Wed, 11 Nov 2026 02:06:30 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Más de un millón de fieles se congregaron en Palermo para recibir al papa León XIV",
-    "link": "https://derechadiario.com.ar/politica/millon-fieles-congregaron-en-palermo-recibir-papa-leon-xiv",
-    "fecha": "Wed, 11 Nov 2026 00:51:07 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
  "nacionales": [
   {
-   "titulo": "Kicillof recibió al Papa en Luján y le mandó un mensaje a Milei: “Que haga lo que quiera, pero que escuche”",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmhFZ3YtVlAxOUVXZ0JETHhNMXNzTXhMNW9Nc2h1Zkl1N0VqS1FoaGdVaElYdm5ISkVReGkwV1JCSGFvV0RrMjlLNEt5MU1uVTU3TXE0a1RYcEVNdkYxQVZpTkNEYUxTb2V5OXBKZkVXcktNZ09kMlNDV3pEbE1DbUEzTUxBRHdKNHBtcVBHUDd5UUlCUGcySFZwXzNQS3IwTVk5YWh3WjZJTXd0dHJrTXliNUpxTFZQalAtSEpSc1RyX2lQZ3Ixc0xVaWVWX2JERTRtZVVHa3AwMVg0bTFCVEtB?oc=5",
-   "fecha": "Wed, 11 Nov 2026 13:22:44 GMT",
-   "fuente": "Perfil"
-  },
-  {
-   "titulo": "Irán declaró como organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbmhfdDNoN09tZ3VJdzBHN3I5Qm5taTRGTU1McUNnY2VYUXhRMjFMVmg4MXJnMWRwUmZ0YVZHaWc3V3JHSllzTzRUODQ4VDhkeGJZRDdhSElnS3VvTmdPdmtCRjFaS1ZZU0dFNjFWb2ljSlR1VllCazlvQWM4dlByMXdmNGVZZkp2V1l3aXVYNXI0WnpyaDR6c3EwSkpIbEZmNWU2MmhkUl9QeHgtNGJ1X2d3MFlDR29RV2tGa2pYZ3ZqakU?oc=5",
-   "fecha": "Wed, 11 Nov 2026 12:38:34 GMT",
+   "titulo": "De celeste y blanco: el significado de la vestimenta con la que León XIV dio misa en Luján",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeS1tblB3dEFNVGJ4SmNSODktdzBmRXNTTmExU0ZjYWE4ckVqdUkycTdCelUtQnFaRHlpZ1BGUmJ2cERlMEI5elpRdFhZU2czLXlGYjhEVTdLT0M5TUFoNlBwNWN2M1prMXdIeUQzUUJIOFBsUmdkc1R4ajRYVTNaN2RCa29peXhxVEpRSHBRamUtU0RlQ1NVLWxEX3U5YjY0SUpFS08tYXNwMWdKcEVzTUQ4RXlJTUlIZEVoUVhQeUJkTzhhX3I4eA?oc=5",
+   "fecha": "Wed, 11 Nov 2026 18:29:06 GMT",
    "fuente": "Página|12"
   },
   {
    "titulo": "Javier Milei y sus medidas, EN VIVO: “Así somos imparables”, dijo Quirno sobre la visita del Papa",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGxyNE5vTDNXY1hSeU8tUUNDSmhjSGpnamNyYlRucnlKSk1lR1dNZDdRVkVmU0x0ZXhJLThWWG9QTmhvam1pNlJVMXhzNWM5RGR5S3Q0TnhhTjhBeVUxSktBU0Y5WTlOVDRrRFVSb3haWmtCWDkyNEtkNHRlYVk1cVpTNjNWQUdfSVgydk5wVjlWYWZEMGFsYkxqUk94bWV2ZTZPUTdGcDRoUm5nSGZ2akRoM2tfNjUtSnVXSTFGSmh3Q0xEOTJIMGp6b21OZDRkcHFyMFJVWWJlUQ?oc=5",
-   "fecha": "Wed, 11 Nov 2026 18:20:00 GMT",
+   "fecha": "Wed, 11 Nov 2026 16:14:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Irán declaró “terroristas” a la Armada y la Fuerza Aérea argentinas en represalia por la medida de Milei contra la Guardia Revolucionaria",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQeGxZRWV6ZWRacmpDUTNGVnNsc0M1SHpiam42UWJfQlBwMzI5U05wWGxncWREeklpSTJ3NDZzbmFSZlJGRjhueXVnNEluMUIwcldqNm5lektCQjlsV1BhOTd0Y01keE91dzFvYWdtU3dvZFhGdml0cTR2QV9VWnRWZlNqOHVCN183QVlGaUlHb2l0YW9LZFQzUTNLOFBWWGJTSjJXOFZPeGVoRWMzM2VUUHYwV0xSSnJyc2ZMLUItekMwM0lmRVBob2xqRVlCV3hpR1ZNNE5ZZTFQM1hzOExwa1VwYUFzTjRVZVEwYy1VdXpZS05KZ2lFemhtVDNvQ2xHWGszZkVEZXdTUjNO?oc=5",
+   "fecha": "Wed, 11 Nov 2026 15:20:46 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Tensión y operaciones internas: batallas en el Gobierno mientras hospedan a León XIV",
@@ -997,10 +997,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Los secretos de la visita de León XIV a la Argentina este miércoles, EN VIVO: Sergio Rubin cuenta lo que no se ve del viaje del Papa",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQjlRaGtDVGQzWk0zMEt2NU5mOUdVNjNUQXA4VW5pY0JCTGJzcTcwSlgtWmg1Zm1heUdZV0hiOHhfNzNFVHBCM2dOazdwbG1GVnNvVlc2a0VvQ0tSNzVuYlRfUG9rUXVRLWozVkJmalJvZzNydEtOeGEyYmwwQ3htYTJvSEJlTXVnYkVSajgySlRaWllSOE9NamtXNTBpNGJGOC1BOXp0VGd3T0hiZGdaU05tOWJHLW4yc1FBTGpwRFpTNGdZQ2RKd0NqNlhmZw?oc=5",
-   "fecha": "Wed, 11 Nov 2026 18:15:38 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Las negociaciones por el Presupuesto 2027 siguen sin definiciones y los aliados ya desconfían del Gobierno",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOenlHSVZtdm96N1A4NHBYRy0tNTBCb1lVLWZsUWVURngzMDhXYml0MnJucEozTW5nU2J2N0l3dWY2ZzI4LVlpTkxmbHIwUzBTNGVzVnpUWDA4M0hHMHV1aXQwRlJkRHQ5LUt3RUwydlZJS0dtenUyelY1eWJMX2NBMTZKU2NBQ0FQVEkxM0hPM2h2eDB5cTM2ZG5IMjZBUWlyS3dESUFJdGMyS1hBc2FmaGFSQXhnTzhZT0RYc1Q4MUxrQ2dlajl4SXU2QmdIOFdZZktXVHBRa1JLdnJSUW5ZUDFaZ3hDQdIBgAJBVV95cUxQa3owYVZVOVByTUtKRklXLTlEQ3NReUJ0NzRZNWl1VW1CdW5JUWN5TGRtdk9ndzNKd3FMRkh0VXlpaEpKMFBIMzQzVlJ5c1VVVUh5SkF6aFJ4YzZyQkdaWUo3S1hqNWtnNmtvR2lvaVNxNG5OLS12cHZkOTBOUlh4Y1BRalpzYzVISzRMTWNzOHNNVy1qMXdKMURwa2NCUEcxNl9qc0JHZTNyOXIzS0xDSkw4S1RkeUxBZnlmcm11ZTRBVXI0SEVpU2dRek1aNDF0NmJPRENMOW01aTUwc1o0MzNKZm5zUW96ZENDOWNqWnZkaXkzdDQzdUMyVmNHTmVy?oc=5",
+   "fecha": "Wed, 11 Nov 2026 05:06:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Crecida del Paraná: estiman un pico cercano al nivel de evacuación para fines de noviembre en Rosario",
@@ -1015,40 +1015,22 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Córdoba. Menos concurrencia de la esperada ante la visita de León XIV en Córdoba",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUJEcmRsYkM5TUdiTkd3VEpmdnkyVjhCY1ZBWkxLZ3ROWVRCWk5nc2stWXFEeFhHLUVmbndqMXhtVDdaQlBiSC1zSEY1clFDaTVNWW9rOXJIUXM0ZFdfN01aWEZhQldRXzNBSHViUGlBaFR4bmZiYU9UTklRUTFRdnFPR3FzSmJoODZFcnVPUTFDeVcxajlFUF90enF1TUJabEIwNXRGM3c?oc=5",
-   "fecha": "Tue, 10 Nov 2026 20:19:05 GMT",
-   "fuente": "La Izquierda Diario"
-  },
-  {
-   "titulo": "Argentina terminó su defensa en el Tribunal del Mar y reclamó medidas urgentes para frenar el proyecto Sea Lion en Malvinas",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbkRtVXVsaVZ1MnVEMWRXQm00M3lqVlZGMVBsZ1VoUTV0RE1Bd3JSUnVpaUxScTUyYjk3ZlB0TV8xZFBJVFJEVU0xRGVMWnBmNTZ2aVZDNDZDVFk0VkxOeV9paGw0Qk1BdGJfbzBYMlpGRWdHLVE1S3UweDh5RXg2YnVQeGtPODFqT1RxQmdEU0wyME1uT093ai1tX3VXeERYLWJGRFFHd3p2WTgydVlPcnQtb0FuSVNDcVNlbmNPU3RCazdmOEN4ckNwTmwya3FYODhVZm1CQ2QtdnB1UVJuU05zS1JuejZlUXU5NlR30gGIAkFVX3lxTFBkczZseFFJb0c2bll2Q3ZiR1ZBLUZSaUZOWmRuMVdfRDFyT2JVNGw3X1ZYXzFiTWpxOXk4OVdUMHN2dnJaRGE5Z2sxTlNuOGlubmEtTGNNSXREazNyQTdycXVfMmNQdGUxNTNQaFA1ZzVRRk10cTlyVlZ5Z0NvWWRJT3VIOTQ3Q3ZvZ2dOV0Z4ckh4emdMcUJDYUZiTnJxVDB4WkVacV9HVUxGYnhiTnIwMUszV2dsYkJMX21uTFBpN2pnODgtTkR2R1B4MHhlSXZVLXBoUm9aZ0k3WVJwdGRWNy03UlpMTVRHRlFWNFQxc1lpdEQxdG1FQUszWjhXSVV1c0J0aFRfbQ?oc=5",
-   "fecha": "Tue, 10 Nov 2026 20:06:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Fuerte polémica por la “carpa VIP” en la misa del Papa en Palermo a la que asistieron políticos y famosos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRURwMGNNZGJvZE9OeDFIQ1kwbXNYdDVCRlZzU3IxcTMtcHN6S25fMGUyMXMtN2Z0RDdHdVIxcXAtLTEwVXZoQmJzZmJvdVBUM0JMM093LTQ2bGFNcFlKd1E1U1BxcndVZGxVZEpJYmJtMDNnTzdyaHgwNVQtdUd2Tzg1RWtTaktqdTA3VUN3dVNKRVFHY2hCY0VLTjJvVTZHTGl0cm5TT1E5dWRqREFhQnktMm1saXZmRElDS3BTbXdRWklTakRqYzRyTF9HaTJsdnpxUDhyQTBZZVFoeWc?oc=5",
+   "titulo": "En una causa por narcotráfico y lavado de dinero, allanaron propiedades de Lázaro Báez",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQXpabjRXX2ZIcHQyV2Z4MFFNbVhXRjJlT2dINjZQQmtHbU8tODZCOHFYcXBwbjlCLVFKNEU4cHVqWk93SUhkam1KNmQwYzVKd05BNnRURDE0Q25PUzFtbXdaU3FKakZtV0hBRmlWbVppdFd1dWxVX1BSX1dKU0VDaXpLRUJlcW0wSzktMVZBbHExbDdzTUJaY3ZOMjIzUnJMakdacDM5bGpPNkNyVDIyNGhzSWRaZ3ppNW9EQlM4djBjTEpVZjgxR2k3Ym1Ndw?oc=5",
    "fecha": "Wed, 11 Nov 2026 12:37:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "\"Hola 911, muerte al Papa hijo de p...\": detuvieron a otro hombre por amenazar a León XIV",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEZ3RG5WMVJLVDdLRVRNdmowMGNWNlBwZ1JwZVhwV1owWXN0dXVQdVZoZHV3a2xaREZiOE5pNGVCQTg3b0RpOXpWX3VndGg1UFJvcnpfanVrNkhuNDRhNU9wS1MwNTNacEpEeU9CNlVVNUozWUhtM0VNVk1raXVOREdDM1loV2R2cGI3M1k1LWJvQUNQVmlmUk5RaVktajdfYVRNTmpnUjAzakZkWWJWcFA1dFJIMkRhYVFr?oc=5",
-   "fecha": "Tue, 10 Nov 2026 12:24:56 GMT",
-   "fuente": "El Comercial"
+   "titulo": "Terminó la tregua papal: Lilia Lemoine llamó “villera sucia” y \"foca descerebrada\" a Marcela Pagano por cuestionar la carpa para invitados en Palermo",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMExyb2thSDQ1NFVuRFQwN01wbk5nRkFZbzZFNWh5cWdndUpLUExBeUxWdWZ0c2kwNVY3ZVpDV182aGJWaW0xdzNuTHlmeHRyWUxjeFNncmRGY1F1TU14dm5mUDRfSnY4WUx2NmJ4cmFkYk9sSEdZb2RWMUJVTGxUek0zNXlHbW9YNk0wTzZJcEItTkEyZE01UjFhTlFqZWRSSmFzcENDNFlfcDFjcHF6Zm01OHRCT0FIRUxheTJOeWZOZ2NkcDBjeEJJU2xwOVpBcXJ0UktrTklqcVlkaElqbGQ4QXNQbUJkeGkzTUg5aXI1SmFEbFdqd2RPeml5RUQxQWc?oc=5",
+   "fecha": "Wed, 11 Nov 2026 11:54:26 GMT",
+   "fuente": "Clarin.com"
   },
   {
-   "titulo": "Beneficiarios de la beca de ‘Mi Primer Emprendimiento’ cobrarán a través de la plataforma Sanluiseña",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbGp5a0FfQ1IzU0o1TGw2Z0RXQ2c0ZTVlM2Y2RDYzMF9IMVFXTGZVVWdZMFpFR1EwbXB5RDNkMXNCSlN4MHVTSFJtcGFmbWdPc19hejQ1TC1GRXJabVVJWDZFY0lkQUVoQkxvU0hLVmFJOUhIcDc1el9LQXUtMU0tTnlnNThKX09Ic3BCSXpuQmJReDY1NFVKd0NFM3BNcWFGZGZnaDZSa1I3bUp5WnROeHlRYWQxRG01TkhZdnpsdzllVVBQcEZXYnZ3b0dtbmxTSEJ3TU42a3AyS2drd1E?oc=5",
-   "fecha": "Wed, 11 Nov 2026 15:57:00 GMT",
-   "fuente": "Agencia de Noticias San Luis"
-  },
-  {
-   "titulo": "Javier Milei monitoreó el operativo de seguridad por la visita del Papa y mañana lo despedirá en Ezeiza tras la misa en Luján",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY29pakhVZGcya0UzeHNKanMyQmNiMjF3T1FMY0F1dk5HakduM1kxZWc1dld4OEtJc1pKaFNDcW9VUElibWJielZPSEwzOUs4ZTNWdl9tZWpQdWtxUXlPRWw2LVpHM1M4cTdSMUxLQmlYMDBVT3ZRdDY0T1Bac1hMLVJmYXNnb3lIZnMyVzZfX0JtbGRjQWVjTFNJNmNucFplaF9ad1dGckdjSV9TSm15a2hpWmhMczZpb0o0YkZWRWxFNlpPOEpaWVJoM3UxaC1KVm9Mc3daMFJFdHpDVDJWRG9SQVYxZHo1RlM1OGtEd1RWTDhBV1R30gGLAkFVX3lxTFBYZ1ZVQTdpMUc2TXJWVlQ4MXZkN0ZsaWhsTTBrRHBJWDdEcmU2ZlVwd1JVZFJobWtzanUtZlBNVVgxcURiNnlCc2pmTE5GWUJDUEtSRTNTMk95b2w3XzZYMGFpTW1qaUZYNmpuUWpqWWY4V1ZwR2ZIQ1VncTYycC1KT21PQTN2WE4wNjloelJRY0hHcHNIdWZ2WFNKMDZSREE0N21GMGJZblYxQW5COGFoYmRUQTFxa2pIR3RuWTVocDZMRjRsWURxVm05WENBYms3aTJiZ1lxYWZVUUw4eUpuVnByUkVGRkRMQkhsd2twY1U1Q0xxZWNaZkRnVGJ0XzJodHo5QmlLLTVwTQ?oc=5",
-   "fecha": "Tue, 10 Nov 2026 23:10:15 GMT",
-   "fuente": "TN"
+   "titulo": "Córdoba. Menos concurrencia de la esperada ante la visita de León XIV en Córdoba",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUJEcmRsYkM5TUdiTkd3VEpmdnkyVjhCY1ZBWkxLZ3ROWVRCWk5nc2stWXFEeFhHLUVmbndqMXhtVDdaQlBiSC1zSEY1clFDaTVNWW9rOXJIUXM0ZFdfN01aWEZhQldRXzNBSHViUGlBaFR4bmZiYU9UTklRUTFRdnFPR3FzSmJoODZFcnVPUTFDeVcxajlFUF90enF1TUJabEIwNXRGM3c?oc=5",
+   "fecha": "Tue, 10 Nov 2026 20:19:05 GMT",
+   "fuente": "La Izquierda Diario"
   },
   {
    "titulo": "Un exmiembro de las Brigadas Rojas se fugó de su detención domiciliaria en San Telmo",
@@ -1057,16 +1039,34 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Las empresas argentinas que exponen en China para abrir mercados",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQW5HNTItOHYtcFFNcFdzOVZETzdnNHJPTHpDVi1zYm9RbmtaQWxBRTJ0anAtUUFWZ2lqTGplMUJEM2pvWjhtcEtRVVNrSzU3NGpWbmkzeXdFbi1icGVyZHJJcU5RN0QzMzV1MkV5U0tDSVVva2Y4MHFGM29SZ3JBdC1WVEtjcmhzRmRkSVg3QkJHaHJUWGp2NHNhNTJQM3paUXhWNGVXOA?oc=5",
-   "fecha": "Tue, 10 Nov 2026 13:49:38 GMT",
-   "fuente": "Página|12"
+   "titulo": "Las redes reflotan los viejos posteos de Milei sobre el Papa Franciso: \"Zurdo hijo de p...\"",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeE92b19vUV93TE5tN082bVBYZkpuOEY2dU1GaEJLY0FvRXpMWWxFSmNFQ0dZRWpUc0d3TENNMWVic0l0ekt2dENLbFM4c0JzbnB3SVF3RkR6MnRwZFlhMmYwbnZIYXlhU1VjdmpMV0pydGZTamlfN3lucVBWRXduVGtGLTFlX3VGLVpXbDRid0tLTlJiRjNqLUo2LXdxU3lPbG9iNWFpY0pvUG5IdGhxeXU0V0toVXd2SHRIcUNyTHV2YU9DdUVpXw?oc=5",
+   "fecha": "Tue, 10 Nov 2026 04:35:34 GMT",
+   "fuente": "Perfil"
   },
   {
-   "titulo": "León XIV: el contundente elogio del Papa a la innovación agrícola argentina y el trabajo en la tierra",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd3dtWU9uVUZWMTZ0Y1BXc182ZEVRdDNjbmtyQUVjaDljTnpsbmJrZGR0cFdZVVlhbDQ0UzI4SUstQzBfOGhvdWdYc1VJLVRvalJkQkV4SS1YajVVVURibWpfY3FzOVFCby1fMm5pOV9BT3dxZ0xKR0hZOXBuT3BZaW9IanM2N3JBcURQWG43MHplcno0TDQxbUsydWpvY1NTeGRYeDFIRXlKSEZ0UHBRWmJHWnQ2LVVTcnVSaUYwcDdmR0pBQm1kWHVCeEN3WmM5aktST1F4VDhKUlhEZzRtNFFNLWI0VUNmVlM5Qg?oc=5",
-   "fecha": "Wed, 11 Nov 2026 11:14:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "La CGT se sube a la ola de León XIV: pide una mesa diálogo y advierte que \"la gente perdió la paciencia\"",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV0tDWlpaU05HTGlyN1FpOE9vbTVyS2pMMHR2QVpWamk0OGF2b19BU3k4MkVXSHVBQjBSWkYtLTgxWmtKRElTN3pKNVY2Qmd0NkpPa1k1X0hyOGhpTzRBY3ZST0pwV0JtNXFDVFJtNjNOcHhnak4wcHpwemtnWTRLS1I3RFlFbTV4bklYU2h2RVU0Vi1lMDVYZ0p1ZjNqMmVRM25IaFlJLU5GR1pBc212OVFtZ0lIbEJ5TDlqWUZUZWJGUlc5NUNDWmswSW9jVE91RkZZ0gHYAUFVX3lxTFBVMkN3SGd0SWpBd25OekpKVjRUQmF4cGo2WkU1WjZnaTQyLXczZHNTYS1OX0RUSkxaZUNBSEwyOHQ1SHF6ZnFWSF9SXzFRbGt5THZUeFRnVTJxbHFzQ00zODFrVmY5a0loaVI4VXFoZWRfaDFKVVE5dXhVTUs5UkxfVDZxWEJScnRUTFJ6Ymt1RXREMzE2LUpjQ3E4OTVyZVdleVdmV1JCUTlzMF94UjU0NUZwMlJiVmk0NUlqbVNUdHlCeGZEUmRjbmd4UC1rRVlONjdCS2l1RQ?oc=5",
+   "fecha": "Tue, 10 Nov 2026 21:34:00 GMT",
+   "fuente": "Ambito"
+  },
+  {
+   "titulo": "Qué es un Cottolengo y cuál es la historia detrás de esta institución de cuidado",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFotbHltbGg0V0t4S1VacUJhU3N6VkItQ0NoZDM0SHRJYlVZU1VOdFRRY0NDbXR3SFlmdHJJb29JRUY0c2xtZmZvczVyUzhXNFlFLTZhME5aZS1VcmdZUC13OU1BMzlhNE1kNFNKT1hrMHpjWEZFWm53SDByczFwMVRpSGZxQVo4YW5aX0hJZi1qcXVkbUdsWFplRWlSdWJqSXg4Z0RrUFlfSEhrQ1VvMW0tQ1FkLU4tUnJXUW10aF95RTTSAd4BQVVfeXFMUEgydm9ZSDJxYmJHZERpSU5nRTNPTGMxSHlqNERNbkRiaDJkazBXOS1zTkVFYmRkaXUtZmZvYkdZamVYNDQyTWlaYzhwaS13b3g1Tks0T0pRTTM5YlFzRjRONkFzVDdNdE1zRGJOWkhlZ2VoQVd1UW95WC1iVGcyckhKY081MjdDdWhMUE04X2ZZaTZ0Xy1wX21RQkJfZzFBN0c5cmJYMkR2T0pHeWU2eGVpS1lUZmVnVE1mcEJnWTZ5eEdVZXNENnpsc0lUTjBRR2RzUVVQSnIyOWIyZ0N3?oc=5",
+   "fecha": "Tue, 10 Nov 2026 13:40:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Los secretos de la visita de León XIV a la Argentina este martes, EN VIVO: Sergio Rubin cuenta lo que no se ve del viaje del Papa",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1ZkeXM3bVY0d0lUVkVxZGItMzBUVHRZWDhIaGpqRVN2OFdfdHpwMGVYQ0Q4Z1ZzdXdNWnB4amxULWtRT2lwNkNrcGlsS3M4MENMLUJteldEYkxKRGFWbW03YXlvaDF0VjJlYktpNnpMd2hjeS04MDJUVnllNDRReDk5OXFmQWx4ZzBpaWdJMmdkZU1mNDU0N2ExdGJJb0tIakh3c29SNHhibXk4X1ZacHowa2R4WjZmRGJkNFJXODhXWF8tY2M0M0tn?oc=5",
+   "fecha": "Tue, 10 Nov 2026 19:20:04 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Nuevas y viejas internas: el Gobierno evitó politizar la visita del Papa, pero no pudo evitar las tensiones",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNclJsMnlkUUhZWFgtOVZlRnhMQ3BkSVlDdE0wR0JYODZ2ZWItNHJnaTJyNHZKVFdnN0hHUTBpeEVmcWVuTko2R19jV19DX1BpWWIyd0dfVVZqdWY3M1k0cXdrVXUzT2llOXJlQ3dfVUZZYy1zNzNsZXV2T1JBWEF2MURYbXRJZTlENXhNbjNTUVpSaDZTSXJmdHhZQ3hSSEJuOFF4VWNndERhQUVTbVZJQWVWd3g5VC00aWJHTHNycUN5ZHhpWjV3endhSUw2RzUzNUMxcXY1M0R1V1E0UHdDRlJzeEzSAf8BQVVfeXFMTldDamwwRDItZGVkbkswLWJyRjh1SXVvNUNSSGlkWmliTGNjN2lBWDI2eFpFWnNHX2NackNUVVhSbF9CVDdZd190aEZQU0FoUXI1RlRMb2xyS0RyQjVua3dUQVpZVFk2dWhKeE1hWmlaX3B3dE4xSDRaU1gyRmZ6VW40bHVVbWNSSWlQZngtM3JRWG1SZUg5dDZISG91eXNybFdKSHJkblRMNEdDVHBya09OV25CUTd4UDlSZ2p1NnRoTlR4TUdMQ0RqelhIcW9QRGlpODhBSHNnVzBHYWpVSHZlaDZxYUJZU182QzF1LTZEWkYteEJVYlpZcHlvVkhN?oc=5",
+   "fecha": "Wed, 11 Nov 2026 05:05:00 GMT",
+   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
