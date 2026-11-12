@@ -12,18 +12,18 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1572.4,
-   "venta": 1572.4
+   "compra": 1573.9,
+   "venta": 1575.4
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1664.8,
-   "venta": 1664.8
+   "compra": 1666.6,
+   "venta": 1667.3
   },
   {
    "casa": "Mayorista",
-   "compra": 1537,
-   "venta": 1546
+   "compra": 1534,
+   "venta": 1543
   }
  ],
  "riesgo_pais": {
@@ -642,16 +642,16 @@
    "fuente": "MisionesOnline"
   },
   {
-   "titulo": "Presos fabricaron y donaron urnas al hospital Neonatal",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU83XzlENFJsR3Z2dU82SGhQWUVzdDFuUDFPQmZRdlZuN0NyX0x2VjlnMF9wWWNEMjd1bl9oZjBkSUJ6TkNQVG5HdE91MVdMUEE3SmZOa29qc040a255d3lHSnM0bVhvdk1qdVh1X3R1WkZuaXROVzFGRFNwSjFJNUR4RkRlZzA0eHpJNmhyR00tZlhi?oc=5",
-   "fecha": "Thu, 12 Nov 2026 12:12:08 GMT",
-   "fuente": "Diario Época Corrientes"
-  },
-  {
    "titulo": "El Gobierno anuncia este viernes aumento salarial y el Corrientes Sostiene 2: ¿de cuánto será?",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeVduVG9jTHJtLWgtS1RvQ1M5bEpEbUxDLXdNLUdEN20xNVlLUWlFSFlYWnllNHo0Wjk5QzhTanNGZVlwSHlSMm85Z1B0OEtBcnpaM0RXR2tNMFZOXzJUUVR1WWVhZEZLS18tRWhEc1FRTVYycC1hMHhGckdQN1JybGc2S3piWDN0QldoSXExbw?oc=5",
    "fecha": "Thu, 12 Nov 2026 14:40:41 GMT",
    "fuente": "Diario El Libertador de Corrientes"
+  },
+  {
+   "titulo": "Presos fabricaron y donaron urnas al hospital Neonatal",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU83XzlENFJsR3Z2dU82SGhQWUVzdDFuUDFPQmZRdlZuN0NyX0x2VjlnMF9wWWNEMjd1bl9oZjBkSUJ6TkNQVG5HdE91MVdMUEE3SmZOa29qc040a255d3lHSnM0bVhvdk1qdVh1X3R1WkZuaXROVzFGRFNwSjFJNUR4RkRlZzA0eHpJNmhyR00tZlhi?oc=5",
+   "fecha": "Thu, 12 Nov 2026 12:12:08 GMT",
+   "fuente": "Diario Época Corrientes"
   },
   {
    "titulo": "Corrientes anunció por sus redes un descenso histórico del delito rural",
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-12T11:45-03:00",
+ "actualizado": "2026-11-12T12:12-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -997,34 +997,28 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Las frases y los momentos más icónicos de la histórica visita del papa León XIV a la Argentina",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOGJ0dlJlUV80NndnMl9mNUw4amxOV3Rub1JSbTB1c2dHVW1nRVllVXhsX3JqTnQ0bDRlbktreVpIUnEzSHVnS3hHQ05VVHZRYmRiYVZlRlZ3d1M5VWxxZmVKeU1jT0Jfa2tKWm9Va042djU0UzF4WnRkeTFyOTdHMDlSN2JYV0xHcTV5QmZUeGdXZWNsaGNXa1lhMmpneVhMUzJHUy1Xckc0WTIzNFpxRDdLTXF4eDBDMDI4V3E1M1RZVE5lWkVQYWQ4Q05ZemRTVFptZkJxUHJjbnlnWUhVZl9YVm80dVlVOVdyVjRqUEF4bEFoVFRDaWZaOA?oc=5",
-   "fecha": "Thu, 12 Nov 2026 00:16:06 GMT",
-   "fuente": "Diario El Día de La Plata"
-  },
-  {
    "titulo": "La economía, el trabajo y la discapacidad: la gira del papa León XIV dejó fuertes mensajes directos al plan Milei",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdGdhMkU1VkhldjR4ZVR5bWcwZ21sWjV2OG41eGxUSkdlV1VDMXBKaUFNcmRxSFFqWnlZMEk2TE5sd1FNbEpHcWVTWE5XMlNZYVBLallzMWFCYWRfNEE2QzRjX2pRMUYzeTFYMElvVmZHMjhvbWtrOVAxdFVfdnpueDZBcnhzMExSRVdrZDdDNy1CSjNJTjV4OXV3YTJzSjYtX3h2OXlPcDJLVmpaZ3FIRi1HT21LX0x1TFNnNjItRmZURDN6cDEwb29rcU9sSVY1aFRwa0hjbnZPMkVxMHNlZ0tSakNzeGxMU2o2Wg?oc=5",
    "fecha": "Thu, 12 Nov 2026 08:18:16 GMT",
    "fuente": "Perfil"
   },
   {
-   "titulo": "A cuánto asciende el fabuloso pozo acumulado para el próximo sorteo del Quini 6",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLUVqUjZJTFNhbDdLYmM3NVE2SmFNdnQ4QVdGR00zOHE2UGJQMmZKeUpVTzM2X3JiQnpURVI5ZXJPd1pWSktwdUFaTWdqVHA2MFd5enRQdF9rbXNnRTZxY3BaUV91UVdVTVdQWXJaNFZTS1Qza2ZMTlZBc05FZXhPRVI3YTd5YXdnMWZNaE92aVFla01FYlJhaEwtcmtvMDB2cWlYTVVLbEpkVHdmX0FFZnF1Ty1zUVVPTzdZakt1VlJPRVVFV0FTR3pJWE9GVVE0cVV0QjZUZw?oc=5",
-   "fecha": "Thu, 12 Nov 2026 01:58:53 GMT",
-   "fuente": "El Litoral"
-  },
-  {
-   "titulo": "Charlas de quincho (Parte II, laicos): Caputo sin milagros, gobernadores rumbo a 2027, sorpresas en universidades y un cumpleaños transversal",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRDYtRlp0dndWdDRwTjlCT2RVa1hCSHJnUU4wc1dHZHhsWHJtSUhCVGpYTXpRNXVoaG1DZVhXbDlRVHBLeVZMZ244eWtsM2pQeUlYLS1JaUlRbThKZ2ZDdThGblBaQkM4eURmMmVCN2VJY2plZmNncFVoZ3diMDRkZG1taDNsOUtLNHZsTnBGWlJOQ3BsLWpDTnZUdTk0TjJRUE1GRWRCaWpSTTBkcmZlOFUyNVhnQlFDWk5fT2Y5ZG1kMUJOOUlNakNpOHJEeTJKcFZaMTRvWk83R1BVN01XTnVuRjF1MXJDTDBXNXA1TGo2YzVURkxv0gH8AUFVX3lxTE5BSVBOU1RlWnJXMWtyTjdaNEJPczdsTG5xNTROVDFIVmlvNm9kV1hXSUVpMlQwWDdFTDJkcWNzVVNHNG95TWtZUjlGdjJkcHEyUFktRDIxQXhjNXBzMzNHcGI2ZElxS2NEekNITGNTVzItRFpuVVRzeGRjSUFzSENsU3hpeVJ2OUZzQ2hYZ0NVaFJCSXVOeW95Z3ZHdzJqcjFUVUMxWDR5ajdMTjQ3QmVxaUFYMDJla1dMZDVTRnpkRkhpQVFhMHM5ZUhkTENRRnRSN19sMVVfU0tSOThSa2dibFQ5OTJtM1JHS3ZSM1JiRUc1enFpcHNFdTZPSg?oc=5",
-   "fecha": "Thu, 12 Nov 2026 12:31:21 GMT",
-   "fuente": "Ambito"
+   "titulo": "Las frases y los momentos más icónicos de la histórica visita del papa León XIV a la Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOGJ0dlJlUV80NndnMl9mNUw4amxOV3Rub1JSbTB1c2dHVW1nRVllVXhsX3JqTnQ0bDRlbktreVpIUnEzSHVnS3hHQ05VVHZRYmRiYVZlRlZ3d1M5VWxxZmVKeU1jT0Jfa2tKWm9Va042djU0UzF4WnRkeTFyOTdHMDlSN2JYV0xHcTV5QmZUeGdXZWNsaGNXa1lhMmpneVhMUzJHUy1Xckc0WTIzNFpxRDdLTXF4eDBDMDI4V3E1M1RZVE5lWkVQYWQ4Q05ZemRTVFptZkJxUHJjbnlnWUhVZl9YVm80dVlVOVdyVjRqUEF4bEFoVFRDaWZaOA?oc=5",
+   "fecha": "Thu, 12 Nov 2026 00:16:06 GMT",
+   "fuente": "Diario El Día de La Plata"
   },
   {
    "titulo": "El río Paraná sigue subiendo y Rosario alcanzaría niveles de alerta en las próximas semanas",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzF4dlNJdHJISHc1QUdhRGZpVWZhc2dVWXo2SGJpdmdmMjN2ZWp6ZzY0cC1LM3hCemJsVzc3ZUxXNEZHblJ0QXFzMnpHYnZpNVlza1dmb3RZTmNMVWFqVGpFRV8ybUtjM3YySnFrVEd4ZG5idUxIREtDeURMb2hNdnFlRU10SXRMcHVDU2F2aEFGMFN4YzVWR0RVUlVXTGhFR0FueVFyaUFJSFBZVUxIYVM5bklpX2tKSXdFcTVMZkt0MVNUbHV2cWt6TQ?oc=5",
    "fecha": "Wed, 11 Nov 2026 15:36:44 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "A cuánto asciende el fabuloso pozo acumulado para el próximo sorteo del Quini 6",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLUVqUjZJTFNhbDdLYmM3NVE2SmFNdnQ4QVdGR00zOHE2UGJQMmZKeUpVTzM2X3JiQnpURVI5ZXJPd1pWSktwdUFaTWdqVHA2MFd5enRQdF9rbXNnRTZxY3BaUV91UVdVTVdQWXJaNFZTS1Qza2ZMTlZBc05FZXhPRVI3YTd5YXdnMWZNaE92aVFla01FYlJhaEwtcmtvMDB2cWlYTVVLbEpkVHdmX0FFZnF1Ty1zUVVPTzdZakt1VlJPRVVFV0FTR3pJWE9GVVE0cVV0QjZUZw?oc=5",
+   "fecha": "Thu, 12 Nov 2026 01:58:53 GMT",
+   "fuente": "El Litoral"
   },
   {
    "titulo": "Nueva edición de la Noche de los Museos en Córdoba: qué se podrá hacer y cómo participar",
@@ -1039,34 +1033,40 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "El escándalo de la carpa VIP del Papa: la lista de Karina Milei y el faltazo de Santiago Caputo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTBWS0s0RWJiM0tjclBMWTNJQmpYenFqMllpakE1UEhmcEt5b2gxMjZ1V1ZndGFERDhoNzg0RlJBQUdIMXhPUmpTbjNNVXVkQndWUmZ2Vmc2V3dtcGZFYThsZFZxT3M2elNKUzZVYmlTRmljYXBZeFJTYVNGc2RUOTMzMlh1ZVJPbW1tVXZUMFdDMmtTYU5STkJLcnlkaC0ySHE2eXA1SGxYV2hiZG81WlhsdFlabEpC?oc=5",
-   "fecha": "Thu, 12 Nov 2026 09:00:22 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Visita del Papa a Córdoba: todo lo que dejó el operativo que movilizó a miles de personas",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2tOT01rTzhQZkl1eWsxYndFTVJFUU1NWloyMGpLb0JvVER6Sk5UdkhXVV81Zmc5aG91V09WU0s2Y0IwYWo2RlFaM25hZ0E2TDJRZG1kamFKT2Z1OEtaazNsTGQwcGxNaWhVa3Eza3ZnSkg1Mkp3dmlHV1YwREhONmdHNkJzWmp0d0lwd3VZSENmUEpOQW5hVUllakx4R2p1QXNxbHA2Ul8zOHQ5cmllVEYzcnM?oc=5",
    "fecha": "Wed, 11 Nov 2026 13:20:51 GMT",
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "Una multitud celebró los 240 años de Río Cuarto con Los Caligaris como broche de oro",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3VwSkJobzZ3bjYwM2lXTjZaS1VNMzlaLUZleFdxMDRTWHJjeFhEbXdLNnpkNndLV1oxS25PWTNDZmJ6Sy1FOUtMZVdXY09XOGhNeUJvY0VNMDhnQVFiMWhkTWJYTXBjQjRmQkl0S2luWVI5b1lCMVB4Q1R5dThNZDE2azNDSVVLLXhwSlRlazY2TUVpUGV5V1M3VGxlRVoxaGhhOHF6R3FVMmlrZXcxeURrdjJHSnVxaWlB?oc=5",
-   "fecha": "Thu, 12 Nov 2026 00:23:29 GMT",
-   "fuente": "puntal.com.ar"
+   "titulo": "Charlas de quincho (Parte II, laicos): Caputo sin milagros, gobernadores rumbo a 2027, sorpresas en universidades y un cumpleaños transversal",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRDYtRlp0dndWdDRwTjlCT2RVa1hCSHJnUU4wc1dHZHhsWHJtSUhCVGpYTXpRNXVoaG1DZVhXbDlRVHBLeVZMZ244eWtsM2pQeUlYLS1JaUlRbThKZ2ZDdThGblBaQkM4eURmMmVCN2VJY2plZmNncFVoZ3diMDRkZG1taDNsOUtLNHZsTnBGWlJOQ3BsLWpDTnZUdTk0TjJRUE1GRWRCaWpSTTBkcmZlOFUyNVhnQlFDWk5fT2Y5ZG1kMUJOOUlNakNpOHJEeTJKcFZaMTRvWk83R1BVN01XTnVuRjF1MXJDTDBXNXA1TGo2YzVURkxv0gH8AUFVX3lxTE5BSVBOU1RlWnJXMWtyTjdaNEJPczdsTG5xNTROVDFIVmlvNm9kV1hXSUVpMlQwWDdFTDJkcWNzVVNHNG95TWtZUjlGdjJkcHEyUFktRDIxQXhjNXBzMzNHcGI2ZElxS2NEekNITGNTVzItRFpuVVRzeGRjSUFzSENsU3hpeVJ2OUZzQ2hYZ0NVaFJCSXVOeW95Z3ZHdzJqcjFUVUMxWDR5ajdMTjQ3QmVxaUFYMDJla1dMZDVTRnpkRkhpQVFhMHM5ZUhkTENRRnRSN19sMVVfU0tSOThSa2dibFQ5OTJtM1JHS3ZSM1JiRUc1enFpcHNFdTZPSg?oc=5",
+   "fecha": "Thu, 12 Nov 2026 12:31:21 GMT",
+   "fuente": "Ambito"
   },
   {
-   "titulo": "La fuga del terrorista italiano en San Telmo: revelan cómo logró evadir el control de la tobillera electrónica",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZzBhM0h2NFptNHBVS3hweldxZDRVV3I0MmlBUS13bzdRSU9hT3IxR3R6enpIcldEWndpbmlYSWRUblUzRk1EMXJrc01BZHRzZHRTdzFLX1phY1VReE40QU0tQzNfa2o1SmJKN3FJRlg1TEVtQWxYay1TM2pjand5V09kM0tNSUQwUnZOSDJvYjhLWmhNVVJNa0w3a1BTQlB2RDdGZ0hNTFBMODg5MlJQcWNsQ0RYd3FVUkNYYjJYZXdkS3M4X0ZFMi1MdjlDSGZ0NHBJTGpLOVhJX2o1SXVxc0lodGhEVERwRFZWa1BvbmVHYjRpZ3Nr0gGLAkFVX3lxTE90Rmg1dnJ6OWRFWkhrdmRDODlUeWlxclJwV01wcEMzSzZfRUlla3huVzlzekVkaWxwcHk2YmRzaG5hSEpWT2JvMUtWODJCUTVVSG0zSjlGZ2pvM1ZDYlY0YlpDOVNFREh3UTVuMUFlaHpvU1QzYWJMQldKaTF6MWl2cDYxZ3BLZ195dUt5bzhJOVliZ29BVngtajV6TkpmQTZKWWZNbFpNS1poSkJXOVZkTmhEVUtIMG1NWExPcTFLbkZjZ2p4OUQyN3RIaXpibGMxX2NBelNxYUN5Zi0xbXRJUEh4VkNqVk1kU09yaHVvZDdXVFJHS2VzeERYeTI2eW5xX0stcVNMUWxTWQ?oc=5",
-   "fecha": "Thu, 12 Nov 2026 10:28:50 GMT",
-   "fuente": "TN"
+   "titulo": "El escándalo de la carpa VIP del Papa: la lista de Karina Milei y el faltazo de Santiago Caputo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTBWS0s0RWJiM0tjclBMWTNJQmpYenFqMllpakE1UEhmcEt5b2gxMjZ1V1ZndGFERDhoNzg0RlJBQUdIMXhPUmpTbjNNVXVkQndWUmZ2Vmc2V3dtcGZFYThsZFZxT3M2elNKUzZVYmlTRmljYXBZeFJTYVNGc2RUOTMzMlh1ZVJPbW1tVXZUMFdDMmtTYU5STkJLcnlkaC0ySHE2eXA1SGxYV2hiZG81WlhsdFlabEpC?oc=5",
+   "fecha": "Thu, 12 Nov 2026 09:00:22 GMT",
+   "fuente": "Clarin.com"
   },
   {
-   "titulo": "La Noche de los Museos 2026 tendrá una edición récord con más de 350 espacios: cuándo es, horarios y cómo viajar gratis",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNanlRbWJZekpBNmZ6MFFIWlhCMjVqTTJfbmhsLXpSSjhwU1AwZldUMXpaTXNrYlQycVo5dGFNbEhwNUR5MzNIWDN1ZVJOaDltaV80N3hTU2Z6RHh1eGdwWkpnVWRhaHoycFNfcWtiQmptbld6Rm5XX3lMUWd4eWtKWEpmMzhCZ19hNXZjQnpWQ2lxM2hGZTQyRnl1dTZWWE9WbHdLUmpEY215aFFUVThkaHR4dHdRWlZzQUtfdWtSQ3BWeENTeW5nRDVrajVsLWNYQ1JMV2NWWm1UNnFzZ0gwWU9n?oc=5",
-   "fecha": "Wed, 11 Nov 2026 20:42:00 GMT",
+   "titulo": "Así fue la increíble fuga Leonardo Bertulazzi exintegrante de las Brigadas Rojas",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUkwU3ZhdDFrY0tmRFZEMFJ3dGlMcF9WZkJFZ01wTEx6b2k0UXJnalJxYlN3WEE4LTJZWXFEYWVnZDNsaEtnc2tIa195X094aUw2SnZrSEwwdUtBSHlBd2NSVlpSbk93WGNRV09VX3daeGVpbVdrVVFEeGFibG1OSjcwN1U4OFhONk44M0hFcXEtbkZrSGZLUzliTEpvQmVncEI0endNU3E0Y1FuTDBVVXBxZnpoT29WSlNIcWU2Sm1lRWM?oc=5",
+   "fecha": "Wed, 11 Nov 2026 19:31:56 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "La cuenta oficial de León XIV borró el mensaje que decía que la Argentina “ahora tiene dos Papas”",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWUVBblo2ek5tZGpNbnNORm5YcjhkSzZvS3FOcDMyNXkyV0VOZ3J4ZTgtVTRydHduS0hNM0VIdm9TRnVpNGY5NmpYbFJGNGF6U0Rjam1Zc1RXUUQ4WW8xckt6amxvU0pYdGFDbjlha0NfdTJfMlRPTjhqcTNCQjBvY2gxOXZTZC1vMHZxamtCUzVSRVd3ektZNUhlVXlJeS1CMlJUVExuUUdpbE8yVWNyYmI5RVc3bmwxNHZ1ZDB5TFF2cVhiTzhmaFVFdDJuSzY1NDJRM3hrc2NGTW1qREE?oc=5",
+   "fecha": "Thu, 12 Nov 2026 12:39:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Noche de los Museos 2026: todo lo que hay que saber sobre esta nueva edición",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDFFVjlTTTRVTC1ZN25zd2htSmJVWThHOFhIenV2Z2QyR2xaamxCWEgyZXoyMEh3d2FxNHgxMGVHLTdCV2J3ZXdxWGV0TEp1X0F6bV82M1FicmlyRHNMaTR4TXJoZVo1cnBqUmlRSVNDVzZXa0VkelR2ejl5NVJvMURIZ1ZQY0hwVjBCOXEtUkNFQ0Iyei1WWW9IOU8zQXZrZlZZZ2tiXzNhTmFnUW8zZzlSNlk1UQ?oc=5",
+   "fecha": "Wed, 11 Nov 2026 21:44:51 GMT",
+   "fuente": "Página|12"
   }
  ],
  "finanzas_argy": [
