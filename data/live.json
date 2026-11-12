@@ -917,8 +917,11 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-11T22:02-03:00",
+ "errores": {
+  "noticias": "HTTP Error 503: Service Unavailable",
+  "nacionales": "HTTP Error 503: Service Unavailable"
+ },
+ "actualizado": "2026-11-11T22:28-03:00",
  "medios": {
   "derecha_diario": [
    {
