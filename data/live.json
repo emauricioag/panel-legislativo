@@ -12,18 +12,18 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1567.8,
-   "venta": 1578.3
+   "compra": 1572.4,
+   "venta": 1572.4
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1658.4,
-   "venta": 1664.9
+   "compra": 1664.8,
+   "venta": 1664.8
   },
   {
    "casa": "Mayorista",
-   "compra": 1535,
-   "venta": 1544
+   "compra": 1537,
+   "venta": 1546
   }
  ],
  "riesgo_pais": {
@@ -630,10 +630,10 @@
    "fuente": "Corrientes al Día"
   },
   {
-   "titulo": "Presos fabricaron y donaron urnas al hospital Neonatal",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU83XzlENFJsR3Z2dU82SGhQWUVzdDFuUDFPQmZRdlZuN0NyX0x2VjlnMF9wWWNEMjd1bl9oZjBkSUJ6TkNQVG5HdE91MVdMUEE3SmZOa29qc040a255d3lHSnM0bVhvdk1qdVh1X3R1WkZuaXROVzFGRFNwSjFJNUR4RkRlZzA0eHpJNmhyR00tZlhi?oc=5",
-   "fecha": "Thu, 12 Nov 2026 12:12:08 GMT",
-   "fuente": "Diario Época Corrientes"
+   "titulo": "Karina Milei, Santilli y funcionarios nacionales llegan hoy a Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkdGUVBwN01hRXNGRWthUGNsZVUydTlvSlJoaGtvU1VZMm1nM252RkY1MWhVcEZCMHFJNGFOU3pCNDJuekpMaEVEeS1iNWVzcThhMGo2ME5iZVZUbHQ2WWJlNTRZTk56OWtnSHExbTNYbERYU3NBSGpySnJQNWU1Z0Y5MHFLRHBrOFI1ay1kSXZHOVNzN1ZqRlpIMFJRQk5XTkV4QlJBcmpmVV9qZ3NxSFlxcDI5OVNoYm5KWk81Q0I?oc=5",
+   "fecha": "Thu, 12 Nov 2026 14:09:22 GMT",
+   "fuente": "Cadena de Radios"
   },
   {
    "titulo": "Fenómeno El Niño: el río Uruguay crece en cuatro localidades de Corrientes y se mantiene en bajante en otras tres",
@@ -642,10 +642,10 @@
    "fuente": "MisionesOnline"
   },
   {
-   "titulo": "Efemérides",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9waXhoSWJFcTZubzdhNlo2aDQ4aTNaUlJGYU9XQnN1NDNRSDdra0d1RjhuMmtFTGV1dmpOYkhaSk8tRjg5VWY3SEZTeF92VWc?oc=5",
-   "fecha": "Thu, 12 Nov 2026 03:12:13 GMT",
-   "fuente": "Instituto de Cultura de Corrientes"
+   "titulo": "Presos fabricaron y donaron urnas al hospital Neonatal",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU83XzlENFJsR3Z2dU82SGhQWUVzdDFuUDFPQmZRdlZuN0NyX0x2VjlnMF9wWWNEMjd1bl9oZjBkSUJ6TkNQVG5HdE91MVdMUEE3SmZOa29qc040a255d3lHSnM0bVhvdk1qdVh1X3R1WkZuaXROVzFGRFNwSjFJNUR4RkRlZzA0eHpJNmhyR00tZlhi?oc=5",
+   "fecha": "Thu, 12 Nov 2026 12:12:08 GMT",
+   "fuente": "Diario Época Corrientes"
   },
   {
    "titulo": "Corrientes anunció por sus redes un descenso histórico del delito rural",
@@ -654,16 +654,16 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Aseguran que Corrientes aún no registra casos de dengue",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWF2SndxU2xNMmNtaUwyakYtdVN0WkFVWWZWeWwxTWFwLUJZNmQ3S3d6Q3FaWXdEaldaTWpUbXRhT1Z1YWZpN2ZVLXN1X29TT0w4REhUV0daeXd0R1Ezb3k0WDlwdElFYXJGYkhfYldMYWVMeUIzdEdQN0hSVTJFeTFtX1Q3OUJfNF9ZZEgyZlJPa3dteG5TWWQxWmR2bm8?oc=5",
-   "fecha": "Thu, 12 Nov 2026 13:21:56 GMT",
-   "fuente": "Corrientes en el aire"
-  },
-  {
    "titulo": "Joven peón oriundo de Corrientes acusado de matar a una estanciera en la provincia de Bs As",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORW90aDV2LUY1YUpsU0d3Mk5Wc0xkWkNnMnMxVHM2VkhCSk14MVRMb3NpRUZ4T1JBVzJieElacmlLRFRGOXZFT21BQWRHbnZvaGNLODQ5Zlk2ZTZfdDlhSEh0WW05QkdlQnk2NjNybjhNNEpuekx1Q3VXTkhZQlltUkdWek5IcUpaODZZVWZ4cVpOV3g2SlZYMEcxR2dsTDNqb1RTZ0UxMF9oaThsSUNaRkZNUlAxTXVsZXBJNFN0ZWNiLV9n?oc=5",
    "fecha": "Thu, 12 Nov 2026 11:34:59 GMT",
    "fuente": "Radio Dos Corrientes"
+  },
+  {
+   "titulo": "Aseguran que Corrientes aún no registra casos de dengue",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWF2SndxU2xNMmNtaUwyakYtdVN0WkFVWWZWeWwxTWFwLUJZNmQ3S3d6Q3FaWXdEaldaTWpUbXRhT1Z1YWZpN2ZVLXN1X29TT0w4REhUV0daeXd0R1Ezb3k0WDlwdElFYXJGYkhfYldMYWVMeUIzdEdQN0hSVTJFeTFtX1Q3OUJfNF9ZZEgyZlJPa3dteG5TWWQxWmR2bm8?oc=5",
+   "fecha": "Thu, 12 Nov 2026 13:21:56 GMT",
+   "fuente": "Corrientes en el aire"
   },
   {
    "titulo": "CORRIENTES: Camioneta Y Camión De Combustible Embistieron A Una Tropilla De Vacas En La Ruta 14",
@@ -678,16 +678,16 @@
    "fuente": "La Red Corrientes"
   },
   {
+   "titulo": "Karina Milei y Diego Santilli arribaron a Corrientes y fueron recibidos por el gobernador JP Valdés",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcEFBODBLWEN5RUxQcU93S1Mzbllka2hlY2J0MlZaWEdBQUVfbHc5YnkzbXR5ZGJSa2drZmVWUi1LMF9lcWoyQWRESnlUMkM5ZXNjcWdEZlI5ZlFldlZOeWU3NHdsNkZMNGJZSDNUMUYyYjZtcWw0WGhYbTN1WE9HSkd2OWZPSi1aamdwRHU0RnpGQVFDbExvRHpvOFFtQmFOY0FhR0xtLWJhZXpuam9VT2xMTWw1UkUyODRSOEZGMWtmdjdpeWp5VmVVX2lseGM?oc=5",
+   "fecha": "Thu, 12 Nov 2026 13:54:35 GMT",
+   "fuente": "Radio Dos Corrientes"
+  },
+  {
    "titulo": "La influencia de la arquitectura francesa en Corrientes, eje de una charla en la Legislatura",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOExpZVpnSzgteUpsOGNuV1lQai1GbmcxWEI1d2d6MElCSXQ1bVhWbVhhLUJEMDVQNlo0SEEwYUhkUHhFYVdYbVd4LW9GLUlYWUQ5WjNPWVJaWldVR0w4VmdkS0RITVNORnpqWWJ6VlZ1X1IwWVNJRG4tZGlqSW93VHp6dUUzN0J2X0gzbzFfeW91U01ERHVoWmRDQjh4WkpmbGNPNzVrLXhCOElJWFlMdVJDYkdUdFlXRlh6NHluUDZJX1ptd2c?oc=5",
    "fecha": "Thu, 12 Nov 2026 11:59:11 GMT",
    "fuente": "Diario Época Corrientes"
-  },
-  {
-   "titulo": "Efectos del fenómeno de El Niño: JP Valdés confirmó reunión con Karina Milei y Santilli en el COE",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeFRYcjVidmNhZmJyT1NsZkRjYk9XNHNIODdQalRNaml5VnV2UjNhRW9nR3BSdTF1N28wR003aWZwNTFCTlE2SlVBZWI0bFg3NEpvRlZaMXI0RDh6Tl9XNzNuVXg5ekd0TklfRjRMUjMxeUtrNUZPeUtfeWRvbU9tWVdFaWxqamoyb3hvSUlnV05OVGRGbGJ3ZXlHV25YRVJlaThuaGlpQWY1RU5KNnE3Y0U5NWljLVFMU2ZDY3phRHZ1OGZseHowaUlwZw?oc=5",
-   "fecha": "Thu, 12 Nov 2026 12:45:07 GMT",
-   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "Juan Pablo Valdés impulsa mejoras productivas y viales en Goya",
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-12T10:53-03:00",
+ "actualizado": "2026-11-12T11:19-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -973,22 +973,16 @@
  },
  "nacionales": [
   {
-   "titulo": "Martín Menem pidió acelerar la suspensión de las PASO y adelantó que podría darse en 15 días",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdVIyeFE5akpwcThKWE15UFJfTEdtNlpBNzN6ZEJkYVgwY25tMG9DUGFRbC02dHVKMUREaWRCbmZJTWVPeF9PeF9BU2xKRW16QW9jTHl4MGhIQnQ3RFdkS1kxOVZWRkJlYW81aUpYX1lWNWdTd1JwRF8yN0VnRS1YLVFGY1U1MEJjS3RzaHZNX21nZU1IeU5NVGd6cE05aDRzSF9YYUFTTU91YWdSZlRpQ2pydUNLRlhPS00wYlVRdXV2ZU9Uc0JvaXlGdnBpUEdyTjR4RmkwZERuQQ?oc=5",
-   "fecha": "Thu, 12 Nov 2026 13:09:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Reforma electoral: Bullrich se alinea y el Gobierno dice que ya tiene los votos",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3hyLU5pS2NtTm16OWZGY3oyUjgtdjBpU3k0X2F5NjFSOEJIaTAxSTR4TzBjYm96TjhfZGZ6bU9CUFZuNlFnRXZFcDJLMXZiUEpXN1ZCSWw1Q0hfUVBOaTV3eEQ4MTZiVGFfMDZQVVBhaEtna0ZSanJhSnNMNGVzQTdsaFl4YXhudkc0NTFVci1iTTR1a0t3U3hUM0xXS2FUYTZKemV3?oc=5",
+   "fecha": "Thu, 12 Nov 2026 13:17:51 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Paro de subtes hoy: a qué hora empieza, líneas afectadas y cuándo se reanuda el servicio",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMTEwQnlHUk95UXpwbFlCZVFNTTZKUTZfMVBKRVZrZS1Sb3ZWNEtXaGdtZzkycTk1UzU2M3QtX2ZWUVhWZnpzTlJJY1RrNFpod080dl8ySHExZlNFRUNwM18zR1NvamNBOHZLVkV4REdMYzZIbW1zQkIwUUxqVEg0VGRNN0l2aU4ybjJwSEotbGZSaVgzcV9tRkVZcTRZSHFVZzkxQlp4SkdmQVhoTUkwX0dUMXlyVWRMSXJfVTZUSHBTcG5lWWNyMWFrY9IB5gFBVV95cUxObVJQNUxuaE42NklNNXcxLVkxTkV1MHJlSVpTN055QU5pTHduVFY4Vzg4RWFFVDRiWXY4OUhtc2xGV1YwTGtEMGNETE5Jd0dNRjlNdzVvc28tRkxvRUNpRF9kRmhobVFxenpEYVZKU1c2OURjdUJwbzVGNDdrQmZhRk93TngwdE5DeldadC1ZWnJSbFBXT3NpLUlNYVFqMV9zbDZOVmczS2Q3em1uX3h2ckZIOFNTUjN1U21HSDVzRHNiWk81a20tVldkbE5PMXhHR2I2eEJWMUN6SjVla2d1YmVaV3psUQ?oc=5",
    "fecha": "Thu, 12 Nov 2026 12:09:00 GMT",
    "fuente": "Infobae"
-  },
-  {
-   "titulo": "El escándalo de la carpa VIP del Papa: la lista de Karina Milei y el faltazo de Santiago Caputo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTBWS0s0RWJiM0tjclBMWTNJQmpYenFqMllpakE1UEhmcEt5b2gxMjZ1V1ZndGFERDhoNzg0RlJBQUdIMXhPUmpTbjNNVXVkQndWUmZ2Vmc2V3dtcGZFYThsZFZxT3M2elNKUzZVYmlTRmljYXBZeFJTYVNGc2RUOTMzMlh1ZVJPbW1tVXZUMFdDMmtTYU5STkJLcnlkaC0ySHE2eXA1SGxYV2hiZG81WlhsdFlabEpC?oc=5",
-   "fecha": "Thu, 12 Nov 2026 09:00:22 GMT",
-   "fuente": "Clarin.com"
   },
   {
    "titulo": "La prédica de León XIV tendrá su correlato en el Congreso",
@@ -1003,16 +997,10 @@
    "fuente": "Ambito"
   },
   {
-   "titulo": "Charlas de quincho (Parte II, laicos): Caputo sin milagros, gobernadores rumbo a 2027, sorpresas en universidades y un cumpleaños transversal",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRDYtRlp0dndWdDRwTjlCT2RVa1hCSHJnUU4wc1dHZHhsWHJtSUhCVGpYTXpRNXVoaG1DZVhXbDlRVHBLeVZMZ244eWtsM2pQeUlYLS1JaUlRbThKZ2ZDdThGblBaQkM4eURmMmVCN2VJY2plZmNncFVoZ3diMDRkZG1taDNsOUtLNHZsTnBGWlJOQ3BsLWpDTnZUdTk0TjJRUE1GRWRCaWpSTTBkcmZlOFUyNVhnQlFDWk5fT2Y5ZG1kMUJOOUlNakNpOHJEeTJKcFZaMTRvWk83R1BVN01XTnVuRjF1MXJDTDBXNXA1TGo2YzVURkxv0gH8AUFVX3lxTE5BSVBOU1RlWnJXMWtyTjdaNEJPczdsTG5xNTROVDFIVmlvNm9kV1hXSUVpMlQwWDdFTDJkcWNzVVNHNG95TWtZUjlGdjJkcHEyUFktRDIxQXhjNXBzMzNHcGI2ZElxS2NEekNITGNTVzItRFpuVVRzeGRjSUFzSENsU3hpeVJ2OUZzQ2hYZ0NVaFJCSXVOeW95Z3ZHdzJqcjFUVUMxWDR5ajdMTjQ3QmVxaUFYMDJla1dMZDVTRnpkRkhpQVFhMHM5ZUhkTENRRnRSN19sMVVfU0tSOThSa2dibFQ5OTJtM1JHS3ZSM1JiRUc1enFpcHNFdTZPSg?oc=5",
-   "fecha": "Thu, 12 Nov 2026 12:31:21 GMT",
-   "fuente": "Ambito"
-  },
-  {
-   "titulo": "Las frases y los momentos más icónicos de la histórica visita del papa León XIV a la Argentina",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOGJ0dlJlUV80NndnMl9mNUw4amxOV3Rub1JSbTB1c2dHVW1nRVllVXhsX3JqTnQ0bDRlbktreVpIUnEzSHVnS3hHQ05VVHZRYmRiYVZlRlZ3d1M5VWxxZmVKeU1jT0Jfa2tKWm9Va042djU0UzF4WnRkeTFyOTdHMDlSN2JYV0xHcTV5QmZUeGdXZWNsaGNXa1lhMmpneVhMUzJHUy1Xckc0WTIzNFpxRDdLTXF4eDBDMDI4V3E1M1RZVE5lWkVQYWQ4Q05ZemRTVFptZkJxUHJjbnlnWUhVZl9YVm80dVlVOVdyVjRqUEF4bEFoVFRDaWZaOA?oc=5",
-   "fecha": "Thu, 12 Nov 2026 00:16:06 GMT",
-   "fuente": "Diario El Día de La Plata"
+   "titulo": "La economía, el trabajo y la discapacidad: la gira del papa León XIV dejó fuertes mensajes directos al plan Milei",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdGdhMkU1VkhldjR4ZVR5bWcwZ21sWjV2OG41eGxUSkdlV1VDMXBKaUFNcmRxSFFqWnlZMEk2TE5sd1FNbEpHcWVTWE5XMlNZYVBLallzMWFCYWRfNEE2QzRjX2pRMUYzeTFYMElvVmZHMjhvbWtrOVAxdFVfdnpueDZBcnhzMExSRVdrZDdDNy1CSjNJTjV4OXV3YTJzSjYtX3h2OXlPcDJLVmpaZ3FIRi1HT21LX0x1TFNnNjItRmZURDN6cDEwb29rcU9sSVY1aFRwa0hjbnZPMkVxMHNlZ0tSakNzeGxMU2o2Wg?oc=5",
+   "fecha": "Thu, 12 Nov 2026 08:18:16 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "A cuánto asciende el fabuloso pozo acumulado para el próximo sorteo del Quini 6",
@@ -1021,10 +1009,16 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "Están presos por la mayor estafa inmobiliaria de la Argentina y recibieron la bendición del Papa",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQnIyUUdxQWJ1SEduTXhQZmFqYnJjMmFOYTM5MDM0UHdicXFOeEtuMy13YlJLeW5uVE5zenNqcDVVVEc3SEtkeWxaenNNUXlNYWtVenp1UTFnQmxQb2JiclRwbFBvMDBoT3lwS0dmbHdnRzBKRG1mOXJQUVpqbkl4am93U1NPbjRDZ2VPcUI2aE15Z1NVOC02cDJVVmllcE5hak5lRXVBMEhxLXlUZmlCSUNDSUxfZkI3TGlEazZFVnQ1cG5QLTNXLW93dHlILTlHcjJ5YVo1emRnMF9jUm9YSA?oc=5",
-   "fecha": "Wed, 11 Nov 2026 20:45:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Las frases del papa León XIV que marcaron su visita a la Argentina",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDBaSTEtQjN2TGNib1dNNFN0TU0wemlLLTY4WmpMeFJrUVRkd2w3ZGpRTEpKWEo3blktQmdzU1FiS2kxWVlYMXZNZU9OZFhPS3RXa2NXUkVVNU9TZjJXQUhQS1FvTXV6WEdmZm1KaEVabWFYZzM4TmdxcUViOTNnelpaOTNLMk82WnlNOWNMLUtjOVhaejZLUlkweFk?oc=5",
+   "fecha": "Wed, 11 Nov 2026 21:06:52 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Charlas de quincho (Parte II, laicos): Caputo sin milagros, gobernadores rumbo a 2027, sorpresas en universidades y un cumpleaños transversal",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRDYtRlp0dndWdDRwTjlCT2RVa1hCSHJnUU4wc1dHZHhsWHJtSUhCVGpYTXpRNXVoaG1DZVhXbDlRVHBLeVZMZ244eWtsM2pQeUlYLS1JaUlRbThKZ2ZDdThGblBaQkM4eURmMmVCN2VJY2plZmNncFVoZ3diMDRkZG1taDNsOUtLNHZsTnBGWlJOQ3BsLWpDTnZUdTk0TjJRUE1GRWRCaWpSTTBkcmZlOFUyNVhnQlFDWk5fT2Y5ZG1kMUJOOUlNakNpOHJEeTJKcFZaMTRvWk83R1BVN01XTnVuRjF1MXJDTDBXNXA1TGo2YzVURkxv0gH8AUFVX3lxTE5BSVBOU1RlWnJXMWtyTjdaNEJPczdsTG5xNTROVDFIVmlvNm9kV1hXSUVpMlQwWDdFTDJkcWNzVVNHNG95TWtZUjlGdjJkcHEyUFktRDIxQXhjNXBzMzNHcGI2ZElxS2NEekNITGNTVzItRFpuVVRzeGRjSUFzSENsU3hpeVJ2OUZzQ2hYZ0NVaFJCSXVOeW95Z3ZHdzJqcjFUVUMxWDR5ajdMTjQ3QmVxaUFYMDJla1dMZDVTRnpkRkhpQVFhMHM5ZUhkTENRRnRSN19sMVVfU0tSOThSa2dibFQ5OTJtM1JHS3ZSM1JiRUc1enFpcHNFdTZPSg?oc=5",
+   "fecha": "Thu, 12 Nov 2026 12:31:21 GMT",
+   "fuente": "Ambito"
   },
   {
    "titulo": "El río Paraná sigue subiendo y Rosario alcanzaría niveles de alerta en las próximas semanas",
@@ -1033,16 +1027,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "A 6 años del abandono de dos mellizos africanos en una comisaría de Bahía Blanca: qué pasó con los menores y sus padres adoptivos",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWHFJZUpSb01qWlVPUnRTdWhtb2dfOEdxUHdsa3NSV1NiajVFaF93b04weXNJZHgta1hVcWFnYVVJVU1xVC1jeW5MVHBOS3cxcndtemw0Q0pFUEsxMjdLbi1WS0VmLVhXWmxwa04yZkdtOHRzRGM1NElhN1ExTE80U1B2QUNZUWI0dmpDbS1faFlmYThRTk56Q1cta0d1WTQ4bkdnR19Qd09kMjVSaE0wN1ZlVzdfbnlJd0lxVndiS1lUdHRySHZEQlRGdE9xWWg2U1lMNEF3Vmd3OGVoUWc4cVdBLWpnVlgwNDFQQ21UWnl5WG16WG9LeW9ZeS1Gd2Z0Y2dJ0gGeAkFVX3lxTE53MXdKU0ZuZFlKclZLWkJtcVhaOWtId2p5dWdjSzJVNmQzaVczVVl2S0FidV9LYTJ1TVN6cUZ0S0pJU0NmSnNNSkR5djNMYWZJZ2lzYXp1SlZpLTNHZktvdlBvVTFucUt0YzltVWkxTjRONDh2X0VqOTd2MzZTWnAyZWJYMXQ5a2RUZUpNVzFSYmw2SHA4NFY0RUY0SlBXb1hpa2htdTVxcW1RS1drUnJmU1FyM1hMa0RrQ2VVNEJyRGtzdmZ1MFBkak5JWjBJbl9nT192VjhjWHh1NUVtODBrN09GQ1hPNC1iNDBOZUFMajQySXlLVlFZdnk4VFQ1aVloQXg4RHlQZ1R6NWVXcjB6eGFBOFJjZVN2aGxNbFE?oc=5",
-   "fecha": "Thu, 12 Nov 2026 05:01:38 GMT",
-   "fuente": "Infobae"
-  },
-  {
    "titulo": "Nueva edición de la Noche de los Museos en Córdoba: qué se podrá hacer y cómo participar",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3hwRzNBYnpTbEZUc0gwZEpuOFJRUHVZWmRaQjJ5cXdGODBUMzdZcmtkU05zWTBudlQxa3BBOXhORDJqNGViMUN4WDJGUzM4emNJc3pKY2Y4U3kyS2FiMXRGLTJtai1tTDBQZTlnMkxtTjV5dHBCN2lXZTRscHdIMDM3RlVaY1BabTVWNUZUd1g3SXhBWmRpS1hPWVE3eG8xcy1obGFwbFFtNmtqVURoZGg3NkdRTDY5ZExlcG1jWDRVSEg0cU5nOTZ4NkJpZzJRYXJ4MHhINXhvbjRRa19FWlZ3?oc=5",
    "fecha": "Wed, 11 Nov 2026 13:58:00 GMT",
    "fuente": "Cba24n"
+  },
+  {
+   "titulo": "A 6 años del abandono de dos mellizos africanos en una comisaría de Bahía Blanca: qué pasó con los menores y sus padres adoptivos",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWHFJZUpSb01qWlVPUnRTdWhtb2dfOEdxUHdsa3NSV1NiajVFaF93b04weXNJZHgta1hVcWFnYVVJVU1xVC1jeW5MVHBOS3cxcndtemw0Q0pFUEsxMjdLbi1WS0VmLVhXWmxwa04yZkdtOHRzRGM1NElhN1ExTE80U1B2QUNZUWI0dmpDbS1faFlmYThRTk56Q1cta0d1WTQ4bkdnR19Qd09kMjVSaE0wN1ZlVzdfbnlJd0lxVndiS1lUdHRySHZEQlRGdE9xWWg2U1lMNEF3Vmd3OGVoUWc4cVdBLWpnVlgwNDFQQ21UWnl5WG16WG9LeW9ZeS1Gd2Z0Y2dJ0gGeAkFVX3lxTE53MXdKU0ZuZFlKclZLWkJtcVhaOWtId2p5dWdjSzJVNmQzaVczVVl2S0FidV9LYTJ1TVN6cUZ0S0pJU0NmSnNNSkR5djNMYWZJZ2lzYXp1SlZpLTNHZktvdlBvVTFucUt0YzltVWkxTjRONDh2X0VqOTd2MzZTWnAyZWJYMXQ5a2RUZUpNVzFSYmw2SHA4NFY0RUY0SlBXb1hpa2htdTVxcW1RS1drUnJmU1FyM1hMa0RrQ2VVNEJyRGtzdmZ1MFBkak5JWjBJbl9nT192VjhjWHh1NUVtODBrN09GQ1hPNC1iNDBOZUFMajQySXlLVlFZdnk4VFQ1aVloQXg4RHlQZ1R6NWVXcjB6eGFBOFJjZVN2aGxNbFE?oc=5",
+   "fecha": "Thu, 12 Nov 2026 05:01:38 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Visita del Papa a Córdoba: todo lo que dejó el operativo que movilizó a miles de personas",
@@ -1051,10 +1045,16 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "La economía, el trabajo y la discapacidad: la gira del papa León XIV dejó fuertes mensajes directos al plan Milei",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdGdhMkU1VkhldjR4ZVR5bWcwZ21sWjV2OG41eGxUSkdlV1VDMXBKaUFNcmRxSFFqWnlZMEk2TE5sd1FNbEpHcWVTWE5XMlNZYVBLallzMWFCYWRfNEE2QzRjX2pRMUYzeTFYMElvVmZHMjhvbWtrOVAxdFVfdnpueDZBcnhzMExSRVdrZDdDNy1CSjNJTjV4OXV3YTJzSjYtX3h2OXlPcDJLVmpaZ3FIRi1HT21LX0x1TFNnNjItRmZURDN6cDEwb29rcU9sSVY1aFRwa0hjbnZPMkVxMHNlZ0tSakNzeGxMU2o2Wg?oc=5",
-   "fecha": "Thu, 12 Nov 2026 08:18:16 GMT",
-   "fuente": "Perfil"
+   "titulo": "El escándalo de la carpa VIP del Papa: la lista de Karina Milei y el faltazo de Santiago Caputo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTBWS0s0RWJiM0tjclBMWTNJQmpYenFqMllpakE1UEhmcEt5b2gxMjZ1V1ZndGFERDhoNzg0RlJBQUdIMXhPUmpTbjNNVXVkQndWUmZ2Vmc2V3dtcGZFYThsZFZxT3M2elNKUzZVYmlTRmljYXBZeFJTYVNGc2RUOTMzMlh1ZVJPbW1tVXZUMFdDMmtTYU5STkJLcnlkaC0ySHE2eXA1SGxYV2hiZG81WlhsdFlabEpC?oc=5",
+   "fecha": "Thu, 12 Nov 2026 09:00:22 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Una multitud celebró los 240 años de Río Cuarto con Los Caligaris como broche de oro",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3VwSkJobzZ3bjYwM2lXTjZaS1VNMzlaLUZleFdxMDRTWHJjeFhEbXdLNnpkNndLV1oxS25PWTNDZmJ6Sy1FOUtMZVdXY09XOGhNeUJvY0VNMDhnQVFiMWhkTWJYTXBjQjRmQkl0S2luWVI5b1lCMVB4Q1R5dThNZDE2azNDSVVLLXhwSlRlazY2TUVpUGV5V1M3VGxlRVoxaGhhOHF6R3FVMmlrZXcxeURrdjJHSnVxaWlB?oc=5",
+   "fecha": "Thu, 12 Nov 2026 00:23:29 GMT",
+   "fuente": "puntal.com.ar"
   },
   {
    "titulo": "La vida íntima del terrorista italiano que protagonizó en plena visita del Papa una fuga de película en Buenos Aires",
@@ -1063,13 +1063,25 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Una multitud celebró los 240 años de Río Cuarto con Los Caligaris como broche de oro",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3VwSkJobzZ3bjYwM2lXTjZaS1VNMzlaLUZleFdxMDRTWHJjeFhEbXdLNnpkNndLV1oxS25PWTNDZmJ6Sy1FOUtMZVdXY09XOGhNeUJvY0VNMDhnQVFiMWhkTWJYTXBjQjRmQkl0S2luWVI5b1lCMVB4Q1R5dThNZDE2azNDSVVLLXhwSlRlazY2TUVpUGV5V1M3VGxlRVoxaGhhOHF6R3FVMmlrZXcxeURrdjJHSnVxaWlB?oc=5",
-   "fecha": "Thu, 12 Nov 2026 00:23:29 GMT",
-   "fuente": "puntal.com.ar"
+   "titulo": "Río Negro se prepara para adjudicar las obras de las rutas 22 y 151: cuáles son los tramos que repararán",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSXJHNWJ4SS00bFprOU4wTW1rZ09Ec01YWExjSTdkcnpnZkZERG5xdGJhY2FOV3BGS1RpTWdvTXlEXzNGNHU2N1FEYWVkSnI5ZE1wbXFlRUdNbFg3YkRoM0hRRm1qajN3MW5tRGthNHBfNkl4TGlUb3F5Y2d1M3dCTFFEcXlPZ1VQUE42bVlJOTJOb2c2S0lFczJqcldoR1ZrRGQyLVhYaU5JNGhqa3NzNm5LNUJ6bFkwRnRoTUdRWWJFc1JOSVc0Z3dZYVBjMnBQS05fOWlndlbSAeABQVVfeXFMTTl0UHc5MFlEZ2hJVjI4dTUxTjhBZkNBcDNrNGNDRjdOUE1KY21Bd1NQeEROcVh4SXB6QV9acEttNlJDblROdXBkMTRxTUhscXA0RzRvX25aQ1FaMElEYkxtR0tRZnBDbHVZNkpnVUc1YzB5VmZxMUZtU1F3UDBOT2Z6V3ZzbnBka3UzZEtuSVZkRXZzXzBoTGJSZkRfSm8xeWcycmtTTlNrWGpTU1RDS1YtcXQxLXFGdEJjTlNtTG56NkFoWnRPczI3M19FRmNORkJUZlZBR1dHVjFlSGdBZkM?oc=5",
+   "fecha": "Thu, 12 Nov 2026 03:15:00 GMT",
+   "fuente": "Diario Río Negro"
   }
  ],
  "finanzas_argy": [
+  {
+   "titulo": "Borraron un mensaje de la cuenta oficial del papa León XIV donde decía que Argentina tiene \"dos papas\"",
+   "fecha": "2026-11-12T14:17:55+00:00",
+   "fuente": "Finanzas Argy",
+   "link": "https://t.me/FinanzasArgy/28072"
+  },
+  {
+   "titulo": "Jensen Huang renuncia al cargo de CEO de Nvidia",
+   "fecha": "2026-11-12T13:58:51+00:00",
+   "fuente": "Finanzas Argy",
+   "link": "https://t.me/FinanzasArgy/28071"
+  },
   {
    "titulo": "Irán declaró \"organizaciones terroristas\" a la Armada y la Fuerza Aérea argentinas y advirtió que Argentina \"será responsable de todas las consecuencias\", aunque no detalló medidas. El Ejército quedó afuera.",
    "fecha": "2026-11-11T13:37:31+00:00",
@@ -1129,18 +1141,6 @@
    "fecha": "2026-11-05T11:24:03+00:00",
    "fuente": "Finanzas Argy",
    "link": "https://t.me/FinanzasArgy/28061"
-  },
-  {
-   "titulo": "Hitachi Digital invertirá US$300 millones en América Latina durante los próximos 2 años y Argentina concentará el 75% de esa inversión, donde sumará cerca de 2.000 empleos.",
-   "fecha": "2026-11-05T11:23:49+00:00",
-   "fuente": "Finanzas Argy",
-   "link": "https://t.me/FinanzasArgy/28060"
-  },
-  {
-   "titulo": "Vaca Muerta genera empleo, pero Neuquén no da abasto para recibir a los miles de trabajadores que llegan: advierten que faltan viviendas y servicios y que la provincia podría duplicar su población en 20 años.",
-   "fecha": "2026-11-05T11:23:47+00:00",
-   "fuente": "Finanzas Argy",
-   "link": "https://t.me/FinanzasArgy/28059"
   }
  ],
  "mercado": {
