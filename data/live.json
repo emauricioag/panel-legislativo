@@ -588,6 +588,18 @@
  ],
  "noticias": [
   {
+   "titulo": "Corrientes mostró su sistema de prevención a la cúpula nacional",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWURVSDJMMVlGRzdJWExTc2p2SWNDWER4aHpxUzV3bmZJb0VjQkdmd3RrLUt3QmRUS3lwcGR2eWdKUXpKUGNMWEk4Wl9KRjZMOS0xcnJzYVAxaVBkdzNqb2tyWGswcm9PV1BuX18zVUZzUmFWUEhTUkJTOGgyX0JpbzM4N2Rjb1ZkeFRfeFNoWGtNaU9fYzdUZWRnOGNVVk9y?oc=5",
+   "fecha": "Fri, 13 Nov 2026 08:54:40 GMT",
+   "fuente": "Diario Época Corrientes"
+  },
+  {
+   "titulo": "Valdés inauguró un mega aserradero en Santo Tomé que proyecta generar más de 700 puestos de trabajo",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd0M2ZE5mQ3hDYXB6T3pLeFZUSkRmUnJZenJENVlyd3hYOThLVkRCRURoQkU2WXAwS29aeHI0M2hCUlZMSUdYT0ROQVh6UXNYUHJpd0dST0NHMTJWZUc0eVNhaG1IYm5yUHhzWXI1Z19PaHpFWWE5TzVxYjFiZUtMVDN4cjhWWkVHdGFjTEZRMHR5SEVDU2h5S3VIc2NjRjdYSDJndWFDLXp2YWMwOVB4U09xaUNMcmw5LTJTREFFMlZ3T2pIX2NYYXNBaVluclF0UnhscjRha1U?oc=5",
+   "fecha": "Fri, 13 Nov 2026 09:35:36 GMT",
+   "fuente": "La Red Corrientes"
+  },
+  {
    "titulo": "Santilli destacó la planificación y la inversión de Corrientes para anticiparse al Niño",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMndQdzU4clVGNG04Vm85MFJPVGtGaXI1Z1lrT3Y1R09EOVBBUGhRUEtZRjV0QmFfdHg5VDI2S3habFBEanBXX3E3XzlLaFBQQnZpaDlZOVlybkNFTVNXUnZCNV9ING1uSnJ2blYtTEVXelhQZ28yU3JkX0phR3JRRlNvbTUwWW5YeC1KTUU1MFRlMk5DT3ZDaGs0bWJUc0s2TGNUUE0yQThpUDRjT2J1TFNCLUN3S253R2VvUXVYNFVtUmYwZzBxUDBRSQ?oc=5",
    "fecha": "Fri, 13 Nov 2026 03:00:00 GMT",
@@ -606,16 +618,16 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "Corrientes refuerza la prevención ante El Niño con tecnología",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0hXbmhxbi1IUGtQVzhKRXpyVUE0TS1jNFhmOXlRQUkyM2kyUjJDTlgzM1ZGaXVoNGx5TXgzZkR6cGZKNk1nUE1CcFg1dU96SnhzUngxQVE4aWN0WXluZktSS3M5MGlQTlJiY0ZMX1hnT291X19nRW93LUN6ejRwQzdRRFlzRUl1VGpmMVROUG9ET0JOb1E?oc=5",
-   "fecha": "Fri, 13 Nov 2026 06:12:51 GMT",
-   "fuente": "Diario El Norte - San Nicolás"
-  },
-  {
    "titulo": "Karina Milei y Santilli analizaron el impacto de El Niño en Corrientes",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPajdiX0NSM2RfSGtCREFPQ1F0WWNxSnR4Y2kxZnItMy1QY1poTVBiQmdUWGNmZEx1Ni1GVmVrR2tkMlhDd2FVT3YwS3N3NzRfM0JUbUtxN3RmUjluVW5jRXpBRzI3cm90SmczcWVLQ1QwT0hBQlpGckNYNTB0WnZTMUhlQy12a08yeEJGbUxwN1gzTFFPOVNwdU9PZEQwcWlxOEVXTmZ2NUNXVE5aa2cydkRHQjI?oc=5",
    "fecha": "Fri, 13 Nov 2026 06:00:04 GMT",
    "fuente": "Impacto Castex"
+  },
+  {
+   "titulo": "Corrientes refuerza la prevención ante El Niño con tecnología",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0hXbmhxbi1IUGtQVzhKRXpyVUE0TS1jNFhmOXlRQUkyM2kyUjJDTlgzM1ZGaXVoNGx5TXgzZkR6cGZKNk1nUE1CcFg1dU96SnhzUngxQVE4aWN0WXluZktSS3M5MGlQTlJiY0ZMX1hnT291X19nRW93LUN6ejRwQzdRRFlzRUl1VGpmMVROUG9ET0JOb1E?oc=5",
+   "fecha": "Fri, 13 Nov 2026 06:12:51 GMT",
+   "fuente": "Diario El Norte - San Nicolás"
   },
   {
    "titulo": "Lisandro Almirón se subió a la visita de Karina Milei a Corrientes y se acomoda de cara a 2027",
@@ -636,22 +648,16 @@
    "fuente": "Primera Fuente"
   },
   {
-   "titulo": "Diego Santilli destacó la planificación y la inversión de Corrientes para anticiparse a el Súperniño",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTNtN2REM0Z3MjN1UGZrZThTcTNWTkg4X0otQnFza2k1Yi1yNjJKTnh4VmZPWVV3UTc5QksyWUNQcHVCNGZqVFRTZFZqQnp5R04xczlJbjhVeWxic2pTdFJ0R0lnSDVKZENJa3ZKcC1nWW9RekExRTdvbU81RWNydGRLNWZiT3llY0ZvcnFXQzJ2ZEc1cndGZUxmTjJMczhsdkVraDE4MGtWMHJUWHYtb2dDN1pRbmpIT2Z4eG9rSHhsTWhlaV9xcE5FSmxZcUUydE51dURESXMteUR0?oc=5",
-   "fecha": "Fri, 13 Nov 2026 00:35:53 GMT",
-   "fuente": "Cienradios"
-  },
-  {
    "titulo": "Karina Milei y Santilli se reunieron con Valdés en Corrientes por las PASO y la emergencia de El Niño",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEZ0UHdLTl9KOWVBVHlmYmM4MjBmYTExTW9YY3F2cXM0ZTRxalJ1VnRVeDAtemxveEtGaGNWVEltdFg5cURXTk4tMmRLNGZjbGxwcFVJVWgyVjkyUml3bWVnTkw1ZXJwenNZdDkyeHlFWnl2eVc3SmJLcmlEcG9SUnhRWTZTYTB6dTNCeGR4NDIyVW13R3RteEU1RmhXWWRwak4tT0JVSGJfeHFRSm9lUzZvNWhYWk81ZFV6Z1FlTGIxcjJxdGx2bndJOFFOeWdXRkhLVjlKUnBoQ0NFTThv?oc=5",
    "fecha": "Thu, 12 Nov 2026 23:50:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Corrientes--se-confirmo-el-horario-del-anuncio-salarial-para-empleados-estatales-.htm",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFlrQXVudi1kNTJuY0ZjcXdFNVV3WTAwclFoUmpfU2FVeTB1ZXNXYmRBMmEwTjJ2NWZ5TmhJcjdJOE5fdDJJdnFUVXgwbUV6YU9qLUlRZTF5ZnFILWpRN1RONDhfd01ZTDhNSGxYQlFVMjNXUlgzTk5pLWtjTG1KLVZlUERmQ3lhVTNQRnlZNllRV0hCUk1sdXZTZHFoSFlZVnI1ZnFIQjN0bGRIbEgyVzJIcTNNd3dfVUg1WHFxMWZmT1IwbTNn?oc=5",
-   "fecha": "Fri, 13 Nov 2026 01:04:29 GMT",
-   "fuente": "Radio Sudamericana"
+   "titulo": "Diego Santilli destacó la planificación y la inversión de Corrientes para anticiparse a el Súperniño",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTNtN2REM0Z3MjN1UGZrZThTcTNWTkg4X0otQnFza2k1Yi1yNjJKTnh4VmZPWVV3UTc5QksyWUNQcHVCNGZqVFRTZFZqQnp5R04xczlJbjhVeWxic2pTdFJ0R0lnSDVKZENJa3ZKcC1nWW9RekExRTdvbU81RWNydGRLNWZiT3llY0ZvcnFXQzJ2ZEc1cndGZUxmTjJMczhsdkVraDE4MGtWMHJUWHYtb2dDN1pRbmpIT2Z4eG9rSHhsTWhlaV9xcE5FSmxZcUUydE51dURESXMteUR0?oc=5",
+   "fecha": "Fri, 13 Nov 2026 00:35:53 GMT",
+   "fuente": "Cienradios"
   },
   {
    "titulo": "Karina Milei y Diego Santilli viajaron a Corrientes para monitorear el avance de El Niño",
@@ -666,16 +672,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Los hijos de la Nanci Godoy pidieron justicia en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXVJR0l5RGFrVDBkTjlIckEtV1RkSlFxMUhacTBfRlI0TUR0ZF9veDk3bjRSajdaT21nYWF2eDZ3V1VyOG1TWWMxVTFNakhMVHVpRlN1YjE3SFd6TXJuTUR4UHFadVJYcC1lX3RuZ3I5NlpRWVRjcVZ4a0MwU2UyUzcxcUlFdF9nY0xWUWlZM2duV3hnVktnMTBmZw?oc=5",
-   "fecha": "Fri, 13 Nov 2026 01:17:33 GMT",
-   "fuente": "Diario Época Corrientes"
-  },
-  {
-   "titulo": "Karina Milei y Diego Santilli llegaron a Corrientes para coordinar el operativo hídrico con Juan Pablo Valdés",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRkp3LXBUVWxEWlNFNDUzMW5TSHJ1bk92RkhWM21LRFJDNmVtUmc5Z0FSbi1oa3Y4SmZpZEVzWG9JM3VzbmEyMEZPeFFSOWgwNF9KeUNPYmpubHJwRDBuczl3VDROTzRWZ1Y0Mlg1SnBKREZOS1Y3WkR5bzFEaUJPOXFoVFBRNzl3UlUyVWpjOXMwN1BHZklya2pyTTdSNEstY09tWm1kMVQyX0FpVThZOWdDM3RWYkE0YmFJM0Y0VjAtTUdTQXp0ZXdSSlFGQ2lMbXVWWnlxVXVWcnZVS3RTUXRpbWRtSVFKcUwyQ1BpdDE1ZXdpTUVicWdwRnQ?oc=5",
-   "fecha": "Thu, 12 Nov 2026 19:43:02 GMT",
-   "fuente": "Perfil"
+   "titulo": "Corrientes--se-confirmo-el-horario-del-anuncio-salarial-para-empleados-estatales-.htm",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFlrQXVudi1kNTJuY0ZjcXdFNVV3WTAwclFoUmpfU2FVeTB1ZXNXYmRBMmEwTjJ2NWZ5TmhJcjdJOE5fdDJJdnFUVXgwbUV6YU9qLUlRZTF5ZnFILWpRN1RONDhfd01ZTDhNSGxYQlFVMjNXUlgzTk5pLWtjTG1KLVZlUERmQ3lhVTNQRnlZNllRV0hCUk1sdXZTZHFoSFlZVnI1ZnFIQjN0bGRIbEgyVzJIcTNNd3dfVUg1WHFxMWZmT1IwbTNn?oc=5",
+   "fecha": "Fri, 13 Nov 2026 01:04:29 GMT",
+   "fuente": "Radio Sudamericana"
   },
   {
    "titulo": "Juan Pablo Valdés anunció un aumento salarial del 10% para estatales de Corrientes",
@@ -702,10 +702,10 @@
    "fuente": "Corrientes al Día"
   },
   {
-   "titulo": "Karina Milei visitó el Comando Operativo de Emergencias de Corrientes junto a Valdés",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHV3bER6ZzlqR1B3RWNtRFZ1d3VDVGlqTjMtdWtLeUVzdUtfdVFYWURkUW5INkpqRGVSR3lHR0xUR1BRN05QRk42RDVzZG1NRHBHcTlKeU9LWkdKc1ZXUHN4bzFadlpOZV94WmhoZjM2dEtyTnZSQlcyaVBEdlFabksyYUtqdmVpYy1NTGtEeVcyRG9vUmVhX0UtOW82VHRDWVpfeFJKSmhreWVkaTJTUXhKNV9ia1FCYWRV?oc=5",
-   "fecha": "Thu, 12 Nov 2026 20:18:50 GMT",
-   "fuente": "Radio Dos Corrientes"
+   "titulo": "Karina Milei y Diego Santilli llegaron a Corrientes para coordinar el operativo hídrico con Juan Pablo Valdés",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRkp3LXBUVWxEWlNFNDUzMW5TSHJ1bk92RkhWM21LRFJDNmVtUmc5Z0FSbi1oa3Y4SmZpZEVzWG9JM3VzbmEyMEZPeFFSOWgwNF9KeUNPYmpubHJwRDBuczl3VDROTzRWZ1Y0Mlg1SnBKREZOS1Y3WkR5bzFEaUJPOXFoVFBRNzl3UlUyVWpjOXMwN1BHZklya2pyTTdSNEstY09tWm1kMVQyX0FpVThZOWdDM3RWYkE0YmFJM0Y0VjAtTUdTQXp0ZXdSSlFGQ2lMbXVWWnlxVXVWcnZVS3RTUXRpbWRtSVFKcUwyQ1BpdDE1ZXdpTUVicWdwRnQ?oc=5",
+   "fecha": "Thu, 12 Nov 2026 19:43:02 GMT",
+   "fuente": "Perfil"
   }
  ],
  "expedientes": {
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-13T05:44-03:00",
+ "actualizado": "2026-11-13T06:41-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -985,21 +985,15 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Karina Milei y Diego Santilli aprovecharon la visita a Corrientes para tratar la eliminación de las PASO con el gobernador",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPanltMlNwZ2NKUm9PaGgtTkJ0Ung2Y3VfamFjVnF2c2V3U0drbEVtYXdzTHNONTZfTVZJSk9HX1RtWWxZem01bjNQOGMxWnNySnlqMm1mZjQzTWctRUVuRXRpc3Q5MWc3aGkzbldVSHZjcHNadnZKZU9ORlVJU0hLYVNNQTIxanFZemRzWmZvS3hLR1ROVnFlU3NkeWgtZFhEUTRMb2UtUC1XUGdDeGlpR3pEb1UySndBZXBDWDh1VzFtd2ZCUEZRT2JIQ1lpRkxGaXBLc1NSaUh2dHR2R2h0SHJFY29qT0s5bU1Ic05oakcwSGZ3Vk8tSGZrONIBlgJBVV95cUxPR0lseTAxdGhYSFcwZ2xtT1BYZkhwQ1RQdk13Q0dMWWlGNmhBclhwWEZBeV9wTWw3MFZ5dE9hUTYyYmpNd0tCRk0xNF93d2V3N0JvT0JkRkxhQmNhYnVNTTVuWFpsLXhEMTNWY1VGM0s3bkZfMjNTUkZWSDBpUFI0QUN4eTQwSV9TX1dzWXJmQy1fMWZYN2ZrQnNQblJ6c0NlOXpCLU5EeUNOZ2xCTldaWGtmS0VKYW9sUy1tSlV5ZHRzbm42aGJLbEJRTnhiZmZ1R3dOR0FKZWxydnRrdThiS1FHUkR5OEg5dERRdnFYbDJEa1h5ZHMtbjNLNm96bktra19tRzdnVUZ1VnlZSVdxX2xQVUZvQQ?oc=5",
-   "fecha": "Thu, 12 Nov 2026 20:08:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
    "titulo": "Desde la cárcel, Lázaro Báez daba órdenes para explotar sus bienes decomisados",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOckVONDA0Vkx6ZWNEZDBzSkxzMnZLZjdsVzB2UWowWms2Qy1BbklHaVF2ck1oMmlPYlhZLXpyb0NhQ3l6Zk9nOXZvem5ZOXU0NlJGdVNXRTRSdlVycTdhTWpvd2VvYjFvS1VyUTNDV0lMSXpRMTNheDJBaGxkcE1RRE5hejMxcUlKdjRwd05mUkNrOGdfR2tONmE1MF9jcDh4dnlRNk8yUWZ5UUwwaWxqSktfZEdkM2k0NWEwSmNPS0o0THBFTHc?oc=5",
    "fecha": "Thu, 12 Nov 2026 23:37:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Prefectura pide evitar la navegación recreativa en Santa Fe por la crecida del río Paraná",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOc3NsSWdfQ1U3SUpHUF9xT1hBOGxPV3lweGRvUXdDQlc5N2p5N0tZY1MtaTVpTUVBVjM5TDdEWk4tbzQxQXl2TXRSQzZRRC1ROUN4cFRPV0ZNN1NJbUYtNjRBbUpFNTJBU09GNG02V2ZSVnlXNEJVRm85aVA1dlY1RzJleG1laDdwaXJ4aWNJS3JXSWtPTjJ3QmJxcl9VbXB1YkgyRXVmRm5nSFFNaGVxMkVmYjdQOW9IcU9tLXZ1cG1NLTdyRllkSk5QS0VweDJ2NTVuOU1wTXlNUG5seUJ3VzIxQzNxYVExXzV0RGF0cHNxTmpJVUVocjVvMENCcTB2eHRrYU9qZW5Oc0J4NFl6eGF1eW9FZHRo?oc=5",
-   "fecha": "Thu, 12 Nov 2026 15:32:17 GMT",
+   "titulo": "La crecida del río Paraná ya afecta a 49 familias en la ciudad de Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTlZJZXJxSzRybFgtUXBKWkNSc2lXajA1dV9qdGNKM2NEZXlkSDdDVndvZ0pGSWNyZFBXVDNoRzBVbUE5UGNVM1k1UjdCUndRdXRsWEJLcDFWUWZBdjZDN1ZIbENDUktzTElnaHdjXzMyZlA4VDZuMG9zLUJTeGY1SUxpbGdCOEpSd3gyeWR4LU5CVkdXMWNrek9ZRGpKcU92UW5oeDV4WkIzSVhGQVpjem5iY2VaaU50OU5taDNtYWR4MU83QTVQbW1XdU9veWNyMWhGS1ZTU1lFN082QzBxRXBILTFSdnc4T1VkdUFjc2lYeUVBby04c1N3VGcxSEktS2UxdGZDclBPWEdndXZyRWxKMG1Za2dqWTIzTm1ZYm5XMWJmU0pETlBLeG5MaElLVW9DS09Rc2RYMXJEanF0NklWeHQ0ajQ?oc=5",
+   "fecha": "Thu, 12 Nov 2026 16:07:33 GMT",
    "fuente": "El Litoral"
   },
   {
@@ -1009,16 +1003,16 @@
    "fuente": "Diario El Día de La Plata"
   },
   {
-   "titulo": "Suspensión de las PASO: pese a los roces con Milei, Bullrich convoca a una comisión y el Gobierno dice que tiene los votos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3hyLU5pS2NtTm16OWZGY3oyUjgtdjBpU3k0X2F5NjFSOEJIaTAxSTR4TzBjYm96TjhfZGZ6bU9CUFZuNlFnRXZFcDJLMXZiUEpXN1ZCSWw1Q0hfUVBOaTV3eEQ4MTZiVGFfMDZQVVBhaEtna0ZSanJhSnNMNGVzQTdsaFl4YXhudkc0NTFVci1iTTR1a0t3U3hUM0xXS2FUYTZKemV3?oc=5",
-   "fecha": "Thu, 12 Nov 2026 13:17:51 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "MINISTERIO DE CAPITAL HUMANO",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IWVBhVWFpa01UTENHWUl4U2FZV0NkbG41T1g2bXNPQ0gyZDhJNU1yMlhmQXJDMkdEMVVYdUlEdFAtOWZfMVB5OVUzLXo5Q19pbzFFd0tLc1FqZkZuMWhjUmNMd1dPZENqZzZqcWpoY3JHczQyLVJiTC13?oc=5",
    "fecha": "Thu, 12 Nov 2026 23:09:31 GMT",
    "fuente": "Boletín Oficial"
+  },
+  {
+   "titulo": "Cuándo es La Noche de los Museos 2026 y cuáles son las principales propuestas para visitar",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEJ3aVZTYkRYdUlPcm83azZtalAzQTBZYkpBb0UxUVBvTnpXRG9hTnpEV2ltVFJEYkNSZ1IxOXhHVnhkaDh4RVJUYXZDa19oWExBYzUyZGE2LXFEWm5xR0haT0x6UmlZRlZQRDNGWGdqbE96Rk81c3dYWFFhSkt0M1dZcjJmbEN2ZURiRVBMSm1YYVlJOVc0LTVLbnJYR2FMbVVUeFoyMEdmUjVQRFE?oc=5",
+   "fecha": "Thu, 12 Nov 2026 13:32:12 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "El día después de León XIV: el hit más escuchado y la misa que rompió todos los récords",
@@ -1027,16 +1021,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "La Noche de los Museos 2026 tendrá una edición récord con más de 350 espacios: cuándo es, horarios y cómo viajar gratis",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNanlRbWJZekpBNmZ6MFFIWlhCMjVqTTJfbmhsLXpSSjhwU1AwZldUMXpaTXNrYlQycVo5dGFNbEhwNUR5MzNIWDN1ZVJOaDltaV80N3hTU2Z6RHh1eGdwWkpnVWRhaHoycFNfcWtiQmptbld6Rm5XX3lMUWd4eWtKWEpmMzhCZ19hNXZjQnpWQ2lxM2hGZTQyRnl1dTZWWE9WbHdLUmpEY215aFFUVThkaHR4dHdRWlZzQUtfdWtSQ3BWeENTeW5nRDVrajVsLWNYQ1JMV2NWWm1UNnFzZ0gwWU9n?oc=5",
-   "fecha": "Thu, 12 Nov 2026 17:10:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "El abogado de Bertulazzi festeja la fuga y, en entrevista con PERFIL, declara: “Yo lo obligué”",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMFBtanZMNno5NXR4bGlCZE1hY1pxcmN2aGx4NnVPT290MnJobkllcWYtRFJKeWVGQlphU3MyU1Fhb3F2MmpPc3NCblpGYTUtS2dLWVV2Y2VKVDEtSGFNaUVha05jSHdOZXZqcC13TXBBeTJfdHQ0RlFfWGU5MVlGX1lINlhIdk1Oc0hiM0ExMnYyci15dHdQVDBLLUJJdzVaOGRFOTJwcWJXeGxTRVpkRDEwSDZ2OUU1blFqOFhaV0JYZnNLQ19abFNwaXdBcjg?oc=5",
    "fecha": "Fri, 13 Nov 2026 00:08:59 GMT",
    "fuente": "Perfil"
+  },
+  {
+   "titulo": "Una multitud celebró los 240 años de Río Cuarto con Los Caligaris como broche de oro",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3VwSkJobzZ3bjYwM2lXTjZaS1VNMzlaLUZleFdxMDRTWHJjeFhEbXdLNnpkNndLV1oxS25PWTNDZmJ6Sy1FOUtMZVdXY09XOGhNeUJvY0VNMDhnQVFiMWhkTWJYTXBjQjRmQkl0S2luWVI5b1lCMVB4Q1R5dThNZDE2azNDSVVLLXhwSlRlazY2TUVpUGV5V1M3VGxlRVoxaGhhOHF6R3FVMmlrZXcxeURrdjJHSnVxaWlB?oc=5",
+   "fecha": "Thu, 12 Nov 2026 00:23:29 GMT",
+   "fuente": "puntal.com.ar"
   },
   {
    "titulo": "La emoción de un peregrino santiagueño al escuchar al papa León",
@@ -1051,12 +1045,6 @@
    "fuente": "Agencia de Noticias San Luis"
   },
   {
-   "titulo": "Una multitud celebró los 240 años de Río Cuarto con Los Caligaris como broche de oro",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3VwSkJobzZ3bjYwM2lXTjZaS1VNMzlaLUZleFdxMDRTWHJjeFhEbXdLNnpkNndLV1oxS25PWTNDZmJ6Sy1FOUtMZVdXY09XOGhNeUJvY0VNMDhnQVFiMWhkTWJYTXBjQjRmQkl0S2luWVI5b1lCMVB4Q1R5dThNZDE2azNDSVVLLXhwSlRlazY2TUVpUGV5V1M3VGxlRVoxaGhhOHF6R3FVMmlrZXcxeURrdjJHSnVxaWlB?oc=5",
-   "fecha": "Thu, 12 Nov 2026 00:23:29 GMT",
-   "fuente": "puntal.com.ar"
-  },
-  {
    "titulo": "Los 100 años del Pasaje San Martín, la torre donde nadie quería vivir",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlltTWNXTWZEUnRsRDFKMk9fcEV1bTZrcFB2a0xpM1hkb01wTngzTzhJM3l0LW00YkpBelMwWDR0WVhnc1YwbFBMMmZFdVh1R3BCYlpmM1Jza0k2bEhUVGxYdXQ1OUhzWVUybmZHb0ZuN0RkVHBCQ19VZjhSSldvdUhobHNlaS1o0gGIAUFVX3lxTFBmWW1NY1dNZkRSdGxEMUoyT19wRXVtNmtwUHZrTGkzWGRvTXBOeDNPOEkzeXQtbTRiSkF6UzBYNHRZWGdzVjBsUEwyZkV1WHVHcEJiWmYzUnNrSTZsSFRUbFh1dDU5SHNZVTJuZkdvRm43RGRUcEJDX1VmOFJKV291SGhsc2VpLWg?oc=5",
    "fecha": "Thu, 12 Nov 2026 14:44:54 GMT",
@@ -1067,6 +1055,18 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3BXMFBEZnM3MV9Md1Z2Z2J2QlZVRnAyY0szMUFaUEMzSXJJdUZaSkdjYU9QczRlR2pGblMtRWF2VUlVX1QtdFdKR0Q2NC1PWENDUTNaamJaTUUtUUJ1NkdrV2h0aks0aEhmSm1NU2IyVjUwVkVpODQwZzVGbWFtZ2tNQWxDY3FqWm1BSGZRQjQxdmpaZ3dzbEN2ZkkwNUxva2dyR0ZqUHhVRHlV?oc=5",
    "fecha": "Thu, 12 Nov 2026 17:00:23 GMT",
    "fuente": "El Destape"
+  },
+  {
+   "titulo": "Alerta naranja y cuatro días de lluvias: el panorama negro del clima en los próximos días",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUlWaUZRUkRiTkw1RlNRTjlMV3BoSmNEQmhXc1htWWowNk1Md1I0NUZwR25WUTJ0VHZHVVhlS3FDN2pyN3k3LVhZOVJUV1VqcDg3RlpwNkZPWk41VEgzd0VKTXQ1QlZFLS1kYXdKc3BwNnR0ekxrM1pNUEtBMm5HS29vNnNNY1RhbE5zNFJib3BHRzdrRGd1c3pPVmp0VVdwcVZqZjJkblp6YUcxTlJVVWV2ME5XZ0VGLW1Od2xCVdIBxAFBVV95cUxQR04wQnhNWjFrWTUzclB4UzN6cERMTWJNcE1oOGc2Y1hCU3lMcW1LREZqOFMzMzFCQ0t5TEpxZTk1OFA1YnZ4Z3JNLUxHcVp3MjBCZ0x6ZnhxTHp3UkNfYUlobXZSd0JfOHlRWVduVVhXcnNkdGxBQlFCNVF4dElxdnZMT3lBdkZ1OFJQd0k3eVpodFlaWUhrbnlsdW1FeWZRZUdER1pwSHdNUjd6a05YN1d3NFRUWm1RVkZVRG1Pc3JJWFF2?oc=5",
+   "fecha": "Fri, 13 Nov 2026 01:19:00 GMT",
+   "fuente": "Lmneuquen.com"
+  },
+  {
+   "titulo": "Un apostador ganó más de $1.800 millones en el Quini 6: cuánto le quedará después de pagar impuestos",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmZQMHJ0YXNrcVJ5cllxWGNtWmlfd09XRVBCX3UxZHVjbFhsd2NkYjZualM3S2t1T1FhbHZBR3N5bDdWQ3lva1JuNjhzSmRmVE95SGhpcFliQkFLQ0stQWVaMnV3QzRoa1dYRjlkdFl5WEVrNmZ1RFJIVUdKckdCQXBoQ0c4RjB6aXQtdWRKQUc2RDVYQ3M3OEQtQUZyeG1oRFRhX0hFcVFoVGxxSC1YTGFlbXg5cFM0bWo5RWZockNfTC1pNTNlenBVTmhtQmZLNlctRG1CdFNHUdIB9AFBVV95cUxOMHhuR0JaeHRTZDA0ckJ3Mmc2N2Rsa255cVRfMVUxTjAxMWpLd1RSLUtRU1EyYm1jTHNXVTBYLThfMDI3Y2ZrRmVmb0VMTUN0eHpJMXJLLXZwT1F2RzJkTGVoXzhrcDNQdHFja3M0SlJ0dy1JXzRWMVVrRlFJVXlIT1VRTEJic2Y5Zk1tbXBLd01mVkJGX2hGNmJyV3UyOWp2cUhfS3o2YVRYMnVNSkJsd29OV0t3cEdKVE9kd3pBNV9LNXpsYi00NnpadzhpN3Q2S0dla2liamxSU01VTEh4aXo4dHBwclZRSXl1OE9nMm4tMjNf?oc=5",
+   "fecha": "Thu, 12 Nov 2026 11:29:00 GMT",
+   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
