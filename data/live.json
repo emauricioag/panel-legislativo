@@ -654,9 +654,9 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "Aumento estatal en Corrientes: el 10% impactará en los sueldos de diciembre",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcUFRb29UMDZJYkxPVFpxaEZPVm1Od3pDQkVENTd2MEdPZUdIRkpEVjVkejJiVUFzcUh6NS14czlMbkNsV0FrcUNCUktTNm16Yl9UUUliMWNtQmF5OElqUExNQ2s1blNud3RQQ193ZzR1aVBwcnBZenNkdXBWTlJfeEdscEFwaGlkem83bjI3a3lGb1JRZUdOd2dHZzlMYnJNWXJVTWhmSGw5VkEzejZXVmRiUlBISDNWT01KN0JvSDlieUZGLTRyTHl1NA?oc=5",
-   "fecha": "Fri, 13 Nov 2026 12:20:00 GMT",
+   "titulo": "Muerte del yaguareté en Corrientes: allanaron una vivienda en Palmar Grande y secuestraron un celular",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeFhjSkZqOUpCZ1RfaFdNaGkwQXNDNVZkRGl1Rzc4anNNeE5hQmoyVHpFX0dkbVlHYnVkUGpQanh6SDB3Z1hGNlJieEwwYnJvRkRKUFJiWVFwdkI2M2lBOGJiQ2NOWnNvYjlEMXNlamYxNFg5aGJRajR6V2dIZThORFlpU2ZfaFQxWmZMVmVHd1ZyQ0Y0R0hVUHY0Y01DekU3NU1IRE96Q2w1cU52aFJCRUl5SEdmMFRsZE1QVlRPS0hvUWFMYjUyTmxGTjVtOUQ2emhWOTVTaDNGVllOMGRpRURUZVc0YUVrQkI3bXlTNHc?oc=5",
+   "fecha": "Fri, 13 Nov 2026 19:38:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
@@ -684,16 +684,16 @@
    "fuente": "Agroempresario"
   },
   {
-   "titulo": "Karina Milei y Santilli se reunieron con Valdés en Corrientes por las PASO y la emergencia de El Niño",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEZ0UHdLTl9KOWVBVHlmYmM4MjBmYTExTW9YY3F2cXM0ZTRxalJ1VnRVeDAtemxveEtGaGNWVEltdFg5cURXTk4tMmRLNGZjbGxwcFVJVWgyVjkyUml3bWVnTkw1ZXJwenNZdDkyeHlFWnl2eVc3SmJLcmlEcG9SUnhRWTZTYTB6dTNCeGR4NDIyVW13R3RteEU1RmhXWWRwak4tT0JVSGJfeHFRSm9lUzZvNWhYWk81ZFV6Z1FlTGIxcjJxdGx2bndJOFFOeWdXRkhLVjlKUnBoQ0NFTThv?oc=5",
-   "fecha": "Thu, 12 Nov 2026 23:50:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Corrientes: Valdés inauguró un mega aserradero que proyecta más de 700 empleos",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXlIb0pSdmJJQ1ptTjdYVVFJRTBqM1BQYm9Ecm1jWkJ2RG9VTHQ2dmRuOV93U1ZxYTllTnNObC1IY0luS1pSd1U1T2JMQmVEYVhiYmI2dVp5QTEwRkJJOE5GX2NaX2VjNjdNeWNFendEUm1vRWRjd1d6NGl3WXJXQ29jbV9ZN19MYUxUa250SXY2TkJsb3BIOUJDSmpQakdDR0tSRlNEVmU?oc=5",
    "fecha": "Fri, 13 Nov 2026 11:10:27 GMT",
    "fuente": "CHACODIAPORDIA.COM"
+  },
+  {
+   "titulo": "Karina Milei y Santilli se reunieron con Valdés en Corrientes por las PASO y la emergencia de El Niño",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEZ0UHdLTl9KOWVBVHlmYmM4MjBmYTExTW9YY3F2cXM0ZTRxalJ1VnRVeDAtemxveEtGaGNWVEltdFg5cURXTk4tMmRLNGZjbGxwcFVJVWgyVjkyUml3bWVnTkw1ZXJwenNZdDkyeHlFWnl2eVc3SmJLcmlEcG9SUnhRWTZTYTB6dTNCeGR4NDIyVW13R3RteEU1RmhXWWRwak4tT0JVSGJfeHFRSm9lUzZvNWhYWk81ZFV6Z1FlTGIxcjJxdGx2bndJOFFOeWdXRkhLVjlKUnBoQ0NFTThv?oc=5",
+   "fecha": "Thu, 12 Nov 2026 23:50:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Juan Pablo Valdés inauguró un mega aserradero en Santo Tomé",
@@ -918,9 +918,15 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-13T17:43-03:00",
+ "actualizado": "2026-11-13T18:09-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El gobierno de Kicillof amenazó a la Policía para ocultar la humillación en el operativo papal",
+    "link": "https://derechadiario.com.ar/politica/gobierno-kicillof-amenazo-policia-ocultar-humillacion-en-operativo-papal",
+    "fecha": "Fri, 13 Nov 2026 20:48:04 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Veteranos de Malvinas distinguieron al embajador argentino en Francia, Ian Sielecki",
     "link": "https://derechadiario.com.ar/politica/veteranos-malvinas-distinguieron-embajador-argentino-en-francia-ian-sielecki",
@@ -962,12 +968,6 @@
     "link": "https://derechadiario.com.ar/politica/milei-amplio-red-federal-concesiones-habilito-licitaciones-privatizar-27-tramos-rutas-nacionales",
     "fecha": "Fri, 13 Nov 2026 13:29:04 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Ezeiza amplía su infraestructura con una nueva terminal de 15.000 m² para envíos internacionales",
-    "link": "https://derechadiario.com.ar/economia/ezeiza-amplia-infraestructura-nueva-terminal-15-000-envios-internacionales",
-    "fecha": "Fri, 13 Nov 2026 01:49:06 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -985,10 +985,10 @@
    "fuente": "Lmneuquen.com"
   },
   {
-   "titulo": "De 20 involucrados, 6 siguen detenidos por narcotráfico y lavado de activos",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlRWc25hb1JkQmUwZ0lrNjdOZF8xX3RLd3lQRGF4UmR1bDcwVHRfVUZFVXBnY1ZuQzF0VTFfaHdnVFByNmMwczRqMnliVUNGLVpoQTg5TGg1NGJSM1lEYTJETUNjX1gzVjBEeUlvSDJkc1RBWGdBSFE3eDRucmZxUFNlc1g0Y1djOGtDbDA2WU1QeE1LQTVjMEZyUUxJR3dfTXgtTlBxSGM5UUs3VFp2TUV30gG3AUFVX3lxTE9yV3BOMEtEVXJjZFJCQjdabnFCdU42UUlVT0JGc3BOOUxnT2ItV2Zvb2FjVFRrVG1MZ054Q182UUtocFY0YXVIMERsWl9WalV6STJqRkgxNERXOEhXTkVxc1ZYRlhVMFJPaDNpcEdDdFV4dlJkRG9qQnJPb1FNZ2tMODhmdGsyMkl6WEJRb0xadXpzNEFvNkF0eVBwNnBvamtLYllTRGdnVVVYUk1CbHphWlZJYkc1NA?oc=5",
-   "fecha": "Fri, 13 Nov 2026 01:53:00 GMT",
-   "fuente": "Tiempo Sur"
+   "titulo": "Javier Milei y sus medidas, EN VIVO: \"Argentina es su socia y aliada\", el mensaje del Presidente al nuevo mandatario de Paraguay",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUpyamZJVWFQVVBISkxBUEQ3b1pJVXUtYmlvemppdlJsbC1zUXdxUUpuZXJrMmoyamd1NWlkXzVsLVRPZjctUUhjNW42ZGFHMlhEZ2xZdFVwbXJaZDVBMHhTOVZ4Qk9lLVcyZVhOcXkxS0JFTno2Y29xcjNmVDE5MmVWSlZuY0dZTkh1bk5mQm5sdnZWVHluZDVRSVVzejJzOGFtYnFyMk90d2ZwOU9RSDF0blowTUM0UkJmUlpzMHMxamljQkFRcVhpNUJNTUU?oc=5",
+   "fecha": "Fri, 13 Nov 2026 21:05:27 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Se viene la Noche de los Museos: cómo obtener el Pase Libre digital para viajar gratis en colectivos, eBus, Ecobici y subtes",
@@ -1009,28 +1009,22 @@
    "fuente": "Urgente24"
   },
   {
-   "titulo": "Lemoine sorprendió con su fórmula presidencial ideal: Milei-Bullrich",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWVIVjJjdmJ3QldIdGNFWDhsY19IWXB4cDdwS3UxV2puNFd6al8xb3BrUE1Pd3RfaWdPNjRXeDFUWnlYTVRBUjRBYk8yQ01zMEt4eVRQUVA5Y3VQVzJrUXM3UFJPRmhiclpjaldvQkxKcmtJU201ZHdqTzdRN2FEbmVGTnJjLU5WeUxteWsyN2c5UFpCdGJ2RDFkODNIZnc4V3pXa05tRzZVeC12SzFEb3E5VHFjN3hY?oc=5",
-   "fecha": "Fri, 13 Nov 2026 18:48:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: \"Argentina es su socia y aliada\", el mensaje del Presidente al nuevo mandatario de Paraguay",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUpyamZJVWFQVVBISkxBUEQ3b1pJVXUtYmlvemppdlJsbC1zUXdxUUpuZXJrMmoyamd1NWlkXzVsLVRPZjctUUhjNW42ZGFHMlhEZ2xZdFVwbXJaZDVBMHhTOVZ4Qk9lLVcyZVhOcXkxS0JFTno2Y29xcjNmVDE5MmVWSlZuY0dZTkh1bk5mQm5sdnZWVHluZDVRSVVzejJzOGFtYnFyMk90d2ZwOU9RSDF0blowTUM0UkJmUlpzMHMxamljQkFRcVhpNUJNTUU?oc=5",
-   "fecha": "Fri, 13 Nov 2026 20:16:05 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "La crecida del río Paraná ya afecta a 49 familias en la ciudad de Santa Fe",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTlZJZXJxSzRybFgtUXBKWkNSc2lXajA1dV9qdGNKM2NEZXlkSDdDVndvZ0pGSWNyZFBXVDNoRzBVbUE5UGNVM1k1UjdCUndRdXRsWEJLcDFWUWZBdjZDN1ZIbENDUktzTElnaHdjXzMyZlA4VDZuMG9zLUJTeGY1SUxpbGdCOEpSd3gyeWR4LU5CVkdXMWNrek9ZRGpKcU92UW5oeDV4WkIzSVhGQVpjem5iY2VaaU50OU5taDNtYWR4MU83QTVQbW1XdU9veWNyMWhGS1ZTU1lFN082QzBxRXBILTFSdnc4T1VkdUFjc2lYeUVBby04c1N3VGcxSEktS2UxdGZDclBPWEdndXZyRWxKMG1Za2dqWTIzTm1ZYm5XMWJmU0pETlBLeG5MaElLVW9DS09Rc2RYMXJEanF0NklWeHQ0ajQ?oc=5",
-   "fecha": "Thu, 12 Nov 2026 16:07:33 GMT",
-   "fuente": "El Litoral"
+   "titulo": "De 20 involucrados, 6 siguen detenidos por narcotráfico y lavado de activos",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlRWc25hb1JkQmUwZ0lrNjdOZF8xX3RLd3lQRGF4UmR1bDcwVHRfVUZFVXBnY1ZuQzF0VTFfaHdnVFByNmMwczRqMnliVUNGLVpoQTg5TGg1NGJSM1lEYTJETUNjX1gzVjBEeUlvSDJkc1RBWGdBSFE3eDRucmZxUFNlc1g0Y1djOGtDbDA2WU1QeE1LQTVjMEZyUUxJR3dfTXgtTlBxSGM5UUs3VFp2TUV30gG3AUFVX3lxTE9yV3BOMEtEVXJjZFJCQjdabnFCdU42UUlVT0JGc3BOOUxnT2ItV2Zvb2FjVFRrVG1MZ054Q182UUtocFY0YXVIMERsWl9WalV6STJqRkgxNERXOEhXTkVxc1ZYRlhVMFJPaDNpcEdDdFV4dlJkRG9qQnJPb1FNZ2tMODhmdGsyMkl6WEJRb0xadXpzNEFvNkF0eVBwNnBvamtLYllTRGdnVVVYUk1CbHphWlZJYkc1NA?oc=5",
+   "fecha": "Fri, 13 Nov 2026 01:53:00 GMT",
+   "fuente": "Tiempo Sur"
   },
   {
    "titulo": "Tras la fuga, los abogados de Leonardo Bertulazzi dicen que corre riesgo su salud",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPXzhOMk5sUHctd3ZWRy1XZFNTZWFOM0tCWFVCMFZBaWlpSER2RHJhN1oxWVVvSHFFa0NPWlg4S0FEQVdZcU44LXNuOThuM1RaQVNTcWJJUTJPTlVoSVppajdxc3lhNFZCdWdjanA1dGZRWUlvb2hQODFKN0ZULWUxdmdyVTNLMXU0WEMtREZxWE5xdjI4OFQ3VFNac1RidUYxWU5zTjM1OXdwMEZqRnRubGVMekZOd2FiMU42dA?oc=5",
    "fecha": "Thu, 12 Nov 2026 22:01:00 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "La crecida del río Paraná ya afecta a 49 familias en la ciudad de Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPTlZJZXJxSzRybFgtUXBKWkNSc2lXajA1dV9qdGNKM2NEZXlkSDdDVndvZ0pGSWNyZFBXVDNoRzBVbUE5UGNVM1k1UjdCUndRdXRsWEJLcDFWUWZBdjZDN1ZIbENDUktzTElnaHdjXzMyZlA4VDZuMG9zLUJTeGY1SUxpbGdCOEpSd3gyeWR4LU5CVkdXMWNrek9ZRGpKcU92UW5oeDV4WkIzSVhGQVpjem5iY2VaaU50OU5taDNtYWR4MU83QTVQbW1XdU9veWNyMWhGS1ZTU1lFN082QzBxRXBILTFSdnc4T1VkdUFjc2lYeUVBby04c1N3VGcxSEktS2UxdGZDclBPWEdndXZyRWxKMG1Za2dqWTIzTm1ZYm5XMWJmU0pETlBLeG5MaElLVW9DS09Rc2RYMXJEanF0NklWeHQ0ajQ?oc=5",
+   "fecha": "Thu, 12 Nov 2026 16:07:33 GMT",
+   "fuente": "El Litoral"
   },
   {
    "titulo": "La nostalgia de lo que pudo haber sido, las diez frases emblemáticas y la misión cumplida de León XIV en su paso por la Argentina",
@@ -1057,16 +1051,22 @@
    "fuente": "Diario de Cuyo"
   },
   {
-   "titulo": "La misa del papa León XIV en Luján se convirtió en la tercera más grande de la historia",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbzdsUnpuQkNQb2F0a090WmhHVXFvSm5iNGtfMlBzMDhLOWU4WjhpdFJrdlBNTUVvS21sMHpRZVBSX1FWUmFURTVlUHlycS14akdsaHBBdEp1Rm0zbXdTeElJUHdJTmtETi1pa1dua0xxN1pGOUttQ3ROQ2hCdzBid0xsWGVxNmNuMEs0cXI4MVRqSnFxWWxIQ2ZCb1ZGNVBZLWkzelVDcURTVE9EVlNpbGxvMThMWEZRX1B6bm9nbXRzemZ0bWJaVmc2Ync4N1Iwc3c?oc=5",
-   "fecha": "Thu, 12 Nov 2026 17:58:46 GMT",
-   "fuente": "Perfil"
+   "titulo": "Confeccionada en clausura: qué pasará con la icónica casulla celeste y blanca que usó León XIV en su última misa en el país",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcG82NWlRUFZtRVJIWTR1cUVUMWljNUxzWlQ2Vzd1WWlQZDJpSTl5QUxoUXlqTktCbWNFaXBBTWY5TnotRTJ6cUd3T1JsbWRzNUlhWGxqM3VTaHBpcXJzU0d4MDlCcGkwUVc0RVN3QXR5b2ZGVjd6TFBoSzJkSmNYNUpaWkVQOTVEM25xU2FIVkY2WUpSWkFQcGJnbGxubEJvUzlMX2x0VTdhbFFQYmFzQTFUYUc5Q1dKNmxQcXJvcW5xaXc5WkNwUWdmd2Z0bVg1UXNWd1ZZeUdpVFFvNy1oVllqOA?oc=5",
+   "fecha": "Fri, 13 Nov 2026 01:37:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Entregaron equipamiento de alta complejidad al Hospital San Roque para atender a recién nacidos",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX25xdjlka014TE9SUTZ1MVhzNWhKakhOb0FFck5xXzdHeHZReWNUajU5enI0ZUtkTlBZdExmNmk1NTVSY1QwRG14eHVwN3RFWU15UFRfUnJoclZLcE80a05xcG5XcUpVS1BtdTNlUkpGY2dhVUh2TUZzT2l5X3dWZFhWYjgxOE1fOFBLZlJKRXpISDBEbUJwUERCVHozQ0FyaG8xc2k0U0tPcG02dGhEZGViOUwxX1hqcDlVZlNGR3U4SDQyWDdrU9IBxAFBVV95cUxQc0lFTGswMGF1QWF1dzNjWGlsUUtnRzFYM0FnclZmYU1zd3NWYmttQ2Nybl9ENGJfcXhadlhWaVNKd3RrazctdHQtalh3dFpXcG1yd3lac3RIc3pPZW5lWEpiT3FBdzZ1N0VmV3VpYjVQR01rOUhJVmlqb2NWU2xSS3E4UVZZeURobUpsQnlOWHV3cFZNcHdJMlZicXBjbVBaUjM4b3Y2MElzdGhweWhxWkZKMXVQQjgtUWI3OElpTHZvSFZZ?oc=5",
    "fecha": "Fri, 13 Nov 2026 13:22:44 GMT",
    "fuente": "Elonce.com"
+  },
+  {
+   "titulo": "Una web oficial centralizará toda la información vinculada con el fenómeno de El Niño en Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbFNMY3VTdHh4ZHkwV1QybW9uM01ZTlowaGFiMkVqQ0EtM0MzTVdONnJsRHdVVGlJR2lPdlM0LXVfYjhSTjk1dVdhaGVqQVJ6SFd0R2M1ckswTmhrS0NpeWl5QmhVbklETG5wRHRySXVaT0hmNWt0Zm1MbTBveXBNTjZrc0RKZkRFUlFqdmxnZnpFY1dPYWRHREJWckZDdExnY010OVpmMEJpZ3FKU0w2OVpDY2xxcUdJOV9N?oc=5",
+   "fecha": "Fri, 13 Nov 2026 13:12:27 GMT",
+   "fuente": "El Litoral"
   }
  ],
  "finanzas_argy": [
