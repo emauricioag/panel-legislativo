@@ -588,6 +588,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Bomberos de la Policía de Corrientes cumplen 90 años de vida institucional y de arduo trabajo en toda la Provincia",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRHFWYXFwN0FRLW5ZR09qZ3d5RlNIc3MxMTNzUExrNy1xWkVYUTdfZ0NnMFlWaHVOVS00N0RMYTk1TWVUQUJpcGhUX3VWSm1yb1BxVmtkWFo2VGdSOFlTcHhxb2dZYmxpcjkzUV9CVHRMd3RfVHdHa3phbkFJNC05QkVWVkJoS0Z1OTlOcVBjZHhGV3RNS054SjJSZlEwdnJNRDZuMUVDeW1mT01LVUQ1WU5BQURoTVRObUp4SUlVSzJPWjFJNGk3TkZuNmUtZDlWX0NJQ1JjaUVfV1hXVGoxekRjYw?oc=5",
+   "fecha": "Sat, 14 Nov 2026 21:37:16 GMT",
+   "fuente": "Radio Dos Corrientes"
+  },
+  {
    "titulo": "Avanza campaña de matriculación de médicos veterinarios de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWZJYXVMMXk5Nk9xOEhncEdlRXBsdVZfSHJRQmc0NU5ySEdqQThaaEVQdWk3aDZxX0JJM2tmV3JBN3NNQUhtRTFSc2ozY3lTZGJBbHdHU3ExVDhWdHpQVllZcVJNNExaNzhCcVlLdVl2VG0zM29BdUFzUXhmYU1rcFduN2ZEbm1VUlZTMGw5bVhWS2xUZkdwcXAxNWZlN1FTMjJPakFja0FoaEY3blpycW4tWklIUDNq?oc=5",
    "fecha": "Sat, 14 Nov 2026 18:12:07 GMT",
@@ -642,22 +648,10 @@
    "fuente": "TN24.com.ar"
   },
   {
-   "titulo": "La Municipalidad de Corrientes trabaja en el armado de pasafaunas para proteger a monos carayá",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQks2Zm1ic1ZBSDdjOXY3Q0VCcXFRUUNoWDM4TU1EOEV5cmdCbk0zSklIUHNLdWIwOVVhRk9RRzBsWmw3U0p1dkZMX1JyaHJ0OFpqUE0xLWpDdnFwYm1hMW5iN2loLXdrbzY4Ymt3SzhhVVR5TEJMeWQ1YjJCNk43MDlxbGNsbUt1YV9YS0JNYXpZSGFRZjdWazBqSFVtZm9LWVJGQThyRTNEcVAwdFV4NlVpRHNRcDhGNnNqeGE2bXg0NjdsVUQ5ZQ?oc=5",
-   "fecha": "Sat, 14 Nov 2026 10:43:05 GMT",
-   "fuente": "Radio Dos Corrientes"
-  },
-  {
    "titulo": "Corrientes: aumento del 10% que se cobra recién en diciembre",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzF0TVJma0tvakpQR3Q2NUp0ZktVb2QybGlibjd6b0M0X2JOOGc5ME1hRk84ZzlLcG5tMlRydXZTZ0x0UklMUVIwQ2FXS1RtVHo3RmlIbEFWdkY3WmZ2cHBKWVo3c2E3V3N5WGNkNU43LUxnYlhzWTVNd0hvNlEwTUQtQUduVU84dXkxT0RobFFCeHBPTVptSmFBZ195Zw?oc=5",
    "fecha": "Sat, 14 Nov 2026 17:08:31 GMT",
    "fuente": "VirasoroVirtual"
-  },
-  {
-   "titulo": "Corrientes: desarticulan 200 puntos de venta de droga en lo que va del año",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZjJkNzFKMm5sV29kaGs3UnZfT2hqUHVRWVJHaFp1ZS1fa0p2Sl9BT0RBWm8zeVlBUmdxRzNHRWJpbXdsU2lRZGpzZjdpcTJGTl9nLTBEZFQ1V0F1VDdQQkMyaFNVWWpJbW1WNTRmWW05ZTdkSDNZN19jOEYyZEdSY0tZbWdRV1Q4UmlyTnVXaGZ1blNXMXlCRktOT1pySk5DTFlvMU82YU1BX3NuR1hmc2Rn?oc=5",
-   "fecha": "Sat, 14 Nov 2026 17:37:39 GMT",
-   "fuente": "Diario El Libertador de Corrientes"
   },
   {
    "titulo": "Primera quincena de noviembre: así quedó la coparticipación a Corrientes",
@@ -678,10 +672,22 @@
    "fuente": "Momarandu Corrientes"
   },
   {
+   "titulo": "La Municipalidad de Corrientes trabaja en el armado de pasafaunas para proteger a monos carayá",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQks2Zm1ic1ZBSDdjOXY3Q0VCcXFRUUNoWDM4TU1EOEV5cmdCbk0zSklIUHNLdWIwOVVhRk9RRzBsWmw3U0p1dkZMX1JyaHJ0OFpqUE0xLWpDdnFwYm1hMW5iN2loLXdrbzY4Ymt3SzhhVVR5TEJMeWQ1YjJCNk43MDlxbGNsbUt1YV9YS0JNYXpZSGFRZjdWazBqSFVtZm9LWVJGQThyRTNEcVAwdFV4NlVpRHNRcDhGNnNqeGE2bXg0NjdsVUQ5ZQ?oc=5",
+   "fecha": "Sat, 14 Nov 2026 10:43:05 GMT",
+   "fuente": "Radio Dos Corrientes"
+  },
+  {
    "titulo": "Valdés inauguró obras deportivas, una planta de faena y enripiado",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3FuOTR1c0xOTHZCMHZMYXAzWHBCQjBVWEhFNURHNlJfZjI5SHZTa3JkLXlCNWhDbGYyazNzaElqeFBrZF9oLWtjOThHbWd4Y1hBUXMzY0Q3c3RHTzY4akZfdVVrZVpLTWlYb2s4NXVCRWwzZE41VWtseUpBN1NRazYzV2ZrVlB0Q1AwR1BhejlsUGJFclliSi15NkFRYk9xNkxfUDN4TU9xbDhm?oc=5",
    "fecha": "Sat, 14 Nov 2026 13:56:36 GMT",
    "fuente": "Corrientes en el aire"
+  },
+  {
+   "titulo": "Corrientes: desarticularon 200 puntos de venta de droga en lo que va del año",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQjJJTUFJWVRoS3RfMkdqdDJta0JfZ0V0aXNmUkVra29sQjE0dHdEUjlGckQtRVBQMVRzZkhoVngwa25xS1lsLWNQMVRYTXUtM0lxTGNTMWVzT0p6aWpsNV9LVUxXb3RPWTd5UEczaElIU25vMDB2VF9DOVN3SHZiVDZxNHZLVWIxUzluUTUwQmVDUXE0Z0JlUlJtNHlSYnZ3YTkxdmxBbHFCaThvam5fSjNOSF90NG4zNTJFRG5yTy1ZcVFENWd3a1FUVG5XSDg?oc=5",
+   "fecha": "Sat, 14 Nov 2026 15:24:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Karina Milei y Santilli se reunieron con Valdés en Corrientes por las PASO y la emergencia de El Niño",
@@ -700,12 +706,6 @@
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjIwSnVhNVF3b2tjOEE5eFA5cEgwWWdySF9DNU1fbGZpblFGc0xCTnVmM0FwdXl2a3JkcS1zM0ZhMTV4cjVJeVk5bHBxUElGaGZLYlZCU0hmbGlhSi1ZeTBsazNrSlRvMkNCSTdHUkhJLThKVHpoRzlVN0xCNWlxVVFOZE9oSjNKZ1RuekhYTnJxZGlhRWJ5WTk0di1DUQ?oc=5",
    "fecha": "Sat, 14 Nov 2026 03:30:15 GMT",
    "fuente": "Momarandu Corrientes"
-  },
-  {
-   "titulo": "CORRIENTES Juan Pablo Valdés recibió a Karina Milei y recorrieron el Comando Operativo de Emergencias",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ2JHVGs5VjNNUUYyQmgzcHdvdlg4aVY4MXYxNGRCVEd0Z2JXNDhKRFZyZGJXVWNBUTlValY3QTE1STkwaXV1akRxYTZnaElxa0ZseVhkanBsUkNQSEVrdkgteHlYSUxaQ3NQc2NrSVBXYzlvcEZFZzlJSkEwLU5wMjhtWmRnd1VDSEZSelAwQ25zMGE1MTJuSWY5WGo3S2dQdWxRWE1BQkk5LWI0YXdFQ3dFeVlLSUY3Yk9jdmdhVkpCM2lYSW5WOXJxRVdiV3VUdll1TmFZOHRycVlOSXIydEIyakxhaHdMblpjQWZaQQ?oc=5",
-   "fecha": "Thu, 12 Nov 2026 21:29:56 GMT",
-   "fuente": "Identidad Correntina"
   }
  ],
  "expedientes": {
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-14T18:25-03:00",
+ "actualizado": "2026-11-14T18:51-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -973,22 +973,16 @@
  },
  "nacionales": [
   {
-   "titulo": "\"Seguiremos enseñando a pescar\": el mensaje del Gobierno tras la visita de León XIV",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTdrS1FheV9KYm1ldnUtY0JyQzZBNmJkSGw4eG1UdDdfVVBVSldWRHNoRXQxMVQ5amt1ZEZfZUVEblEzMW91d2xMMEFpMFRQd1ZYOTktTDdxV3lMYS11bjFORmswTk5mUmpXWjlPU0lhMGVoMHM0XzZuOFZYcTNkUFp1Y3JDZWhCcVBFTGoxTU9GMFV3QklNeW1iaWttLVpRaHhhanRMQ3d2VHVFbnpNOdIBtgFBVV95cUxOekxvVXp3SGJBd0g5MkFQQWN5WlZPSnFCRXdDck9mTDBodTVqQ1BVTDJYQ0hOZXA0VHdpQ0tWZlNkWDI1TlBzQXJEdzNoUHJRbkN4V1B0STJ0cDQ1UmgxNE5FQjcwR0l4aGt6S0FPcERjeTk2N3A1Zms0UUZVTXlrM0NTMTFFTEUyaWRod1FnOGw5WF9admFuV3p0emt3UGl3dmlSUkhKTjg1RXpGM2VVOWh1RGpOUQ?oc=5",
-   "fecha": "Sat, 14 Nov 2026 14:44:00 GMT",
-   "fuente": "Ambito"
-  },
-  {
-   "titulo": "Para el mercado, el Gobierno deberá revisar su plan financiero para afrontar los pagos de deuda de 2027",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM1IxWEFoU09ha2F5aTNDMlBIV3hMUTBZb3pNWURET1VUeHFaSE91UWxDb2VZelQxVWtWVF94QUlJVTQ0T2tuVUt6ZnRNWG5WOXBFa09Md0ladXRPVTFkZFRPRDdDNTVVWnhNWkpiUmFwMm40bEg4UGtVeUN6cDR6Y3BFYnJsVFBrRnVKUVJrU0FYSGwzYXpzRGNFMHVTcmhfSUlQNDNZQjBjdThFZ0VPSHFNSVhOdlEyRDJQYzFUbGo3M1lrbklXQkJIakpvQTdfRHhaMzZoWEhoN000WHRPbA?oc=5",
-   "fecha": "Sat, 14 Nov 2026 18:36:00 GMT",
+   "titulo": "Uno por uno, cómo están jugando los gobernadores aliados en la negociación con la Casa Rosada",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQejh6Qi1JVzZtS3ZWY194aDhUOVl2Yl9OVlVqOHNlOXZZdWZLYkVBQ3NfNWZHanFCYzBrMUpvS0dTc1lKaWdZajZuaEdoZUt0NVBMSnZYRTNfT2RIWThTdlRBeVZDSzJLdDB4MWp0dlMwZjdlNmh6RlNlOVVJb2pQeVFOSnVGUmk4NC1tRVU2R0ZqTWFyeW5naF96WlByaHUzWlk0dkx3TEdfU3YxZ2pKWnVyenBSM21YRFVTUV9NVXFEZ0RYamQ2NHczQnhDYVlrOG05WUVKM3ZuZw?oc=5",
+   "fecha": "Sat, 14 Nov 2026 19:54:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Malvinas: el Gobierno espera con cautela el fallo del Tribunal del Mar y prepara una estrategia para los tres escenarios posibles",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa0ZHLUtzM1Z4VnRrUDRWaTREeDNRbFFueWJpY0ZiaEVtMWV3ajQxZGRBbGRYS2xWU1hqazludWFvMVcySHBHUU03NWYzY2plTUsycXp5UVkxX0xWY0V1OExiS3dLU1FEc1VCNkV5TWp1d3FxT0xuMVkzV0ZGR3JjNmwxNlVxOFBqcmdLWHVKVmdfNFhuNnZ3Z2l0Q2U5V3FMSmg4bXZFZ2NTLUVPRW1KUHMyU05PZ3J1S2FwMkdzRHY2bDJrNHdZMkIxT0QzRTVtRl9jcUM3QkpHTFlmTy13M0FfOWJ2aDNFLUhkWmtxLXd6R21DNzZob1JYa9IBjwJBVV95cUxPVnFKVllSLUhHODNJMXFOaWtIYlNYcEdmM3Fac25HeklpOTBGbjgtNFoyUlh4Y1ZQZ1NMVlMyVElVUVFCN1I3NHpjV0s2eXRiM2U2X2c5RlBVVTJETHlxbFljNW1keVQtX1VockZBMTdjS0RDNU92OVcxTXlGSmt1TGhCQ3QtRHk5dHlpdlI2WGlWbDZ1em1HdGhzU3ptMjFLMTdOUU1sdU83NkhPcm9DYVJTTzdCMktNa3VhM3FrYzB4Ujk4aklvVGdBd2RlNFo1YXdGNkVQTTh4dWZfSUVPMUxMRnZNakw3YTVoWldpVE5IcWJJb3FhOVZId0FGNGRra1hoekgzMFd3Y0lTTnlF?oc=5",
-   "fecha": "Sat, 14 Nov 2026 09:00:01 GMT",
-   "fuente": "TN"
+   "titulo": "El mensaje de Pettovello en medio de la disputa con Barrionuevo: “No es correcto mentir ni presionar y, aún más intolerable, hostigar”",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRUJ2T3VEckt5aXE1MVJ0X19nSjAtRDhPaHVqaEJWN3VnemdFcnRpMUV6UVJjYTFxMlY1Yll5bjYxczd4aGVZdHFacXh2QnJsOVZyak5XTFVzUUpDZjdxNFplcHg5T1RSYlZKZzFzUWxSLUNlc2NLWkRpYm11TnZtcHdXOFY5RUNTa0FXYUJuVEs5OE1tMFdMNGJqRjRKNWh0VmhWWS1nM2l6SmE3dGxyRFE0N3NjZUpSN1VnSmNiN0dncWNBaEZmRGltN0JXNms1S211ZmI0NHRDdE9tWlR5VW10eVhQbktERGxycGpldDN3QjlMSi1LVDNmQUhwWXhERWNjTdIBnwJBVV95cUxNWi1zU3ZsT3lwMndhUHFpX3lkVmJCb1JZbEE5cjBPQnhYTzN2Wk5aRzhmbHF2V2pJQVdIajhiQ3huOGE1ckJ4S0cxZXNQdWt2djFObEczcnBCc2NtUWlqblRhWkFSb0FlNU1kYXJhMG45a0duLU9NVGtxaTUzNkt6LVZpWjdTY0dMR3JrZ181cDdVVDhTNHg1Q01vWlQyeXJUT3VDQjN4anA2UWViRWFLYXpISHpfczJlSFhTT2pJZ1VSYUlRbTJRcklCRURVc2tCQTVCX1dpRTk3V1d5YXJjaVJpSVNVa29xYVQ0QWlNR3FuMkVFSFpKd1RZV3piZlQ0ZjU5dzliVnBZcF8xdVZaSnpydHRVbzJfMWZGUl9ubw?oc=5",
+   "fecha": "Sat, 14 Nov 2026 19:45:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Javier Milei inaugurará una muestra sobre Manuel Belgrano en el marco de la Noche de los Museos",
@@ -997,16 +991,22 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Inundaciones en Entre Ríos: vecinos improvisan campamentos para resguardarse mientras el agua sigue subiendo",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcnJobFR6Q0RZbEFXNnZwMmg0Y0ZVdHdtRUprRzN2QjVQcXVWeFRQMmpUc0FEazdXWm9JLXhxek8zZEtQaEdRNmhrUWl1a3BEb2Znb3A4Wk5PaVRkMkFhbkFXZVVjcllSSUVqLVE0eVJRTGR6Q2htSTc5UGNLVWh5S2QzYUQxN19pNlcyaXRxZnJaSzZSWDlsNU9laWd1X0dmcVF3d1hxckYwQTBmRHNYU0U1ZUZhUjg2OWJYLS14clZUYzVIZ09FUDZrZ2NKa0U5UmYyMmM0bjQwa1RwLXlB0gHzAUFVX3lxTFBOYXNTb2dNN0hIRmJWSWVkejVRZmFDdTZXLXZLeU5udTR4ajJXZlJPQ1ZIT0E3VGxRSlZ2V0JkVGt3VllpakRLaWUwUmNFRk0yNkh6SWtHa3EzM1U1eTRSOTYyY0lhczdOQ3dOVjRtNl93Ylk4ZUJxNWlLeThrX29FaEJzd01LOFBPby1kYk5mQVlRWmNJbnRhTmJabjljM1RJd3ZlZFJnWmx4YWJLRF9Sc1Z1akpvNTVvM2w1TmdqVjhvZWUxNENoUjQ5V2NwdWU4Ym1JeWRZUS1LRjBua05aQnBNVmExTkpMQlR0NlpORFc3cw?oc=5",
-   "fecha": "Sat, 14 Nov 2026 16:26:06 GMT",
+   "titulo": "Malvinas: el Gobierno espera con cautela el fallo del Tribunal del Mar y prepara una estrategia para los tres escenarios posibles",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa0ZHLUtzM1Z4VnRrUDRWaTREeDNRbFFueWJpY0ZiaEVtMWV3ajQxZGRBbGRYS2xWU1hqazludWFvMVcySHBHUU03NWYzY2plTUsycXp5UVkxX0xWY0V1OExiS3dLU1FEc1VCNkV5TWp1d3FxT0xuMVkzV0ZGR3JjNmwxNlVxOFBqcmdLWHVKVmdfNFhuNnZ3Z2l0Q2U5V3FMSmg4bXZFZ2NTLUVPRW1KUHMyU05PZ3J1S2FwMkdzRHY2bDJrNHdZMkIxT0QzRTVtRl9jcUM3QkpHTFlmTy13M0FfOWJ2aDNFLUhkWmtxLXd6R21DNzZob1JYa9IBjwJBVV95cUxPVnFKVllSLUhHODNJMXFOaWtIYlNYcEdmM3Fac25HeklpOTBGbjgtNFoyUlh4Y1ZQZ1NMVlMyVElVUVFCN1I3NHpjV0s2eXRiM2U2X2c5RlBVVTJETHlxbFljNW1keVQtX1VockZBMTdjS0RDNU92OVcxTXlGSmt1TGhCQ3QtRHk5dHlpdlI2WGlWbDZ1em1HdGhzU3ptMjFLMTdOUU1sdU83NkhPcm9DYVJTTzdCMktNa3VhM3FrYzB4Ujk4aklvVGdBd2RlNFo1YXdGNkVQTTh4dWZfSUVPMUxMRnZNakw3YTVoWldpVE5IcWJJb3FhOVZId0FGNGRra1hoekgzMFd3Y0lTTnlF?oc=5",
+   "fecha": "Sat, 14 Nov 2026 09:00:01 GMT",
    "fuente": "TN"
   },
   {
    "titulo": "Nahuel Gallo: “A veces siento que se sacaron la foto y se olvidaron de mí”",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVFfaUQzOElFMHp3RV9WME50U1M2d1phUng3LTQ0VWpENkQyekNoUzlPc2x5dndvM3BHbF9uTVFZMTYtYmhFSUhCckxHNE9GY0hlYWZxWmtsSUhaTjd1OU5YdkJCZURzdzhDU0hPQzdsVlhuSmRiMHdGTU1KTTg1N0Zud00tSXJfSGRCYkRsWWkyUkNWMDhTWVR2bGI5ZjdVREd4OXdfUURiYWlUM0FlNWxIM1FmdDVTYlVNNi13?oc=5",
-   "fecha": "Sat, 14 Nov 2026 12:44:00 GMT",
+   "fecha": "Sat, 14 Nov 2026 20:53:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Los fuertes dilemas económicos de Milei y Caputo",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGhiZW4yaVd4eVJfTTFyVnNoS2dkWXRiVEowbEZQQVlyVmg1NFkwdmV2RE9TZDhNaTZTVVZNQ3JCU2FyQWlDcWNjd21FUDFrVVBLVjRqOTFmWnRIVnhUcWgtM0JIVGRHX3RxaVFaanczbzJQTkRqYVN0WXA4TVN4RnREeXN3bWxJdEZNcm95SEFqdw?oc=5",
+   "fecha": "Fri, 13 Nov 2026 22:01:00 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "La Noche de los Museos 2026: cuáles son las principales propuestas para visitar",
@@ -1015,16 +1015,16 @@
    "fuente": "Clarín"
   },
   {
-   "titulo": "Uno por uno, cómo están jugando los gobernadores aliados en la negociación con la Casa Rosada",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQejh6Qi1JVzZtS3ZWY194aDhUOVl2Yl9OVlVqOHNlOXZZdWZLYkVBQ3NfNWZHanFCYzBrMUpvS0dTc1lKaWdZajZuaEdoZUt0NVBMSnZYRTNfT2RIWThTdlRBeVZDSzJLdDB4MWp0dlMwZjdlNmh6RlNlOVVJb2pQeVFOSnVGUmk4NC1tRVU2R0ZqTWFyeW5naF96WlByaHUzWlk0dkx3TEdfU3YxZ2pKWnVyenBSM21YRFVTUV9NVXFEZ0RYamQ2NHczQnhDYVlrOG05WUVKM3ZuZw?oc=5",
-   "fecha": "Sat, 14 Nov 2026 19:54:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Por primera vez en 15 años, un buque chileno hará la ruta Punta Arenas-Islas Malvinas",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUl9RRC1RU2NHZ1lnbWdyTk5feFhlY3d0ZWdRejhwcl9vZ3hIOVkzdjVQbGV1SXB3VXBlODJvekVtQmtZSjg3NWJ2QXJ4ZTVpQzJLMTZfUWp5ajByMUJkZTNid0gtcVJhcjZDXzhDNHowcTlmVGhxaU9sazR5Y1R3TU5saWdfVmZjZmlyekJLTjJHMjZjbDY3bGxXYkwycTh1cUp2VS04ZEVVUVpwNTQ4dDI5dm1sQ0NwZmZDSF9n?oc=5",
    "fecha": "Sat, 14 Nov 2026 15:46:46 GMT",
    "fuente": "Clarín"
+  },
+  {
+   "titulo": "Crecida del río Paraná: Santa Fe se encuentra al límite de la evacuación y ya son más de 4.500 afectados en el Litoral",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWTF4UlhjNndoYTFfOXdFRDVLZXdBWVFzZUVLdU8xaGtEQkgxcWpfTnJHREpFOGNNZ1RlamJDQlV6MFp5MFlCLTJGZ3J4SlBjbkVucmZZRWRnOEFQSnJ3QjFhSXN6aS1Sa05QNjhkajBPZjN1T0lBNmx0bXNuaUtfUUhWMEN0S1FpVEJaQmdkVktZSFRmaVVELU1xdGNRNHZoNXdWNXhtdkJnVU4xa0RvVU84THRRbFgyNWZHZ3luazRyYnplZFdlUjJKV1lzLUJlZEtaZl9zUGhJVHMwZFB3SXhhSG9ZT29NcnlfVkg0VGJFbVHSAY4CQVVfeXFMUHJnc01hdUNxZlI5Y1VySWFmVEstbWFBbUt5WFJNNGFOWkZzSGRnU1ZyQkJ4ZnhhbjU0U0s0SUJnZDhLTnRiVkJCU2hHSnNTRVhGUzN3SGhkcWNzcXkwVzJOeDl0ampsaU1iZGNmRExQOWhaNnM0NlUxbV9IQl9hVWVIM29aV3I5djgwai1lSVFKOHQ2bGpLLTc5cXNocGlnalBQZWVsbm9zcnVhTVNjZk44VzFTcUt4QUpiNm0zLWFkNnlNdzZ6SkxzRjI3NlBDemhsNlNTVEsxV0xXX0ktQ2kyQ0ttajlfZDVYeGxYU2hPVlNqRXhBdTNPRUVvSGdlYS1pYXpDcEF0SnY5ZlZn?oc=5",
+   "fecha": "Sat, 14 Nov 2026 06:31:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Sigue el avance del Gobierno sobre la Justicia: buscan ocupar dos cargos clave para la elección 2027",
@@ -1039,16 +1039,16 @@
    "fuente": "TN"
   },
   {
-   "titulo": "Exclusivo: habló “Pequeño J” desde la cárcel tras la filtración del video de las torturas del triple crimen",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZXNnV29qZUJkN3lmbnFnYVJhV05yRzdiS1NtZ25pWmpEaTRvZk0yRjNKcHBmOUZiUmRCUEVucWtpd3ppZnFvcFdwbnpIWVdIRUthLTR6SHpETFBhOGY4d1pTWVFsYlpTQWw0NFQxOGwxSEZOeXh3U3JNUV90VzRkUEVqTXZNY2RoNEhYZEtWMjF1VmxaV2xFOG9XV3NyNXNUc1hRaFVfSC01Ukk0M1NTanl3OWtodmw4WmY3Ukhhb29ZenlHYm1qaXJILTFqcmt5Q3gyUVRRdzRGTUtVVWYwa180OVVLMkh0RjdUa2xzUk1jd9IBjAJBVV95cUxPa002Ujl5VGUzb1ZoV0RWdDBXQmw1OHpZZHllZnhTejM1d3VjMUs0QXZiNmJIU25ZWmZJZ0RhV19xWEtCY3FSQVBhNXE2bUFYNGlPZVJhSFU0elpvOWhlck1DVTYydkttTEFnSGZZbS02WkJTY3NjaWN5RkZyaWdoTWhRRm9Lc25yNmRoek1TOUc5US0tOUNfTEp6RWYzbTRGSlJyOTY0bURMWmY0M0ptcXBZUFpwb1dzR012RWxYMUxNaXZhcmxXSTJnY1RrdnpIdWtrQWFpcXlLWTNQMzF6anNPMmFxZnZJcHZJOGdjTFNzelhtWG9KZFEzbjdISjd5WEtIc09zZkFudGQy?oc=5",
-   "fecha": "Sat, 14 Nov 2026 17:19:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "“No quedó nada”: incertidumbre entre los vecinos de Remedios de Escalada en el día después de la trágica explosión de gas",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmhPM2l5Q0dBeDY5c3c5ZWRUOUE5MmtsZEM4dmRWRGxBQS1XSjhLOEFTbDVLaHJ2R29qZWUtbDhyR2tWRGl2bl9QM3R3ZVBrSC04MGxCR2hob2dGSURzYTNUTlhnUDNWYW14eXdhZ2J6dEdncVdtZDZFVFNBTmNKdGZNRk51NDdoSnhvY2VWNWdsQ3BHUVVJcFdBSmszZ3QxWmZ1NnBTSDQzWUFyeVRKaXVCWThxU3FyT241Q093c2RpdlRTVWxxVTgzQlRTeDV2eFNuaENsUWtuRXc?oc=5",
+   "fecha": "Sat, 14 Nov 2026 18:16:00 GMT",
+   "fuente": "La Nación"
   },
   {
-   "titulo": "Fuerte explosión e incendio en Remedios de Escalada: confirman un muerto, 30 heridos y dos desaparecidos",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVNtNm45aHllR19jbmR6dVozd2JWb0k2TUt4YWhKbXBBYVZ5Qkc4M0NlRnlnbk5hdlprV0NiOTBSSDNMeDVhT3U4dG9SQVZLMXBEMWo2WktVYzl1VEFOZ0I1eDFxdnh5bVlUckR1MWxsOXphMFltR0NmM0RPS2J3eGxMektYcEJlbGZDQUFqYzFLUnZwM2g1dXlUdmxCdkFUU2xSeHQxQndSMXRVWnVYRkxoQ3N0OHNBYzdGYmp1cmpNU0MyUWsyU2Jia28zWFE2X3NHV0I3NjJ5RHVnemxfa2NB0gHnAUFVX3lxTFBWcW0xOVVYbXhIUFBmdWZHcTI2NmREVHloLTVNS0k1S0oySFlqa0EyMXhuMy1fZ1o4dHZtUjFxeHpDMDRPZHdoS0t5dk5ER3ZTanRjWVAwazlfalJFbDMwMzh2TWF2bG9ydXd4SnNJMTVaQ0c0eWMwM0NYVElWZlUzRkduVFlkekxIamN2c29KX2pYM1pHbzZHMmNtZldCdWlqYVVHNHp5Wl8tNWpDQ2tTZDk4WmdteGxjVGtUUC0xODNudklKSENaYldrVDlXendad1VQbDhmQ3VUc2pnN3ZyaWlGQ1pMQQ?oc=5",
-   "fecha": "Fri, 13 Nov 2026 20:40:16 GMT",
-   "fuente": "Ambito"
+   "titulo": "Investigan la filtración del video de las torturas del triple crimen narco de Florencio Varela",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFVaYUhrMFA4RE04LWh5MnBVbGZrM3hyRVQxQTNlVGhIc2laVkFUdTZTZXl6SmRFTDdka0Y4bnJpbzcyRlcyUWJNYzBiX1dzU1pfZlhyeVFhU3JzNU90d3ZJaGNDQU1xZXA5MTdENVAxLUdkQk9jbTZjeUIyWHNlekkySjQ5ZGxfNXRxdGZWTE0ybjZrNElnS2ZJZDFKdk1JTHFacVFMYXFOS2VQZkgzcElqQm1PNVdESFJz?oc=5",
+   "fecha": "Sat, 14 Nov 2026 13:10:22 GMT",
+   "fuente": "Diario Panorama"
   },
   {
    "titulo": "Temporal severo en Córdoba dejó evacuados, destrozos y un tornado tras una tarde de calor extremo",
@@ -1057,16 +1057,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Temporal trágico en Catamarca: una mujer murió arrastrada por la corriente y hay graves destrozos",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTUlkNWpidHlZMV94M1JWZ2FORmlnM1F1OVJIWGFURWVDZHF1Tll5a2ZDQnluS1pWZlA0WXdVZWdDbFVqU2lIblVTS2ExVkRtcUZiU2E2TW5Md2R6RUluekI5VFNUdmd4OFcwLWdXblBTUmhNWDlpNHd4WWppMmg3OVhUNjNEaVVGY1VCcUlIOUNhcE80UFJMcEtoYS1uZHlqOE5LblJkQ0pnTHJydUJnY3pqT3lVV0FKZ2VKSjBidndkLUdT?oc=5",
-   "fecha": "Sat, 14 Nov 2026 18:14:37 GMT",
-   "fuente": "Clarín"
+   "titulo": "Catamarca: una mujer murió arrastrada por el agua durante un temporal mientras intentaba proteger su auto del granizo",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNHAwemloNVBUNWRkNHJxT2VSWmVrQy1mRS1YTVBIc0tZNGdMS25Rb3V6VzhZRExnMWpwXzJ1eWRpNHRfcHlJT3FoaXJvc0FRS1hJNE5kdDJmYmc3SUMxLS1tY2d3MTlyTmZfOVdKTEZRdGN2aXlnR2wwWjVpaFJUWUFraGVqWm05MDFpSFhkY3llcWhPdV8xaUVZNm9nSjVSVnhZQ1lhTzdxOUhXck4tTjlDdGtNOVd5Zjh4MENvczQzVkdkOG5hMk9YOUdaODkwSklEclh5S1F0X1hxU0JOSnlmcE5hd9IBgAJBVV95cUxNMGpxRF9CQ2p6Vmw3dDdXbld0cVJVazF0bnA3S1RBMGlNU2UwWGs0dm5MRDAzQ0lRa05tN3hCVlpTdW1wY29weVNVS081VS1zVURxaG1Ia2t5MnU4ak1veVFGZFo3RXRJYnNsVkV2U1RJOXdDeC1odTQxYVYwSF8zaWRjU0g0bHVramk4LXV0TWVOS2F2RmxoOVRsQXhJY1h3UUxVY1NOTV9wU0dsazJSWjhMdXhpOWM2RXozY3FzcmZPR2dJQlVOUG9oTk90VEZoWi1QTFZIWGpBNDJuS1ZKWk94SDRhdmkwQ2xlbjFLTjRFZ2dYdHFmOW5iekZNNnVX?oc=5",
+   "fecha": "Sat, 14 Nov 2026 18:34:00 GMT",
+   "fuente": "Infobae"
   },
   {
-   "titulo": "Alerta por tormentas fuertes en Salta: recomendaciones ante posibles cortes de luz",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2lLYlFnVjB5VFBQVFBlUjZKZjNIMHRUU2ZkYnIyakNxc2c4QTdvQkxFMVlMYThGX0thMVI5X0lLWVdFZzBiRjYyVHpDOWJVMnRMdjk3LWhNUVEtOHlVYWQtYWJKdlF1YTJkb2FKX3lVYVpnVFhOajlzWHdkN0hIOElUdkFOTjd0TEhUUjN3N1N1d01oQXVkY1dzRGFpVFZRNXlOOWl1S3Y1QTJRNWZOX0t3MHNUN0ZCNlI5TDJGMVpranJ0bFlCMlZ3TdIB0AFBVV95cUxQUVRNUW5WWUhuVlEyVm95UmE2Y0RIbU9PWGY3Ul9uZHVtQXA4ZnpmZDNBNV92WnUwbEhYcXM4WmZ1czBNajFfX0pCdHJMQ1dCczlhak91cVQ5MnN4eXF4MG9MclhFVXZnSmlKWXRyeGo5aGxMbmZ1eVUzLVJBS1FPUi1vUFJhazd2d0ZKcDFNYTNWeXN5eFRfbDdhUDZlOEgwUTF6Z2hkZXV0WW1UTVU2NFV6Mld1cFdBcHFzS0p0Z2Vrb0J6cmpQTFVyZ1lpdGhw?oc=5",
-   "fecha": "Sat, 14 Nov 2026 12:19:00 GMT",
-   "fuente": "El Tribuno"
+   "titulo": "\"Seguiremos enseñando a pescar\": el mensaje del Gobierno tras la visita de León XIV",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTdrS1FheV9KYm1ldnUtY0JyQzZBNmJkSGw4eG1UdDdfVVBVSldWRHNoRXQxMVQ5amt1ZEZfZUVEblEzMW91d2xMMEFpMFRQd1ZYOTktTDdxV3lMYS11bjFORmswTk5mUmpXWjlPU0lhMGVoMHM0XzZuOFZYcTNkUFp1Y3JDZWhCcVBFTGoxTU9GMFV3QklNeW1iaWttLVpRaHhhanRMQ3d2VHVFbnpNOdIBtgFBVV95cUxOekxvVXp3SGJBd0g5MkFQQWN5WlZPSnFCRXdDck9mTDBodTVqQ1BVTDJYQ0hOZXA0VHdpQ0tWZlNkWDI1TlBzQXJEdzNoUHJRbkN4V1B0STJ0cDQ1UmgxNE5FQjcwR0l4aGt6S0FPcERjeTk2N3A1Zms0UUZVTXlrM0NTMTFFTEUyaWRod1FnOGw5WF9admFuV3p0emt3UGl3dmlSUkhKTjg1RXpGM2VVOWh1RGpOUQ?oc=5",
+   "fecha": "Sat, 14 Nov 2026 14:44:00 GMT",
+   "fuente": "Ambito"
   }
  ],
  "finanzas_argy": [
