@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-14T14:02-03:00",
+ "actualizado": "2026-11-14T14:29-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1015,22 +1015,16 @@
    "fuente": "Ambito"
   },
   {
+   "titulo": "No fue un “accidente”: fue una explosión anunciada en Remedios de Escalada",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM29KLWlSdktyRnNRS2h5dk9IQjRmWkM5WmptdmROVGhPT0tJTTBsQVVQcTZDeUFsOE1UQWZ5TmJPVGJaTjNiZVI1eE00cVZwRnNTdUNSSW92V2NYSmQwUFNiYVNfYXRIOTZ3OG1CWEhWal9sWDhPeWFfWWk1eUQ0TTBpejhNQ3FXSTVDSDVSZmdmMkc1TmZtTmd6NUNTaUVBdnk2ay1fRVPSAbABQVVfeXFMTTUxMk5ubnk0WHhYSjRabnh4ME9FRU9TQl8yZEo2SDJScTFXUkN5WDlLX0JGRl9ERWhPSS16S0lUZElEbE9ucTlpM1VvU1lEX3NNRDZTUDl4UEhFVVVqaEx2eldMQmNMSE1iZHVqb0tURVhSRTJ3NzdCSXF6aE1taHVRTUlJOTJadXFqc25YbHpwQ2hYTFFSSS1ud0l6VGlPbURwalZJbmloY2pwSnVPaDc?oc=5",
+   "fecha": "Fri, 13 Nov 2026 17:08:01 GMT",
+   "fuente": "La Izquierda Diario"
+  },
+  {
    "titulo": "La justicia ordenó la liquidación de las acciones de Austral Agro SA, una de las empresas que operaba Lázaro Báez desde la cárcel",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVlZQa2o0RVpvQnZOYXVGeTlTalJMV1cwUHRueVFYc3M4am9Eb2dJRHlXVDYyUHNob2RkMTZCTDdydzdSNlZtRWVfZXZtcjh0aEJpSnJ1RnZFWGNwVTljV1dsX3RfYUE5dmRXYmR2YUZnS1pRcmVmZVlhMm9aNXY4QUtYclNDTkFJOHhKX1EyUkFVdnA4WGhEVjBpcnFkTDZYZEZ6MzM2TVVnZVpwZmpXdVY5MkxPQVhLZzFWY3R4MkpzVS1Nb1hibzV1U0JpaHdXUTNxeG90UFUycmp4UFE?oc=5",
    "fecha": "Sat, 14 Nov 2026 01:16:00 GMT",
    "fuente": "La Nación"
-  },
-  {
-   "titulo": "\"Lo vi salir caminando de mi casa y ahora no lo reconocí\": el dolor de la hija de un trabajador herido en la explosión",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUdaY1Q3M095d0c4LU9FUWZXZUMwd2xld29SX3B2V2xLdkJ0OTBDRF8xcHZHa05HcjVuN3FHZXp1WXEtZ3hXRjRlSkZvdk1RdDMxZGZ0aDhBQUcwLUZZT1RjZTJUVjRlOU5RN3V5NkhzNUR1MDdwcUtfczBEcWE4RWgzX19CQnZUVi0wS0ZvZFZrRTByZ05oVWJoSEsySjZMa2twbXg5TG04cW4yeTlZRjhZS1FxcE1mQjlheThDNVNrYkNOelE?oc=5",
-   "fecha": "Fri, 13 Nov 2026 21:45:56 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "Después de la ofensiva contra el Reino Unido, la Argentina mira a Chile por la conexión Punta Arenas-Malvinas",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWjRWVXhNa3BjRDdFY3pROEUtSXNNdkFaRWhiMnBVbW85bjg4LXctQjB5S05iMUZEdnZremluQVpHdkJZM19nSWVLc1Ewa2FxSi1DOUVuMlJMNlV2cm1DdUtlNWVzY3QyUjk5dEgtMDdYX2ZscXVwUWF6Qk96TG1UdnpyTWdGQXV1bWF6MUkydGhYdTlRM19CS1VQRk8zSUdpQ01ZZGJ0RVViUmF6aml4ZnFYWS03c2w2Q1FfckdGUHlIT1JaQjc5UUlqck50ZEQyc1VNTUNGYW9NekdIaU91elNXV1RDT01t?oc=5",
-   "fecha": "Fri, 13 Nov 2026 13:37:00 GMT",
-   "fuente": "Infobae"
   },
   {
    "titulo": "Alerta por tormentas fuertes en Salta: recomendaciones ante posibles cortes de luz",
@@ -1039,28 +1033,34 @@
    "fuente": "El Tribuno"
   },
   {
+   "titulo": "Después de la ofensiva contra el Reino Unido, la Argentina mira a Chile por la conexión Punta Arenas-Malvinas",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWjRWVXhNa3BjRDdFY3pROEUtSXNNdkFaRWhiMnBVbW85bjg4LXctQjB5S05iMUZEdnZremluQVpHdkJZM19nSWVLc1Ewa2FxSi1DOUVuMlJMNlV2cm1DdUtlNWVzY3QyUjk5dEgtMDdYX2ZscXVwUWF6Qk96TG1UdnpyTWdGQXV1bWF6MUkydGhYdTlRM19CS1VQRk8zSUdpQ01ZZGJ0RVViUmF6aml4ZnFYWS03c2w2Q1FfckdGUHlIT1JaQjc5UUlqck50ZEQyc1VNTUNGYW9NekdIaU91elNXV1RDT01t?oc=5",
+   "fecha": "Fri, 13 Nov 2026 13:37:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "En los primeros tres años de Milei, cerraron 32.429 empresas y se perdieron 467.989 empleos en blanco",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHBVbG5VWUZYejB1SWZua01lVFQyT281RHVLMUkyeXY2VW1fNHBxeUdmaExkTnJCU0o0SUxFeGYtem1IOVZKZ2FrSmwxcWQxQ1QxS2RJT1ZUMGlRemlGMVdlTUJJMm9JcjdkVTF1RGJMVkhwYjQtcVpiQ1U1NDJ6OHJ0TUJsSy1pT2k5cUdEa2tKQ0M3ZnpJR0JGQWJTM1h3eWFUYlhWeXpPa0JfMWR2clE1T05rellUeTFZV3B3Z3RFS0k?oc=5",
+   "fecha": "Sat, 14 Nov 2026 13:15:30 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
    "titulo": "Lluvias y descenso de temperatura en Santiago del Estero: qué se espera para el fin de semana",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRVZKeF9BQlNzbC1WcU1qTTBuVFNLYm9BTFBxTFBIVzRxcktNQy1hRmVZV0tvalJwUUdlT2ZfR0xRcVQ2RUFYVWNJcUV1bjF4Y2UxZWNYQmZacGRQRWR2SEp2b2xqMVRnWGhkXzNtZjF1b1dPMExIZUhOajE0Q0haMERacmo3T3E5am1RbzhOdGw3Qk5XQlhRTmJ0RzBKbkxyN2JweHFNY09BdWJoVE4tR0ZxMWFZLWVtd3E0ZkNFNjRtZmVzMXVLTFdJYUZpc2lwbGxWUTdEaFDSAeIBQVVfeXFMTU1LcnZOYTM2Nmo2bmhWV2hybXJjMlB0NTF0YVVaa0ZvdHo4c0pYVlo1cV91djNFS2pScXZrUlN3amtyTkZOM2g0VFZaOWhzWU41NkhzamxmVGUxcTVLMVhzcVN4NWN2OUhIUmFEcmljaVNzU2lvOXlBY2pGTnR2dHM3SVNieDNTV0U5UXdJOTFYN0U4WTJLMTNyM3lXYWFxQW14NjJTZVJ2QmtYckZMQ2RONjRPT2x0UkVsOERVenNMTXQ0N0lIOGVKckhpSEtUZVJCNEpKYVVUQ2luY1dUclhLQQ?oc=5",
    "fecha": "Sat, 14 Nov 2026 11:12:00 GMT",
    "fuente": "El Liberal"
   },
   {
-   "titulo": "Por las fuertes lluvias, se suspendió la Noche de los Museos en Córdoba",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYy1OMEpWcDg1aUZYUk5nT2FOS2NQbmVhdUNlWXIwWFNwMFBnMzJEejFLNlRLQUkyOEUtUEYxUklHbHVpQWhtSlB4OE9Ka05XUE5YYlg4YW9fLU1xdFoyVWRPckMyNUZCa1IyNWNFLXpMVE8zVW9HdU9pR1FmOEd4OHNXLVo2RV85TzRoa3hJdVd2NndTUERUTEQ3T3k0VUtzUzgzeHIyS3Z0NExrUFA5M1lGUmc0Vzk0YWplYWRVYWV3eHI5WVVLRXVmYw?oc=5",
-   "fecha": "Fri, 13 Nov 2026 23:34:16 GMT",
-   "fuente": "Cba24n"
-  },
-  {
-   "titulo": "En agosto hubo 139 empresas registradas menos y ya son 10.234 en el acumulado anual",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3hEWUlSaHBlNlpYVzBJTzIwRGNMQi1XcW5MdEhfSnVjR2hySm82N0RLTkhGS3VVNkpmSllXSy15MUtibVBoZ3pOVE9VYk4xZTVuQndONXgyb2VBTVh6Q1hwT3c1c0ppT1ZXU0VEcjJlQ1M2bnhVeDNLTzFwSHdzMGlKbWZMbks5Yl9IUk9BaFBOMXlvUkVzVl9vTXp4UGEwQkFKclAwV0JqaGRzSDYzM21zdENpbVFwNzNRYlJlWThVVVZVSFl6MmlUaEs?oc=5",
-   "fecha": "Sat, 14 Nov 2026 12:55:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Un robo de cables provocó un corte de energía en la zona sur de Comodoro y Rada Tilly",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTTVTZmdKZUlndWQwMGhManYxLXdraHlxZmk0cW45OTlPQVBGUE5lUGZJV1hyRVVtbmVnMDdnZ28yeDZYd2JlRktxTTZOM013Z0Z6RFB6WkJCc1FVc0RIOUVPTklabnJ1X0FSSUh1cHl5Mnd3dWJOLVQ4VE5BdmJnaFcyeHZDOXI4MXhoOS1GOXJWTVBHTUdMMy1wM3ZFcEcxYUVzbEVVeHRCWUJPOTdsMUl5QkpHbmwwVzZwM2N6bXlBckkwWEZ4ODBtRXBScGxHbUZIUS1oQUJKUThuRnVv?oc=5",
    "fecha": "Sat, 14 Nov 2026 16:10:00 GMT",
    "fuente": "ADNSUR"
+  },
+  {
+   "titulo": "Por las fuertes lluvias, se suspendió la Noche de los Museos en Córdoba",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYy1OMEpWcDg1aUZYUk5nT2FOS2NQbmVhdUNlWXIwWFNwMFBnMzJEejFLNlRLQUkyOEUtUEYxUklHbHVpQWhtSlB4OE9Ka05XUE5YYlg4YW9fLU1xdFoyVWRPckMyNUZCa1IyNWNFLXpMVE8zVW9HdU9pR1FmOEd4OHNXLVo2RV85TzRoa3hJdVd2NndTUERUTEQ3T3k0VUtzUzgzeHIyS3Z0NExrUFA5M1lGUmc0Vzk0YWplYWRVYWV3eHI5WVVLRXVmYw?oc=5",
+   "fecha": "Fri, 13 Nov 2026 23:34:16 GMT",
+   "fuente": "Cba24n"
   },
   {
    "titulo": "Temporal en Córdoba: los 10 lugares de la provincia donde más llovió y cómo seguirá el tiempo",
