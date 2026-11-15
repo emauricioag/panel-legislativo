@@ -588,6 +588,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Corrientes aprobó una ley para proteger a los yaguaretés y asistir a productores afectados de la provincia",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFRqOXNoSHhqUzFfVHRPVGpFemFyU09KYW9QMTlTZDVKaTQtby1SVkNraWFZMTA5TDJkT0lFdWk5Mlc5Rlg0YmhBajhLYlhyOHF6OGozbjFxWXNZVGwzT0RsS0QzUXowQmg0LW5JOGtnQlVsNmxZbmlQQUx6eDlQbUVla0tPME9FNHpaZjZXMlJRS0dJd2Rld0c1a0s4LVUzMlFUMU41c2tYeGxya0laelhPZk1nNnphSFNIUk0tTWZtZEFjN2ZtMHZoMVU5Nzc1N1BIMms1YW1xN2NvUl9TT2l30gHnAUFVX3lxTE5uRGI2Yy1VTHkwZno4SDBlNldQYV9HakxmbmNTX1NnZWRZOHpOUXlpQk9URjFqeUhOTExFNzhBbVlRZzVQampaOTRVVGI0UFo0UHQ2OFRDVlQ1b3gydUh0NjYxSlZDUnctem9ZMVlfLVkwLVE5eHh4LWI2UHpBa3BvY1UyWkVpOTAtaU9KWEIzeE1RUXRUWG9SVzRuQ0psRE1xVjMyMUYzUnE1d1ZMZVFzbHdwVlZWM1NzUUJjSEJ3UXNMcGtfeFh6Q3l6RXNrejJCYUhJZVZtVnVVRFhpNENVcEhRS0FIaw?oc=5",
+   "fecha": "Sun, 15 Nov 2026 01:00:00 GMT",
+   "fuente": "Noticias Ambientales"
+  },
+  {
    "titulo": "Primera quincena de noviembre: así quedó la coparticipación a Corrientes",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDZIYUg2dzkyaVhxMERlUEo5VkVmZ3VnM2JWS2hySGZqOHlJMExVYkh4dXBtZUlqVUdDTndGUU96djA0VUZVcXV3VFJBSFhsRWpqanN3N05fakplYi1rcUNwX3VHM0hqdTdWVHFVNUdtSnVsS242TTJITmllSXN0RWVnTVpSWmFoU0RMNnhuSklQU2NLZkRDRmxTM0lNWU5oR2VsSTVVeHFuSDFQbHZSeksxWHNvQ0pKU0E?oc=5",
    "fecha": "Sat, 14 Nov 2026 17:59:07 GMT",
@@ -654,15 +660,9 @@
    "fuente": "TN24.com.ar"
   },
   {
-   "titulo": "Rige doble alerta por tormentas fuertes para todo el territorio provincial",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWs5akhiY1JfS1ByTW4yMEhVcHRiWGRPcTJqWnFUaFJKSVptUHc1YXlFWUJxVGowbnRick0yUUQ0ZmVWZDYxTXpUa2p2aE9kbU9OQUtlc0k0Q0JMTy10cUZGcUJOckdtU0gxcElNRE54ekpBTFVXaEVXMG5kYXZFN2RvUEplQlBKeGd6bkV5RFlubmdMb3RYdVZPdi1hdkNxOHhMaUZYSTBnYnhybEc1SlhjOTFuQXh6Rnc?oc=5",
-   "fecha": "Sat, 14 Nov 2026 10:28:18 GMT",
-   "fuente": "República de Corrientes"
-  },
-  {
-   "titulo": "Avanza campaña de matriculación de médicos veterinarios de Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWZJYXVMMXk5Nk9xOEhncEdlRXBsdVZfSHJRQmc0NU5ySEdqQThaaEVQdWk3aDZxX0JJM2tmV3JBN3NNQUhtRTFSc2ozY3lTZGJBbHdHU3ExVDhWdHpQVllZcVJNNExaNzhCcVlLdVl2VG0zM29BdUFzUXhmYU1rcFduN2ZEbm1VUlZTMGw5bVhWS2xUZkdwcXAxNWZlN1FTMjJPakFja0FoaEY3blpycW4tWklIUDNq?oc=5",
-   "fecha": "Sat, 14 Nov 2026 18:12:07 GMT",
+   "titulo": "El Banco de la provincia vuelve a refinanciar deudas de empleados estatales y empresas locales",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2dPT3hrNmE4V1g3YmlwbmJNR09zN2xfQmc3MjItR1d2VnpDRi1IemRRZVBQVjR1VHJmeW94cnV1WWNZVG9rbzNxamZfdVRoQzdocXZVOUpmOVVpMjVmdG90cWdRSnROTklyRHZkOUlyV3B0dWpfVVAxdFBHS0taQmRPWmxycmc4TDVtcnFMR3lwdl8ycVI1S25PYUtnM1hkOHg2ejdROEhZb1FJbUFMUXE2QTJvcm55ZmVTYndlU0s0SVExai1uMldaQnRkaFZxY09V?oc=5",
+   "fecha": "Sat, 14 Nov 2026 22:44:42 GMT",
    "fuente": "Corrientes Hoy"
   },
   {
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-14T22:22-03:00",
+ "actualizado": "2026-11-14T22:50-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -991,16 +991,16 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "El PJ cierra filas y busca aliados provinciales para frenar la suspensión de las PASO",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDBUal9qTUtUU0FJcHlHRGhZV1ZtdW9IS052YUpBZ0ZRMHZQcmpCQXdTQnJPdU9hZjlZX1E1dzlzNTRzUmtkMEpHUXBYVzFhRTRCVmNpc1lFbVprMFN5SlJ0LWJaYjVOYlpwaVo1Rk1kVzgyTlRLZEdyLUdXMmJCTEMzajNzY1pxZDBjbDFuU1lGcXM0NmNqem8zRmllcF9EUUY5dGZsa2FlRjZuR3F3eWNlRHV2dw?oc=5",
-   "fecha": "Sat, 14 Nov 2026 20:21:12 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Pettovello salió al cruce de Barrionuevo, denunció presiones y evalúa ir a la Justicia: \"Es intolerable hostigar\"",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGptaHVOcGd0S3habXg0NTBaS2tCcGlUeXdFU0MwUGFOR1ZoWjZrS0JVX1RMOWFMcjJBZVlkV3dobVkwdE9ELXZlUWk1Q20wVTNNaXZ5d09iaVd3YWRWNjZpSFhac2tNVkxESllDRnhfVGRFS2dibU5KWlBzTFRlRG4xb0lWRkhZZ0d1aUFpSQ?oc=5",
    "fecha": "Sat, 14 Nov 2026 19:32:01 GMT",
    "fuente": "El Litoral"
+  },
+  {
+   "titulo": "El PJ cierra filas y busca aliados provinciales para frenar la suspensión de las PASO",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDBUal9qTUtUU0FJcHlHRGhZV1ZtdW9IS052YUpBZ0ZRMHZQcmpCQXdTQnJPdU9hZjlZX1E1dzlzNTRzUmtkMEpHUXBYVzFhRTRCVmNpc1lFbVprMFN5SlJ0LWJaYjVOYlpwaVo1Rk1kVzgyTlRLZEdyLUdXMmJCTEMzajNzY1pxZDBjbDFuU1lGcXM0NmNqem8zRmllcF9EUUY5dGZsa2FlRjZuR3F3eWNlRHV2dw?oc=5",
+   "fecha": "Sat, 14 Nov 2026 20:21:12 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Alerta por la crecida del Paraná: Santa Fe quedó al borde de la evacuación",
@@ -1021,10 +1021,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Una mujer quiso proteger su auto del granizo durante el temporal en Catamarca, fue arrastrada por el agua y murió",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2F0Qlp2RTdfQlhpbS16aF9MdUZURWJrdTdOTDR1bFRESi0tc2ZyU2t4S3dQUFhaOVEyNkRjUVhySDFHb1RQWnlMWDRUdC03azRGSnJQSnVIM1JVSDEwY0NGaTJHcmhFRHd4QmRMcVM5Xy14aGlTWF96LWpaV0czTHVIMVBFRDU4WUw2eDBCMzIzSWstVF9IOHRUMUhvZWVNOWJPT2lYTmFHd1ZZWEZhLU9WYllnZWhQUUJLQ3RvWHcyZVJRa1JpbXdxWi1xWFlEWmdoT0xQM0lrUThwOTh1SVFFYw?oc=5",
-   "fecha": "Sat, 14 Nov 2026 22:19:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Investigan la filtración del video de las torturas del triple crimen narco de Florencio Varela",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFVaYUhrMFA4RE04LWh5MnBVbGZrM3hyRVQxQTNlVGhIc2laVkFUdTZTZXl6SmRFTDdka0Y4bnJpbzcyRlcyUWJNYzBiX1dzU1pfZlhyeVFhU3JzNU90d3ZJaGNDQU1xZXA5MTdENVAxLUdkQk9jbTZjeUIyWHNlekkySjQ5ZGxfNXRxdGZWTE0ybjZrNElnS2ZJZDFKdk1JTHFacVFMYXFOS2VQZkgzcElqQm1PNVdESFJz?oc=5",
+   "fecha": "Sat, 14 Nov 2026 13:10:22 GMT",
+   "fuente": "Diario Panorama"
   },
   {
    "titulo": "Los gremios docentes rechazaron una oferta salarial de $130.000 de aumento y un piso de $1 millón",
@@ -1033,16 +1033,22 @@
    "fuente": "Elonce.com"
   },
   {
-   "titulo": "Un muerto y siete heridos graves tras la explosión en Remedios de Escalada: confirman que el incendio fue extinguido",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTm5PMk1FSWRNaWVGSnpFMmNLa1l1NUNBRWNJdmEzcksweUJrVDhfZF9DU3E1YVVVdnR1WUE2bktFY0hRdFE5UUZaeGowNEoyQUszWDZxT1RnS1dKdm5Lek9hbzNDTnBZbXRpbWFnQmphTG1iZ3FpRG1zYzFMOEhQUUtRRHp6Q1AtTFFKMEhXRnVLYU00Y1ZNREJkU3E3bWp0X25BbG9haWJ4d3ozMXJJaEZERlpnZUdXUVJLS2E2SXBJOU5HX3NkSVl5Zl9aY0s3bVBfNmp0azRxQnU1WFAzNnhsXzM?oc=5",
-   "fecha": "Sat, 14 Nov 2026 15:45:00 GMT",
+   "titulo": "Compraron por US$ 20 millones una mina de oro y plata en Santa Cruz y buscan reabrirla en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT2NHNXduNUJrVGE4d3FldUQ4QU12NkFkQWIzeG5sc1JTREV6UXJibWhXV2VoVVV3TlJsVmQ5ZGRKMWNCblJVcDhtU3BzUi1taW5LNE1xQ3lwUDdpalZyTGxZWm54LXp5bVRLNENpZmxmSVk0d0hqZlBaQkgzMDZUVWx4elJFekIyeXhvdkFNOHV4TnJhRG5EcjhXVnFZQkpCWUlYZHJDTWE5N2pUaVdHeDJXX2pORkZMMkp0aU5aMjJaSVNzMUlEdV9SQQ?oc=5",
+   "fecha": "Fri, 13 Nov 2026 21:04:48 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Una mujer quiso proteger su auto del granizo durante el temporal en Catamarca, fue arrastrada por el agua y murió",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2F0Qlp2RTdfQlhpbS16aF9MdUZURWJrdTdOTDR1bFRESi0tc2ZyU2t4S3dQUFhaOVEyNkRjUVhySDFHb1RQWnlMWDRUdC03azRGSnJQSnVIM1JVSDEwY0NGaTJHcmhFRHd4QmRMcVM5Xy14aGlTWF96LWpaV0czTHVIMVBFRDU4WUw2eDBCMzIzSWstVF9IOHRUMUhvZWVNOWJPT2lYTmFHd1ZZWEZhLU9WYllnZWhQUUJLQ3RvWHcyZVJRa1JpbXdxWi1xWFlEWmdoT0xQM0lrUThwOTh1SVFFYw?oc=5",
+   "fecha": "Sat, 14 Nov 2026 22:19:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Investigan la filtración del video de las torturas del triple crimen narco de Florencio Varela",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFVaYUhrMFA4RE04LWh5MnBVbGZrM3hyRVQxQTNlVGhIc2laVkFUdTZTZXl6SmRFTDdka0Y4bnJpbzcyRlcyUWJNYzBiX1dzU1pfZlhyeVFhU3JzNU90d3ZJaGNDQU1xZXA5MTdENVAxLUdkQk9jbTZjeUIyWHNlekkySjQ5ZGxfNXRxdGZWTE0ybjZrNElnS2ZJZDFKdk1JTHFacVFMYXFOS2VQZkgzcElqQm1PNVdESFJz?oc=5",
-   "fecha": "Sat, 14 Nov 2026 13:10:22 GMT",
-   "fuente": "Diario Panorama"
+   "titulo": "“Es un desastre”: protesta y enojo de los vecinos de Remedios de Escalada tras la explosión de gas",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYXlTNUpodDl4Q296UU45M0dnbWFWQy0wU1lYRS1CeVpJdHM5R2E2RS1LVVV1cms3bnBSQWxsMWtocWw2QnJERkNCTW9YMlFkVGRqeEVIRTE1em1ydEJZUkYtbDFwTEw1QnJlWmIzRU5OUTJnRnpRclFiVE04VFNjQXZpcS1lOW1YclBBY1hGd0hFUnFfYUhPb3I0YTBDYXhmbS1XY0VuemE3NUl6NzhkRXctMU1rRnJWOFcwNFdRenBGX0h2RFhQeFBEUkEyVEk5c0xlR0J1OUtuVzZWM0E?oc=5",
+   "fecha": "Sat, 14 Nov 2026 22:06:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Un robo de cables provocó un corte de energía en la zona sur de Comodoro y Rada Tilly",
@@ -1051,22 +1057,16 @@
    "fuente": "ADNSUR"
   },
   {
-   "titulo": "Noche de los Museos: para descubrir otra cara de La Plata, abren hasta la medianoche",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX0x0c21YMGdsbFhTTnd2bTVzbFZYaHNtMWJrUFJaUU02S2FUVjBZb09JRHVuaXYyd1F3YUZWVzhJMEQ4dGhtSXprakVTWFpWcTBRcUFnQm9mR0V1SklPeHVLTGlBLWJxbFpGUU8taTE4RW04Zlo5RGsxZWtRV0F6dGRhaExZMjRveXhOcU50MFlfcVFRZGpmQmtWaTNEMTh5alQ3NUliNF9kQ1BRN05QRncxclVrSm5jeDM0V2RUTHR4ZVNUaXZOQ1JJUnBNWkZVU1JtQWdmVkVySFdEYWc?oc=5",
-   "fecha": "Sat, 14 Nov 2026 18:02:00 GMT",
-   "fuente": "Diario El Día de La Plata"
-  },
-  {
    "titulo": "Los Tipitos cerrarán los festejos por el 159° aniversario de Olavarría",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcW5XOVpBcFJYWVJXNDg4WlJNNFhzOG5lYlYwUXVlRnVRb08yeGZwTUhDTVluVFA4d1EtQ0NDRXRUQWpybnVBS0VQQ1hMWHJHdzJlYVkyNlVIOFNZZVgyLUpXc24yQ1pfdHpzeF9HR19WbGR1ams5ME5RWkVwSGJla1pPYWd0YWtEX3pUaGl1WUd3NU5iOU9xeGlBaUk1a3hSMTJqaFJiR0NVVFR1Q1hWdmMyQ3RKTG1HX1A0S25xMmZNQ2VQ?oc=5",
    "fecha": "Sat, 14 Nov 2026 15:18:22 GMT",
    "fuente": "Infoeme"
   },
   {
-   "titulo": "Embarcación sigue en emergencia tras el caos que dejó el temporal",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHFQU0xqVjk5VnZKcXY1ZFBBUmRaQklHN2R4MjhKUndUX2NOS0tGNHdOeThaX00wNzB3VFF6OVNrMXh0dnUzenI0WlpESXRtT2kwR0ZNYWE3U3NaeDF2bGg2MkxNTmZaUjVxNWp5OHo3VWVOeDlwaWx3UWFtWE9HMklnc3Z1R0xDQmZoMlNvdm9Jd3hiNXk2T040UTVHakVPLVBoRmlORUV3YTN4cTRVRTRKUVPSAboBQVVfeXFMT2M5S1RvaTJ0eXlJSk5hQ0IxTFhFZFlUVmJoaHpxZlpvZVJfUDZmNk5wS0RXb3hIVjk2VUFieWpTTHdveG5oLS1jSFk3WHA1NWtUZjZ2TlhDMTFBX3NQN3h6blZpZ3FRdzZsMUFVUUpweWMtbl9iV0VLZUZLVlVvc3JwQkZWYndKaGNhVW81WjNqY3NSdzNyanZQdEphUXI4WEx4aEwzQzM3S1R3RTJoa2ZDRElXNWcwbG93?oc=5",
-   "fecha": "Sat, 14 Nov 2026 04:32:00 GMT",
-   "fuente": "El Tribuno"
+   "titulo": "Noche de los Museos: para descubrir otra cara de La Plata, abren hasta la medianoche",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX0x0c21YMGdsbFhTTnd2bTVzbFZYaHNtMWJrUFJaUU02S2FUVjBZb09JRHVuaXYyd1F3YUZWVzhJMEQ4dGhtSXprakVTWFpWcTBRcUFnQm9mR0V1SklPeHVLTGlBLWJxbFpGUU8taTE4RW04Zlo5RGsxZWtRV0F6dGRhaExZMjRveXhOcU50MFlfcVFRZGpmQmtWaTNEMTh5alQ3NUliNF9kQ1BRN05QRncxclVrSm5jeDM0V2RUTHR4ZVNUaXZOQ1JJUnBNWkZVU1JtQWdmVkVySFdEYWc?oc=5",
+   "fecha": "Sat, 14 Nov 2026 18:02:00 GMT",
+   "fuente": "Diario El Día de La Plata"
   }
  ],
  "finanzas_argy": [
