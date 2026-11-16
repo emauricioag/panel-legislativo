@@ -918,11 +918,18 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "nacionales": "HTTP Error 429: Too Many Requests"
  },
- "actualizado": "2026-11-16T17:06-03:00",
+ "actualizado": "2026-11-16T17:33-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El Gordo Dan derrotó al diputado LGBTIQ+ Esteban Paulón en la Justicia",
+    "link": "https://derechadiario.com.ar/politica/gordo-dan-derroto-diputado-lgbtiq-esteban-paulon-en-justicia",
+    "fecha": "Mon, 16 Nov 2026 20:28:05 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Milei eliminó una medida del kirchnerismo que beneficiaba a los extranjeros con órdenes de deportación",
     "link": "https://derechadiario.com.ar/politica/milei-elimino-medida-kirchnerismo-que-beneficiaba-extranjeros-ordenes-deportacion",
@@ -963,12 +970,6 @@
     "titulo": "El líder de las 62 Organizaciones advirtió al PJ: \"No queremos que los candidatos se designen a dedo o por WhatsApp\"",
     "link": "https://derechadiario.com.ar/politica/lider-62-organizaciones-advirtio-pj-no-queremos-que-candidatos-designen-dedo-por-whatsapp",
     "fecha": "Mon, 16 Nov 2026 17:03:06 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Milei confirmó que irá por la reelección en 2027 y presentó sus metas para 2031: \"Vamos a seguir bajando impuestos\"",
-    "link": "https://derechadiario.com.ar/politica/milei-confirmo-que-ira-por-reeleccion-en-2027-presento-metas-2031-vamos-seguir-bajando-impuestos",
-    "fecha": "Sat, 14 Nov 2026 23:05:07 GMT",
     "fuente": "La Derecha Diario"
    }
   ]
@@ -1073,6 +1074,18 @@
  ],
  "finanzas_argy": [
   {
+   "titulo": "El Banco Provincia ahora deja comprar dólares todos los días, de 8 a 20, a través de Cuenta DNI y home banking",
+   "fecha": "2026-11-16T20:27:59+00:00",
+   "fuente": "Finanzas Argy",
+   "link": "https://t.me/FinanzasArgy/28081"
+  },
+  {
+   "titulo": "Se reportan fallas generalizadas en los servicios de 5 grandes bancos estadounidenses: Chase, Bank of America, Wells Fargo, JPMorgan y US Bank. Downdetector muestra un fuerte aumento de problemas reportados por los usuarios.",
+   "fecha": "2026-11-16T20:08:44+00:00",
+   "fuente": "Finanzas Argy",
+   "link": "https://t.me/FinanzasArgy/28080"
+  },
+  {
    "titulo": "Se reportan fallas generalizadas en los servicios de 5 grandes bancos estadounidenses: Chase, Bank of America, Wells Fargo, JPMorgan y US Bank.",
    "fecha": "2026-11-16T18:53:54+00:00",
    "fuente": "Finanzas Argy",
@@ -1131,18 +1144,6 @@
    "fecha": "2026-11-11T13:37:31+00:00",
    "fuente": "Finanzas Argy",
    "link": "https://t.me/FinanzasArgy/28070"
-  },
-  {
-   "titulo": "Havanna acelera su plan de expansión en Argentina: prepara su primer local con atención desde el auto sobre la Ruta 2, proyecta abrir al menos 5 sucursales y renovar otras 7 antes de fin de año.",
-   "fecha": "2026-11-10T19:42:05+00:00",
-   "fuente": "Finanzas Argy",
-   "link": "https://t.me/FinanzasArgy/28069"
-  },
-  {
-   "titulo": "Datos de 804.000 cuentas bancarias de empresas argentinas estarían a la venta en la dark web: un hacker afirma tener registros de 56 bancos argentinos, extraídos supuestamente de Interbanking (incluye Banco Nación, Galicia, Santander Río, BBVA, Macro…",
-   "fecha": "2026-11-10T18:49:53+00:00",
-   "fuente": "Finanzas Argy",
-   "link": "https://t.me/FinanzasArgy/28068"
   }
  ],
  "mercado": {
