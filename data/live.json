@@ -606,6 +606,12 @@
    "fuente": "Radio Dos Corrientes"
   },
   {
+   "titulo": "Corrientes superó los 37º de térmica y rige alerta por tormentas",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0x6Ny11aUR4QmQ1bm1MekZtRnktSl9memtYdEpzQzg1VG5hYV9OZzE1Q0U1SDZWWW8wVUYwcVpfd1d0U2owTDFSbjV2ZEVyNDUtYU5WUTNWd3hXXzNLd1paTlA1cGt1cUw5LVFIbF9nbksxSW1Dc1hKQUpIMmdreEpZV3JPbDA3NjhrS0Z2Wjkwd3pGSmg5REMwSll0ZmhOaEREcjlNTzVpclpBMFJucWVhdm9lUERadFJ2TUEzci1zY2l5WHfSAcYBQVVfeXFMTVdMejctdWlEeEJkNW5tTHpGbUZ5LUpfZnprWHRKc0M4NVRuYWFfTmcxNUNFNUg2VllvMFVGMHFaX3dXdFNqMEwxUm41dmRFcjQ1LWFOVlEzVnd4V18zS3daWk5QNXBrdXFMOS1RSGxfZ25LMUltQ3NYSkFKSDJna3hKWVdyT2wwNzY4a0tGdlo5MHd6RkpoOURDMEpZdGZoTmhERHI5TU81aXJaQTBSbnFlYXZvZVBEWnRSdk1BM3Itc2NpeVh3?oc=5",
+   "fecha": "Mon, 16 Nov 2026 20:29:27 GMT",
+   "fuente": "Radio Sudamericana"
+  },
+  {
    "titulo": "Corrientes tendrá un rol clave en el Senado por la reforma política y el futuro de las PASO",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLU9haVdvWkcyZGhOQ3VJWWhyaVpQT3cteG5NNjM5dzlBUmpDMDNqbkxITWdRQXBZS01zeUI0Y2RDN3lxLUpzZEIzRVZlV2JEVmZUaTc3MnliaUlIazRCSHJZRV9oLTlNQUdtcnFNSzBSNmpEZUFOd3hRSDN3ejVTQlQ1WXVMcjgwRmpnb1pMV2JuU28yRVFmTEY4T0Z3R0RZQjhXRV8wRHN4c29MVVFfMDYxMlF3R3ptTmh1MXc4Mm5zU1lwbTFZb1N1M2tnOGxZVVUzTVBJT1h0MjdjVU8ydDBHUkE?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:42:43 GMT",
@@ -670,12 +676,6 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcThqd3NabnFGNlRpeGQ2SkgzTUVCdmtfX1U3UThtOENUZDcxN0NDOHpUUnhPRXNZeGhSTC1yQ1lSUHVEWTNOeUJHQjViRzJ0ZnptNzhrdWhDbThsdFVKckdyai1Td3IxYjNoUmdaT1N5U213bm9zMkg0QnFmMGpGY1FMUGZQUWl3MWw4eFotVmlNTTZ1dFBlN09aYUhhRUwxQXFGU2h3Nk9fa2REeHlF?oc=5",
    "fecha": "Mon, 16 Nov 2026 17:52:13 GMT",
    "fuente": "Corrientes Hoy"
-  },
-  {
-   "titulo": "Arquitectura en la UCP: una carrera que se consolida en Corrientes y prepara sus primeros egresados",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ3pQVlczR1hyOG52QUJZZzNhc3pJdUFiay1TajRILTdlOGE2LWJ4bF9DYWxDZmJpZ0ZNaHNYVXRQQkNyNUFZU08tczd6NmNncnZPdWhhRE1rMHIwSDcxa3NXb2M0U1dPRkdpdTBiMHVOWTgtcS1BVW1JY2RkRVR6OENzUGZRN1VPU05vTldOaDdhY1NxVlhkZlBuUjR2RUNZV3RjTXQ5SlpZMHpZOU9hREdicGVRSkZqYTY0aTkzblJBZjF1eEt5aWJDbG9BeHhvMzhQTXVVQ0JQbmFuU0VzN3BDeWFzZEVRRkpn?oc=5",
-   "fecha": "Mon, 16 Nov 2026 20:48:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Juan Pablo Valdés encabezó el acto por el aniversario de Curuzú Cuatiá y destacó el avance de la Ruta 126",
@@ -917,10 +917,8 @@
    "antes": ""
   }
  },
- "errores": {
-  "nacionales": "HTTP Error 429: Too Many Requests"
- },
- "actualizado": "2026-11-16T19:45-03:00",
+ "errores": {},
+ "actualizado": "2026-11-16T20:11-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -975,28 +973,22 @@
  },
  "nacionales": [
   {
-   "titulo": "Quiénes serán parte de la cumbre anti Milei en San Fernando: el PJ mostrará una influyente confluencia de actores",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmg0dHM3UTd0dVdjSGdMT2txZHNkMHptM3pDRzZWd1ZWcjJIUWhFWnhXRU5WeVloUGtmb3VMcHRubjdiYjlwVGNMV3FNb0tMc1ZkLUVHRWdPVjhNM0NPS2licV85bUFXUERRQ2liZ3hSMDFyX0w1TldYdjVFRjVWelRSYWJKYy1fLXNOYnBEbktXLUR4eEh2RDhQNU9aOTJsNG43YS1wTTRmYUpIS1NIOTVLMnRLc21OemVPRUJCWXZWY09YaDBya0dGUmRBYWxoeVJta3BNYUhrTDA3cnljVU1vc1didV84U1lReHZ30gGIAkFVX3lxTFBMY0hsTmU2OTgwMHdUWE52QmlSVjROTERvQjhhdVFZQXVTVkZTTk9HSWpLVGxLWDBDdmloRGRoQ0Z2am0wNF9qRWxFR09KMGhCbEp3YnVJcFhJZnZVcmRUb2xlUFlvOGxLYnhVM241VmlzNG5JYzhORkw2QnlqR0pxcGFlM01kN0FiNkNEeklxOGVUaXlmV2NtWnZQQjk2ZDlGRzNQSGc0b05sZmRjcUpWN3dBc3Vlc1BHRWR6NG1VOXRGdVJDZ1A0MDJsR25ZREFGemhmcW1GVWtwR2VTTXRhVDdubUE5eGRsbWt3MGUycExxbnZHOW55VmYtWUVUR25KMFFSWWxpdg?oc=5",
-   "fecha": "Mon, 16 Nov 2026 18:28:00 GMT",
+   "titulo": "Reforma electoral: el borrador del Gobierno incluyó la suspensión de las PASO, un nuevo formato de listas colectoras y Ficha Limpia",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWk2MEF1eGhGdFlKYzI5SHJpSEtBWl9Pb2VMNV9LMGdFaDZSMGpmdE1aNTAyNi1PdHZvLUxHS1VuTVRlcnNtdzBCUld5bDN6dmhKODA3Ulk5SENZS050NWN0WEtFSW96czBJWmZhS3B5UkZGRkJ3THJSbThPS3VlTDZud0RUa1RCWnlPY3dMSGcxdkdUNS11cENRdUhjNi05cWVENlhfd3l1akpoRjJieVZpOU9hRU80YldHZFRNUXRUYWMxNUlFbGFrcHc3OHByOGVfMzJjcDNBWnpnY29OdE5LR2xsTS00RVhIVjRjOTFMcmt5elR3eUpFNHRyd2dxb2x4TtIBnwJBVV95cUxOMVFPc1dUcTkxVTJHQWVaYWFjempTTkRhT0RPRFRPOW94LTJBTnc2azJyM25MU0NkMHpZckJUMkJYNHZ6TDRzYldLUTA0X3JiN0JJRjlOcThNdXBYR1M3SXhmS1J3M01tSi1IajhfVHFiT3NqUWlnaWo2aUI1eXdBRUhtRzNEX1lRNjBsUE9GTm9LbExmNDFiYWdyTl9qa2pISFc4QklZektCb0pQUC11TjRsdnlTV2ZfeHVCelpMazA2VkJZbE94NjBpVGd1RGJIa0s4RnlQaE1YbWVVVG9tMWR3OEI2ZXVqajlMQ3d2dGxrSlJocF8welRVUlJhZFRDa0dZcXhwbmZhX2Y3cE16VWc0cThhNFdCdUQyc1BHcw?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:24:00 GMT",
    "fuente": "Infobae"
   },
   {
    "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 19:45:44 GMT",
+   "fecha": "Mon, 16 Nov 2026 21:11:27 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Renunció el convencional constituyente que reivindicó a Videla",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFZJd21aMjh1NlkxWXJ1ZTNHbmU5Rzd6V3M3bVdFMklwTlpNNEs1WW52SURpX0w1SGc3NlVILV9TRWVmYm9oY1c5RHg1ZDBDMzlmVkdaOVBGeFVMYVNXQzdBS2tDU1RzY0ZKa1pyUHFreW1xVlVTeTFZM1pMaDRfUXM3dTlEdVhlVG0xN0t5ODZUTzU5bVljYkdkaDhFUTY2SUNKRg?oc=5",
-   "fecha": "Mon, 16 Nov 2026 18:30:20 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "Reforma electoral: el borrador del Gobierno incluyó la suspensión de las PASO, un nuevo formato de listas colectoras y Ficha Limpia",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWk2MEF1eGhGdFlKYzI5SHJpSEtBWl9Pb2VMNV9LMGdFaDZSMGpmdE1aNTAyNi1PdHZvLUxHS1VuTVRlcnNtdzBCUld5bDN6dmhKODA3Ulk5SENZS050NWN0WEtFSW96czBJWmZhS3B5UkZGRkJ3THJSbThPS3VlTDZud0RUa1RCWnlPY3dMSGcxdkdUNS11cENRdUhjNi05cWVENlhfd3l1akpoRjJieVZpOU9hRU80YldHZFRNUXRUYWMxNUlFbGFrcHc3OHByOGVfMzJjcDNBWnpnY29OdE5LR2xsTS00RVhIVjRjOTFMcmt5elR3eUpFNHRyd2dxb2x4TtIBnwJBVV95cUxOMVFPc1dUcTkxVTJHQWVaYWFjempTTkRhT0RPRFRPOW94LTJBTnc2azJyM25MU0NkMHpZckJUMkJYNHZ6TDRzYldLUTA0X3JiN0JJRjlOcThNdXBYR1M3SXhmS1J3M01tSi1IajhfVHFiT3NqUWlnaWo2aUI1eXdBRUhtRzNEX1lRNjBsUE9GTm9LbExmNDFiYWdyTl9qa2pISFc4QklZektCb0pQUC11TjRsdnlTV2ZfeHVCelpMazA2VkJZbE94NjBpVGd1RGJIa0s4RnlQaE1YbWVVVG9tMWR3OEI2ZXVqajlMQ3d2dGxrSlJocF8welRVUlJhZFRDa0dZcXhwbmZhX2Y3cE16VWc0cThhNFdCdUQyc1BHcw?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:24:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Massa confluirá mañana con el PJ federal y toma forma una nueva corriente interna en el peronismo",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWNSVVM0VzAzVXZxWEt2LTFqNHFkenNFQUhoOHJtRDhVdmV1OXQwVm5EWkZMMUNteVRQdkR0SFhiYVhZUGxjOEFxWjNlRW92cXZLOHdiM0dtODZidE5NYVc5QTJqWkphUlhlWE1nc0hEWENUdGRxZ3U1YUpfUVlkejdRY3JpVDBwMDRWTW92dVVJaFJuUEhFR0poOHh3UXlaQ0tQVjUwWl9HVzBoOFNoU1JrWWgybVBOS0MwYkZoTXhvdHZpUk9wT1ROa3gxdVV3XzNSTzhTcXJvUFJRaldIdmpmTQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:25:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
@@ -1005,16 +997,10 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "La defensa de Adorni que aceptó el fiscal abre interrogantes sobre el futuro del delito de enriquecimiento ilícito",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVl5OGFKemJBTDZ0b0s5Zm5vUFFKZnFjVmJqNFpXZC1uZUdXdHBIcWVkclEzOHctQXR0OW5ZOENpSXIwU1FFMmItSDlwNXZWaEs3YTctN3V6X0dFMWdrZFZkdVhrZVFKa1czdEhwUENoOHhMclE5bmw4b3JLTWV5Z3FfQkhnMngyWjBLMXlMR3d4VlNfUTZHdm5QUFdtS0dNRTRTeHNPSHpNd21DRjlrUHJOdUM0N3F3SUdnTU00R1FwUE83YjMyTXdVeEVMVmR3NnBzdTJuOA?oc=5",
-   "fecha": "Mon, 16 Nov 2026 18:47:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Giro pragmático de Cristina: elige a Guillermo Michel para el Consejo de la Magistratura",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFlsdG1EWjRIZktZMzJOUlRrQURGNEVWb2dDSnNIOEtTdnV5RVZaai00SkV4V1ZHY256WU5MX2tuZG9OUzhLWG5OQVF3R3JBS0RhcU1lQUluWjhkUGsxQVpBMzNSdV9LUzF2eHpWWFZNblZFdDVEWkFlNnBCNTM1MUw0MFPSAcwBQVVfeXFMUHFOeDNFUXl3MjN4REoyRDBmYUVPTzRXcmlRVUdlRUdIQThQSTNqLXE1Q2QyVE84bjlpSVBQTXdNNkhmR0ozam1PYTVMeEV4NVRqSlcwVmlfMVZUMzAtLUpvYXVSZExNRTdPQzZ0OHB2RVlHcnhWSlExTDkwNlpYemQtT1BqSUM5dDhfTWtHSVVybDBaSUk4VlhJd1ozak8wMXJ4RExEMkMyQzdrU29QOTZ6Q0RtSWtKSU9RTDR4d3N1Q3hZajZSdVctdkRR?oc=5",
-   "fecha": "Mon, 16 Nov 2026 20:42:12 GMT",
-   "fuente": "La Política Online"
+   "titulo": "Renunció el convencional constituyente que reivindicó a Videla",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFZJd21aMjh1NlkxWXJ1ZTNHbmU5Rzd6V3M3bVdFMklwTlpNNEs1WW52SURpX0w1SGc3NlVILV9TRWVmYm9oY1c5RHg1ZDBDMzlmVkdaOVBGeFVMYVNXQzdBS2tDU1RzY0ZKa1pyUHFreW1xVlVTeTFZM1pMaDRfUXM3dTlEdVhlVG0xN0t5ODZUTzU5bVljYkdkaDhFUTY2SUNKRg?oc=5",
+   "fecha": "Mon, 16 Nov 2026 18:30:20 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Bahía recordó a víctimas de incidentes de tránsito con un emotivo homenaje en la Plaza Rivadavia",
@@ -1029,22 +1015,10 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "La ministra Alejandra Monteoliva será sometida a una cirugía de columna y permanecerá varios días internada",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdlp5c2NMYTItUXZIdTZ2OElQSWo0WVFYbnFnb1NGcnFiXzY3QzgxZkNicWlLUGFjTEQzWngwNlMtb1JCZVdGanFXUV9iUGVpQ0VWUmU5bHlVOEhQQk5iNkd4aUxtSmJxREVram45S3dDZ1R1NVlNbFBXTTdEcS1yazVHYVZGcHBNZ1JBQ1B3UndLbGdidExPanlEajc4OHRnMlZmeElmNngwZm9XVVBmU2poWHFjbnFLZGV6cm9vSnd6Z0hYeGRhamdFSlI4VTRRT3F0S09GYVVPVW5td3EtMg?oc=5",
-   "fecha": "Mon, 16 Nov 2026 14:33:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "El Gobierno modificó el RIGI y las empresas extranjeras también podrán anotarse como proveedoras locales",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmJqNDJFNXdVbkZBWURTeFBzRnJFMVQ1SXdsVnBISFBJQUVxOVN1WlAyVUdMUExlbUtwUGZUTVZWYk4wdlZobElOQ25KcTdvTFdhT2t0dHY4cmZTSUFWbXdONU9hU19Mb08zRFpXMTlRWXJZRTdqaEY5X3hEZHpfRm5GQ2I4RWtKS2E1cWp6T2pMQVpOLU1KeV9RZzhrVHpaLUloOFYyZXZEUHFUcFlLeWNXSlo0UFQyemh1VmN3T2pQVHNpNGN0bEVISjYwNTJiUjlmYw?oc=5",
    "fecha": "Mon, 16 Nov 2026 13:05:34 GMT",
    "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "AGMER cuestionó el aumento docente por decreto y reclamó una recomposición salarial",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0hTUzN0QldlYjk0YmVsVV9UcFRYaXE5QVBJSWpQMVN6NEhhTUxwRW1nMnNUOVFPQjgtbkR4TW1DNmYweW5WdHU1VTBEcFJqQ0Zsa0RVb2FxcDc0V0JLY0tzS25KS3htODh5QlV2NThuNnU1UVQydnhTTWIzZ2hObDJNaVlGX1N0aldNR19xSzJnS1VORU1SVTNSems5SG1HLUs0QUs3WjdBOXZfeHdWRzZhNFdjRlNJQmhv0gG0AUFVX3lxTE85M193S2lPMWcwNkd2T1FTOVVGSll3QjJiSEk0V2gzVGNEZ1VBUTNOMVdxblU1Wm41UjVXMm04RTkzM2dUQVRHUlZLNlNHMi10dC1DSXlBNmVnY0JMS0lONlBUY1gzZEd5RjJES0VEcHlOcHJYUG96ZEtYUkN6cU1aWXZISzU2dGlIRFpfN2tjMXhVaUZZUHE4allkcUtvVG9tZFc0MVlYLVZxV1NxaDRkU25peA?oc=5",
-   "fecha": "Mon, 16 Nov 2026 16:16:20 GMT",
-   "fuente": "Elonce.com"
   },
   {
    "titulo": "Alerta en Córdoba por tormentas fuertes y posible caída de granizo",
@@ -1059,16 +1033,40 @@
    "fuente": "El Chorrillero"
   },
   {
-   "titulo": "Suspendieron por 30 días un operativo en una estancia de Lázaro Báez porque las ovejas están en período de parición",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdXY2T1htUERGaHVSU1ZmNGgyQkRyQ3pSS3JvcnV0dFFPdmE0Q2UyMjBvVUZibnAtaUZRNkZIRUVYU1hXUUxoaXk4YlZNSHpGNmRybUZYdlNhaXJNekdfN29NR0xRMHRpeDcteWk5elNUMVZRT0lKSVEzZ1ZpMkJlVm9ZVkpId290TUxlWVpGaFMtXzl2T1NPTWRHM183NUpnbFEzZEdDWTQ0TEIxTEVuRzRrbFFuZ1lYV20yMTRhbzZNZHJxQ3VUWDZYdUdaVEtUQTBqd1RRU3pwOU5hMmc?oc=5",
-   "fecha": "Mon, 16 Nov 2026 13:37:00 GMT",
+   "titulo": "36 fotos de una edición histórica de La Noche de los Museos, con una multitud en las calles de Buenos Aires",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdllOY2paOF9hRF9fOGtfelJSZGxQNzRhRUYzTEJQS3NlM0NNamNld0FoaTNqXzRiVUJVZ0otWkI4SDNQWmlRSDhlTXpfR09TZi1iOXNaT0xibmcydWZnT0t4MHR4QS11dFFrY1IzTmFyUXFaSXY5QWJCeVd2VzZramRFU0x2ZTJfVXN0YjlOUlRsVGlpbFNvdmtNWC0xdVc3VUpXanpSaGQ3a1VTYXA4YUJ5TkhuYmR2bjRvR0Q1RmJJTlhWam9VWUZoeUZERXBkaklLUWtaUVg4MV9YZG5uTEJYY2LSAf8BQVVfeXFMTjUzekZoUmRwRXc0ekgwODF6U1p0Z0d6UjdBbkt5MUtEYmtSRGl4dW16aUtUbXhod3NaRmVQcGw2cklCRG9iWFNSWjJ1WWNCLUNMYkVnaHhKSFpEbXNsMXl5bjR6VTUyUTF2SWE4LWF6eTZPV1F0MGxTWDRLTDhGbHpMeElrdGJxdks5WTBWTjAyOTlrcjNaT3c3ekg3cHp6bkZpS2dCMXlZSVhTYlVNUXhSNlZueG11VllWbzhJdGhQcjZORFpaSjJOa0FNS1dudENKVzhYa1VhaXBTODlHT0xIYkpKSG1mWnc0UjA2SFg2N2oxR1loa1hxdG1kOWVj?oc=5",
+   "fecha": "Sun, 15 Nov 2026 03:07:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Zapala eligió a su Gran Campeona de la empanada: quién ganó los $3 millones y representará a Neuquén",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDhBejZnbkFCSzRaRUNUbS0zM21zSXgwWjFBR3FNRm1zZk9CTEJBVDZPTkpTdnFYS2FqVkVHdElSVUgtR2l6M1Via3RWanJHS3dZNzJrdlBjdlVoRXpjXzU2amV5Qll6ZTE2LWI1amRGbS1ydkZZMy1iMU9yUm10Z2V0VEFVYS1WRExfVEFCUUQ0UC1FMlA5UEVLd3RfQ25TWlRVN1FzaHBpVWpqNk5fODcwc1dlb0lIYWxKS1lrTzBqN0d5c0N5czJyUm12YnfSAdQBQVVfeXFMTmwxa212MlFLbE1HQkkySl96WGg1RkVILXdlQ2Q3NzB6SUlCQ2lmdFNsYk0tUVkwX1JCR05OQm04OFVDYkhNcXZyWTl4VXJ4QjIyNzV3WjhzN28wOGFZX2pfdVlsZzBMRlJ4dFV0NHBtREttblNiVkVSd3lPM0FCMWpBU1NISVNaR0RYZzZDNGtEVnRRUEVoX2RiSkI2YlB6eHV4RlExVjJ4bUl4N3hmeW13dmpObUpnZXAtWnVoaUE0OWd3YVFwX2xQRGVoWWdIdmh5TUk?oc=5",
+   "fecha": "Mon, 16 Nov 2026 02:01:00 GMT",
+   "fuente": "Lmneuquen.com"
+  },
+  {
+   "titulo": "La ministra Alejandra Monteoliva será sometida a una cirugía de columna y permanecerá varios días internada",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdlp5c2NMYTItUXZIdTZ2OElQSWo0WVFYbnFnb1NGcnFiXzY3QzgxZkNicWlLUGFjTEQzWngwNlMtb1JCZVdGanFXUV9iUGVpQ0VWUmU5bHlVOEhQQk5iNkd4aUxtSmJxREVram45S3dDZ1R1NVlNbFBXTTdEcS1yazVHYVZGcHBNZ1JBQ1B3UndLbGdidExPanlEajc4OHRnMlZmeElmNngwZm9XVVBmU2poWHFjbnFLZGV6cm9vSnd6Z0hYeGRhamdFSlI4VTRRT3F0S09GYVVPVW5td3EtMg?oc=5",
+   "fecha": "Mon, 16 Nov 2026 14:33:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "La Noche de los Museos: más de 150.000 personas visitaron los museos nacionales",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2ZfX2dsV3ZLak1xRFI0ZGZOd0hFTG5ZdVVYbXc4YXhacmdsYjZDZGVNdzZENzVlanpFZWQ0b3lTYlZKYTdpRUxjeEVKVzAyNDg0UG10WlhxcjhmNENBZEZLdjZ3R0wtVU9hTUN1MTdzNnVCNjVFUnFxVEN4b1JRbHF6MkMwYUZTNmJ5YldSdTdPbGFHVG5RaXRPeEFvMjZ2SWV1bjUwOERxWEJnTjR0ZkNqWnZBdnBBNTVMZzlB0gHYAUFVX3lxTE5ZN0ZCNmJpeDNRRVRtUkhEZkJubUgxUjdXTEF1cWJHeU91dGhubUFLRGlHOUdWcWMxTXlKMG1Wc0ZfOVVUU3JfenM3MTFUWDh0dVFyVU52SExsWG1WV3pXVzVGS3AtU1FXVk14ZndpNjdwN3VKalJSVzVraEh0NEhnM3ZaLXFqanlIRzNXbHg0UjNRc1pNUXg3S0RlOUhjU2Z2YzkzNXpsSTBDcDJScnI5MmpIblFMOGVMbm1PSHNKWVZtU1ZKTm5SdFVMSEhuaTNtcWNtaUU4Mw?oc=5",
-   "fecha": "Sun, 15 Nov 2026 15:12:00 GMT",
+   "titulo": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZi12M21ncTYtWkFrY0dDRC02WGZJbWp0TEtLRUZNNS1fN3BjQWU3SFdFZ3dnV1pDY1I3TkVQRDBPNFVSMTg2SmU3aG9yMlk4UnZvbEtQMThpbGZjWVhUSUZxSUFIeUNUUVg0TWdLbEY4MXNiaUtKZl9uNVZOSTZQZFN5aDZURWNuWVlWU2MxOGRPSjh4RFhLUThOLVh4UUJibDN3dGM5ZWtzYUdLMnBRMWE4azd0VUliNWJ0bl92R0FMVHNpMjVtMkQ0SnZ0ZE1hTm1CdlRSTThnSzNTWERxV3hER0xRVzBmZm9PN1EwYXXSAYsCQVVfeXFMTlZSU2s0d2VRZUdNNGpBdjhzTHN3VE1aemQ3elJhdTNNLUtoMUxMQkk2ekdQZ3V2UzFzb3lfSTl5UGZyYWs2NHUtOXg3OHRfVVNQRE5YejM3Q2tnczVmV3U1ekFiNV9wb1RkeF9WVHY5VTVWMW96TGhma2l6WkExSno4emJUdWlKNmI1Nm5lMlNGOWluY3hwd1ppQkFISzJ4VGdLYWZYWEV2TDlQUC1qWWZiWERmSjZ3ZUxuYzA0UVNqUUQtZUZYbVR4amRUODJvTFFqQ2Jad1JiSDNsa01LT283czNEOFZ4clplenBRNTZ3UUJVcjV3ZGt4S25aZXlJVmxEc0FRbHBCdkhJ?oc=5",
+   "fecha": "Sun, 15 Nov 2026 22:59:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Paritaria docente: cuánto cobrarían los maestros con el aumento propuesto por el Gobierno",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDdMbzFWOFpvS1lKSkdKVTlKS1pGTklGd2hvSnE2Tzc0VHJTT2YyQ0hFYlpkdHZrMnlRVl9nbTd0aW04cjlldWF4T2tzMHRiTURMdU56VFZMdVp4OWpmWmFqMVJCckNPdHNXbjUySnluN0loV19jMlVhVmpYOTVhbF8xLXNGRktsa0dLYXVYcGM0bEVHVWd3WHc3cFplcmvSAZgBQVVfeXFMTXVKUGFZZThOcUluR3BVZ3lYUDdHMVgzSkpTWmgtZkRkM0tHSlJud0wwbUFzSlNMa29RamJ0LVpuSmo5TFlOQmRKR3ZGd0tCS1hWdmhDZktQc0YycTBZa2I3dW5WWi0wUkNSNE9aekNqQm1MMzJ6MUZ5RVRBaVJYcFVqenFqTlY2V1psNGhodUJWdWtOREwtTnI?oc=5",
+   "fecha": "Mon, 16 Nov 2026 08:25:19 GMT",
+   "fuente": "Elonce.com"
+  },
+  {
+   "titulo": "Una nueva etapa: Saturnino cumplió un mes y cambió de playa",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON1M2WFNXd1dadGRxaFhRRldya055Wm81Vjh3NXZfYzhxRFRObjJ6NXo0SUFZaUZ3RFE2R2lnN21NcDhUa2pYd3h2cURJejlFSkVkRnVCdGd6eFczeTRuZU5IMEJxV2NHTzZ4T3gtLVBQTnV5UmV0N2l2OTk2amhTR3Y1djZtUDRXTHNoLWp3T3hxZw?oc=5",
+   "fecha": "Mon, 16 Nov 2026 16:13:17 GMT",
+   "fuente": "Diario La Capital de Mar del Plata"
   }
  ],
  "finanzas_argy": [
