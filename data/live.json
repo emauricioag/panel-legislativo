@@ -917,8 +917,11 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-15T21:21-03:00",
+ "errores": {
+  "noticias": "HTTP Error 503: Service Unavailable",
+  "nacionales": "HTTP Error 503: Service Unavailable"
+ },
+ "actualizado": "2026-11-15T21:47-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -964,9 +967,9 @@
     "fuente": "La Derecha Diario"
    },
    {
-    "titulo": "El gobierno de Kicillof amenazó a la Policía para ocultar la humillación en el operativo papal",
-    "link": "https://derechadiario.com.ar/politica/gobierno-kicillof-amenazo-policia-ocultar-humillacion-en-operativo-papal",
-    "fecha": "Fri, 13 Nov 2026 20:48:04 GMT",
+    "titulo": "Gestión Milei: Los salarios del sector privado registrado crecieron 1,9% en septiembre",
+    "link": "https://derechadiario.com.ar/economia/gestion-milei-salarios-sector-privado-registrado-crecieron-1-9-en-septiembre",
+    "fecha": "Fri, 13 Nov 2026 19:45:56 GMT",
     "fuente": "La Derecha Diario"
    }
   ]
