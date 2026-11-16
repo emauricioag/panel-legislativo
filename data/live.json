@@ -7,23 +7,23 @@
   },
   {
    "casa": "Blue",
-   "compra": 1565,
-   "venta": 1585
+   "compra": 1570,
+   "venta": 1590
   },
   {
    "casa": "Bolsa",
-   "compra": 1582.1,
-   "venta": 1584
+   "compra": 1582.8,
+   "venta": 1584.5
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1679.6,
-   "venta": 1680.2
+   "compra": 1680.6,
+   "venta": 1681.1
   },
   {
    "casa": "Mayorista",
-   "compra": 1539.5,
-   "venta": 1548.5
+   "compra": 1542,
+   "venta": 1551
   }
  ],
  "riesgo_pais": {
@@ -588,16 +588,16 @@
  ],
  "noticias": [
   {
+   "titulo": "En el MACC se proyectará el documental “Industrias Perdidas II: Corrientes, tierra de astilleros”",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0FqUDFhOEN6ejZ1WEVEc2NEZ2tMbmpRbFZiTWlVM3MzQzhEdmw4Ql8xSC1COS05SmJaOW11RzY2czFxci1ZaVpsRFNtUmw4QXJYckpjUXN0SUxDUnh5eGtFUlVTTFpvblhtdkI2bGNaQ3QzUks4Y2pKeE1iQkFoWE5jNld6MlBhRnpPU0lkYXA3SUdLbnBlbGlmU3hHam9lMjRGMXQ5LXphYTZwc29haEd3bGVmQXNCWnRnQ184QVVfQQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:58:39 GMT",
+   "fuente": "Instituto de Cultura de Corrientes"
+  },
+  {
    "titulo": "Corrientes tendrá un rol clave en el Senado por la reforma política y el futuro de las PASO",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLU9haVdvWkcyZGhOQ3VJWWhyaVpQT3cteG5NNjM5dzlBUmpDMDNqbkxITWdRQXBZS01zeUI0Y2RDN3lxLUpzZEIzRVZlV2JEVmZUaTc3MnliaUlIazRCSHJZRV9oLTlNQUdtcnFNSzBSNmpEZUFOd3hRSDN3ejVTQlQ1WXVMcjgwRmpnb1pMV2JuU28yRVFmTEY4T0Z3R0RZQjhXRV8wRHN4c29MVVFfMDYxMlF3R3ptTmh1MXc4Mm5zU1lwbTFZb1N1M2tnOGxZVVUzTVBJT1h0MjdjVU8ydDBHUkE?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:42:43 GMT",
    "fuente": "Perfil"
-  },
-  {
-   "titulo": "Baja el Río Uruguay en toda la provincia de Corrientes pero siguen las recomendaciones y alertas",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZl9oa2lqVFlBUEtDYlJzenF1anY3d0RoSWRUWnhRRm5pM0pyWURYamwxR3Q0V2V1NDhBa0YtU1hEUkZzZzI3QVhJbm81QkZCNWpKcGhUMmpHdzRIRDBMOWhtMHdNN1N3UHJ0c3YtWG4zS3BOWGlXRWhsVzRkd3lvV2RxVG02MEJFTWhBQW9ZeEJDSElvM3ZXSWg1bXdqZGpaNGl0SUZBM0tlMmR6ZWVJTE9KZDdEMVg0NjRBMW5hbXlRLWlWUXR4SU9rOU5KRlZzcVpKdkdUTWtfUWM?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:42:51 GMT",
-   "fuente": "Corrientes Hoy"
   },
   {
    "titulo": "Corrientes: A partir de hoy, Provincia paga Plus de Refuerzo de noviembre",
@@ -606,10 +606,10 @@
    "fuente": "El Comercial"
   },
   {
-   "titulo": "En el MACC se proyectará el documental “Industrias Perdidas II: Corrientes, tierra de astilleros”",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0FqUDFhOEN6ejZ1WEVEc2NEZ2tMbmpRbFZiTWlVM3MzQzhEdmw4Ql8xSC1COS05SmJaOW11RzY2czFxci1ZaVpsRFNtUmw4QXJYckpjUXN0SUxDUnh5eGtFUlVTTFpvblhtdkI2bGNaQ3QzUks4Y2pKeE1iQkFoWE5jNld6MlBhRnpPU0lkYXA3SUdLbnBlbGlmU3hHam9lMjRGMXQ5LXphYTZwc29haEd3bGVmQXNCWnRnQ184QVVfQQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:58:39 GMT",
-   "fuente": "Instituto de Cultura de Corrientes"
+   "titulo": "Baja el Río Uruguay en toda la provincia de Corrientes pero siguen las recomendaciones y alertas",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZl9oa2lqVFlBUEtDYlJzenF1anY3d0RoSWRUWnhRRm5pM0pyWURYamwxR3Q0V2V1NDhBa0YtU1hEUkZzZzI3QVhJbm81QkZCNWpKcGhUMmpHdzRIRDBMOWhtMHdNN1N3UHJ0c3YtWG4zS3BOWGlXRWhsVzRkd3lvV2RxVG02MEJFTWhBQW9ZeEJDSElvM3ZXSWg1bXdqZGpaNGl0SUZBM0tlMmR6ZWVJTE9KZDdEMVg0NjRBMW5hbXlRLWlWUXR4SU9rOU5KRlZzcVpKdkdUTWtfUWM?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:42:51 GMT",
+   "fuente": "Corrientes Hoy"
   },
   {
    "titulo": "En una apuesta que desafía al contexto, Corrientes inauguró en Santo Tomé el 2° mega-aserradero de la era Milei",
@@ -624,6 +624,18 @@
    "fuente": "Corrientes en el aire"
   },
   {
+   "titulo": "Corrientes: Eliana Samaniego es la nueva titular del Consejo de Educación",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnJ6bzdNTHQwWEt2Q0s4RDJOMTFsTm51S1ZoREVjR1VuaHJrVTNFSlJhWG5Fb1ZfdVluWWdxUTlaQ3pNbHU3X1lOSUxKZmVmMTZwWmN0aHdwTXpnUVF1YTZ4TFh1Uy1GTFY4WUhEM19LZUdrWjhOSFExcXk4MHF4VXlLRnR4Qk1uWEVJZHpMclpfVDlqZTk5X3J0MGNYMnZGVXJuMFpPN2FRNnRqOEl5dFBweklGZjZ2SHBVb3QzQVl5UDBTU3BaN0FZRQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:19:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "El ministro de Hacienda de Corrientes apuntó contra Nación: \"La reactivación que dicen no se da\"",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcWFwUWZkVGczNy12X1JxTl9HUksxLUVYRy10NlRYMWszSF9MM0JTX3hKLW40U0Q4dlZ1bjJnMWJtWDJ3WDB1VXB6U25jMDFMQWRPSno1X3NJTTdNeFZWT1JDbWpkX1hVY09EM3dfMHRYU0xXd2pPN3I3bUtkVl9SU2h0amtCdlFybFV2WERkd041Tmo0MjUzM1NMQW1kVXlFWXRqSlprdVYtOTBhZ0lXZnllY0k5bGxoVmhmVVE2X0hwcHF2d1F5TlhDUVoxX2RBOUlOcUN2bE9KanEwWHh2R3N2c1RiSl9aVVRWWW5MOHFTRTRpRFNsWjBzOA?oc=5",
+   "fecha": "Mon, 16 Nov 2026 17:36:42 GMT",
+   "fuente": "Impacto Corrientes"
+  },
+  {
    "titulo": "Corrientes es la segunda provincia con más personas afectadas",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXZndEwydGxSQzI0T01Dcy1KNFBVa0ZXUG1PQTlEY3V5cUFBajhoeGt1bXZYSWFPOXl3N1ZGNk1lVTZWVU5qYjA5eURTT2VfeEZzbUpndGxfcUVZdU1JRFdlNFJOdVNfbTFEQU1sNXJlUWJYSUs5bVdWQ0RfT04xWFRvUkNsRC16cE1wNEU1LXJEUU5Zc191NmR3TVJlUlVsS1JHTE85OVNydHFIQzJzcl9B?oc=5",
    "fecha": "Mon, 16 Nov 2026 12:05:47 GMT",
@@ -636,10 +648,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Corrientes: Eliana Samaniego es la nueva titular del Consejo de Educación",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnJ6bzdNTHQwWEt2Q0s4RDJOMTFsTm51S1ZoREVjR1VuaHJrVTNFSlJhWG5Fb1ZfdVluWWdxUTlaQ3pNbHU3X1lOSUxKZmVmMTZwWmN0aHdwTXpnUVF1YTZ4TFh1Uy1GTFY4WUhEM19LZUdrWjhOSFExcXk4MHF4VXlLRnR4Qk1uWEVJZHpMclpfVDlqZTk5X3J0MGNYMnZGVXJuMFpPN2FRNnRqOEl5dFBweklGZjZ2SHBVb3QzQVl5UDBTU3BaN0FZRQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:19:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
+   "titulo": "Siete Puntas Digital",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHJLbmZ0R3JqRlg0eFJOTEE4Zml6T1Z0aUJoWlJ0azljV184WHJwclRzRl9jc04zZGFpRVFSNWVmdWQ5TEZXNGxJNmVuNkR4UkFpZDNBb3JzRDNFLTh1bXhOcWZWX1JiWU1fb0p0XzA0bGlxMTNpNmhha2RXS3QybkVLTzM4TVU1TG90dVI3T2E?oc=5",
+   "fecha": "Mon, 16 Nov 2026 14:28:15 GMT",
+   "fuente": "Siete Puntas Digital"
   },
   {
    "titulo": "16 de noviembre: una fecha marcada por la historia, la cultura y el reconocimiento de importantes figuras",
@@ -648,34 +660,22 @@
    "fuente": "La Red Corrientes"
   },
   {
-   "titulo": "Hoy comienza Tecnicar 2026: la Escuela Técnica Pedro Ferré busca defender el título provincial en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5feHZJdVZmb2d6ckxmV0lvWjZnUU1IUUdYSEtHczZ0c1ZqV2V2NkRVQ0lZMGIyRDJsR0Z3T2x1REsyaVE3RTJ0bU05UFZUSnNaTGtNN0NVTmwzbDJPWUZmSjN2WXZkbXZETWs4S0xjSEU0T05jTlRJ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 10:56:46 GMT",
-   "fuente": "Monte Caseros Online"
-  },
-  {
-   "titulo": "El ministro de Hacienda de Corrientes apuntó contra Nación: \"La reactivación que dicen no se da\"",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcWFwUWZkVGczNy12X1JxTl9HUksxLUVYRy10NlRYMWszSF9MM0JTX3hKLW40U0Q4dlZ1bjJnMWJtWDJ3WDB1VXB6U25jMDFMQWRPSno1X3NJTTdNeFZWT1JDbWpkX1hVY09EM3dfMHRYU0xXd2pPN3I3bUtkVl9SU2h0amtCdlFybFV2WERkd041Tmo0MjUzM1NMQW1kVXlFWXRqSlprdVYtOTBhZ0lXZnllY0k5bGxoVmhmVVE2X0hwcHF2d1F5TlhDUVoxX2RBOUlOcUN2bE9KanEwWHh2R3N2c1RiSl9aVVRWWW5MOHFTRTRpRFNsWjBzOA?oc=5",
-   "fecha": "Mon, 16 Nov 2026 17:36:42 GMT",
-   "fuente": "Impacto Corrientes"
-  },
-  {
-   "titulo": "Lanari lleva tranquilidad a la provincia ante la llegada del dengue",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRG45YmdheDVEUm9SblBmUTg1c3VxRXdlamxyQmRaMVZGRVhqVTBvTDdnSlI0TlZuYXdIUE5ZcHUwQ0R4V0pWalJpU1dPTHdOb3N4N0RzcTZpWW9ERFQwcXM3anFjYldfX3RPY0VUdUwwZDRVcXlhU0xGT2N5S3dpRlU4N25ybFYtQ213dGdGWnNZMkRNNDV5Q3hXRGFlMHlYeHhfUFZKSThGWEhfbjg4?oc=5",
-   "fecha": "Mon, 16 Nov 2026 13:07:53 GMT",
-   "fuente": "Corrientes en el aire"
-  },
-  {
    "titulo": "La chilena Bosques del Plata vendió sus 65.000 hectáreas en Corrientes y Misiones a Grupo Faro Verde",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEFWbDI1dnBxQjBjcWh3WTZPcnNsdHNteFVmdVFNbGl3Uk5yYk5mUGZleTROdzl6bVBmUy1naUtiMUtQTTFYb1hGLURYd2NSRmhvN2xWaG9pVWEyY2ZWc0FUSHhES3F0OVZsaGd6U2hCN002Wmd1TDYta05wVS1NSUlLNDJKa21RVFVXVklOT1cydTdwNlZQU0pHblNWSFlPTkh5WWtuQVFETXNybXMwdXFJanN4Q0pSUVNPSzFoNGNyX2MtZWlTaV84dEVWYVdpNHdnZ2Y1V3BnZjg?oc=5",
    "fecha": "Mon, 16 Nov 2026 16:37:21 GMT",
    "fuente": "Plan B Misiones"
   },
   {
-   "titulo": "Corrientes: un camionero brasileño fue sorprendido circulando con 1,89 de alcohol en sangre",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTByOXNFMDJhd0hZaldfUWY4UWUydlZjMndNMHdfb2t6NnlNTDBGMjN4WjZneExUc25uVWxZdjl1czE5Z1VNY1IwMFoydW92LWl2c1lkYkQ5OE9TNzV5T214S3lkNVhUNzRLT2dVRUpGck9sSTBWczA1b0hsVzZBa0Q1a1NVMGpVR1hrbk9pMVc5ZXJwR0pLZGZadHRuNVVrSThlYXF5UE9pZS1oTDhoYXFYbUE0Qk1yTDhyaHVkVnI3Z0dUOGNIbTR1YUNfZlVDeEQ4?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:28:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
+   "titulo": "Corrientes tiene nueva Presidente del Concejo General de Educación",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcThqd3NabnFGNlRpeGQ2SkgzTUVCdmtfX1U3UThtOENUZDcxN0NDOHpUUnhPRXNZeGhSTC1yQ1lSUHVEWTNOeUJHQjViRzJ0ZnptNzhrdWhDbThsdFVKckdyai1Td3IxYjNoUmdaT1N5U213bm9zMkg0QnFmMGpGY1FMUGZQUWl3MWw4eFotVmlNTTZ1dFBlN09aYUhhRUwxQXFGU2h3Nk9fa2REeHlF?oc=5",
+   "fecha": "Mon, 16 Nov 2026 17:52:13 GMT",
+   "fuente": "Corrientes Hoy"
+  },
+  {
+   "titulo": "Lanari lleva tranquilidad a la provincia ante la llegada del dengue",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRG45YmdheDVEUm9SblBmUTg1c3VxRXdlamxyQmRaMVZGRVhqVTBvTDdnSlI0TlZuYXdIUE5ZcHUwQ0R4V0pWalJpU1dPTHdOb3N4N0RzcTZpWW9ERFQwcXM3anFjYldfX3RPY0VUdUwwZDRVcXlhU0xGT2N5S3dpRlU4N25ybFYtQ213dGdGWnNZMkRNNDV5Q3hXRGFlMHlYeHhfUFZKSThGWEhfbjg4?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:17:35 GMT",
+   "fuente": "Corrientes en el aire"
   },
   {
    "titulo": "El campo presiona para que Diputados apruebe la Ley de Biocombustibles",
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-16T15:47-03:00",
+ "actualizado": "2026-11-16T16:14-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -979,28 +979,28 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Neuquén en modo electoral: los partidos mueven sus fichas y se delinea el mapa de acuerdos para 2027",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkljREh2bDJ4RkF6Q1BWUmRuc1hFazFqekZKVUJKMkpjay1ZcmV3a00tbEZaMjZ3bzFMNS1VVnM0ZkcyT2tlMW9iczNmRzlMcGlXSmhUVXF2a1FqVG1YUVJZaWFQUk93RTBCekpiOXlUWjBwNHB2NGN0elg1NDUtWkxGeWVBNjBDdVY3US1NcjJXTWlYQzcxZlRmeWhWcGdMYWlPeTA1RUxKVmFsVXVGRU05Wl9Gc05Od2FnSUlqbnFlRVhYRmJNNjdIVm1GRUI5NXJ30gHbAUFVX3lxTFB6ZzUtM0k3TG9sdTU0ZVpPcExwLU9CSGl0Rk1sNnRxSlp0SDZWaU9BU3Rid3FLVEEzNmRzNm5VcWFGUWY5N1hkcUZDa3JiTThLV3pBSjFJZWE5bW5mZ3dHUXVDN3JSa01rQWJYUHl1UmFkT2w1ZVU2RGkxaG5NSXdWa3c5ZFBKLVVBbXRCTXlvcnNVbldlNTJQdVN5R01LRUFCaHN6clFydEt1MG9BS1U3Y2wtM1JaVEJNUHM1YUpab1RIWGIzRXFmMk1UMTFMR2dVUWJRS3Vsc3ctSQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 10:00:00 GMT",
-   "fuente": "Diario Río Negro"
-  },
-  {
-   "titulo": "Reforma electoral: el borrador del Gobierno incluyó la suspensión de las PASO, un nuevo formato de listas colectoras y Ficha Limpia",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWk2MEF1eGhGdFlKYzI5SHJpSEtBWl9Pb2VMNV9LMGdFaDZSMGpmdE1aNTAyNi1PdHZvLUxHS1VuTVRlcnNtdzBCUld5bDN6dmhKODA3Ulk5SENZS050NWN0WEtFSW96czBJWmZhS3B5UkZGRkJ3THJSbThPS3VlTDZud0RUa1RCWnlPY3dMSGcxdkdUNS11cENRdUhjNi05cWVENlhfd3l1akpoRjJieVZpOU9hRU80YldHZFRNUXRUYWMxNUlFbGFrcHc3OHByOGVfMzJjcDNBWnpnY29OdE5LR2xsTS00RVhIVjRjOTFMcmt5elR3eUpFNHRyd2dxb2x4TtIBnwJBVV95cUxOMVFPc1dUcTkxVTJHQWVaYWFjempTTkRhT0RPRFRPOW94LTJBTnc2azJyM25MU0NkMHpZckJUMkJYNHZ6TDRzYldLUTA0X3JiN0JJRjlOcThNdXBYR1M3SXhmS1J3M01tSi1IajhfVHFiT3NqUWlnaWo2aUI1eXdBRUhtRzNEX1lRNjBsUE9GTm9LbExmNDFiYWdyTl9qa2pISFc4QklZektCb0pQUC11TjRsdnlTV2ZfeHVCelpMazA2VkJZbE94NjBpVGd1RGJIa0s4RnlQaE1YbWVVVG9tMWR3OEI2ZXVqajlMQ3d2dGxrSlJocF8welRVUlJhZFRDa0dZcXhwbmZhX2Y3cE16VWc0cThhNFdCdUQyc1BHcw?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:24:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
    "titulo": "Alejandra Monteoliva será sometida a una intervención quirúrgica",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHU3WG8tREtlbDYxY2w1bGpfN21sUGNMM1NLa2lVS2VjRU8tRHFJTFd5UDUxX3o0SmQ1ZURhMzVZQWZlN1FEOXBIZE1Va0ZudXBnR0hVdk5KM2k4VlQ5NTVrOVpPWmFmU1E0T2RLd3lwcFdIUGd1b1NQWkxKUW45SU1BakQyeUtURkpNRGt2d3V1M3pNMVZPSldxaEVHNzNCTjhEMEVXUnFGc1gycEHSAcgBQVVfeXFMTXhfSC00ZHFrdEQ2dms3ckRFXzFIM3o1UF96VUt4Q2ZKZFBWdkFXYWFTVzJXb0c2X3pwazg3Sk41bExkc2pRUG9MMHRBSi0zbkE5X2xOUXlEXzhCbWJDT1g1dUdPZGZzZW5iOEJ6TmhsWFdwMFJMSnNoc0xlQjJmTDYzVV9oT2ZkbzVobFJlTXNUVXVSY2MzRENXZFozWGtoa0R5cHFiYzZqcU1WQlRqR05XUm1CelNncEx3TEhJWlJEcTZOVVVuVGg?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:13:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "Federico Beligoy recibió más de $420 millones de la AFA, con pagos en efectivo y facturas por “asesoramiento” y “seminarios”",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUkJKSFZwQjFncXFLSE5mTmhLVDNPbUxMVDlWZkRzQXNWSE14VDdqTldTTWtoVk9SVzZ4Qno1Tmxuc3RxRDg2a1lmdHhzLVdISVpzSVBTd2diSmdaOVhjS1JOWVMtNDd6R1FNMzloRWdwLTI2RUl1cU5Wd3BHVlNvVXJ3RzB2MWtRb0RwS3RuOWpxcHVZUWk1ajY3WURIcmNXSjRXQS1YZExQVmhxLTB3S1lSNXViMjdPVEdPS3ZQVzlkeWJrdlpoUzRoQmZfcFFhblVuS2s3Vko?oc=5",
-   "fecha": "Mon, 16 Nov 2026 13:36:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "El Gobierno de Milei busca eliminar las elecciones primarias para llegar con ventaja a las presidenciales de 2027",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOVFFemNtRi1HcTQ1cFFCV21feHNDMXg1STF6eGVOZ1BnaWtfcm1EQTEzM3g0SlBXOGR3LXgxR09JeW1jZi1zdHpwNEJJcHR4dDU2OGRULVQxS0p5QmRYcklVQnQxNWFPWWltbk9kX3VjakhjZHNXM2RFRC1zOUUwS1JzOTkwUVowdHdJZDE4THZpMDJadzAzTWVnSEctVDJBbGNWQWNpOGl1V3kwdWtYRURocmdqY0huUE1LZEpIX0Jtd2hwazZGcTlUcDlkVHZQTzF6Snl4bWNYNVA4T0dpeEl6Y0U1WHltcnpuRFhjZ9IBgwJBVV95cUxPVzBEWlotbGppbWl5UXIwdzF4WW5Eb0RnazRrMzViVVIycVdBNW1QSGVScnFsd29tRGl0QXVNdDdzSElFVEhNdHcwMlBXSDRtdUR5ZHRxbU1TbjJyRHY1ZUZBam5UQzlma2xzSTlqd1VNRnNUY1lnYkR0ZXN1RTV4MFlJYVdWMzJWdnhzS3dCVFFleFlZek5JM2RTbldtYTBQbXZkMGplcVZJRVBjQl90RE96M1NzRkVFZWpsd2VTTXVjZVk2NlRvMnExX2dYQXRnMThRY1I0ZzNvUHFMQ2xfUU5IZWRxcXZoLXdzbTJvT0ZsMmZVZUtFbDVXRU1DM3ZMVV9j?oc=5",
+   "fecha": "Mon, 16 Nov 2026 09:30:00 GMT",
+   "fuente": "EL PAÍS"
+  },
+  {
+   "titulo": "Mapa completo de las elecciones 2027: una por una, cuándo se vota y qué se elige en las ciudades de Neuquén",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdl9RN0NWMlBFVnExV3paY2w4M3ZGMkpyYlE0LUU1dkQ5cEU0UllrbHpqeVRXSHlOamx3UnhlMnhUdkJNTDlCNUFmR0dURnVqN3FHWlRsV3JyUE42WDF4QTJIMXhQQVZ5QURTR0g1RS1LU3VBcWxJdHdtMk54OG9oZWZSX2JXa3JmMlBXM21NdmNEUlZBanlISjl2UzczOENrbXo5SG9FNG54OHdDeGl6akc1eFFPdWhRN043NlNZUVVsTmV0T0ZEa1gyWDZjQ0Zx?oc=5",
+   "fecha": "Mon, 16 Nov 2026 10:31:00 GMT",
+   "fuente": "Lmneuquen.com"
+  },
+  {
+   "titulo": "Semana clave: el oficialismo acelera en el Congreso por las PASO y el Presupuesto 2027",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0xBazNJR1NNY3BsS1djWkRKLTR1ajMtSmlrZHVQOFVCMzlfUmJwcElPTFFaNWJfVFQtTjlrVWpOa1lRWUpobUIxU2w4TWRzNlNxSF9wVjE4VzdaVlhaeG5XV1FPWkFWdXhhOXBCWXZUT25VYzRkVFRGRl80TkRmMUVtcHV0QjFpWWNRQXFua0JfOTgzdU9kU25tX3V3ajFCaGRqTTFyTzR2LTFBb1pnQ2Zaa2VmVkdmWkNZQW5XX2o4V2VVMkhROUt3?oc=5",
+   "fecha": "Mon, 16 Nov 2026 02:36:32 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Bahía recordó a víctimas de incidentes de tránsito con un emotivo homenaje en la Plaza Rivadavia",
@@ -1009,10 +1009,22 @@
    "fuente": "La Brújula 24"
   },
   {
-   "titulo": "ARA San Juan: a nueve años del hundimiento, familiares renuevan el reclamo de justicia",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUVnLVY3REFQNW9BbGV0c2FrWlFlMF93MndrTGdnck9CeDNCLXVneWdLTTFBa3J2ZWNYUUNXLUt3MFIwdl9YRHRHOC1zT2ZQdlpqQzd1T0E4QnJCS3VuQUw0UEhPVzBSaDNkUFRNWW1wRk5zSHpyTndsd3lpaHUzV3FueTRLNVJkS3Myci14MkFMNDNhcGZET3ZsR0ltQ2JDby1RcVNGX25GanpHTUtTbF9oQXBkZHpTZm91QdIBwgFBVV95cUxNZXdvR2Y1QjBQcDhCY1JvV2tWbzl4c0JWdzloUnktOHlnQUpzSFRwallmZTZIYTlGNHJEVlNIOVphbEt1RHZvekFyQkgzM2c5SENJT1V0clhxbk5WWVdsQXFMNDFGMkphMG1yVXFyd2RGWENlN2ZzdW5OME53aDZER0lsTkc4M2RJa3RKQlprZWdBeHFVZHpseS1JSnJsQ3V3Zjgta3V1LXd0b1JPdVp6akZFUHpjYmZnWUFVbFdXY2R6dw?oc=5",
-   "fecha": "Sun, 15 Nov 2026 21:50:04 GMT",
-   "fuente": "Ambito"
+   "titulo": "Comienza una semana con agenda cargada para Milei: reunión con autoridades de Toyota, lanzamiento de Tesla y un encuentro de polo con Adolfo Cambiaso",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOME1LbDNFUUdGeHRtT1pWMnNQc3FZZUMxRTBuSjZ4S2xuNGZPdllFME5XcVhHMTVQRWU2VnhRc0MzUFI5cjV2N2Nxd19sR1hYaG1MY3ZXZTNCVndtWXVVc1ctUDN4RklVUTNQV3Z3SV9RcS1adlRDdmFpMFY3YWhuNnNBdXJEYktxa1RCSzRBa1JuVmxUX3JYNHhaRlNBRXlMQ3l6QmVGdF9WNEk5eDN4VDlPREdSS0ZEWDl4czlLTlFIVlV2aGwxLXp6Z1JOMkEtNmJGX1FOeG5oZkl0UFRBTHk5Y2VLYjNfamFlX2xLUE9feWhX?oc=5",
+   "fecha": "Sun, 15 Nov 2026 21:13:44 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Dólar blue, dólar hoy: a cuánto cotizan el lunes 16 de noviembre de 2026",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalItRXBjSm9Ob2JTRVROaGt2NWtWN2lSQWphT3R3ck5WdFo1WEZRa19kMzVPYklvajdvR3pncXJNLXhCNVhiVEQ5T1ZFWV9GYnBubGlNa1V3bkVULWF6Vk0ydVloUkdyTGJWU1ZjYm1YdlRxRDd3bzYxWnlzV2RvM0MyWWNTUUFmTnBfSmVoajZRaUpVdUNsLWtWVGJLNVRpdUZuQk50Q1Jjb1FxdVE0?oc=5",
+   "fecha": "Mon, 16 Nov 2026 11:50:00 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "“La 40 por los 44″: una nueva travesía para homenajear a los marinos que dejaron la vida en el ARA San Juan",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPamYzTkVPLXE4NU94c2tlRHBuSTROcGFGdGM0ZUNlekl1aFFPUWxfbTAycW1rN016TWZ0eFZUbVlwZHpaTkNFcDhLcDhKWVBSUG5yM0xiUUpNVjZaX3JDelNPbXRscTlfX3kzZS1qRFE3U2tHY24wOW40Ny1sdTNmT2FBcDlBWUpPQWJzOW9GQXEwOHRtc3BTMWJLLVZWdWZWdnhLTXdXVXFQLTFUSjc2RHpscVQ2RFRDS2F5OWhxc1NGTGJCQjk4M3JlOF9jb3h3WmFrSGh2aloxZkhSdXBvOFBiYw?oc=5",
+   "fecha": "Sun, 15 Nov 2026 21:20:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Otro golpe a la industria: el Gobierno modificó el “compre nacional” del RIGI",
@@ -1021,34 +1033,10 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Massa confluirá mañana con el PJ federal y toma forma una nueva corriente interna en el peronismo",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWNSVVM0VzAzVXZxWEt2LTFqNHFkenNFQUhoOHJtRDhVdmV1OXQwVm5EWkZMMUNteVRQdkR0SFhiYVhZUGxjOEFxWjNlRW92cXZLOHdiM0dtODZidE5NYVc5QTJqWkphUlhlWE1nc0hEWENUdGRxZ3U1YUpfUVlkejdRY3JpVDBwMDRWTW92dVVJaFJuUEhFR0poOHh3UXlaQ0tQVjUwWl9HVzBoOFNoU1JrWWgybVBOS0MwYkZoTXhvdHZpUk9wT1ROa3gxdVV3XzNSTzhTcXJvUFJRaldIdmpmTQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:25:00 GMT",
+   "titulo": "Federico Beligoy recibió más de $420 millones de la AFA, con pagos en efectivo y facturas por “asesoramiento” y “seminarios”",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUkJKSFZwQjFncXFLSE5mTmhLVDNPbUxMVDlWZkRzQXNWSE14VDdqTldTTWtoVk9SVzZ4Qno1Tmxuc3RxRDg2a1lmdHhzLVdISVpzSVBTd2diSmdaOVhjS1JOWVMtNDd6R1FNMzloRWdwLTI2RUl1cU5Wd3BHVlNvVXJ3RzB2MWtRb0RwS3RuOWpxcHVZUWk1ajY3WURIcmNXSjRXQS1YZExQVmhxLTB3S1lSNXViMjdPVEdPS3ZQVzlkeWJrdlpoUzRoQmZfcFFhblVuS2s3Vko?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:36:00 GMT",
    "fuente": "La Nación"
-  },
-  {
-   "titulo": "Un apostador ganó más de $486 millones en el Quini 6 y ¡el Brinco quedó vacante! Se vienen nuevos pozos millonarios",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVFV2RGhwY2dMY3VNQ1Q3bFpMTGdoUG5FN01JTVptQ0VZeTlPVzRsWlNrZmtBMGpOcTdWWURVc2F4QWhFNW9jR1ZjX1lvU1RLYlBScER5ZFRCY3pWUklzMmRKaE9mSlNVeTNCQ05uSjl2Q1Q5eU1PUVBpVEpYd3NGVi03X1lmeVRtemZCOHEwYXg3eDFITmZ3aG9zV2JkbTBzUFBpcHQySktXb1RjdkN6TnFtMFIyRi11bHU0UE5uQTdubzFXcFNwZjRCdWVIZjNkbFRwWjltTVVGbHhWTWZYWXZwVQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 00:52:46 GMT",
-   "fuente": "ReconquistaHOY"
-  },
-  {
-   "titulo": "El Gobierno busca aprobar la Ley Malvinas antes del fallo del Tribunal del Mar para reforzar la presión sobre las petroleras británicas",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQnhsWUFIQzl3QjRZY3ZvLWx3b0RDejV5MnhRUS1MbnRjVm1MY1B6Rk1Rb3JnNUstbFdZWkR5NEZfdEpSbmkyVkVSSDNFZ0JQSTVsX2hGR1VpaElCRXo1TERzelJqZ0Y1ZGkxbkdVNjNTZDdVeG5TejN1RlM2WnlWMWVHREhYWlp6eG9uT0hacE1kR09RVmg4NXY2b3pxeEJJa3B2ZVNvZkgxWm5CQXM4c0QtcmI1MnowRkNjZnVhaW92bzhJQjE0djY1ZFdSb0hqU2dlSTZLWFhwWXdkMjRtNGJOT09WeTZ6UGpFZUx1NEEydWVNNVHSAYoCQVVfeXFMTTIzV1RvSC11ZVR3V1dDc3d1ODAyZUdjcDE0MGdRWFZTUUZ2NmRhVHJVU0RGc2QteXVwVWVNQXQ2X3E3MTRwTG9sRjZvU2VnTkZnRks3UGxQUlRIdWlqY3hxMzNobFBMQUV2YWNINzlrMzFCYjd0RE4td29Qdkdpb2xYWWFBTGxBZDlvVXBUbHVBdkwya2xVejRueWFnS3RENU9LaE93ejhDQ2l0OFdXSjZaR0VFMmZsMnlGbllpalE2SDl0RWswa1dMWWpNTkxEdllVdWZ3cmp2VS1XZEozM1NTNklIQ19ETTJ1UHk0eGx0SnBzTEFCdERQTDZoRDBwWklITGFvZDB0Z1E?oc=5",
-   "fecha": "Mon, 16 Nov 2026 08:46:00 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "La visita del Papa León XIV \"ayudó\" más a Milei que a otros políticos en las redes sociales",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczdGMTVVendYRWh3SWJEeVFoWkhTMEl2UXc0R3cwdFZoYVk3LXV2eXN4RmpfRWNoa0YwT0dKQV9FT1kzNmk5eF80V1FfM1lGZ0hkMkt3cjhIRzIzZ2YxeEpYeWZNcnVYczFwaVpZVUVRbWJEckVSNXI5cEU1MHBsaG9CV0FYMGZLclVVYVZvTXVuRVBPWG84Rmw1LV83VHIyV00zQ2lmVlQwaDQ2cHA4THNIYjNlM0ZUajY0NDlKa2FfTUh0OVlGNzhDX2VoNEU?oc=5",
-   "fecha": "Mon, 16 Nov 2026 13:22:23 GMT",
-   "fuente": "Perfil"
-  },
-  {
-   "titulo": "Comienza una semana con agenda cargada para Milei: reunión con autoridades de Toyota, lanzamiento de Tesla y un encuentro de polo con Adolfo Cambiaso",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOME1LbDNFUUdGeHRtT1pWMnNQc3FZZUMxRTBuSjZ4S2xuNGZPdllFME5XcVhHMTVQRWU2VnhRc0MzUFI5cjV2N2Nxd19sR1hYaG1MY3ZXZTNCVndtWXVVc1ctUDN4RklVUTNQV3Z3SV9RcS1adlRDdmFpMFY3YWhuNnNBdXJEYktxa1RCSzRBa1JuVmxUX3JYNHhaRlNBRXlMQ3l6QmVGdF9WNEk5eDN4VDlPREdSS0ZEWDl4czlLTlFIVlV2aGwxLXp6Z1JOMkEtNmJGX1FOeG5oZkl0UFRBTHk5Y2VLYjNfamFlX2xLUE9feWhX?oc=5",
-   "fecha": "Sun, 15 Nov 2026 21:13:44 GMT",
-   "fuente": "Clarin.com"
   },
   {
    "titulo": "Desde este lunes, los comercios podrán adherirse a Sanluiseña: requisitos, trámites y dónde estarán los tráileres",
@@ -1057,19 +1045,37 @@
    "fuente": "El Chorrillero"
   },
   {
-   "titulo": "La UCA advierte que LA POBREZA NO BAJÓ o incluso SUBIÓ con Javier Milei",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1RwVDN2TlVUWEo5R2V0YVpaVkRReDdMb1JpWFg4OWRoMXN4MTVwTXBMOFVUQ0xMamwxMkRXdlNVdFRveU5Lc3poNHF0aHA0RmpBc1ZVemxFSDhoazlSWThNTHJlOWd2YkI3VDRheWxRWE5fMnpzTXMtLU5FQV9RcHNQOVpDWE5Ta2cwMmYzcmdVX3UxaDk4QWdybkg5SzRIN29wOA?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:43:49 GMT",
-   "fuente": "El Destape"
+   "titulo": "Un apostador ganó más de $486 millones en el Quini 6 y ¡el Brinco quedó vacante! Se vienen nuevos pozos millonarios",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVFV2RGhwY2dMY3VNQ1Q3bFpMTGdoUG5FN01JTVptQ0VZeTlPVzRsWlNrZmtBMGpOcTdWWURVc2F4QWhFNW9jR1ZjX1lvU1RLYlBScER5ZFRCY3pWUklzMmRKaE9mSlNVeTNCQ05uSjl2Q1Q5eU1PUVBpVEpYd3NGVi03X1lmeVRtemZCOHEwYXg3eDFITmZ3aG9zV2JkbTBzUFBpcHQySktXb1RjdkN6TnFtMFIyRi11bHU0UE5uQTdubzFXcFNwZjRCdWVIZjNkbFRwWjltTVVGbHhWTWZYWXZwVQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 00:52:46 GMT",
+   "fuente": "ReconquistaHOY"
   },
   {
    "titulo": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZi12M21ncTYtWkFrY0dDRC02WGZJbWp0TEtLRUZNNS1fN3BjQWU3SFdFZ3dnV1pDY1I3TkVQRDBPNFVSMTg2SmU3aG9yMlk4UnZvbEtQMThpbGZjWVhUSUZxSUFIeUNUUVg0TWdLbEY4MXNiaUtKZl9uNVZOSTZQZFN5aDZURWNuWVlWU2MxOGRPSjh4RFhLUThOLVh4UUJibDN3dGM5ZWtzYUdLMnBRMWE4azd0VUliNWJ0bl92R0FMVHNpMjVtMkQ0SnZ0ZE1hTm1CdlRSTThnSzNTWERxV3hER0xRVzBmZm9PN1EwYXXSAYsCQVVfeXFMTlZSU2s0d2VRZUdNNGpBdjhzTHN3VE1aemQ3elJhdTNNLUtoMUxMQkk2ekdQZ3V2UzFzb3lfSTl5UGZyYWs2NHUtOXg3OHRfVVNQRE5YejM3Q2tnczVmV3U1ekFiNV9wb1RkeF9WVHY5VTVWMW96TGhma2l6WkExSno4emJUdWlKNmI1Nm5lMlNGOWluY3hwd1ppQkFISzJ4VGdLYWZYWEV2TDlQUC1qWWZiWERmSjZ3ZUxuYzA0UVNqUUQtZUZYbVR4amRUODJvTFFqQ2Jad1JiSDNsa01LT283czNEOFZ4clplenBRNTZ3UUJVcjV3ZGt4S25aZXlJVmxEc0FRbHBCdkhJ?oc=5",
    "fecha": "Sun, 15 Nov 2026 22:59:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "¿Listo para irse?: Saturnino se movió de playa y cada vez se desplaza más",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbThiTzhNZ085VmV1R1VvUkFXSHdHcEdfdTZTOEtqdmR3YTVmdlFjdlRwa1pzcFNxdWN6dGlJODBwV0NjRTQtb1pOUzhGSHJCRDluZ0lMSUdpdTFEN1BJMWlTbGRfb2RTdnhKTWpRRDhvZlpIWENkQ1ZXRlhPR0NoOXNSMjlUWXRqaUVaRHp5V1RJV1dnekpPRG1seVo2SldKbWFCRnpUVlUzQ0dlalhFeEdKMHR2dU9vN3c?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:17:00 GMT",
+   "fuente": "0223.com.ar"
+  },
+  {
+   "titulo": "La Noche de los Museos: más de 150.000 personas visitaron los museos nacionales",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2ZfX2dsV3ZLak1xRFI0ZGZOd0hFTG5ZdVVYbXc4YXhacmdsYjZDZGVNdzZENzVlanpFZWQ0b3lTYlZKYTdpRUxjeEVKVzAyNDg0UG10WlhxcjhmNENBZEZLdjZ3R0wtVU9hTUN1MTdzNnVCNjVFUnFxVEN4b1JRbHF6MkMwYUZTNmJ5YldSdTdPbGFHVG5RaXRPeEFvMjZ2SWV1bjUwOERxWEJnTjR0ZkNqWnZBdnBBNTVMZzlB0gHYAUFVX3lxTE5ZN0ZCNmJpeDNRRVRtUkhEZkJubUgxUjdXTEF1cWJHeU91dGhubUFLRGlHOUdWcWMxTXlKMG1Wc0ZfOVVUU3JfenM3MTFUWDh0dVFyVU52SExsWG1WV3pXVzVGS3AtU1FXVk14ZndpNjdwN3VKalJSVzVraEh0NEhnM3ZaLXFqanlIRzNXbHg0UjNRc1pNUXg3S0RlOUhjU2Z2YzkzNXpsSTBDcDJScnI5MmpIblFMOGVMbm1PSHNKWVZtU1ZKTm5SdFVMSEhuaTNtcWNtaUU4Mw?oc=5",
+   "fecha": "Sun, 15 Nov 2026 15:12:00 GMT",
+   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
+  {
+   "titulo": "Se reportan fallas generalizadas en los servicios de 5 grandes bancos estadounidenses: Chase, Bank of America, Wells Fargo, JPMorgan y US Bank.",
+   "fecha": "2026-11-16T18:53:54+00:00",
+   "fuente": "Finanzas Argy",
+   "link": "https://t.me/FinanzasArgy/28079"
+  },
   {
    "titulo": "En una entrevista en Radio Mitre, Luis Caputo reconoció que el país va a crecer menos de lo esperado y que \"los mejores 18 meses\" no se dieron por el shock externo y el temor al regreso del kirchnerismo, que frenó la toma de créditos y disparó el riesgo país.",
    "fecha": "2026-11-16T12:59:21+00:00",
@@ -1135,12 +1141,6 @@
    "fecha": "2026-11-10T18:49:53+00:00",
    "fuente": "Finanzas Argy",
    "link": "https://t.me/FinanzasArgy/28068"
-  },
-  {
-   "titulo": "Datos de 804.000 cuentas bancarias de empresas argentinas estarían a la venta en la dark web: un hacker afirma tener registros de 56 bancos argentinos, extraídos supuestamente de Interbanking (incluye Banco Nación, Galicia, Santander Río, BBVA, Macro, Ciudad y cooperativas),…",
-   "fecha": "2026-11-10T17:21:57+00:00",
-   "fuente": "Finanzas Argy",
-   "link": "https://t.me/FinanzasArgy/28067"
   }
  ],
  "mercado": {
