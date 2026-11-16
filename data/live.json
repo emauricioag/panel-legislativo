@@ -588,16 +588,16 @@
  ],
  "noticias": [
   {
-   "titulo": "En el MACC se proyectará el documental “Industrias Perdidas II: Corrientes, tierra de astilleros”",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0FqUDFhOEN6ejZ1WEVEc2NEZ2tMbmpRbFZiTWlVM3MzQzhEdmw4Ql8xSC1COS05SmJaOW11RzY2czFxci1ZaVpsRFNtUmw4QXJYckpjUXN0SUxDUnh5eGtFUlVTTFpvblhtdkI2bGNaQ3QzUks4Y2pKeE1iQkFoWE5jNld6MlBhRnpPU0lkYXA3SUdLbnBlbGlmU3hHam9lMjRGMXQ5LXphYTZwc29haEd3bGVmQXNCWnRnQ184QVVfQQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:58:39 GMT",
-   "fuente": "Instituto de Cultura de Corrientes"
-  },
-  {
    "titulo": "Corrientes tendrá un rol clave en el Senado por la reforma política y el futuro de las PASO",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLU9haVdvWkcyZGhOQ3VJWWhyaVpQT3cteG5NNjM5dzlBUmpDMDNqbkxITWdRQXBZS01zeUI0Y2RDN3lxLUpzZEIzRVZlV2JEVmZUaTc3MnliaUlIazRCSHJZRV9oLTlNQUdtcnFNSzBSNmpEZUFOd3hRSDN3ejVTQlQ1WXVMcjgwRmpnb1pMV2JuU28yRVFmTEY4T0Z3R0RZQjhXRV8wRHN4c29MVVFfMDYxMlF3R3ptTmh1MXc4Mm5zU1lwbTFZb1N1M2tnOGxZVVUzTVBJT1h0MjdjVU8ydDBHUkE?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:42:43 GMT",
    "fuente": "Perfil"
+  },
+  {
+   "titulo": "En el MACC se proyectará el documental “Industrias Perdidas II: Corrientes, tierra de astilleros”",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS0FqUDFhOEN6ejZ1WEVEc2NEZ2tMbmpRbFZiTWlVM3MzQzhEdmw4Ql8xSC1COS05SmJaOW11RzY2czFxci1ZaVpsRFNtUmw4QXJYckpjUXN0SUxDUnh5eGtFUlVTTFpvblhtdkI2bGNaQ3QzUks4Y2pKeE1iQkFoWE5jNld6MlBhRnpPU0lkYXA3SUdLbnBlbGlmU3hHam9lMjRGMXQ5LXphYTZwc29haEd3bGVmQXNCWnRnQ184QVVfQQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:58:39 GMT",
+   "fuente": "Instituto de Cultura de Corrientes"
   },
   {
    "titulo": "Corrientes: A partir de hoy, Provincia paga Plus de Refuerzo de noviembre",
@@ -618,22 +618,28 @@
    "fuente": "Plan B Misiones"
   },
   {
-   "titulo": "Corrientes: Eliana Samaniego es la nueva titular del Consejo de Educación",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnJ6bzdNTHQwWEt2Q0s4RDJOMTFsTm51S1ZoREVjR1VuaHJrVTNFSlJhWG5Fb1ZfdVluWWdxUTlaQ3pNbHU3X1lOSUxKZmVmMTZwWmN0aHdwTXpnUVF1YTZ4TFh1Uy1GTFY4WUhEM19LZUdrWjhOSFExcXk4MHF4VXlLRnR4Qk1uWEVJZHpMclpfVDlqZTk5X3J0MGNYMnZGVXJuMFpPN2FRNnRqOEl5dFBweklGZjZ2SHBVb3QzQVl5UDBTU3BaN0FZRQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:19:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
-  },
-  {
    "titulo": "Avanza campaña de matriculación de médicos veterinarios de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOFdUMER2Y01fT3p6OUIzQWZQTGRZX2V4ak5WX1RUaHpIUmJpZnBDdEg0RV93MEtMRkI0OEE5a0hGNk1sZnVBTDgxdS1TeE43cVBIWDJQWEh2U1JReUF0TUJnZFlOZFJlbU42ZmtXQW5YRDE3SGQtY2pZYWxxbjVXcUJ5SWVsZGt4S3otYTNqNkhfTklRNUlBa2tsRzNnNEt6b1V1a0NGQUg0NWdVWUpTdHJn?oc=5",
    "fecha": "Mon, 16 Nov 2026 13:07:35 GMT",
    "fuente": "Corrientes en el aire"
   },
   {
+   "titulo": "Corrientes es la segunda provincia con más personas afectadas",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXZndEwydGxSQzI0T01Dcy1KNFBVa0ZXUG1PQTlEY3V5cUFBajhoeGt1bXZYSWFPOXl3N1ZGNk1lVTZWVU5qYjA5eURTT2VfeEZzbUpndGxfcUVZdU1JRFdlNFJOdVNfbTFEQU1sNXJlUWJYSUs5bVdWQ0RfT04xWFRvUkNsRC16cE1wNEU1LXJEUU5Zc191NmR3TVJlUlVsS1JHTE85OVNydHFIQzJzcl9B?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:05:47 GMT",
+   "fuente": "Cadena de Radios"
+  },
+  {
    "titulo": "Peligro al volante: detectaron a un camionero brasileño totalmente alcoholizado en un control vial",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSFJHSUVmUWFjLWtCalpzWUhPVS1WS2VvVWxob3ZNa1VYVHdBenQzMWFwMjQxYWtvMm5FUnQtQzM4UXlaRllwSm4wY0hZM1lSYTlTM0VaektCLVBBOC1ITTItZGJXOWdDd2pfRktNRFRDUThhUlJqOHF4NmVYMURYZVlGMzhVSFhGLWVTeDhoM2hIbFNUX1VtQ1NweFN6Uy1CTzUxdVR6NmhDSXFxcXpjMGlaUGRIczZPZ3BzTmdvS3lVMnJzVEV0ZDVwMEtFZ3R2TUdJRExTRzAxQdIB9AFBVV95cUxQMHVZNHY3N2RfLXdINk04NTN4RDB6eWlqR3JkRXhVOG54Ym9sRDh4OEdCeDAyOTNIS1Qwb3gzV2Fmd205RlBoN2JBcVIyZUMxZWJ1TVBxNFNoRzJ2RnZzaloyby1uOTVUZzFHSkVQbzhlY3YxcnJOUlcxQzNnZDRHX3FYRG1QMlpYT0QzSVh5TzU0NzNjbk9kTUpoeVRTQW9SRzMzYmI4azlmMU4zQVFEVnlrdkxfZkptSVlPQ1M4bEVIdFJOT0xNQ0xFRW92dDhwQXRVb2pSVWpPcjQtdTc1eGRSb1RWWkd2U3JQa1RfV2JZVUZy?oc=5",
    "fecha": "Mon, 16 Nov 2026 12:25:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Corrientes: Eliana Samaniego es la nueva titular del Consejo de Educación",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnJ6bzdNTHQwWEt2Q0s4RDJOMTFsTm51S1ZoREVjR1VuaHJrVTNFSlJhWG5Fb1ZfdVluWWdxUTlaQ3pNbHU3X1lOSUxKZmVmMTZwWmN0aHdwTXpnUVF1YTZ4TFh1Uy1GTFY4WUhEM19LZUdrWjhOSFExcXk4MHF4VXlLRnR4Qk1uWEVJZHpMclpfVDlqZTk5X3J0MGNYMnZGVXJuMFpPN2FRNnRqOEl5dFBweklGZjZ2SHBVb3QzQVl5UDBTU3BaN0FZRQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:19:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "El ministro de Hacienda de Corrientes apuntó contra Nación: \"La reactivación que dicen no se da\"",
@@ -654,28 +660,22 @@
    "fuente": "La Red Corrientes"
   },
   {
-   "titulo": "Interceptaron en Corrientes a un camionero brasileño con casi 2 gramos de alcohol en sangre",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHJ6Z1BiNjFrTF9XeFAyTGtGT19fY1NVdVVhYlNSWUFCcUJROGZlME1QUGJCa3puZ216TDdueUZ4WXhKRDhjaTdMM2IzTnRwRERJd1plLWM2TGhVbGZWNU9HWE90RlRhRTlTM2JJdjFQcVFjbHItNDA4a2U4clIxVHRBZW9kaXdaX1FxVUw5bmthM18tcDR4YVFOb2dydTlRRVlDUENhb2YxZnRUQkVLQ0xoMG4wZnJDbFlTNC1pcllXTjBpZkZ2TkRBaTR4MkJ1dDVPbDd3OA?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:28:54 GMT",
-   "fuente": "El Litoral"
-  },
-  {
    "titulo": "La chilena Bosques del Plata vendió sus 65.000 hectáreas en Corrientes y Misiones a Grupo Faro Verde",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEFWbDI1dnBxQjBjcWh3WTZPcnNsdHNteFVmdVFNbGl3Uk5yYk5mUGZleTROdzl6bVBmUy1naUtiMUtQTTFYb1hGLURYd2NSRmhvN2xWaG9pVWEyY2ZWc0FUSHhES3F0OVZsaGd6U2hCN002Wmd1TDYta05wVS1NSUlLNDJKa21RVFVXVklOT1cydTdwNlZQU0pHblNWSFlPTkh5WWtuQVFETXNybXMwdXFJanN4Q0pSUVNPSzFoNGNyX2MtZWlTaV84dEVWYVdpNHdnZ2Y1V3BnZjg?oc=5",
    "fecha": "Mon, 16 Nov 2026 16:37:21 GMT",
    "fuente": "Plan B Misiones"
   },
   {
+   "titulo": "Corrientes tiene nueva Presidente del Concejo General de Educación",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcThqd3NabnFGNlRpeGQ2SkgzTUVCdmtfX1U3UThtOENUZDcxN0NDOHpUUnhPRXNZeGhSTC1yQ1lSUHVEWTNOeUJHQjViRzJ0ZnptNzhrdWhDbThsdFVKckdyai1Td3IxYjNoUmdaT1N5U213bm9zMkg0QnFmMGpGY1FMUGZQUWl3MWw4eFotVmlNTTZ1dFBlN09aYUhhRUwxQXFGU2h3Nk9fa2REeHlF?oc=5",
+   "fecha": "Mon, 16 Nov 2026 17:52:13 GMT",
+   "fuente": "Corrientes Hoy"
+  },
+  {
    "titulo": "Lanari lleva tranquilidad a la provincia ante la llegada del dengue",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRG45YmdheDVEUm9SblBmUTg1c3VxRXdlamxyQmRaMVZGRVhqVTBvTDdnSlI0TlZuYXdIUE5ZcHUwQ0R4V0pWalJpU1dPTHdOb3N4N0RzcTZpWW9ERFQwcXM3anFjYldfX3RPY0VUdUwwZDRVcXlhU0xGT2N5S3dpRlU4N25ybFYtQ213dGdGWnNZMkRNNDV5Q3hXRGFlMHlYeHhfUFZKSThGWEhfbjg4?oc=5",
    "fecha": "Mon, 16 Nov 2026 13:07:53 GMT",
    "fuente": "Corrientes en el aire"
-  },
-  {
-   "titulo": "Corrientes: un camionero brasileño fue sorprendido circulando con 1,89 de alcohol en sangre",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTByOXNFMDJhd0hZaldfUWY4UWUydlZjMndNMHdfb2t6NnlNTDBGMjN4WjZneExUc25uVWxZdjl1czE5Z1VNY1IwMFoydW92LWl2c1lkYkQ5OE9TNzV5T214S3lkNVhUNzRLT2dVRUpGck9sSTBWczA1b0hsVzZBa0Q1a1NVMGpVR1hrbk9pMVc5ZXJwR0pLZGZadHRuNVVrSThlYXF5UE9pZS1oTDhoYXFYbUE0Qk1yTDhyaHVkVnI3Z0dUOGNIbTR1YUNfZlVDeEQ4?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:28:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Juan Pablo Valdés ratificó su rechazo a las Paso y defendió el equilibrio fiscal de la provincia",
@@ -918,9 +918,15 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-16T14:55-03:00",
+ "actualizado": "2026-11-16T15:21-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El Gobierno de Milei registró un nuevo superávit financiero en octubre",
+    "link": "https://derechadiario.com.ar/economia/gobierno-milei-registro-nuevo-superavit-financiero-en-octubre",
+    "fecha": "Mon, 16 Nov 2026 18:15:29 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Gracias a Milei, Toyota anunció una inversión de más de USD 1.300 millones en Argentina",
     "link": "https://derechadiario.com.ar/economia/gracias-milei-toyota-anuncio-inversion-usd-1-300-millones-en-argentina",
@@ -962,12 +968,6 @@
     "link": "https://derechadiario.com.ar/politica/kirchnerismo-empresa-britanica-compro-56-544-hectareas-en-santa-cruz-por-apenas-usd-54-cada",
     "fecha": "Sat, 14 Nov 2026 16:48:14 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Jordi Wild atacó a Freijoó en el título de su entrevista mientras favoreció a Sánchez y Colau",
-    "link": "https://derechadiario.com.ar/politica/jordi-wild-ataco-freijoo-en-titulo-entrevista-mientras-favorecio-sanchez-colau",
-    "fecha": "Sat, 14 Nov 2026 03:04:10 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -985,16 +985,22 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Mapa completo de las elecciones 2027: una por una, cuándo se vota y qué se elige en las ciudades de Neuquén",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdl9RN0NWMlBFVnExV3paY2w4M3ZGMkpyYlE0LUU1dkQ5cEU0UllrbHpqeVRXSHlOamx3UnhlMnhUdkJNTDlCNUFmR0dURnVqN3FHWlRsV3JyUE42WDF4QTJIMXhQQVZ5QURTR0g1RS1LU3VBcWxJdHdtMk54OG9oZWZSX2JXa3JmMlBXM21NdmNEUlZBanlISjl2UzczOENrbXo5SG9FNG54OHdDeGl6akc1eFFPdWhRN043NlNZUVVsTmV0T0ZEa1gyWDZjQ0Zx?oc=5",
-   "fecha": "Mon, 16 Nov 2026 10:31:00 GMT",
-   "fuente": "Lmneuquen.com"
+   "titulo": "Neuquén en modo electoral: los partidos mueven sus fichas y se delinea el mapa de acuerdos para 2027",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkljREh2bDJ4RkF6Q1BWUmRuc1hFazFqekZKVUJKMkpjay1ZcmV3a00tbEZaMjZ3bzFMNS1VVnM0ZkcyT2tlMW9iczNmRzlMcGlXSmhUVXF2a1FqVG1YUVJZaWFQUk93RTBCekpiOXlUWjBwNHB2NGN0elg1NDUtWkxGeWVBNjBDdVY3US1NcjJXTWlYQzcxZlRmeWhWcGdMYWlPeTA1RUxKVmFsVXVGRU05Wl9Gc05Od2FnSUlqbnFlRVhYRmJNNjdIVm1GRUI5NXJ30gHbAUFVX3lxTFB6ZzUtM0k3TG9sdTU0ZVpPcExwLU9CSGl0Rk1sNnRxSlp0SDZWaU9BU3Rid3FLVEEzNmRzNm5VcWFGUWY5N1hkcUZDa3JiTThLV3pBSjFJZWE5bW5mZ3dHUXVDN3JSa01rQWJYUHl1UmFkT2w1ZVU2RGkxaG5NSXdWa3c5ZFBKLVVBbXRCTXlvcnNVbldlNTJQdVN5R01LRUFCaHN6clFydEt1MG9BS1U3Y2wtM1JaVEJNUHM1YUpab1RIWGIzRXFmMk1UMTFMR2dVUWJRS3Vsc3ctSQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 10:00:00 GMT",
+   "fuente": "Diario Río Negro"
   },
   {
    "titulo": "Alejandra Monteoliva será sometida a una intervención quirúrgica",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHU3WG8tREtlbDYxY2w1bGpfN21sUGNMM1NLa2lVS2VjRU8tRHFJTFd5UDUxX3o0SmQ1ZURhMzVZQWZlN1FEOXBIZE1Va0ZudXBnR0hVdk5KM2k4VlQ5NTVrOVpPWmFmU1E0T2RLd3lwcFdIUGd1b1NQWkxKUW45SU1BakQyeUtURkpNRGt2d3V1M3pNMVZPSldxaEVHNzNCTjhEMEVXUnFGc1gycEHSAcgBQVVfeXFMTXhfSC00ZHFrdEQ2dms3ckRFXzFIM3o1UF96VUt4Q2ZKZFBWdkFXYWFTVzJXb0c2X3pwazg3Sk41bExkc2pRUG9MMHRBSi0zbkE5X2xOUXlEXzhCbWJDT1g1dUdPZGZzZW5iOEJ6TmhsWFdwMFJMSnNoc0xlQjJmTDYzVV9oT2ZkbzVobFJlTXNUVXVSY2MzRENXZFozWGtoa0R5cHFiYzZqcU1WQlRqR05XUm1CelNncEx3TEhJWlJEcTZOVVVuVGg?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:13:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "El Gobierno busca aprobar la Ley Malvinas antes del fallo del Tribunal del Mar para reforzar la presión sobre las petroleras británicas",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQnhsWUFIQzl3QjRZY3ZvLWx3b0RDejV5MnhRUS1MbnRjVm1MY1B6Rk1Rb3JnNUstbFdZWkR5NEZfdEpSbmkyVkVSSDNFZ0JQSTVsX2hGR1VpaElCRXo1TERzelJqZ0Y1ZGkxbkdVNjNTZDdVeG5TejN1RlM2WnlWMWVHREhYWlp6eG9uT0hacE1kR09RVmg4NXY2b3pxeEJJa3B2ZVNvZkgxWm5CQXM4c0QtcmI1MnowRkNjZnVhaW92bzhJQjE0djY1ZFdSb0hqU2dlSTZLWFhwWXdkMjRtNGJOT09WeTZ6UGpFZUx1NEEydWVNNVHSAYoCQVVfeXFMTTIzV1RvSC11ZVR3V1dDc3d1ODAyZUdjcDE0MGdRWFZTUUZ2NmRhVHJVU0RGc2QteXVwVWVNQXQ2X3E3MTRwTG9sRjZvU2VnTkZnRks3UGxQUlRIdWlqY3hxMzNobFBMQUV2YWNINzlrMzFCYjd0RE4td29Qdkdpb2xYWWFBTGxBZDlvVXBUbHVBdkwya2xVejRueWFnS3RENU9LaE93ejhDQ2l0OFdXSjZaR0VFMmZsMnlGbllpalE2SDl0RWswa1dMWWpNTkxEdllVdWZ3cmp2VS1XZEozM1NTNklIQ19ETTJ1UHk0eGx0SnBzTEFCdERQTDZoRDBwWklITGFvZDB0Z1E?oc=5",
+   "fecha": "Mon, 16 Nov 2026 08:46:00 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Lejos del Senado: la agenda de Milei entre Tesla, la AMIA y un partido de polo con Cambiaso",
@@ -1019,12 +1025,6 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSWN3Tnk3M3RLU2lkXzgtZXpQcG9QRjBBUUJMSTRSZC1KTHdjN2FteU5XOUYwdUpjY0pmZGdUYjFlSGZDeG8xVmRpejR6V0p4RW42eHlZMGZRRWJvbmdNYVFUSUhVcUl4OVVJTUtqdkVnT1hLOXRockJhcXNhekJjOU94eWVhSVZXWV9iU1lLRThnVjh2MlAtUmZEb3hSaThYN1lyU3VKbmRNS0o2Z1hLLVhZdHRmdXVoYTFJMGlQa2hRcHRuNzl3d2hDNXpXRERhMnkxR3FKbWlaaXp5dUFoR3RkQVk?oc=5",
    "fecha": "Mon, 16 Nov 2026 09:18:54 GMT",
    "fuente": "La Brújula 24"
-  },
-  {
-   "titulo": "El Gobierno busca aprobar la Ley Malvinas antes del fallo del Tribunal del Mar para reforzar la presión sobre las petroleras británicas",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQnhsWUFIQzl3QjRZY3ZvLWx3b0RDejV5MnhRUS1MbnRjVm1MY1B6Rk1Rb3JnNUstbFdZWkR5NEZfdEpSbmkyVkVSSDNFZ0JQSTVsX2hGR1VpaElCRXo1TERzelJqZ0Y1ZGkxbkdVNjNTZDdVeG5TejN1RlM2WnlWMWVHREhYWlp6eG9uT0hacE1kR09RVmg4NXY2b3pxeEJJa3B2ZVNvZkgxWm5CQXM4c0QtcmI1MnowRkNjZnVhaW92bzhJQjE0djY1ZFdSb0hqU2dlSTZLWFhwWXdkMjRtNGJOT09WeTZ6UGpFZUx1NEEydWVNNVHSAYoCQVVfeXFMTTIzV1RvSC11ZVR3V1dDc3d1ODAyZUdjcDE0MGdRWFZTUUZ2NmRhVHJVU0RGc2QteXVwVWVNQXQ2X3E3MTRwTG9sRjZvU2VnTkZnRks3UGxQUlRIdWlqY3hxMzNobFBMQUV2YWNINzlrMzFCYjd0RE4td29Qdkdpb2xYWWFBTGxBZDlvVXBUbHVBdkwya2xVejRueWFnS3RENU9LaE93ejhDQ2l0OFdXSjZaR0VFMmZsMnlGbllpalE2SDl0RWswa1dMWWpNTkxEdllVdWZ3cmp2VS1XZEozM1NTNklIQ19ETTJ1UHk0eGx0SnBzTEFCdERQTDZoRDBwWklITGFvZDB0Z1E?oc=5",
-   "fecha": "Mon, 16 Nov 2026 08:46:00 GMT",
-   "fuente": "TN"
   },
   {
    "titulo": "Dólar blue, dólar hoy: a cuánto cotizan el lunes 16 de noviembre de 2026",
@@ -1057,16 +1057,16 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Cambió la Ley de Tránsito en la provincia de Buenos Aires: quién tiene prioridad de paso en los cruces y qué dice la nueva norma",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOekZaLTAtLVY2Ny03YVBIYW91MGxoTVU2UWVUd3AySXpQbGNNYWVhbVFjdUpWMUFrN3NzbjE1ZnN4SnZNM0lNU01PNHBiSHl2emdDd2J0NVNEdS00U1dGVzI5SHVNRlRldkplaUJnakhYUkhRTDVmeXhuSlJ0UkZBUUdzOFV2NXZScjRDWmtYakpja2RIV0Uxbk5tNlV1Q3VTeVhBOHhjRnR0LTNjUVdudXdZS3EzWExRRjNrc2t5OHFGd1NkamYwRTVQelE4OEpreXpDdWducDJVckxvZ3UtUnBoZ1IwaXA1WGJkdW9ydFkyMVlxdFpfa2NB0gGOAkFVX3lxTE5kUlFFMUktZ1VqLXEzaUJjNkFOT1JJRUcwa2VQb2hxN3gwNUkyTkRKRFhDUjhGRkZudldIME5UWHpXU2ZkbXQ2S1llUzI1eXNzNC1JM2Q0Y1F1Rl8wUURrbndydjVoLV9ZeXpZZWFQUWM1ZFVjRjNteEo2NjJZSHZwekU3RkpFNF9GTDQxVDMyWVFRZFhWSkVfNjNuM3Zxc0ZKQWJ5M3dlYjI1TThJbG52aWM2eUFCS0VvaUo0OFVxR0pIUU4wVkRySU50NG5hTVFNNmUxYlFwNllFYWNsYTYzWEYwNmFLZVltMGFCMVUyRHJFaFRKSHZkZHM2MVdJWGxWbkZDVWZral9OSVJ3UQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 13:36:17 GMT",
-   "fuente": "TN"
+   "titulo": "La UCA advierte que LA POBREZA NO BAJÓ o incluso SUBIÓ con Javier Milei",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1RwVDN2TlVUWEo5R2V0YVpaVkRReDdMb1JpWFg4OWRoMXN4MTVwTXBMOFVUQ0xMamwxMkRXdlNVdFRveU5Lc3poNHF0aHA0RmpBc1ZVemxFSDhoazlSWThNTHJlOWd2YkI3VDRheWxRWE5fMnpzTXMtLU5FQV9RcHNQOVpDWE5Ta2cwMmYzcmdVX3UxaDk4QWdybkg5SzRIN29wOA?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:43:49 GMT",
+   "fuente": "El Destape"
   },
   {
-   "titulo": "La UCA pone en duda la baja de la pobreza que muestra el INDEC y advierte que podría haber aumentado desde 2023",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONU5IZi14ci1mdmFEdlVUeGRJa2F5NVRkWDRhZ0hTV1pmanlra0VLOFdDb0Q1WWdfQUxTM1JNemRDb3dGdUNlUDhzalA4V1MzUTJUUFNPS3FNUVk4YjUwRjJMM2FKakx4UTlqbFpvemRwMnV5Ri1Yb2stNWFFMTVRZmFrWHh1MVRZbHpmTTBzWUl6dE40dUlsVjZMbHFMeUdNaGN5WS1fVXpjNzJQSXVVVWhnS1hHMWNsUXE1UGd0cEZLa2V1SVJFd0Zn?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:04:11 GMT",
-   "fuente": "Perfil"
+   "titulo": "¿Listo para irse?: Saturnino se movió de playa y cada vez se desplaza más",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbThiTzhNZ085VmV1R1VvUkFXSHdHcEdfdTZTOEtqdmR3YTVmdlFjdlRwa1pzcFNxdWN6dGlJODBwV0NjRTQtb1pOUzhGSHJCRDluZ0lMSUdpdTFEN1BJMWlTbGRfb2RTdnhKTWpRRDhvZlpIWENkQ1ZXRlhPR0NoOXNSMjlUWXRqaUVaRHp5V1RJV1dnekpPRG1seVo2SldKbWFCRnpUVlUzQ0dlalhFeEdKMHR2dU9vN3c?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:17:00 GMT",
+   "fuente": "0223.com.ar"
   }
  ],
  "finanzas_argy": [
