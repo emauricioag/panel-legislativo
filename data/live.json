@@ -636,16 +636,16 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "16 de noviembre: una fecha marcada por la historia, la cultura y el reconocimiento de importantes figuras",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGF5WV9oMUNnUjlIUXdvTGFERW5wWWlSM19lZGpvX1dla3lIMFhMb19BQW9tMWExUGJsb2otaTVScDY3SzlvT2RxTy1xMV9oZ3lHck1oRDdZbTdIeUNGRUFBSkxyVDdyV0QyMnFiYUZJY0s4T2J4c0NnNFZkY2swSEt3ZDdFcW9EN3RJS21kY3lySU9sUFBBMm5qR201NWRqdDIzaDRYbUwxT0lYME1sOFBEUjl0SmdZMHZHc0FKR2NtTkFtUllkeEpLa1pDbFNYbmxHTzF0cmpsdzVhemsyZHlLNA?oc=5",
-   "fecha": "Mon, 16 Nov 2026 09:30:27 GMT",
-   "fuente": "La Red Corrientes"
-  },
-  {
    "titulo": "Siete Puntas Digital",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeHJLbmZ0R3JqRlg0eFJOTEE4Zml6T1Z0aUJoWlJ0azljV184WHJwclRzRl9jc04zZGFpRVFSNWVmdWQ5TEZXNGxJNmVuNkR4UkFpZDNBb3JzRDNFLTh1bXhOcWZWX1JiWU1fb0p0XzA0bGlxMTNpNmhha2RXS3QybkVLTzM4TVU1TG90dVI3T2E?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:28:15 GMT",
    "fuente": "Siete Puntas Digital"
+  },
+  {
+   "titulo": "16 de noviembre: una fecha marcada por la historia, la cultura y el reconocimiento de importantes figuras",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGF5WV9oMUNnUjlIUXdvTGFERW5wWWlSM19lZGpvX1dla3lIMFhMb19BQW9tMWExUGJsb2otaTVScDY3SzlvT2RxTy1xMV9oZ3lHck1oRDdZbTdIeUNGRUFBSkxyVDdyV0QyMnFiYUZJY0s4T2J4c0NnNFZkY2swSEt3ZDdFcW9EN3RJS21kY3lySU9sUFBBMm5qR201NWRqdDIzaDRYbUwxT0lYME1sOFBEUjl0SmdZMHZHc0FKR2NtTkFtUllkeEpLa1pDbFNYbmxHTzF0cmpsdzVhemsyZHlLNA?oc=5",
+   "fecha": "Mon, 16 Nov 2026 09:30:27 GMT",
+   "fuente": "La Red Corrientes"
   },
   {
    "titulo": "Interceptaron en Corrientes a un camionero brasileño con casi 2 gramos de alcohol en sangre",
@@ -654,10 +654,10 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "Corrientes es la segunda provincia con más personas afectadas",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXZndEwydGxSQzI0T01Dcy1KNFBVa0ZXUG1PQTlEY3V5cUFBajhoeGt1bXZYSWFPOXl3N1ZGNk1lVTZWVU5qYjA5eURTT2VfeEZzbUpndGxfcUVZdU1JRFdlNFJOdVNfbTFEQU1sNXJlUWJYSUs5bVdWQ0RfT04xWFRvUkNsRC16cE1wNEU1LXJEUU5Zc191NmR3TVJlUlVsS1JHTE85OVNydHFIQzJzcl9B?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:05:47 GMT",
-   "fuente": "Cadena de Radios"
+   "titulo": "La chilena Bosques del Plata vendió sus 65.000 hectáreas en Corrientes y Misiones a Grupo Faro Verde",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEFWbDI1dnBxQjBjcWh3WTZPcnNsdHNteFVmdVFNbGl3Uk5yYk5mUGZleTROdzl6bVBmUy1naUtiMUtQTTFYb1hGLURYd2NSRmhvN2xWaG9pVWEyY2ZWc0FUSHhES3F0OVZsaGd6U2hCN002Wmd1TDYta05wVS1NSUlLNDJKa21RVFVXVklOT1cydTdwNlZQU0pHblNWSFlPTkh5WWtuQVFETXNybXMwdXFJanN4Q0pSUVNPSzFoNGNyX2MtZWlTaV84dEVWYVdpNHdnZ2Y1V3BnZjg?oc=5",
+   "fecha": "Mon, 16 Nov 2026 16:37:21 GMT",
+   "fuente": "Plan B Misiones"
   },
   {
    "titulo": "Lanari lleva tranquilidad a la provincia ante la llegada del dengue",
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-16T13:35-03:00",
+ "actualizado": "2026-11-16T14:02-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -963,20 +963,26 @@
   {
    "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:58:02 GMT",
+   "fecha": "Mon, 16 Nov 2026 16:51:54 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Pelea por las PASO: por qué todo el bloque de senadores radicales, incluso los que no responden a gobernadores, avalaría la suspensión",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZHY5NHJuOFRmbGxxNFEwUnB4bHdGc0c5ejlKRGRqY0pjMGxiWVc2UzdfUnUxeHFPaldTVlJ3dWlUWGJLaG9Xa3lHeXVCLTN4M2Y0UXBPbHF1Um5reGRDWHhGY1FJaVhtbnl5cE5QNmY5WnpiNXUwUkVackhzWVdtTjRySENlSW9GbFlXTVlsLVVvYlVCaS1HbC1JSElwaGJRSlQzMTdJemVpOTlWMmZXTFh6end3VmxNMFlmN1hnUlFha1Mya2pON0tKXzRLN1dxODJKQg?oc=5",
-   "fecha": "Mon, 16 Nov 2026 09:01:27 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Reforma electoral: el borrador del Gobierno incluyó la suspensión de las PASO, un nuevo formato de listas colectoras y Ficha Limpia",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWk2MEF1eGhGdFlKYzI5SHJpSEtBWl9Pb2VMNV9LMGdFaDZSMGpmdE1aNTAyNi1PdHZvLUxHS1VuTVRlcnNtdzBCUld5bDN6dmhKODA3Ulk5SENZS050NWN0WEtFSW96czBJWmZhS3B5UkZGRkJ3THJSbThPS3VlTDZud0RUa1RCWnlPY3dMSGcxdkdUNS11cENRdUhjNi05cWVENlhfd3l1akpoRjJieVZpOU9hRU80YldHZFRNUXRUYWMxNUlFbGFrcHc3OHByOGVfMzJjcDNBWnpnY29OdE5LR2xsTS00RVhIVjRjOTFMcmt5elR3eUpFNHRyd2dxb2x4TtIBnwJBVV95cUxOMVFPc1dUcTkxVTJHQWVaYWFjempTTkRhT0RPRFRPOW94LTJBTnc2azJyM25MU0NkMHpZckJUMkJYNHZ6TDRzYldLUTA0X3JiN0JJRjlOcThNdXBYR1M3SXhmS1J3M01tSi1IajhfVHFiT3NqUWlnaWo2aUI1eXdBRUhtRzNEX1lRNjBsUE9GTm9LbExmNDFiYWdyTl9qa2pISFc4QklZektCb0pQUC11TjRsdnlTV2ZfeHVCelpMazA2VkJZbE94NjBpVGd1RGJIa0s4RnlQaE1YbWVVVG9tMWR3OEI2ZXVqajlMQ3d2dGxrSlJocF8welRVUlJhZFRDa0dZcXhwbmZhX2Y3cE16VWc0cThhNFdCdUQyc1BHcw?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:24:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Neuquén en modo electoral: los partidos mueven sus fichas y se delinea el mapa de acuerdos para 2027",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkljREh2bDJ4RkF6Q1BWUmRuc1hFazFqekZKVUJKMkpjay1ZcmV3a00tbEZaMjZ3bzFMNS1VVnM0ZkcyT2tlMW9iczNmRzlMcGlXSmhUVXF2a1FqVG1YUVJZaWFQUk93RTBCekpiOXlUWjBwNHB2NGN0elg1NDUtWkxGeWVBNjBDdVY3US1NcjJXTWlYQzcxZlRmeWhWcGdMYWlPeTA1RUxKVmFsVXVGRU05Wl9Gc05Od2FnSUlqbnFlRVhYRmJNNjdIVm1GRUI5NXJ30gHbAUFVX3lxTFB6ZzUtM0k3TG9sdTU0ZVpPcExwLU9CSGl0Rk1sNnRxSlp0SDZWaU9BU3Rid3FLVEEzNmRzNm5VcWFGUWY5N1hkcUZDa3JiTThLV3pBSjFJZWE5bW5mZ3dHUXVDN3JSa01rQWJYUHl1UmFkT2w1ZVU2RGkxaG5NSXdWa3c5ZFBKLVVBbXRCTXlvcnNVbldlNTJQdVN5R01LRUFCaHN6clFydEt1MG9BS1U3Y2wtM1JaVEJNUHM1YUpab1RIWGIzRXFmMk1UMTFMR2dVUWJRS3Vsc3ctSQ?oc=5",
    "fecha": "Mon, 16 Nov 2026 10:00:00 GMT",
    "fuente": "Diario Río Negro"
+  },
+  {
+   "titulo": "El Gobierno busca aprobar la Ley Malvinas antes del fallo del Tribunal del Mar para reforzar la presión sobre las petroleras británicas",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQnhsWUFIQzl3QjRZY3ZvLWx3b0RDejV5MnhRUS1MbnRjVm1MY1B6Rk1Rb3JnNUstbFdZWkR5NEZfdEpSbmkyVkVSSDNFZ0JQSTVsX2hGR1VpaElCRXo1TERzelJqZ0Y1ZGkxbkdVNjNTZDdVeG5TejN1RlM2WnlWMWVHREhYWlp6eG9uT0hacE1kR09RVmg4NXY2b3pxeEJJa3B2ZVNvZkgxWm5CQXM4c0QtcmI1MnowRkNjZnVhaW92bzhJQjE0djY1ZFdSb0hqU2dlSTZLWFhwWXdkMjRtNGJOT09WeTZ6UGpFZUx1NEEydWVNNVHSAYoCQVVfeXFMTTIzV1RvSC11ZVR3V1dDc3d1ODAyZUdjcDE0MGdRWFZTUUZ2NmRhVHJVU0RGc2QteXVwVWVNQXQ2X3E3MTRwTG9sRjZvU2VnTkZnRks3UGxQUlRIdWlqY3hxMzNobFBMQUV2YWNINzlrMzFCYjd0RE4td29Qdkdpb2xYWWFBTGxBZDlvVXBUbHVBdkwya2xVejRueWFnS3RENU9LaE93ejhDQ2l0OFdXSjZaR0VFMmZsMnlGbllpalE2SDl0RWswa1dMWWpNTkxEdllVdWZ3cmp2VS1XZEozM1NTNklIQ19ETTJ1UHk0eGx0SnBzTEFCdERQTDZoRDBwWklITGFvZDB0Z1E?oc=5",
+   "fecha": "Mon, 16 Nov 2026 08:46:00 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Alejandra Monteoliva será sometida a una intervención quirúrgica",
@@ -989,18 +995,6 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1ZZTFo3ckN6dnYzUnVIMWN6T3JRMGxYNGpCTXZoN3RVaVJzMGlQMnpmZ0pEZXU0bjd3OHhMV1RPcnBzNmExN3p5SFZqc2V4aHRCMVpyeGJ0eGprT2MxZWdYcVo1NUM4eDdCcThTQW5LX0x3UlBrTGVNbXY1S210MHBESWZiRWt1TWhMTkxBdmRCbWlvaWp5aUk0Y3NiLVZuTFMxcElobVVqNG9FOXJtZF9PanRLSXJYYjkxREdqWFotT0Y3bG1CMVVMYWV0c0E?oc=5",
    "fecha": "Sun, 15 Nov 2026 21:29:14 GMT",
    "fuente": "Perfil"
-  },
-  {
-   "titulo": "El Gobierno busca aprobar la Ley Malvinas antes del fallo del Tribunal del Mar para reforzar la presión sobre las petroleras británicas",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQnhsWUFIQzl3QjRZY3ZvLWx3b0RDejV5MnhRUS1MbnRjVm1MY1B6Rk1Rb3JnNUstbFdZWkR5NEZfdEpSbmkyVkVSSDNFZ0JQSTVsX2hGR1VpaElCRXo1TERzelJqZ0Y1ZGkxbkdVNjNTZDdVeG5TejN1RlM2WnlWMWVHREhYWlp6eG9uT0hacE1kR09RVmg4NXY2b3pxeEJJa3B2ZVNvZkgxWm5CQXM4c0QtcmI1MnowRkNjZnVhaW92bzhJQjE0djY1ZFdSb0hqU2dlSTZLWFhwWXdkMjRtNGJOT09WeTZ6UGpFZUx1NEEydWVNNVHSAYoCQVVfeXFMTTIzV1RvSC11ZVR3V1dDc3d1ODAyZUdjcDE0MGdRWFZTUUZ2NmRhVHJVU0RGc2QteXVwVWVNQXQ2X3E3MTRwTG9sRjZvU2VnTkZnRks3UGxQUlRIdWlqY3hxMzNobFBMQUV2YWNINzlrMzFCYjd0RE4td29Qdkdpb2xYWWFBTGxBZDlvVXBUbHVBdkwya2xVejRueWFnS3RENU9LaE93ejhDQ2l0OFdXSjZaR0VFMmZsMnlGbllpalE2SDl0RWswa1dMWWpNTkxEdllVdWZ3cmp2VS1XZEozM1NTNklIQ19ETTJ1UHk0eGx0SnBzTEFCdERQTDZoRDBwWklITGFvZDB0Z1E?oc=5",
-   "fecha": "Mon, 16 Nov 2026 08:46:00 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "Aprobaron un nuevo protocolo que permitiría a genocidas acceder a la prisión domiciliaria",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzRNSFVXRG9xUloxVEtWOGZLM0JNUFhQQm53eG02ZGJpMHBrdzVVUVdlZk5fenFxcERfSjFDTEd0MUUyelhZYXdoLV9pZVJ3S2pQN21PQWZjalAwZkNGTTEtVEhLeHd5RW4wc0Fjb3lSUTAtYTZnMWVvTV9XZkhlWWxQOURjLWlSdmpJcmpMWW9FQ2pWNFo3RHNlOW04Y1dmVWFLaWNjLUNUVjZTVk1xd2lhVUNaTVZRU0lsajRETW9rdV9YWEw5MdIByAFBVV95cUxQXzRNSFVXRG9xUloxVEtWOGZLM0JNUFhQQm53eG02ZGJpMHBrdzVVUVdlZk5fenFxcERfSjFDTEd0MUUyelhZYXdoLV9pZVJ3S2pQN21PQWZjalAwZkNGTTEtVEhLeHd5RW4wc0Fjb3lSUTAtYTZnMWVvTV9XZkhlWWxQOURjLWlSdmpJcmpMWW9FQ2pWNFo3RHNlOW04Y1dmVWFLaWNjLUNUVjZTVk1xd2lhVUNaTVZRU0lsajRETW9rdV9YWEw5MQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 11:19:00 GMT",
-   "fuente": "Minutouno"
   },
   {
    "titulo": "Federico Beligoy recibió más de $420 millones de la AFA, con pagos en efectivo y facturas por “asesoramiento” y “seminarios”",
@@ -1027,16 +1021,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Elisa Carrió cruzó a Javier Milei y lanzó una advertencia sobre Patricia Bullrich: \"Busca el poder\"",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHBCRjBMSHFqS3BhaGRPSS1hVUFPVFpkMkltdkdrWlJvRjRsMmdfMzk3T2VNZ1g4eGdfVERIVklNMkl6V05PUWtKZ2ktb1NfVEw1bkVyc2drS1NvQWYtc0lXcnA0dmprY0lRNVNtYm9vUnlNMmRvdms2bGRjT3JMTjd0bVEtODZRSHI0OGdQVllXdlJJRGlBZURGV0FKWXZWZjJqOTZYWW9ySjF4LTBDSlhCV1ZEU0lrTWtBSXo0czZBNW82MEJldF94SjU3TWs5SnhWMFFmR2MwdTJxQUt4WlJnZDAzZw?oc=5",
-   "fecha": "Sun, 15 Nov 2026 19:17:42 GMT",
-   "fuente": "MDZ Online"
-  },
-  {
    "titulo": "ARA San Juan: a nueve años del hundimiento, familiares renuevan el reclamo de justicia",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUVnLVY3REFQNW9BbGV0c2FrWlFlMF93MndrTGdnck9CeDNCLXVneWdLTTFBa3J2ZWNYUUNXLUt3MFIwdl9YRHRHOC1zT2ZQdlpqQzd1T0E4QnJCS3VuQUw0UEhPVzBSaDNkUFRNWW1wRk5zSHpyTndsd3lpaHUzV3FueTRLNVJkS3Myci14MkFMNDNhcGZET3ZsR0ltQ2JDby1RcVNGX25GanpHTUtTbF9oQXBkZHpTZm91QdIBwgFBVV95cUxNZXdvR2Y1QjBQcDhCY1JvV2tWbzl4c0JWdzloUnktOHlnQUpzSFRwallmZTZIYTlGNHJEVlNIOVphbEt1RHZvekFyQkgzM2c5SENJT1V0clhxbk5WWVdsQXFMNDFGMkphMG1yVXFyd2RGWENlN2ZzdW5OME53aDZER0lsTkc4M2RJa3RKQlprZWdBeHFVZHpseS1JSnJsQ3V3Zjgta3V1LXd0b1JPdVp6akZFUHpjYmZnWUFVbFdXY2R6dw?oc=5",
    "fecha": "Sun, 15 Nov 2026 21:50:04 GMT",
    "fuente": "Ambito"
+  },
+  {
+   "titulo": "El Gobierno modificó el RIGI: las empresas extranjeras podrán competir por el cupo de proveedores locales",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNek5fQjR4WEExaXRCeVdLUXo2UWxCa2RyUVFmTC1ZcFk1cmVRV1pkWlRONUdIVWhHUEhDRXg2SUJlRVl4anp0Z2Raa2xuR3NidlFXSDg3LWNaMGdXeEpaRGsxeThQM1pycjBlMEgyNDAyY2NVNDV5Zjk3dHEyNEdlaVFXMVN1dVlaODM1ZVZtVUw4Tnpvdzcxc3k3YUZ6cjgzQURjZzVlcDlRYVpLYkh0eG9fWExzX0huNzNyWHQ3MDZkNHlHN3pCTWl5czA5NzhWRkJ0NzBYODVOM25XN1FtbEV1VdIB_gFBVV95cUxPc1dtZ3dDYmp2S3JDVVZWT3BNTXNuemR0TG5CYjBROFNaSlRram1uRVpzbXJyY2VlaWFlUE43dGgwSVBZb1dXc1BWeVczaklWYklWWWVNeGdBRkJGUkhDQ29raHNPR1RaU29xM080SmVXcm5FZ0VGcG5rYWVqRzR4SEEzNmpkTWFxa185Y3Z2UlNaYkMxM0s1aWVSREJWN091Qy1MVVFZbGFfVEU3b1lVS2t6a0FINWFOTW1UOFkycFNnZ2ZodjJ3VEV5amtBLTctUFRVUDFnVm5TYVdpSGFlOUVTeDVZWlNvWWpleVJ5UHR5bURlZFdLYzBjYW53Zw?oc=5",
+   "fecha": "Mon, 16 Nov 2026 14:29:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Un apostador ganó más de $486 millones en el Quini 6 y ¡el Brinco quedó vacante! Se vienen nuevos pozos millonarios",
@@ -1045,16 +1039,22 @@
    "fuente": "ReconquistaHOY"
   },
   {
+   "titulo": "Elisa Carrió cruzó a Javier Milei y lanzó una advertencia sobre Patricia Bullrich: \"Busca el poder\"",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHBCRjBMSHFqS3BhaGRPSS1hVUFPVFpkMkltdkdrWlJvRjRsMmdfMzk3T2VNZ1g4eGdfVERIVklNMkl6V05PUWtKZ2ktb1NfVEw1bkVyc2drS1NvQWYtc0lXcnA0dmprY0lRNVNtYm9vUnlNMmRvdms2bGRjT3JMTjd0bVEtODZRSHI0OGdQVllXdlJJRGlBZURGV0FKWXZWZjJqOTZYWW9ySjF4LTBDSlhCV1ZEU0lrTWtBSXo0czZBNW82MEJldF94SjU3TWs5SnhWMFFmR2MwdTJxQUt4WlJnZDAzZw?oc=5",
+   "fecha": "Sun, 15 Nov 2026 19:17:42 GMT",
+   "fuente": "MDZ Online"
+  },
+  {
+   "titulo": "Cambió la Ley de Tránsito en la provincia de Buenos Aires: quién tiene prioridad de paso en los cruces y qué dice la nueva norma",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOekZaLTAtLVY2Ny03YVBIYW91MGxoTVU2UWVUd3AySXpQbGNNYWVhbVFjdUpWMUFrN3NzbjE1ZnN4SnZNM0lNU01PNHBiSHl2emdDd2J0NVNEdS00U1dGVzI5SHVNRlRldkplaUJnakhYUkhRTDVmeXhuSlJ0UkZBUUdzOFV2NXZScjRDWmtYakpja2RIV0Uxbk5tNlV1Q3VTeVhBOHhjRnR0LTNjUVdudXdZS3EzWExRRjNrc2t5OHFGd1NkamYwRTVQelE4OEpreXpDdWducDJVckxvZ3UtUnBoZ1IwaXA1WGJkdW9ydFkyMVlxdFpfa2NB0gGOAkFVX3lxTE5kUlFFMUktZ1VqLXEzaUJjNkFOT1JJRUcwa2VQb2hxN3gwNUkyTkRKRFhDUjhGRkZudldIME5UWHpXU2ZkbXQ2S1llUzI1eXNzNC1JM2Q0Y1F1Rl8wUURrbndydjVoLV9ZeXpZZWFQUWM1ZFVjRjNteEo2NjJZSHZwekU3RkpFNF9GTDQxVDMyWVFRZFhWSkVfNjNuM3Zxc0ZKQWJ5M3dlYjI1TThJbG52aWM2eUFCS0VvaUo0OFVxR0pIUU4wVkRySU50NG5hTVFNNmUxYlFwNllFYWNsYTYzWEYwNmFLZVltMGFCMVUyRHJFaFRKSHZkZHM2MVdJWGxWbkZDVWZral9OSVJ3UQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:36:17 GMT",
+   "fuente": "TN"
+  },
+  {
    "titulo": "La caída de la pobreza que muestra el Gobierno casi desaparece y hasta se revierte en mediciones alternativas de la UCA",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSktUcjZiZ3FrWnk1ZkwzelVRM2VZUWtGN1p3MkV2YmFnd2FtY1gzZGI0QnR3Nm1hSUVBdE83MGV3ZUlyaUFNa1lzWE8tQTJrVE5jTkhvVDAzNVpxLThBSHgtVW1YZzZZR1l1ZjA1VnVDX0JPNDlNQjZpcWQwTWFfck9nS2R4N1VydVdQMGo2TzdDYl9SMUI5M1pPSVRzdTdLbmFjMUhwU0NoaGx2M0t1S3cxQ0kySEs5aTZDcXNySER3Z3pNRzFEV3cyUWlaYUZvZXNmUi1TUjROUndScF9DNTdPMGtSNGU3VXFURnFXS1ozNmdXbGR30gGSAkFVX3lxTE9Nei1yRHFTbWJJUkpqcDBTZm0wVVRoakZ1VkY4cW43QmRBVEg0YTJMUkIxeGh2eVBrRnRFTmJFZ3ZISkhMUUhBMlQ0RUJmd1I5OWRaSVp5V2Z3a3Q1aEZROXB1TV80dm84Z0Y0TWhNZy1TbEsycUp6MWR0N1BFakZhTHdaak8zaU1hRlJxMDBKVDZQV05KblRTN29VMEdTOHUyUmUtNEZwYV9fZnZqTW5tUmstbk5XUDJkdThXS2NHbmJ3Q3RiaWtQQXdEVkdFLVpCN3VadWlyQlo2aFFkUjdpdWROanZROXNYTzFobTVjdUsxWXZINWJRM1JGQjVaZUNYaGxJRERrYzR6Vy1lNldLcHc?oc=5",
    "fecha": "Mon, 16 Nov 2026 10:24:00 GMT",
    "fuente": "Infobae"
-  },
-  {
-   "titulo": "Conmoción en Salta: encontraron muerta a una operadora de radio y detuvieron a un sospechoso",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEpTc3VTRkZoV2FYY3Z6SFo1MHlGUDBRNGp5NWhIQi1BTThQd1NtNlZtbDJ0Z3g1aWdsTHptV2N0UmkzclJYRThJeDJMNm51SHRTMGVjTXFSdEkwcHVqVXRjLVVMNmV6ZDZ0QjFPRzlscmFMZkh6RlhnbXRuZDNIeTc4dDdQRnhzYjUxVGVVWUc0Wnl0SHFaSlFnbDRwUGQ5Z2ptYXhIblB6M2ZncUpHU1dkbXpIVjJudklv0gHPAUFVX3lxTE40dTQyd0lHR2FmV1RWWGgybXAyZHpMZGhyY2N3UEpFQ3F4YUxxTnJWN0VnVVc0eXdMWjVSU3JMN3J4eFVfVTVobUp1ZXE0b3Vsc1RJNGZ0bUNvZGlyQWkxRE5XZEFXT2VwdUNhWUx1Z2djZ28xcVRhSDl4a2w2eHJ5cTFMenVRcEpyTTZobUJUeFViZ29BS0VNbk9MQ0xyZkhTWWJiTUo3NlF0SUdSRFlyMmw5ekJqVzVyUXlUczVUVWJrOGg5ZTRjOEY4WjFSTQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 05:30:00 GMT",
-   "fuente": "TN"
   }
  ],
  "finanzas_argy": [
