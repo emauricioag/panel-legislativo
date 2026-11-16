@@ -918,10 +918,9 @@
   }
  },
  "errores": {
-  "noticias": "HTTP Error 503: Service Unavailable",
-  "nacionales": "HTTP Error 503: Service Unavailable"
+  "noticias": "<urlopen error [Errno 101] Network is unreachable>"
  },
- "actualizado": "2026-11-15T21:47-03:00",
+ "actualizado": "2026-11-15T22:14-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -976,22 +975,34 @@
  },
  "nacionales": [
   {
-   "titulo": "A nueve años del hundimiento del ARA San Juan: los 44 tripulantes que siguen presentes en la memoria argentina",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRFdPVkhVLWtkX0FiVmh4bWZUOWtZcjRYcFJFZGZldURyaTRwWUs0ZXRjODRlYkdLZHRIMUd2d1BFUGlkU3lTTzlqX21SSThaOXJJX1F4Zm82VzJYem9fYU9XeWJmTFh1MXRvbjhQRTZFc3I0S1doR0tFM0ktM1ZzZnJOUHhUSjRZLUxEcXI0b2huaGZ0LUk3UjlvS2dqdkZ2ZUlFaXFTMGU4S25jMldMWlQ5X1ppV05CY3dqclpRaml5cG5ONkE3blBlWkd1dm5TWGRJTkNMemtTWkpLcGRBTHhsLXg5cEdZemVtdXF3QVd3SjJrQ0dZV2hCekpEOEFsVFVBVE9aTUZGTG9Gdnc?oc=5",
-   "fecha": "Sun, 15 Nov 2026 11:42:28 GMT",
-   "fuente": "El Litoral"
+   "titulo": "Se cumplen nueve años del hundimiento del ARA San Juan: las alertas previas sobre fallas en el submarino y cómo terminó el juicio",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb1N6Z2dxYUdLd3Ytb1JnUUhFaDJXR2doX0hFVF92OTNMM3Vjako3ZFI4V3hzQzlsZG1jRUNWOENKOFhPVU5YTGRRWjNBMWtuTlVCclhYd1V1ZWtRakNRQ19jc2NUSHhCYm0zQnlCTVBHLWFqS2xWcGZqYURBSjAwRDJQcmM2eU5Ed0xjRndMbm1xN0VidXI0U2VjSTc4SFdsUktvREY0bTZWT0l0Z0R6WUNSUXlZTUVvem5sUk5Ld0pucndBUlVUcFJ1STh4WElfTXd2anpIbm5uNUVhYU9HaVpYdkRCV3FJRjA4dWQ2VzA3YktZUTYtVWtFa9IBjwJBVV95cUxQTDZ4a1E0UDMzaV91bU5OS2tMVUt6bnpSTERaczdEdXYza3RYU0lWUkFTRnhoNzgxUUQtZUpXSk9EakxMQ0g1Z2thaFpHZTB4VTk4QUlzbDNOSnQyV2RDT2ZGUWRtV1Y2UXd3dnJmWmZ5TFV2dmZfSlp5cUhfQ056OUc1RVBiRi1RcXVra1EyeU11X2RpYndxRzVxWHBkMDBoOWpsbTdOcF94a1pZOHNoVjUwbzk1LVp3cURMN0UyS1M5eU9lM0ZKVnZBaVFVYlRHcEp1SDhGLTRDMjlfdWNoZnh1X2lVZTE4Nm1hSnlnejZudFFxM3hyWlpRSGhFTUJnc2ZUbDMyQnFfVTRSWU1r?oc=5",
+   "fecha": "Sun, 15 Nov 2026 08:55:00 GMT",
+   "fuente": "TN"
   },
   {
-   "titulo": "El Paraná superó el nivel de evacuación en Santa Fe y Rosario sigue de cerca la crecida: qué se espera",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSjA4LTNNdHBnSXFLNGtZSHBKMVUyNGxOZzJjbmV0dDh1cFFNYlNmV3NlLXFJZVVGS2p4SXZ4VVkwb18wVEVsXzNBaE0xUnRucnZkcHdzeHNudVhWRm95ZDBRbWtXelBjY3MxbUpsMGxXNDlPTTdQTXlVcENueThSR3pFdUs0Sk5qMVI3S2NYUFpqLUc2MVhhWlJYRGhXU2phaWJTazZ3SElwX1lWdm9rdmt5MFJJYl9nckNVX3o3ZzNnbkZRUlIxYkdCZHozR192MXdKa2JBTWp0SGRId29pUThEeWjSAeQBQVVfeXFMUEowOC0zTXRwZ0lxSzRrWUhwSjFVMjRsTmcyY25ldHQ4dXBRTWJTZldzZS1xSWVVRktqeEl2eFVZMG9fMFRFbF8zQWhNMVJ0bnJ2ZHB3c3hzbnVYVkZveWQwUW1rV3pQY2NzMW1KbDBsVzQ5T003UE15VXBDbnk4Ukd6RXVLNEpOajFSN0tjWFBaai1HNjFYYVpSWERoV1NqYWliU2s2d0hJcF9ZVnZva3ZreTBSSWJfZ3JDVV96N2czZ25GUVJSMWJHQmR6M0dfdjF3SmtiQU1qdEhkSHdvaVE4RHlo?oc=5",
-   "fecha": "Sun, 15 Nov 2026 18:57:40 GMT",
-   "fuente": "Rosario3"
+   "titulo": "El río Paraná alcanzó el nivel de evacuación en la ciudad de Santa Fe y comenzaron los traslados de familias",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMm5MN29fSG5ncnNQV3VFdDFGX0hraVpuNzBlM29Sc1Q0RlQ5ODUzQldWR2l6eU9xNmRsMTJrMGMxelZJV3JWUjJZWmlua3JJa3VIV21nazQ3eXBGTUFHUDVRZ2FJRHlxTUR4bk9NU3FRbzlnQ1ZOWHpIbDVRVjItdkgwNl9Xemk4WEN2S0oySXZFaWx2LW5HTEhBOFRhWHZ5NG5Bd0VRdVlQUjVJRXZtLUp5R0xIR3BkWS1XUkRBN1ktVmpleFd3Q0s2Z1ZfRGlJVFJrYXEtd3Q0QWExQ0ZjTFh0SG5BZkZf0gGDAkFVX3lxTE11ZlY3RVBWNVh4RkdCREFHQXlPVmpwQ3UxRWxQLVhTbEZFSUpMRTgyN2RibjQ0MGtJOUJxTHlPN182QTlYVzRnWUJXaDJwVE8xdnNSMGt0Q3ZURmg0Rm01QXAwOHdibFgtX0hyeXdPZ2U2SEtCdUtJX0kwX3BYeHdWMlRKandCczRPN1VkQlJuclZkZUNaVkNnd3NPdG9pMlI1UmxDXzFLYVRSVUVwbDRnU3dhR0pjMmlyZFZTeGFqbUNLYkVKV3o3cUxFQ0UxTjI5MXoyd1VMbDdUZzhHalZySEw0Y3Vxazh1Z2R1c0Vscm5lNlYweG9XY0NmRTlGNWhVX3c?oc=5",
+   "fecha": "Sun, 15 Nov 2026 22:47:00 GMT",
+   "fuente": "Infobae"
   },
   {
-   "titulo": "Milei ratificó que buscará la reelección en 2027 y reivindicó las ideas económicas de Belgrano",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONk5ZUmFOQ1Z0aWc0elZqZ1ZvcFhmUG40YkdFV0dNMTVjallLdDFxOGtiV0gybTlCdW5IVl9RSjFPbUhUbTlTTXRyTjNnZ0dwTXV0MUdJQzNlSU9uTEg1UmJ6REQ5cVk4V25JY09GOExWWlZHWko4ZGVqelRNcEprWnBIeEtTdnREakhNMzhGRHdiRkJzYThPUTFRaEpWZm92SE03c1o2R3dGZ0E3NFVLT1JFSzVXcF9sU0hfbWxYQ1QwQjNOUEdETVpnZm5BTlhUbEtURGVn?oc=5",
-   "fecha": "Sun, 15 Nov 2026 00:24:49 GMT",
-   "fuente": "Perfil"
+   "titulo": "La agenda de Javier Milei: reuniones con empresarios, actos oficiales y el lanzamiento de Tesla en la Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUFktWGZxelM0MUZ3Sk9PS2s3Y0hZaml1dEpmbTJEMVpUU0hxRTV1ZTlraHZaQlpHWXl2YTJnVWxlNVoyNnFyZlUzb1pyM2xjOFBWejVMMFBUQXB1YTEtTjkzTTRMYXlNRHgwa3Bua244a1p3ZnVZT1NQMFhsVnNzUTk5dkJZNHIwajRob0drWXp1dE80bWwyWW1TZW02ZHRtblNSN21obXp0R0xZQTd6M0taQmlfdVN6Y2VIRWxhUFVpY2VFMlF1ZFN1VlV4bzJWb1lz0gHYAUFVX3lxTFBsREJvWm5tcGRmTUE0a2pKeWVNdGI5NWppQU9zUXlZdlRtTWhHTTZuVXNjeU1ydkdZdlE0QnlPRlJCclBUMFB0X2lYcEVnbGlNVDF5UTFKMGVUSnVxQmJGM1QtZXhFZnU1NVdld2NMbUd1cm40V1Vsa3Voek5lbGRTUFpSNDRRcVB0UDIyWHB0NnNuRFlMaHV1dVZfZnNiTW40bk1DdTdERHFMS2ZWbnpicGJZbnNHQ3EyY3ZvNDlINnBCUno5S1JzVHBPMS1zXzJMeDBHSDFXUA?oc=5",
+   "fecha": "Sun, 15 Nov 2026 21:39:01 GMT",
+   "fuente": "Ambito"
+  },
+  {
+   "titulo": "\"Le quieren hacer una trampa\": el debate por las PASO reabre la interna entre Karina Milei y Bullrich",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamM2RERNcHdDS01RTk9EWElLUVRTSzVXdjRFSzRSbUh0UGJhS0NNRDBVZjZZaHFaejViYlRuVzhvWnhkLThUcnpYN0p2dFVzVVZwaUQ3ckhBU2l6dWZmUEE3Yk41RUpyRURQSkF2TXlmNWdqSGNFTFVTS09XQ0pEV1NNWnR6V0ttMDh3bWJkMVN3NnRPbnVjSHg3RWh1eVJWcnkxczRWcmUtTXVCTTBOZU5CX09KTmtvX0k4?oc=5",
+   "fecha": "Sun, 15 Nov 2026 19:41:19 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "El jefe de Episcopado habló de las lágrimas de Milei ante León XIV y dejó un pedido: “El bien de todos es de todos”",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMXNBYW1pOFExbk5xdk1uenV6V0M3SFNJdy1QdUVfZE9Qa3ZteTlRTVJnR1RQXzBFaV9zY25lZ2dmenNZUkhtUnhWaEkxU3lQd1h2LVIwOG5UZV83Z1R4Y1F3cXdIV21qcXZlbG1MdGdTZjA2U2pJZVhUS3p1MTB3ZXFJcFZQOHpaZ3BpWXNlY0hDOG5HM2R2Ml9OZjkwYTdhWlRENWhNLUlZV2RJbEpzRTNHbmhLVTB6U08zUmdCYzNWTXJrQUc4S2VfUVpqa1RKbXluVUJHbjlaR3A0YlBZSE1ZM3I?oc=5",
+   "fecha": "Sun, 15 Nov 2026 22:38:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "El MPN no participará de las elecciones 2027 en Neuquén y enfrenta una delicada situación financiera",
@@ -1000,10 +1011,10 @@
    "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "El jefe de Episcopado habló del llanto de Milei ante el Papa y le pidió hacer foco en la situación social: “El bien de todos es de todos, no estamos haciendo campaña”",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaHVWLVRyWUc0MHRHbjJmM2FLZExlWTcwZVNWNWJfbFFlbUFzZEhOakpRc1JvZnRWb1d3TC1qOEFHNWV2Zl9MbVVOaDRYMGVEdFh3UGNIdHV6amp5cGxnV3Fxemd3cVZwaGpKOXRJM0lTeEZ4VTRIci1qVHhDc2lwdVgtRTRqbDFqWVk0RVFxYlBJU1JOWWZrbmM1aGRfZEJwZjBfYTZTazVJeTFJeGRKVUhVVUs1MkQ3SDBOV2pIbkRsZUgzOVRCVDdlNTFtMC01Uk9kQ3MxYl9VeHNUUmc?oc=5",
-   "fecha": "Sun, 15 Nov 2026 13:49:39 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "La Noche de los Museos sumó más de 350 espacios de la Ciudad",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0RmQjRBYlg1SWxGbmJoR3JLVGJkY2FEdms3bkxPeERHd1g0dmp4Z3VFeDlXMEhidERzTmFDU2NlcEJETXZlS0VNdEZwOVBPZVF4WXhzQmRrX05pRFNwV3RuSDVfeVA0MmxwSTNjaXBGSXI5eHl3RnR1OWFpQjNja3pVaXRfLXpUR1JuS3hOTFdHMXpTaTh3YWpfbkcxSXlPb0E?oc=5",
+   "fecha": "Sat, 14 Nov 2026 22:01:00 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta",
@@ -1012,22 +1023,16 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "El Gobierno prioriza la negociación para eliminar las PASO y posterga la ofensiva para ordenar a Bullrich",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbXp2anNwZFNnQ192TGZGUXBvVklKM2FnLXpHOEFEcnRFU3pWSUpyVi1XTnlVQlBGZER2dURXbWtGODNpZjN1aXYwWTlyRUhfdzR2SS1fcTJ1dGxXak9sWWo2LXI3dDg5VU5TSWd4Zi1paXpCdHFQNjdINGM4cWM5RU4yUWhkODNlV1R4SW9YT2lRMjlaWlY3ZGtJWEt6dFZaRzdPQTRGSk9MUE85QkFINk9CbTVNTzRLdHgxUUxhWEswamppN0w2QXQ2VjJEYkxLeEsybkpNWjJqZ1hvRWJz?oc=5",
-   "fecha": "Sat, 14 Nov 2026 21:56:00 GMT",
+   "titulo": "Federico Beligoy compró un lujoso departamento de 380 m2, siete días antes del Mundial de Fútbol",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmRpV012UmJpeGVxTzRMY3RMaGk2VnRaM29NeGF4WHBsRlNfdW5KRTJtYWVjMDlvbkRfV1Z5MDZtc3p1S09NbXBmcGpKd1RScXBMaGtiLVp5NF9yVk8wdGVPd3BfT0dmSjBYUXU1cGxlVTctaTFDY2ZDbDdaeDJhRlYyYzEtMDFGWGFDdnFVOHNWVE4wbVBWNVVxajZBbmRZVk91MWQ4bFBkSTVBU2I3X2ZDem1oeTJxcTlYa3BMSWRqejZpWlBxNWU2S0wxMWVFclRYZTl2M2VKMFNhM2c?oc=5",
+   "fecha": "Sun, 15 Nov 2026 03:01:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Javier Milei enfrenta 15 días decisivos y pierde el control de su interna",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWRXUVFERWtNWUpuYmtWMDFUd3BWSUxuQU5CZkExOF9iTVljUXlRQVFYLU16akVpT0JrZ2tXSFRxU2NMNjBicnIxV2JkWjdjeUl6WE5QVnUzbTM1eHhFVnRBdWZwMWdEWkprSmpQaHlqdWVfbUUwUHkwRnN1b3k1Qm5XbmNMQjhjYzlUTkpadUs3cXNybUEwY2pKdndIdHFCRWFsQ2RfSVZzUmJLSjQ1a01LR1_SAboBQVVfeXFMT256MnZrNjlncGVtdk1nUmJZelc4eEFTQUE5SlBwbXlyXzNCV0V1UVhyQkUzQU1TMzJDVVVjR1ZDTzhtdTNyUGljUUZRakhWZlAybXVWRVc2RTJnRlQ1bWVJaERRVDRWWDR2M3NKNTNGSWRwamVEa0VoS2s1SmhJNDVXOUZQTkQyUlVWcUFaR3pjQjNlNnJ3NWxJWnQ2OXdYSXZlLWNHc2JsYkp5SGtjYnR5XzNBeEJwUDRB?oc=5",
-   "fecha": "Sun, 15 Nov 2026 13:12:00 GMT",
-   "fuente": "Letra P"
-  },
-  {
-   "titulo": "La Noche de los Museos sumó más de 350 espacios de la Ciudad",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0RmQjRBYlg1SWxGbmJoR3JLVGJkY2FEdms3bkxPeERHd1g0dmp4Z3VFeDlXMEhidERzTmFDU2NlcEJETXZlS0VNdEZwOVBPZVF4WXhzQmRrX05pRFNwV3RuSDVfeVA0MmxwSTNjaXBGSXI5eHl3RnR1OWFpQjNja3pVaXRfLXpUR1JuS3hOTFdHMXpTaTh3YWpfbkcxSXlPb0E?oc=5",
-   "fecha": "Sat, 14 Nov 2026 22:01:00 GMT",
-   "fuente": "Página|12"
+   "titulo": "Encontraron muerto a un violinista en su casa de Santiago del Estero: horas antes había denunciado a una mujer por una golpiza",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLWlFWDR0enJNdm13X2R0dFZXVjRvc3UxSVM5WnlqT3JzanlPTGdlaUhudlFlRWZwTWFOLTd0ZXZqdlBpMWR6MWcxTFQ3bC1BS3MxZGFBTUdCVkhUOVhkaVR0RDVyMk5SSXdROGd0REVsTi1rVGd6MkdTVVBRcGgtS1V5bUE4WU15S0swRzNPRm0yYTNsSnhsWlNXSzNRNUp2RmdkcGMxa0s5OExFa2prZk5ON2U5bmVhYXYwVmk4amlyZGZnVC1YTmlaSXZoUQ?oc=5",
+   "fecha": "Sun, 15 Nov 2026 17:42:48 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Conmoción. Tragedia en Salta: hallaron muertos a un padre y a sus tres hijas por deshidratación severa",
@@ -1036,40 +1041,34 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "Un motociclista evadió un control en La Boca, fue perseguido 40 cuadras por la Policía y murió al chocar con un colectivo en San Cristóbal",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN2RSa19KZXNkSmRjUVVBNjBZZXVSMURwbUo5S3RKUzd6b1hpa0FMZ2pXdEFzaWFnYTB3dmFaYlBtZFlobVRCUDBxOHpGZlNOU2IxNnhJS3RQMGhWc3N0dmJXNnE1WUVVTGF1UnJKRzUtQ3A5MTZacDlGQWRVdHk3akpVcnFqOHAxcm44czhVX0lhQnFfQU9nd0xuWm5NQ1ZNeTFZS1hTY0tpYkhRR1JzekxMeWZzLXlqdUVpemFsMUxCTHduNU1CQmphcnlRRUdyWktQNnlnempRbzVJVXR6UjV1QdIB6AFBVV95cUxQbVJDZ1FtQmswd1dTSS1GdEQtSlBwOFJRUE91eHEwVEM3aVBFU3h3ZGlaYWNmSkpVLUpCLTB1Qk9qbjRId2d2clFBVHZSMS1meDYyb2s5aFRsbXB6S1FrblFFLU94NWJrZ1BXOGc0bVQzd3JISUc3Mmt0a2hremdKZ1gzSG15OFhDV2JrSHZhSUVreTlxSVpTVU14UXZqVDBMd21OV256UFctNmZ6Z2pzRzVoOEp4S1VKU2FxaGxiN3JtaC1TMEhLTmRJRE12MzEya3hOemREdHFjaVFxTWxDYmxDRDctMDE4?oc=5",
-   "fecha": "Sun, 15 Nov 2026 17:19:22 GMT",
+   "titulo": "San Cristóbal: un motociclista escapó de un control policial, cruzó en rojo y murió al chocar contra un colectivo",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSHprWUpRTlRkMy1scDlpdklnTFNYSGxEZndQVDY0azFSTXlOb2ptUmtiVF9IZUI0TGlSZWprOGVIU2JSa2FCVFk0bDZiVnBtekU2aHdyR19SMVhmZFQzZGdNaE5vNVVRQjBFcUNyMUZhUWMxcEFUSkVWV1JPVHBicWg3cUZWZ2RoOFpkeXNHaEd1Rl9WeXRzaUFGMjhFUzh3MHFpSENoWjBZZzhpeEE5dVhLdFNKbTVwWEF5SWhOalo1YWJ6S2U0U1liVWF3Qmhpbm1jQWpucTZnUFk5cW1wTHNJV1BsMjjSAfsBQVVfeXFMTTFFTVE4RU41N1duMGtmU28yYUVsbG1FY1pzOWtWOXBVYjd4SzBRUkFFR1l5Vk43QVVqVXhCdjNYemhwMTRPZm04N0FhUWhQZmVlZWMyYkRLRjhKZjRGNVF5M3BwcTVPRlFPUFRvd1czMmQ2Qk9tdjFsd29scmdTWVBpNWRlWEU4b3JrcGw1UnVDVmtMYXNnUnhrRVUwMUFZU3p2alRmWHJGOU9rSnhUTk9QQ0V4aU45MzlDUG0zUld6Q08tLU1ES2JvR0lGa2xoS1pSZDRqZkpaeUZGYTVPZEhRX3FSdFIxSU01cm1BOUs0czM4UklpUk5HOVk?oc=5",
+   "fecha": "Sun, 15 Nov 2026 17:42:57 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "Horror en Malvinas Argentinas: encontraron muerto a un hombre luego de ser atacado por un pitbull",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzlXZ2o4ZEc0b0NKSE5zdE5mZklHa1NHUmZhYUZKMDEyOFp5d01BMmNhbW9lLU90YV9hVEZCcHppVlFNU3dhUFJCZ3ZHcmhwY3pIcFdSUUxaUGVFYWhOV2xNcnlnUG9GZE9xNmNqb3VQeGoxTGNrRXp0R0U4Z0k4cEstaTB1SnQtc2VPWW9xcS10NFFuT3ZTd053T1o0TU9nWndmM1U4bEdYYzMtNFFmSG5xMWVsMEo4elRhN284V0pITEctWlJjQ18yWFVBdDN60gHkAUFVX3lxTE9KcnUyeG9nMHpGeHBfVHdPYmF2YWRrUkNUS0VmbFR3NUdtSzlhb0xqeDFHelhpTVBsREVMZU9Seks3amE1VlBBNU93WHN5MEI5QlBwekh3MURBdlJCVFVrVmV5TXFOSmtrUFRWOVNmLVBLd1dRLU1QNUtabzF4Y0VtNTZwQmhIZUxycWl3aEgwU2JCN3lHOFZRMzVKOVNha0xLUFVSbjA5eDZ2VUkyaWowYlQ2VWgwcXI3bThKLTdoYzMwZ3VxanRZMWREcms0NGtxWlNKeEhyMTMwWk1LMmRMbEtuOQ?oc=5",
+   "fecha": "Sun, 15 Nov 2026 23:00:55 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "El tiempo en San Juan: cómo estará este domingo y lunes",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOW9pellkTkg3NzNyQlhHTmtPTnFNU294TUY0R3dOVEhHYlRoNWVDR195WG1POWJ6eXJsQUdpLWlLUW1SLVVyTFpLcHp0VlpES25ReWptVHExUGsxMUp5YVFEelVfQW9kc3BPd29GLTF6YWJvRVZaNmkwbzRLdklMY2huekRwRF9CTmZ1T0lMbVpuUW40dENhQ0l5Z0FjT3o2QnMxaXo5X05ER3dKT0pnX0kzdXc3dw?oc=5",
+   "fecha": "Sun, 15 Nov 2026 02:55:38 GMT",
+   "fuente": "Diario Huarpe"
+  },
+  {
+   "titulo": "\"Por supuesto que lo acompañaría\": Francos habló de la posibilidad de compartir la fórmula presidencial con Milei",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFQ0eVZyaGpsYVJLQlVfNW9Edkw1VzdNY3pCUUwyTmVTR1NyMi1ZTXlLdFpYdFpucW0zOTdXVlBiYldlX09GMHhJbUpIZlNHa0tCeHE1TUo3eGwzRXdfVzZWRnctc2V0R20zeFBBV0wxMlUta0VHa2V3NmhEcC13dzMta1JTZnFNSERhX0RMNUUtcjd2MGpvS21jVktSMERjTmN2bkkxems0ZHI5MjJyQm9telh0eGFxUjRmdV9YYUNGMjczb1QzMlBPYVNaQQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 00:10:49 GMT",
    "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "Hallaron muerto a un reconocido violinista en Santiago del Estero: horas antes había denunciado que una mujer lo golpeó",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNclg4YVlUSDUtRk5BZXNyekpaYlNrcUk0ZzUtNXFVUEVvVUoxT2o3ejJlRlUxTGF6Y0ZFbHRENzlHT09Va1NKc0JfYWZCYWlxdzNwWEtsaVA1X1YzalZ3UVFkYWNqTFFHSGphOUVKSkxDbDNhdkhUNTM5Z1RkeW5PSFR2Q2JwblhXRjRRTWVkR05NaXhaUVJYVjdBeFlpM1dRcGFxVE1KMmlrSGVZOUdLRlh0RTJ0NXdsQU1Jenk4Z2JySG1OUm02S0NUM2VOak1UdmtoRldmc3ZhU01OeDEzaXR6MUVfZThQLW1fOTU4NXM5OXltMmdMZ3hKLUdEU2RDMmxPMtIBnwJBVV95cUxQTXByb0dMVXN5NHpDTVhFN2pDRGc0MFhITjU1Qk9KRTV3ZmpoVWRIVjBoXzBJWldnR1dhS3NLSThoUFFfdTY1c3dhd0p2Qy1VMldjZTJ5aFVyYUJra0hIY3I2dHZHY0Z4eTAycDNZQzBQLU9ULVhCRUFHd1R2clVEV2tFV2VqVmhtRk9jNXJ4NDIzR0pUTDc5S19qNkhYU0VJWkRCYWlHN0NvLWt2NVh0dmhtTHhUNnktY0ZpSWZmWnR0S1hQVTJmSURjWThzemY2WFZ1OU50LVhjdDJqU0c4WXJhYkdmZW5ORUZFdm1qX1dsZXFqdE94QU1GSlhHd3dxdEQ5RzRqWWhWNks1TkJkMGJxS3RZOG41S2lZbENRWQ?oc=5",
-   "fecha": "Sun, 15 Nov 2026 18:45:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Domingo cálido y con lluvias en la noche: así estará el domingo 15 de noviembre en San Juan",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVW04ZUw1czJybkIwNlJsek1lVzc1MkpMX0tEQVg0Yjhjb092S2Z1T2lRUGo0N1o4czZQSHhWT1VMelRYeVl1dV90LXVya09zNXh6MnNpcjREdTRGS2dQNlM1cFQ1d3E0U1Nfek1YUUtPSzdyNC1IeXFNenVwUjdXYVVENTIxcWVaMzBWLU9RZDFlblpmaVE3dUdyaHdnY1dReDJyajI2ZEZxOFY3bmxnd1F3Z0JEVGQyanpWWHhGMExfWG1mZ2c?oc=5",
-   "fecha": "Sun, 15 Nov 2026 11:29:00 GMT",
-   "fuente": "Diario de Cuyo"
-  },
-  {
-   "titulo": "Rafael Di Marco: “Las precipitaciones por encima de lo normal se van a extender hasta marzo”",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeW54ck5RV0d2bTAwRkFxVUxfVkJOV0JtekNjSDRhbEh1aVFldXlWTENSWlpGZE9sR1B4czFULVFOQVFTdmxDVnVUTjRDeTFLTXotREFZa3NPQTN3OThSSnd0SUNfYlRTdGdCeXA3SnFVUFBJbTY1ckF3czJVQWJYNnNFZi1KNldwNlhRNkd2dnlxTjA4MmlXRGlKS0haOEZtMlhxeG02c0hVMlJpRHpIT3o0Tkc0ZnpB?oc=5",
-   "fecha": "Sat, 14 Nov 2026 22:54:47 GMT",
-   "fuente": "Perfil"
   },
   {
    "titulo": "Dos escenarios, 76 kilómetros y una misma esperanza: las historias detrás de la visita de León XIV",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWG0wMzlBc3RDYVVhajdqa3dUanlrT29LV2dVSDZkaHZ4bTJNMWQxZ2RKV1lSTDlHZDRFRUVsTUNFdjZQcFhjU3d6QnlFWmVBbXZIXy1pVmdYSlIxSy1lRmxLU1V1M2tYams2cUJXOEx2VHg3OEdKZFFyT2xHdF9hRFp0SW00cGRVZ2M0Z2ZkOXB5WUdxdmNfOXJnTXJiOWY0RjAtRkQxZEh5RzdZTWtHU0U1c05hQXhKY1J6bE5sOVlXMVNHYS04d2pSSVFWYjVMNmFVVEtQV3k5MVQyNzUw?oc=5",
    "fecha": "Sun, 15 Nov 2026 14:36:00 GMT",
    "fuente": "La Nación"
-  },
-  {
-   "titulo": "El oficialismo buscará la media sanción del Presupuesto 2027, de la Ley de Soberanía y la eliminación de las PASO",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWGVERGNFSDJ2WnFKeERldDg3LW1vMVAzOF9fRUFjcXhIY1ZTMWJqR2pEbGpNdl93Wjl6a3BGTVpBSS0wenFmX3pZQVlkQURyVFZReDgzSTNTUmZSZ0NGNnV2NGdwMGFZMTZpUHEwZ1dQWWN2VEk3Tkk4Wl9OamE0blA1bklubExjZ3lBOTZ0NWZaemNwazcwTUp3aGl2b0VvQnBVYlJ0OF96andRZGduZVp1cVZtQjlwSFBwTjBORDhsSFhSdm1xa1ZpV0V2RnQyeHowV0lHcUcwS3plbFRSU2QzMlg1OGM?oc=5",
-   "fecha": "Sat, 14 Nov 2026 22:01:00 GMT",
-   "fuente": "Página|12"
   }
  ],
  "finanzas_argy": [
