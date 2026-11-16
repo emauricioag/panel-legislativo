@@ -34,6 +34,11 @@
   "modo": "directo",
   "items": [
    {
+    "organismo": "Boletín Oficial 13-11-2026",
+    "link": "https://www.corrientes.gob.ar/29169/boletin-oficial-13-11-2026",
+    "detalle": "Archivos: Anexo BO 13-11-2026 - Dpec EPRE.pdf, Sucesorios 13-11-2026.pdf, 13-11-2026.pdf"
+   },
+   {
     "organismo": "Boletín Oficial 12-11-2026",
     "link": "https://www.corrientes.gob.ar/29161/boletin-oficial-12-11-2026",
     "detalle": "Archivos: 12-11-2026.pdf, Sucesorios 12-11-2026.pdf"
@@ -41,7 +46,7 @@
    {
     "organismo": "Boletín Oficial 11-11-2026",
     "link": "https://www.corrientes.gob.ar/29155/boletin-oficial-11-11-2026",
-    "detalle": "Archivos: 11-11-2026.pdf, Anexo BO 11-11-2026 - Min de Hacienda y Fin.pdf, Sucesorios 11-11-2026.pdf"
+    "detalle": "Edición publicada"
    },
    {
     "organismo": "Boletín Oficial 10-11-2026",
@@ -56,11 +61,6 @@
    {
     "organismo": "Boletín Oficial 05-11-2026",
     "link": "https://www.corrientes.gob.ar/29128/boletin-oficial-05-11-2026",
-    "detalle": "Edición publicada"
-   },
-   {
-    "organismo": "Boletín Oficial 04-11-2026",
-    "link": "https://www.corrientes.gob.ar/29124/boletin-oficial-04-11-2026",
     "detalle": "Edición publicada"
    }
   ]
@@ -588,16 +588,34 @@
  ],
  "noticias": [
   {
+   "titulo": "Baja el Río Uruguay en toda la provincia de Corrientes pero siguen las recomendaciones y alertas",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZl9oa2lqVFlBUEtDYlJzenF1anY3d0RoSWRUWnhRRm5pM0pyWURYamwxR3Q0V2V1NDhBa0YtU1hEUkZzZzI3QVhJbm81QkZCNWpKcGhUMmpHdzRIRDBMOWhtMHdNN1N3UHJ0c3YtWG4zS3BOWGlXRWhsVzRkd3lvV2RxVG02MEJFTWhBQW9ZeEJDSElvM3ZXSWg1bXdqZGpaNGl0SUZBM0tlMmR6ZWVJTE9KZDdEMVg0NjRBMW5hbXlRLWlWUXR4SU9rOU5KRlZzcVpKdkdUTWtfUWM?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:42:51 GMT",
+   "fuente": "Corrientes Hoy"
+  },
+  {
+   "titulo": "Avanza campaña de matriculación de médicos veterinarios de Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOFdUMER2Y01fT3p6OUIzQWZQTGRZX2V4ak5WX1RUaHpIUmJpZnBDdEg0RV93MEtMRkI0OEE5a0hGNk1sZnVBTDgxdS1TeE43cVBIWDJQWEh2U1JReUF0TUJnZFlOZFJlbU42ZmtXQW5YRDE3SGQtY2pZYWxxbjVXcUJ5SWVsZGt4S3otYTNqNkhfTklRNUlBa2tsRzNnNEt6b1V1a0NGQUg0NWdVWUpTdHJn?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:07:35 GMT",
+   "fuente": "Corrientes en el aire"
+  },
+  {
+   "titulo": "Corrientes: un camionero brasileño fue sorprendido circulando con 1,89 de alcohol en sangre",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTByOXNFMDJhd0hZaldfUWY4UWUydlZjMndNMHdfb2t6NnlNTDBGMjN4WjZneExUc25uVWxZdjl1czE5Z1VNY1IwMFoydW92LWl2c1lkYkQ5OE9TNzV5T214S3lkNVhUNzRLT2dVRUpGck9sSTBWczA1b0hsVzZBa0Q1a1NVMGpVR1hrbk9pMVc5ZXJwR0pLZGZadHRuNVVrSThlYXF5UE9pZS1oTDhoYXFYbUE0Qk1yTDhyaHVkVnI3Z0dUOGNIbTR1YUNfZlVDeEQ4?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:28:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
    "titulo": "16 de noviembre: una fecha marcada por la historia, la cultura y el reconocimiento de importantes figuras",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNGF5WV9oMUNnUjlIUXdvTGFERW5wWWlSM19lZGpvX1dla3lIMFhMb19BQW9tMWExUGJsb2otaTVScDY3SzlvT2RxTy1xMV9oZ3lHck1oRDdZbTdIeUNGRUFBSkxyVDdyV0QyMnFiYUZJY0s4T2J4c0NnNFZkY2swSEt3ZDdFcW9EN3RJS21kY3lySU9sUFBBMm5qR201NWRqdDIzaDRYbUwxT0lYME1sOFBEUjl0SmdZMHZHc0FKR2NtTkFtUllkeEpLa1pDbFNYbmxHTzF0cmpsdzVhemsyZHlLNA?oc=5",
    "fecha": "Mon, 16 Nov 2026 09:22:30 GMT",
    "fuente": "La Red Corrientes"
   },
   {
-   "titulo": "Judiciales y docentes reclamarán por los aumentos salariales en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmtwSk9CNXd4UjhtRzJiZW40VmdpUGxlcnFsLW9GQTdCdjF1cHpPNVpuREJmck9oRThzZ1BEUkJLaERJYzQxVWlQZUFuU2ViUm5XdDRPYUVYT0huekVpOGdjQm5VWWpmd3dHU0VLYWstTTlHeFEtRXRzYi11YjQyR2VZa3FOeHQxa3JmSU1aWGY1M0t4WFRKQmdEdmlFdVFyMkNIN0YxM0dDN1RUUVQwTmhZSEVYdEFGUzR5ZGl3?oc=5",
-   "fecha": "Mon, 16 Nov 2026 11:27:36 GMT",
-   "fuente": "Corrientes Hoy"
+   "titulo": "Interceptaron en Corrientes a un camionero brasileño con casi 2 gramos de alcohol en sangre",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHJ6Z1BiNjFrTF9XeFAyTGtGT19fY1NVdVVhYlNSWUFCcUJROGZlME1QUGJCa3puZ216TDdueUZ4WXhKRDhjaTdMM2IzTnRwRERJd1plLWM2TGhVbGZWNU9HWE90RlRhRTlTM2JJdjFQcVFjbHItNDA4a2U4clIxVHRBZW9kaXdaX1FxVUw5bmthM18tcDR4YVFOb2dydTlRRVlDUENhb2YxZnRUQkVLQ0xoMG4wZnJDbFlTNC1pcllXTjBpZkZ2TkRBaTR4MkJ1dDVPbDd3OA?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:28:54 GMT",
+   "fuente": "El Litoral"
   },
   {
    "titulo": "Corrientes es la segunda provincia con más personas afectadas",
@@ -606,16 +624,16 @@
    "fuente": "Cadena de Radios"
   },
   {
-   "titulo": "Las noticias más importantes del 16 de noviembre del 2026",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYzdiZDRCRmxWTXdRS083WWQ2UDMxZmNmTnk4ajJKd28ydGZjYjdTX0Y4U1E5eWRpcDV4THNwVWdCS0JxM3h6MmQ5RUV2c2Jadk9LUGc2bTk5QjBZZkx3am15SXJPaTFuekV2MV91UHFZLUNwdUhJamQtcU9PTUd0Yi1oQ090T2hmM3AtNnpOcEpDaW05dzF6OEZvSlVTaEpCTVJiYmNPWUMtSlZXYWVsOEYzazZZN2RRTmZ2aU9wVGFkQQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 09:46:54 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
+   "titulo": "Un camionero brasileño circulaba con casi 2 gramos de alcohol en sangre en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUmxKLXVhNkNKbGh1bWxMemZXQS1fQWJuT0pSS296cXZkNjlvaXhISkh4U3VJU29iV0ZUWmE3S3ZwN0lJemNXREIya1NKb3dkNlRleU1jN0R6eUtpVDFyb2lGTzg5d2tLWTFUWlF2MXVYdmFoSFdWZUNybFVpNWRWRWtYTmlhNTNob3lLYzlJNUJOS1ozbF9vSl9pZGhqNlZfVzI4VW1Kd3dZNHZkZkFUS29jTW9YU0VuellZdTRmMnU0bXZUYnE2b2IzVURsNV9JRzlxYjBvUlNIN0VlVVJuV01Md3FhZ9IB9AFBVV95cUxPX2VHRGd0dmd0RW1qSjhlVVBucGVRRFlZLW16S1EtQkw5cVJkak03a3BxTkpPUUlTR1pWbV9RR3JkN3NqOW1KaDg3NUF4eHlnNWtld3ZUTEpiSFVtTUpYd1NOaVc0UHRiNmxlWXIwZlNiOWVjTmNGUkdJOW9LeGlOdnNOcV9BLTB6dFkwZDA3cEdhdFl2clRQS3hIbnpadHZxbzVWeGp4WUFIWVhxWFRKNlpMSVd6cGE3OS1XOEc3R0p5dGEybE92Z1oyUFZVNTRoZkN2YXJuU1JPd2RDQjVEV0RpZDhQSEFxTlBVVTZZbUlXXzBN?oc=5",
+   "fecha": "Mon, 16 Nov 2026 11:24:20 GMT",
+   "fuente": "Agencia Noticias Argentinas"
   },
   {
-   "titulo": "Un camionero brasileño circulaba con casi 2 gramos de alcohol en sangre en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVpvaFprRmhkWjFWMWFqS3ctMktFeF9uVkVCUEtfUVZ2RnlnWFh4Qjl4RWRpaDg4VVpiX3JMd3p0ZDBSbmRxWG9idGhhakU3aVdQY09fWDkwNTFQVFVFQzJKaEdRWEF1RFdmYVFWWmtjMDhHSWJNcjZuTDZOd3BRX2FlbmQ3ekg3bGl4eDFFakNEUlFkWnhFVjZlTjQ5cmlxWnZQNW1hamZpcGU1VENPWTJmYlNXVlhpbXZreWxDWjM4OGtTOEFna1cyNWltQ2RSZlkwdlBn0gHWAUFVX3lxTE9lWm9oWmtGaGRaMVYxYWpLdy0yS0V4X25WRUJQS19RVnZGeWdYWHhCOXhFZGloODhVWmJfckx3enRkMFJuZHFYb2J0aGFqRTdpV1BjT19YOTA1MVBUVUVDMkpoR1FYQXVEV2ZhUVZaa2MwOEdJYk1yNm5MNk53cFFfYWVuZDd6SDdsaXh4MUVqQ0RSUWRaeEVWNmVONDlyaXFadlA1bWFqZmlwZTVUQ09ZMmZiU1dWWGltdmt5bENaMzg4a1M4QWdrVzI1aW1DZFJmWTB2UGc?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:07:50 GMT",
-   "fuente": "El Chorrillero"
+   "titulo": "Rehabilitaron el acceso a la punta San Sebastián en la Costanera de Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcjVGMENQMDh1aWhFTW5JaURiLTA2ODF2SDR2VTlzSzhvaHBfSXRmSW1ORVQtbDBlU1hPcmdSanl1STdQSlpXRjdNM3J5WWJZYWZURDhRbDFyLUQtU2tOTEVuOW14dm5DLVMzWlVsUEJ5UFNuYzY5MVB5d0lfX2ZBT0tucDdibnhNdnMxWTJJc1pDQ3FBZ0Yyb3dtME1xMGR1cFQ0RGJuRFREd3QwLXhQWkxDWQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:51:21 GMT",
+   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "Camionero brasileño dio 1,89 de alcohol en un control en Corrientes",
@@ -624,34 +642,28 @@
    "fuente": "Diario El Norte - San Nicolás"
   },
   {
+   "titulo": "Alertan por la crecida del río Paraná: hay más 4.500 afectados en el Litoral",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV2daSWVqXzl2TGEteXNQU0dUamQ3UmFWRnY4NGs1N0NqU3g4Vi1ZVDM2ZTBoelM4ZEVObm1SWm84bE1tWDJVWjZzTGE1cDZjZEVmMzU0TUpBQ1Atb0FkamRDc0dGVWh4RFBubzA4TDdvNmRvREYzbjc2WGlQT2JYX0pOU29yVnVqVWR3RlZPOXBkSUdTT3RkRzk5SG83Q2lsT2RQV21zSW5YVkV6Z2VYVUtpMGw3S3I2bUJJQ0lXMmtIWXdjei1PTktoRDBDU1ktMUlXbw?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:54:27 GMT",
+   "fuente": "Cba24n"
+  },
+  {
    "titulo": "Camionero brasileño detenido en Corrientes con casi 2 gramos de alcohol en sangre",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDF4OW1nLXdkQWlCaEVhSVg5NnZ2T2poOThYRFY4bFJiaEhObGl6d1hfbUNmNlVRaUpKczlxdjN5dHlUSFBOZ28tc1BaU3U0LThwVVM1bFU3X2t0dmt4QnUwYnE0RF9aTW9RMDVfei1mT1JpUXotYzB6eFMzRGx5LVdDUGZjX0dranI2T3h1bUVjZ3c3M091d0hWZTB5ajdvX1dLZ09aQ0xXWUxfd0lJR2ZIajQ0SUc1U2g4aVJCVC1GMFFtb1U0ZtIBzgFBVV95cUxQR24xM0E3dkt5ejlIVElrVVhVNHNhQVhkQ0dUWjFmY0hBQjZjT2FwRFBFTHhZWVpaNXFNZHJHRnhnTHFPLVVKOFZ0UDMtNE9NS3dpdElPYW1lVnlVNzgwN2xWM2dINldBUTROMjNFb25aQmNkbjI5YVRhZmN1bk1xYm9aS3QtSmhYQUFUMl90VHFtbE1WQUxtRWZpdWJVSlVFbHdDWDFScERKOFM2a0VBclYtUmoyZnU1c1o3YzlIUFBYb005WjhjTUZQOGx5dw?oc=5",
    "fecha": "Mon, 16 Nov 2026 11:50:24 GMT",
    "fuente": "Cadena 3 Argentina"
   },
   {
-   "titulo": "Paso de los Libres y la búsqueda libertaria de privatizar la frontera",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUVMRXJSbEt5blhPMnVOX1FHS0NIMTRrSmhKcW42VDdvSHBrYWJZUFBlbHdZNmgySGFZbUhid1dMQkhuQ2NGZjlOem5jMmJCckhXVWJzQ2JnYTQ5R3FDckFvWWpPMTdtV0hHTWp3Qi1xNkdFV2xWZDJxMWZSOW11WjNZS0xaOWRfRlN4NThWNnlpN2pyVTZKZGRRUnVaY1VNdWo3SHZKR0gxcDBsMlE?oc=5",
-   "fecha": "Sun, 15 Nov 2026 22:01:00 GMT",
-   "fuente": "Página|12"
+   "titulo": "Lanari lleva tranquilidad a la provincia ante la llegada del dengue",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRG45YmdheDVEUm9SblBmUTg1c3VxRXdlamxyQmRaMVZGRVhqVTBvTDdnSlI0TlZuYXdIUE5ZcHUwQ0R4V0pWalJpU1dPTHdOb3N4N0RzcTZpWW9ERFQwcXM3anFjYldfX3RPY0VUdUwwZDRVcXlhU0xGT2N5S3dpRlU4N25ybFYtQ213dGdGWnNZMkRNNDV5Q3hXRGFlMHlYeHhfUFZKSThGWEhfbjg4?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:07:53 GMT",
+   "fuente": "Corrientes en el aire"
   },
   {
-   "titulo": "Camionero brasileño manejaba borracho en la Ruta 14",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObm9UelpzVXZQU2FGSXQzQ0ZuVExlZFhwek5BTlNHTTM3QXphMWw5YzF3RmI0YnZWS3QwUXlBT3dJb0tQUzdkc3RWeVZuMnBZNFBJSVZsRkwtSjN0bUVMbEVQWFU1UDN6enRFYjRYXzE1QVhGTlhsTEp0MWpJa0dIOFlZcllQd0NDSmFUOUxmV3d3bWMwbEhoeHU0aWdHeUNFRlpYVVV3VjU?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:07:30 GMT",
-   "fuente": "HolaSalta Noticias"
-  },
-  {
-   "titulo": "Fuerte respaldo peronista para Cristina Kirchner en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkxlOElOWlViV2xJRTN4VkFOMTJ1ZW5aeHRyVU00OWFRNW1hRXB5OS1na0NnNW1hdjZjNzRiTUtiM1FEVU1qTmlDbkgzeE4waGNhRE1QdnNXMUxIcFRPRzBlN25wQzV4MWJ2VTRlVG01VkN5czd2bU1YZ3A5ZFBZbVFYTFAwcG55VE5kYmtMMkx4ai12WFo1R3ZERXVrejQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 09:13:01 GMT",
-   "fuente": "Diario Época Corrientes"
-  },
-  {
-   "titulo": "Empleados de la administración pública provincial comenzaron a cobrar el Plus de Refuerzo",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkFuMTM3VXA4dkhuX29jT0gzOTJKSjNJT2NKOFdCdWxWNHRaOHlTSWRwUS1ZMmQ2RHVsSW5TeGZ2c0U2dXdmNG8zaDVjbnZlNTNuNzVhLUw2ZE9XZENYampMWXZLZ0J3VUdhTG1YLVRiNEM3dTQtdGlMYThTeUZoT00xcE9kdGh2TzBfWWhoMmtUS2xCZzlGMHVlaFFSaVNxYkNVRnM5NTNkck9rY0xJXy1aQ1B0NXFNa2FzanZHaVYzUQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 10:57:00 GMT",
-   "fuente": "Radio Dos Corrientes"
+   "titulo": "Judiciales y docentes reclamarán por los aumentos salariales en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmtwSk9CNXd4UjhtRzJiZW40VmdpUGxlcnFsLW9GQTdCdjF1cHpPNVpuREJmck9oRThzZ1BEUkJLaERJYzQxVWlQZUFuU2ViUm5XdDRPYUVYT0huekVpOGdjQm5VWWpmd3dHU0VLYWstTTlHeFEtRXRzYi11YjQyR2VZa3FOeHQxa3JmSU1aWGY1M0t4WFRKQmdEdmlFdVFyMkNIN0YxM0dDN1RUUVQwTmhZSEVYdEFGUzR5ZGl3?oc=5",
+   "fecha": "Mon, 16 Nov 2026 11:27:36 GMT",
+   "fuente": "Corrientes Hoy"
   },
   {
    "titulo": "Corrientes tendrá una jornada calurosa y se espera un cambio de tiempo con lluvias y tormentas en los próximos días",
@@ -660,22 +672,10 @@
    "fuente": "La Red Corrientes"
   },
   {
-   "titulo": "Curuzú Cuatiá: Valdés inauguró las refacciones del Hogar de Ancianos y un nuevo centro comunitario",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNN0JvZHB4ZUdUVzBGSGpob1hUVDF3NjlETEpsN3l1VC1qeF9wS084eVdEbFFnSWE4dktwdXBqWjhGRzgyVElWbkx3TldFRVFTVUVIS3BuV2lYWDE4NjFBQkNnTUpwMVloRWZRRWVLOTBSZkswS3BocDB4SGNEQzBFTHNtdks3RGlSMWQ5UGZBQ21rMVJGY3JOWGNSaFc4R18wTF96aHVZNTBpclhveUltZW5PYjlPWjlwZEwwQ05lb0JYbk10VGVrX1RnMGh6UktvSGVDOGRqUFlfNTluX2RpUGpMS25YYWY4dXVR?oc=5",
-   "fecha": "Mon, 16 Nov 2026 09:49:00 GMT",
+   "titulo": "Las noticias más importantes del 16 de noviembre del 2026",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYzdiZDRCRmxWTXdRS083WWQ2UDMxZmNmTnk4ajJKd28ydGZjYjdTX0Y4U1E5eWRpcDV4THNwVWdCS0JxM3h6MmQ5RUV2c2Jadk9LUGc2bTk5QjBZZkx3am15SXJPaTFuekV2MV91UHFZLUNwdUhJamQtcU9PTUd0Yi1oQ090T2hmM3AtNnpOcEpDaW05dzF6OEZvSlVTaEpCTVJiYmNPWUMtSlZXYWVsOEYzazZZN2RRTmZ2aU9wVGFkQQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 09:46:54 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
-  },
-  {
-   "titulo": "Lanari lleva tranquilidad a la provincia ante la llegada del dengue",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnFxdDQ3SmdyT2N3MWhMNFVTMHdHdnNiMzZMWUt3cmhHNHpnMGo1QVczTnZ1UkJubVdERmthNVFYMmUwRE85eG1hWFdUYk1ncjhTR1dHZjM3RnNjRFQzSTA0TzUwSnNEdEJ0eFpqX0dMRVRiQl9uUEFLeTZXeEFURlMzTzExb1RHYVBQcVJhbEJoWWhoMDEyRlg1TzEwaHNOSjNvYWRtZFBmZURrQ0NKUUF2U2hCT0dYR2xZ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:16:07 GMT",
-   "fuente": "Cadena de Radios"
-  },
-  {
-   "titulo": "Colonia Liebig sumó obras deportivas, productivas y viales",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVpucWIxR25STWVoTFdNRW16VEMwTjl6UnlvTkVJMUxBZmU3VHhnVE94RlZibXFoZDZYUTVCTTROeTRTdS1CLVFYUGNaeE5SdFVLT3BYNG9lbUUtZGZpaTRVUURac3F5eDc5NXhPclpJQUd0cU8wdGxoU0pUMm1ZTG9HVkJDcnZPQlBsbXRqRnhQY1ZtVm5fUFUtQkc2T3l6YjJDZA?oc=5",
-   "fecha": "Mon, 16 Nov 2026 10:20:47 GMT",
-   "fuente": "La Red Corrientes"
   },
   {
    "titulo": "Juan Pablo Valdés inauguró obras sociales, pavimento e iluminación en el aniversario de Curuzú Cuatiá",
@@ -690,22 +690,22 @@
    "fuente": "Diario Época Corrientes"
   },
   {
-   "titulo": "Valdés encabezó inauguraciones que mejoran la calidad de vida de los vecinos de Curuzú Cuatiá",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTDg1VDNTSTZsdWxJSzQ1Q2V3X29rMlhTc05rMjdpNTZ2V2pCUjdEVFZBZGpHN2ZOMURxSXpfT0U3SUpVaWtUS3V3eUZPN0ZHT2ExbnFvcUo4dnR4NW1lSXkxTWtpM1pZSE9EWWtTYVRSTURvTVh2Yng5OWNzcHRZbXBub3BPRkJjQ3djZVBpczFfVjBYaTJfWFp0S3BMQkhFQ1VkRHdubE9TZU9LRGJud0JCUTctN0F5NnNSaEZEa0lrZkRzZUhjV2VTb25VTzRRWVE?oc=5",
-   "fecha": "Mon, 16 Nov 2026 11:05:47 GMT",
-   "fuente": "La Red Corrientes"
+   "titulo": "Juan Pablo Valdés encabezó inauguraciones en Curuzú Cuatiá",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGVFSlBocUprTE5QWmowcFdxdUZPVzZoZ3psczFtN3JmUnB5RFU2S2pWM3JNUmVjbGxORFRNeVA5LWVXY1pUZ1pJTnoyaG5FVTlsYm5HZHpUejB3NldobWVDOGhScXNZZmpKcXNtd2JTUUgtRnFYNW9IZEdqOWc5SGMtd1BfemNvbEdNZEplMWJvRWktSVZXZExGeE5TYTZSRHpaSVl5TTB4Nk5DaWZEUWtR?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:26:48 GMT",
+   "fuente": "Corrientes Hoy"
+  },
+  {
+   "titulo": "Curuzú Cuatiá: Valdés inauguró las refacciones del Hogar de Ancianos y un nuevo centro comunitario",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNN0JvZHB4ZUdUVzBGSGpob1hUVDF3NjlETEpsN3l1VC1qeF9wS084eVdEbFFnSWE4dktwdXBqWjhGRzgyVElWbkx3TldFRVFTVUVIS3BuV2lYWDE4NjFBQkNnTUpwMVloRWZRRWVLOTBSZkswS3BocDB4SGNEQzBFTHNtdks3RGlSMWQ5UGZBQ21rMVJGY3JOWGNSaFc4R18wTF96aHVZNTBpclhveUltZW5PYjlPWjlwZEwwQ05lb0JYbk10VGVrX1RnMGh6UktvSGVDOGRqUFlfNTluX2RpUGpMS25YYWY4dXVR?oc=5",
+   "fecha": "Mon, 16 Nov 2026 09:49:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Valdés inauguró un hogar de ancianos, pavimento y otras obras en Curuzú",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmhUT1p4bzlUTnY1d3NDWThFWjRDYXUtZC1LcnhhNlZtalgzVXdCb2hmUGRpcVpwZXVXSVFrNTVrZkZCdExoT3pJRl9PenlzbXdRRFhzY2dsRHQxNi1Jam0tTVVXR0NVcDhQM2ZKVmZLelB2aC12aVZMUXVYdFhlaG1pQkFGN2RCYlMtZXY4bVZEdWJEODUyQVhYNTktdTA0MVJva212N05MODBKeGZqQ1dTMVc?oc=5",
    "fecha": "Mon, 16 Nov 2026 02:26:40 GMT",
    "fuente": "República de Corrientes"
-  },
-  {
-   "titulo": "La influencia de la arquitectura francesa en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2tXSnBLc3Z3UVVTbzBERmhMQ1Z1ZVlvMlZWaThxSVN3cWI1alloQXFjY3lhblNCampBT1VDckJnVnh5Y0dyQUZlenZkU1RxaHpYSl9jbGZXclpiOHpDUld4NkE3SUpZdDV0Z3RzbW9nci1UdXBxb1NTVzdHTEJUSGV2d2kyNlRoOFN0MUlsa1d3MV9Oc1RyM3RFbFdRTlNvU1czVmNkS1U?oc=5",
-   "fecha": "Sun, 15 Nov 2026 16:44:18 GMT",
-   "fuente": "Momarandu Corrientes"
   }
  ],
  "expedientes": {
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-16T09:23-03:00",
+ "actualizado": "2026-11-16T10:24-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -967,22 +967,34 @@
  },
  "nacionales": [
   {
+   "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:06:54 GMT",
+   "fuente": "Clarín"
+  },
+  {
+   "titulo": "El Gobierno busca aprobar la Ley Malvinas antes del fallo del Tribunal del Mar para reforzar la presión sobre las petroleras británicas",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQnhsWUFIQzl3QjRZY3ZvLWx3b0RDejV5MnhRUS1MbnRjVm1MY1B6Rk1Rb3JnNUstbFdZWkR5NEZfdEpSbmkyVkVSSDNFZ0JQSTVsX2hGR1VpaElCRXo1TERzelJqZ0Y1ZGkxbkdVNjNTZDdVeG5TejN1RlM2WnlWMWVHREhYWlp6eG9uT0hacE1kR09RVmg4NXY2b3pxeEJJa3B2ZVNvZkgxWm5CQXM4c0QtcmI1MnowRkNjZnVhaW92bzhJQjE0djY1ZFdSb0hqU2dlSTZLWFhwWXdkMjRtNGJOT09WeTZ6UGpFZUx1NEEydWVNNVHSAYoCQVVfeXFMTTIzV1RvSC11ZVR3V1dDc3d1ODAyZUdjcDE0MGdRWFZTUUZ2NmRhVHJVU0RGc2QteXVwVWVNQXQ2X3E3MTRwTG9sRjZvU2VnTkZnRks3UGxQUlRIdWlqY3hxMzNobFBMQUV2YWNINzlrMzFCYjd0RE4td29Qdkdpb2xYWWFBTGxBZDlvVXBUbHVBdkwya2xVejRueWFnS3RENU9LaE93ejhDQ2l0OFdXSjZaR0VFMmZsMnlGbllpalE2SDl0RWswa1dMWWpNTkxEdllVdWZ3cmp2VS1XZEozM1NTNklIQ19ETTJ1UHk0eGx0SnBzTEFCdERQTDZoRDBwWklITGFvZDB0Z1E?oc=5",
+   "fecha": "Mon, 16 Nov 2026 08:46:00 GMT",
+   "fuente": "TN"
+  },
+  {
    "titulo": "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWNSVVM0VzAzVXZxWEt2LTFqNHFkenNFQUhoOHJtRDhVdmV1OXQwVm5EWkZMMUNteVRQdkR0SFhiYVhZUGxjOEFxWjNlRW92cXZLOHdiM0dtODZidE5NYVc5QTJqWkphUlhlWE1nc0hEWENUdGRxZ3U1YUpfUVlkejdRY3JpVDBwMDRWTW92dVVJaFJuUEhFR0poOHh3UXlaQ0tQVjUwWl9HVzBoOFNoU1JrWWgybVBOS0MwYkZoTXhvdHZpUk9wT1ROa3gxdVV3XzNSTzhTcXJvUFJRaldIdmpmTQ?oc=5",
    "fecha": "Mon, 16 Nov 2026 11:42:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "El Superniño desborda el río Paraná: ya hay 4.500 evacuados y alertan sobre el avance del agua hacia el sur",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEdocDZWVURfMjJjZndNdHNxMkUxZ3lwbTRBN0NtcV9CS3F4aS1qUDQwR0RHM1o1cVRoTXE0OUNXRnpCUUtxaElJX3dRcnljeDMyVDVHcjdVbzREWkl2VmhwUXlxZjV4UnJGZ0VtS2YtS01BeXdZVWQzcDBUMHBLSFVodVpMWGVxVXNxVUxOWGI3aktrQkc3aFk1eG5yeGd3cWFiS0ZtMmZCZw?oc=5",
-   "fecha": "Sun, 15 Nov 2026 20:29:09 GMT",
-   "fuente": "Perfil"
-  },
-  {
    "titulo": "Kicillof cruzó a Milei por su discurso sobre Belgrano y cuestionó el intento por eliminar las PASO: \"Adultera la historia y destruye el futuro\"",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTENTZnE5S0phOVhMbnVxZVdLblNTcmhsMXkwbVFrSjM2MVRWdzZfNUZGVVVmMzJZODZURl9IRERDT25oVUZlenZ3VzN2TkxDVGN3VnRaQ05QUW9ZYmJldVBiaWtlYVBFeXhraXAyU3RMLVpYaU95VXdDY3JqaHVfWVVGU1NrbEtWSU5sZlJQSGJvQmp6SXJBTUdiMmlVOUhYRHoxbTg3MGI2dzNKdE1aR2dNY1MzTkJEbWlBWURMT3ROaWRVTUVUTjNLZGNSdXVSTEZPOWh2bjVGc25JcjV4dWhudjhiT29SbXB0SGdn0gGCAkFVX3lxTE90V2dkeEZGRjViWVhjUFJsbWdONEhha18tZ3JxTEtSUDloSTMyMXdQa0xKZ3psUWlmY1hSVXNkRl94blh6cVo5dERBTFNFd05oLUd6QmdhTmhEWGkwdEFhaGhpX2YtSW5fSVdoSlk3dWlFakE4QVE0NXVnRVZyVmtDZ1dJYU11T0MwY2xVZmptQks1djlFckhQVEV6bTJUYjdJb2NTcHZEVTFOZVJORV9MNTlDVDRZa0RTNktSLXo4S3ZEbXZWRW1NdjF1Q2FaRnF3b3RfMHZ6b3A0TllveGIxSWRyQ1k2MWJpcGRLZnd3V1M2X3BBRDZaaHJUQXlzbkNnZw?oc=5",
    "fecha": "Mon, 16 Nov 2026 00:35:07 GMT",
    "fuente": "El Destape"
+  },
+  {
+   "titulo": "Elisa Carrió cruzó a Javier Milei y lanzó una advertencia sobre Patricia Bullrich: \"Busca el poder\"",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHBCRjBMSHFqS3BhaGRPSS1hVUFPVFpkMkltdkdrWlJvRjRsMmdfMzk3T2VNZ1g4eGdfVERIVklNMkl6V05PUWtKZ2ktb1NfVEw1bkVyc2drS1NvQWYtc0lXcnA0dmprY0lRNVNtYm9vUnlNMmRvdms2bGRjT3JMTjd0bVEtODZRSHI0OGdQVllXdlJJRGlBZURGV0FKWXZWZjJqOTZYWW9ySjF4LTBDSlhCV1ZEU0lrTWtBSXo0czZBNW82MEJldF94SjU3TWs5SnhWMFFmR2MwdTJxQUt4WlJnZDAzZw?oc=5",
+   "fecha": "Sun, 15 Nov 2026 19:17:42 GMT",
+   "fuente": "MDZ Online"
   },
   {
    "titulo": "ARA San Juan: a nueve años del hundimiento, familiares renuevan el reclamo de justicia",
@@ -1009,10 +1021,10 @@
    "fuente": "TN"
   },
   {
-   "titulo": "Detuvieron a un hombre por la muerte de una mujer en Salta",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGkzWFIyWEljWncxeDU4OGxqbDJ4Y3lZVFYya0xUTDZvTlVxQzlGMExYTEdnajhuaXA3eDJUclJIY3BCUWpYMHhvT2I4VWdqZ0xHQmFQTTM0cVZQM3B1VFp6MUFiQlplZnY1MUtnemk4SmNWbWZ1NktCRWZweFA0V1pQRTZIazk2RTZwTXdNN3JwM1gyT2MyeVpNZUxjWjQ?oc=5",
-   "fecha": "Sun, 15 Nov 2026 22:34:00 GMT",
-   "fuente": "Página|12"
+   "titulo": "Encontraron el cuerpo de una mujer en un alto estado de descomposición en Salta y hay un detenido",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2VIck8tby1jd0VldXI2ZUFCc3BaMDd3aTR6UDVJTFZNakQ3cGRpdEQ5ZThsaUh3VWp3WlBBVXlnZmNCNEdqVE13R0RuTnFIMEZ5dTZ6cno3cXJyNXhsaVpTODdleFpjcHplUmRES2prbHhsVjlJa0ktOFJQUFlxa09pZkVkZkMtWUxnY3FwVExsTTAyS2U5STNjb1NGV1d3RFJzR1BzdlRDd3FBNm55bWVfb1pzbXNCZzJGbnRCVnFuaEVuRHdOQUNEQ21lTDA5bk5WVkM3dEZpcHctblBQelRIUlJHS2R40gGDAkFVX3lxTFBkNjRBU3QwWVFwVGlaWWZoSEN4aHdNQnI1VEJoeTIzMGhKckg4a3BsajJXdGU1d1FzYXhScVMzTXFSTHlHWm1aZmlCNDhYQWsxTW5RNU5xWlBtaW0zdzBMZlI1R1RZZ21ZdnVfU2FnYlRkX1VPZXVsUWhCTjk0NWlOeWplWTd4b2RvOVdKZHZ4WGhwVkJGdUVFbU40Mm5lTWZJa2tRUmFwYm5BZDVNeEx6WG5RUVZkeDFwXzBLMU5fbUJvN1pieGlwNXNmcUU5RGYwNEFLeWsyemNrUEF0WDBJX3ctbXdYdTV3Wnl2c25TSDhWcFU2WVJhVTJ3eXM4Y2t5UzQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 03:02:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Se accidentó Marcelo Véliz en Tucumán: volcó la combi del grupo y cuatro ocupantes fueron hospitalizados",
@@ -1021,49 +1033,43 @@
    "fuente": "El Liberal"
   },
   {
-   "titulo": "Educación Técnica en Argentina: enseñar a pensar más allá de los oficios",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjNzVU8yQWo1REJXZjJDZTZrRXM4eGItSjluTDlJSW1yMEVOZnFXTVNqdXBRaTlWUGtMV1hwTFFtVWN2WEhlUGlQek5sNjNjN0VXdFVwcWx5QkJra0l1b1U5ZktXeEFJMVFBLXpucFBhWDMtSTV6Q1liS2cweEVlRWFNVTd3UEYzZVJObVpOR1A4OWdieEVjX2pXQlRDNElNLTJkZDNpZ3E0Uk5nandPX2JxeXZCanIw0gHTAUFVX3lxTE9oUmRKcnZSblVERHpjbDdqSmRtZE1pc2c1R3A0RjJtcl82UWpNYWlseGZjRGJsSXl2Ung1N09sTmdVOWdsQlFDaFpza1JTb2lwcWhkR2xiWmVzSDYyYUNDYjIwLXdEU3pJNTZuR1VHcE9za1dqNHFiemtJMVpwdDdUSElnc3o0MTk2cnJJTmp5RndXbGJacFdhS1ZFQ1RCQTJiTndkeTZJdXUzVTFuWW9mMGlVNVAtZE1BOXh4WVZGdWszcXBieTFNbDRtS0gwTDNjLUk?oc=5",
-   "fecha": "Mon, 16 Nov 2026 03:05:22 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Alertas meteorológicas Alerta meteorológica N° 59/26 – Tormentas",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbE5GNzhWUU9XTU5oMllaeEZMUC16cGduVzhQM0NmMGpBbnNCRV9RRDJRY20zWE5RSlgzMFdiblhPNlQyT0c2d0JESjNDZC03WmtnRGlqbGFGR2dVTk1pcWlMbk9iUGVpSjhrQ0hQek5IRWUxam8tR0twNFhITkJuOERjbkNNZkVXSFE2OWhSNUR6eklRLUc4WU1vS1gwa1lLSGJOZnUxVHBzMFE3VmY4d0IyaEtmVDlFZzJBNDVRT09lOXRpN0JhZtIBzgFBVV95cUxPQy1MMTgxWndaTklOdEdTeHhuTWFtYXF3cTVpaXRCQ0FXd2N4Mm92MkE2TzQtYk00dDJrUE1QdkhCUVZwWHktUXk5cDFtY2staUt0cDBjbVlSN3I3dFZ3d00xOE5Icm1mN3FsY0RqUlJZRjduelkzSHN0QkVlLVBHODZrVktVdWdVaG55OHVWSDFwd09ObWFYWnplRlpieWF6eHU4Unc3cjdpRlA3QzNHVTEyUEMxb1lLZjJ3TVc4bXo0NGdCSnhfMzR4Y3RpUQ?oc=5",
-   "fecha": "Sun, 15 Nov 2026 22:57:00 GMT",
-   "fuente": "Si San Juan"
-  },
-  {
-   "titulo": "El tiempo en Mendoza: hay alerta naranja por tormentas severas con granizo",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkozT0ZOMXhqQkVJQlJYdHJJWG9uejc0NDA3S0xTeFdOWE1vaGZWZXE0Q3MyS2Jlbm9VVUF1anNBYXRmQWszV2FXQ3EtNWhYWXNEMVpCWlRFT2Q5TXoxVzViaS13OVdxSEFRS2NBNy1qdGlITG1MSVdlRV9oWVlMSDlfN2htd3hVMElmWWk3ZWxQUVlGM040Sy00cWJ6TEtWWGtaTXZZQ1BVOEE?oc=5",
-   "fecha": "Mon, 16 Nov 2026 09:21:15 GMT",
-   "fuente": "Diario El Sol Mendoza"
-  },
-  {
    "titulo": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZi12M21ncTYtWkFrY0dDRC02WGZJbWp0TEtLRUZNNS1fN3BjQWU3SFdFZ3dnV1pDY1I3TkVQRDBPNFVSMTg2SmU3aG9yMlk4UnZvbEtQMThpbGZjWVhUSUZxSUFIeUNUUVg0TWdLbEY4MXNiaUtKZl9uNVZOSTZQZFN5aDZURWNuWVlWU2MxOGRPSjh4RFhLUThOLVh4UUJibDN3dGM5ZWtzYUdLMnBRMWE4azd0VUliNWJ0bl92R0FMVHNpMjVtMkQ0SnZ0ZE1hTm1CdlRSTThnSzNTWERxV3hER0xRVzBmZm9PN1EwYXXSAYsCQVVfeXFMTlZSU2s0d2VRZUdNNGpBdjhzTHN3VE1aemQ3elJhdTNNLUtoMUxMQkk2ekdQZ3V2UzFzb3lfSTl5UGZyYWs2NHUtOXg3OHRfVVNQRE5YejM3Q2tnczVmV3U1ekFiNV9wb1RkeF9WVHY5VTVWMW96TGhma2l6WkExSno4emJUdWlKNmI1Nm5lMlNGOWluY3hwd1ppQkFISzJ4VGdLYWZYWEV2TDlQUC1qWWZiWERmSjZ3ZUxuYzA0UVNqUUQtZUZYbVR4amRUODJvTFFqQ2Jad1JiSDNsa01LT283czNEOFZ4clplenBRNTZ3UUJVcjV3ZGt4S25aZXlJVmxEc0FRbHBCdkhJ?oc=5",
    "fecha": "Sun, 15 Nov 2026 22:59:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "La Noche de los Museos sumó más de 350 espacios de la Ciudad",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0RmQjRBYlg1SWxGbmJoR3JLVGJkY2FEdms3bkxPeERHd1g0dmp4Z3VFeDlXMEhidERzTmFDU2NlcEJETXZlS0VNdEZwOVBPZVF4WXhzQmRrX05pRFNwV3RuSDVfeVA0MmxwSTNjaXBGSXI5eHl3RnR1OWFpQjNja3pVaXRfLXpUR1JuS3hOTFdHMXpTaTh3YWpfbkcxSXlPb0E?oc=5",
-   "fecha": "Sun, 15 Nov 2026 00:12:18 GMT",
-   "fuente": "Página|12"
+   "titulo": "Desde este lunes, los comercios podrán adherirse a Sanluiseña: requisitos, trámites y dónde estarán los tráileres",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYWN0VWRnYUc3LUhFdFQyMVpfRU4tQ0VsRTVmdFVPWXg2ODA5WXZobXRsRUJiejl1dlItUnZIR05EZlM1b1NIVEFIZUpjaEhRcjdMU0hOQlJpdnMtSzQtTTdlajRRaTVXMllwS1Q0S2g4dWkya1VoMDhSeHlJdDB4Mzh2cWwzbEo1VjJ2ekszSlg0TzdlcndhY1pzSTAwb3F3UVVodUFnQ3hWNUVFS01oZTRoZGFxQzVBeTFhUjVkTWwxQnZzb0FkT3c5VmZZSjM5YVZjcFN5d0hrRTFpZ2tzQ3pYd2dGbVQzaExpSEF3VHR3Yk5NcU5n0gH3AUFVX3lxTE5hY3RVZGdhRzctSEV0VDIxWl9FTi1DRWxFNWZ0VU9ZeDY4MDlZdmhtdGxFQmJ6OXV2Ui1SdkhHTkRmUzVvU0hUQUhlSmNoSFFyN0xTSE5CUml2cy1LNC1NN2VqNFFpNVcyWXBLVDRLaDh1aTJrVWgwOFJ4eUl0MHgzOHZxbDNsSjVWMnZ6SzNKWDRPN2Vyd2FjWnNJMDBvcXdRVWh1QWdDeFY1RUVLTWhlNGhkYXFDNUF5MWFSNWRNbDFCdnNvQWRPdzlWZllKMzlhVmNwU3l3SGtFMWlna3NDelh3Z0ZtVDNoTGlIQXdUdHdiTk1xTmc?oc=5",
+   "fecha": "Sun, 15 Nov 2026 21:05:16 GMT",
+   "fuente": "El Chorrillero"
   },
   {
-   "titulo": "Vuelven las tormentas al AMBA esta semana: cuándo llegarán y qué pasará con la temperatura",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3YyRTRici02NjdQTG5CT2dMTU5HOXFMY2tZVTlHZ1ZTZWxNYjBxQW0xdVNEUUhCQnloYVQ1RW9zaGRJMjZMYW01U2l4QllOWGo1OUVXczJidFJvdm43S3ZpZ3BsejIxaXJkcDUyNjF4aTZBczNsWjhrUGZIcVNaTEJuenZyNGNqUFNVOUVMbVMxQWluRmM0bjJtN1ZtbGpMTi0xS3JCVWM4QlJaQTRNc2tFTThjYUhKN0dKOFhzRzNfUE1FY2RCQUtkNEdMV0XSAeoBQVVfeXFMT0k3dWlZcmFIVGFZSUlDVkNuZlRZSG1XeTEyVE0tMjJiZ2tmUlctWVBDN2VXWnFsbFZPTmE2ajZ1d0tyQU9jQmVPcElxVXg4LVduNUJBRENyR2luLWNmRHNYa2RMd3hSdWNLYVJGWXNxQXN6d19NUGtwak5KQmFmNkEwdF85VzFkWllSTVdkN1l1TmlSNVJweE9HNHh5OWVQbGE4VG5sNE83T2lBRHdIeUpUcU9ZVDdPZUhZc3pDYnl1VFVXUW5VdFZnbTg1RWh3cGh0em83aXhSZTRMSFYwUjU0YTRKdm9VQkFB?oc=5",
-   "fecha": "Mon, 16 Nov 2026 10:25:00 GMT",
+   "titulo": "Educación Técnica en Argentina: enseñar a pensar más allá de los oficios",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjNzVU8yQWo1REJXZjJDZTZrRXM4eGItSjluTDlJSW1yMEVOZnFXTVNqdXBRaTlWUGtMV1hwTFFtVWN2WEhlUGlQek5sNjNjN0VXdFVwcWx5QkJra0l1b1U5ZktXeEFJMVFBLXpucFBhWDMtSTV6Q1liS2cweEVlRWFNVTd3UEYzZVJObVpOR1A4OWdieEVjX2pXQlRDNElNLTJkZDNpZ3E0Uk5nandPX2JxeXZCanIw0gHTAUFVX3lxTE9oUmRKcnZSblVERHpjbDdqSmRtZE1pc2c1R3A0RjJtcl82UWpNYWlseGZjRGJsSXl2Ung1N09sTmdVOWdsQlFDaFpza1JTb2lwcWhkR2xiWmVzSDYyYUNDYjIwLXdEU3pJNTZuR1VHcE9za1dqNHFiemtJMVpwdDdUSElnc3o0MTk2cnJJTmp5RndXbGJacFdhS1ZFQ1RCQTJiTndkeTZJdXUzVTFuWW9mMGlVNVAtZE1BOXh4WVZGdWszcXBieTFNbDRtS0gwTDNjLUk?oc=5",
+   "fecha": "Mon, 16 Nov 2026 03:05:22 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "Encontraron muerto a un violinista en su casa en Santiago del Estero horas después de denunciar una golpiza",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ25JWGMzQnNWMldXaWI3Z2VySkJjdFozaV9vVnNaeE1QUjlJSGVrMHpiZE01M1A2S2pCRnN2eDVaU3VwUHFmbFhvQjRGYkRCUHNsVE5CUWZhNEJBdmx5Z01YOWdJNTNtdlc1cHFOV2hyc1oxOWNRRTRmYUpQdmF6d3FRV3JpNXNoLThTZV9TM2pYLWJzOUNCTWJUaU90QWw4eTltekR0TFhRTzE1c0tDV3EybTVXWWRPeUY0c2pDRHc3bGtSd3hJY1JxdERueWktMVJHaDFGQWhDUERaVkpwNDNEM1c?oc=5",
-   "fecha": "Sun, 15 Nov 2026 23:41:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Alerta por tormentas con granizo: en qué zonas y a qué hora comenzarán",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDNfQWhxb0dhQmFpN1NUcmZmRTRLYnd1S3VyXzEwYTVoNnl1bGZjQnpfVkxYWUY2M3NCV1d6OXVYbVRDRjdBc1ExUkt0MlhSdG5HM3pXaU5KM0wwY2o5M09XZ3A3dnVrZ3JnUnpIZm1KWVpPQkpHZDlQbWJ2WUUyNlY2SV9MRzhzZmxFRkVPWXdiTkVVcm5MVXkzYW42TmxmVV85SWNB?oc=5",
+   "fecha": "Mon, 16 Nov 2026 12:05:38 GMT",
+   "fuente": "Diario El Sol Mendoza"
+  },
+  {
+   "titulo": "Alertas meteorológicas Alerta meteorológica N° 59/26 – Tormentas",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbE5GNzhWUU9XTU5oMllaeEZMUC16cGduVzhQM0NmMGpBbnNCRV9RRDJRY20zWE5RSlgzMFdiblhPNlQyT0c2d0JESjNDZC03WmtnRGlqbGFGR2dVTk1pcWlMbk9iUGVpSjhrQ0hQek5IRWUxam8tR0twNFhITkJuOERjbkNNZkVXSFE2OWhSNUR6eklRLUc4WU1vS1gwa1lLSGJOZnUxVHBzMFE3VmY4d0IyaEtmVDlFZzJBNDVRT09lOXRpN0JhZtIBzgFBVV95cUxPQy1MMTgxWndaTklOdEdTeHhuTWFtYXF3cTVpaXRCQ0FXd2N4Mm92MkE2TzQtYk00dDJrUE1QdkhCUVZwWHktUXk5cDFtY2staUt0cDBjbVlSN3I3dFZ3d00xOE5Icm1mN3FsY0RqUlJZRjduelkzSHN0QkVlLVBHODZrVktVdWdVaG55OHVWSDFwd09ObWFYWnplRlpieWF6eHU4Unc3cjdpRlA3QzNHVTEyUEMxb1lLZjJ3TVc4bXo0NGdCSnhfMzR4Y3RpUQ?oc=5",
+   "fecha": "Sun, 15 Nov 2026 22:57:00 GMT",
+   "fuente": "Si San Juan"
   }
  ],
  "finanzas_argy": [
+  {
+   "titulo": "En una entrevista en Radio Mitre, Luis Caputo reconoció que el país va a crecer menos de lo esperado y que \"los mejores 18 meses\" no se dieron por el shock externo y el temor al regreso del kirchnerismo, que frenó la toma de créditos y disparó el riesgo país.",
+   "fecha": "2026-11-16T12:59:21+00:00",
+   "fuente": "Finanzas Argy",
+   "link": "https://t.me/FinanzasArgy/28078"
+  },
   {
    "titulo": "Los principales supermercados de Países Bajos planean \"tiendas de emergencia\" para escenarios extremos: buscan que cualquier persona pueda llegar en auto en 15 minutos a un local que siga funcionando si hay apagones prolongados, ciberataques o guerra.",
    "fecha": "2026-11-15T18:54:20+00:00",
@@ -1129,12 +1135,6 @@
    "fecha": "2026-11-10T17:21:57+00:00",
    "fuente": "Finanzas Argy",
    "link": "https://t.me/FinanzasArgy/28067"
-  },
-  {
-   "titulo": "La inflación de EEUU fue de 0,4% en octubre, menos que el 0,6% de septiembre, pero por encima de lo esperado, y sin dato anual porque el cierre de Gobierno de octubre de 2025 impidió recolectar información ese mes: la chance de una suba de tasas en diciembre es de casi el 100%",
-   "fecha": "2026-11-10T13:55:29+00:00",
-   "fuente": "Finanzas Argy",
-   "link": "https://t.me/FinanzasArgy/28066"
   }
  ],
  "mercado": {
