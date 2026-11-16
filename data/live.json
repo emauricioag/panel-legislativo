@@ -7,18 +7,18 @@
   },
   {
    "casa": "Blue",
-   "compra": 1570,
-   "venta": 1590
+   "compra": 1580,
+   "venta": 1600
   },
   {
    "casa": "Bolsa",
-   "compra": 1582.8,
-   "venta": 1584.5
+   "compra": 1581.2,
+   "venta": 1588.9
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1680.6,
-   "venta": 1681.1
+   "compra": 1680.1,
+   "venta": 1682.9
   },
   {
    "casa": "Mayorista",
@@ -917,8 +917,10 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-16T17:59-03:00",
+ "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests"
+ },
+ "actualizado": "2026-11-16T18:26-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -973,16 +975,22 @@
  },
  "nacionales": [
   {
-   "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 19:45:44 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "La defensa de Adorni que aceptó el fiscal abre interrogantes sobre el futuro del delito de enriquecimiento ilícito",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVl5OGFKemJBTDZ0b0s5Zm5vUFFKZnFjVmJqNFpXZC1uZUdXdHBIcWVkclEzOHctQXR0OW5ZOENpSXIwU1FFMmItSDlwNXZWaEs3YTctN3V6X0dFMWdrZFZkdVhrZVFKa1czdEhwUENoOHhMclE5bmw4b3JLTWV5Z3FfQkhnMngyWjBLMXlMR3d4VlNfUTZHdm5QUFdtS0dNRTRTeHNPSHpNd21DRjlrUHJOdUM0N3F3SUdnTU00R1FwUE83YjMyTXdVeEVMVmR3NnBzdTJuOA?oc=5",
    "fecha": "Mon, 16 Nov 2026 18:47:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 21:11:27 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "La ministra Alejandra Monteoliva será sometida a una cirugía",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeU5UUkprc2JIeG1GSV9vRVc2ZUtRS3c5NEVydVZMQy1yYkJkMDJEVVVFc2M1N3YzZHFDTUNhZWhYemNWMEJybFhzdWc0OHFBVEFkWWt5X1BZRU1kWlpfYy0zZWNwRTRPV05JMWdMMldYMDNTU0xZdVY0RHBVRktTVjVud1Z0VG9xSDBWVkRDUlhEU2Q5X1R5ZE9CdVY?oc=5",
+   "fecha": "Mon, 16 Nov 2026 14:58:07 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Quiénes serán parte de la cumbre anti Milei en San Fernando: el PJ mostrará una influyente confluencia de actores",
@@ -991,22 +999,16 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDQzUHhRWFdVZ3FCMFFjV3lWYjdRQmFmb1ZPTGZjcXFxTEVZdFVLYkhmR3BEZjJWRjhieE05Q2ExMkpjNkVJQkFhaHNsT3R6WTR1eVBabG1wMWVIR0t6VEpNTTYxRkxDRFo1dHJIVXpoTUxEQ20xX2FJRTJUM3RYdHR5c3plN1o4ZldtUkNlc2lhdzc4YVpaWnNLWlFqeGUtN3FkY04zdTJHTjM2RUk4Tlc3WWtaNTVfVFNiUWMxSHZuVk5Qd1F1OGR3cE85ZDl6LWNiQTJKVlU?oc=5",
-   "fecha": "Mon, 16 Nov 2026 16:11:11 GMT",
-   "fuente": "El Litoral"
-  },
-  {
-   "titulo": "El peronismo rechaza suspender las PASO y el PRO duda",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEtMREowSWQ0SUpmNzdOVkpjYko0X2dqanY1TWEzMEswTUhwYmFhUFF4UG42RjVTOHFocTRQYkdJamFjUnAtRnlpWjY2TzFhUFNDcmxIV2lHRjJaSW1rTlNrXzlMMl9EVFhaV25XUm1faHJxcXN5QUh4WHhIeWZCWVhrR0tLdTUxRkkyU2U5OVB1cHEyV0JabQ?oc=5",
-   "fecha": "Sun, 15 Nov 2026 23:51:33 GMT",
-   "fuente": "Página|12"
-  },
-  {
    "titulo": "En la recta final, Diputados y Senado buscan sesionar esta semana con proyectos clave",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3o5MmV2Wm1pZ25JUEtlRXdHZkJFaVlGOEdiUERBR1AwSl9QdzlEVWVna016WUtjb3FqUjQ2WE5JX2loRUFyVnN5X25RcVI0Rlp2U21ueHpjZDhlYnJHb015UUNzaVhhNlYzd3B2amxfYW1sUmFEOGVvTzM3U05kV0dDOTVLMExkOGpmQVpmYWJjS0U0VnBPOG05Uk03cUtDdWZEeThid3hGa3RMaUFaLTZKTGx6MW5nSEFoM2Z30gHDAUFVX3lxTE82eUV2R0ZhdW94N3FJcmRVeVBUdjBVOEtIMW1GN2kzSFdEaEdmZWRqU3FDb3M1ejl5VjdqM0tIX1pQOTdQRlZiVnFOZFRuZVF2ZFE2TTBwYk5yZEZtWk9BS1Z3SzVlZEx3Z2xJc3YySzhjYUN5LXdaaHdVMjJKQ2pVellNSmZJOWFPb240TlNxdzA1bzFPb2dNZGFGU0RUUXhZLWFGd2FGa3FneVZET1RLLWlFdUZUaDFhdGJNSkttY0dIOA?oc=5",
    "fecha": "Sun, 15 Nov 2026 13:10:43 GMT",
    "fuente": "Ambito"
+  },
+  {
+   "titulo": "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDQzUHhRWFdVZ3FCMFFjV3lWYjdRQmFmb1ZPTGZjcXFxTEVZdFVLYkhmR3BEZjJWRjhieE05Q2ExMkpjNkVJQkFhaHNsT3R6WTR1eVBabG1wMWVIR0t6VEpNTTYxRkxDRFo1dHJIVXpoTUxEQ20xX2FJRTJUM3RYdHR5c3plN1o4ZldtUkNlc2lhdzc4YVpaWnNLWlFqeGUtN3FkY04zdTJHTjM2RUk4Tlc3WWtaNTVfVFNiUWMxSHZuVk5Qd1F1OGR3cE85ZDl6LWNiQTJKVlU?oc=5",
+   "fecha": "Mon, 16 Nov 2026 16:11:11 GMT",
+   "fuente": "El Litoral"
   },
   {
    "titulo": "Renunció el convencional constituyente que reivindicó a Videla",
@@ -1015,28 +1017,10 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "La ministra Alejandra Monteoliva será sometida a una cirugía de columna y permanecerá varios días internada",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdlp5c2NMYTItUXZIdTZ2OElQSWo0WVFYbnFnb1NGcnFiXzY3QzgxZkNicWlLUGFjTEQzWngwNlMtb1JCZVdGanFXUV9iUGVpQ0VWUmU5bHlVOEhQQk5iNkd4aUxtSmJxREVram45S3dDZ1R1NVlNbFBXTTdEcS1yazVHYVZGcHBNZ1JBQ1B3UndLbGdidExPanlEajc4OHRnMlZmeElmNngwZm9XVVBmU2poWHFjbnFLZGV6cm9vSnd6Z0hYeGRhamdFSlI4VTRRT3F0S09GYVVPVW5td3EtMg?oc=5",
-   "fecha": "Mon, 16 Nov 2026 14:33:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Bahía recordó a víctimas de incidentes de tránsito con un emotivo homenaje en la Plaza Rivadavia",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSWN3Tnk3M3RLU2lkXzgtZXpQcG9QRjBBUUJMSTRSZC1KTHdjN2FteU5XOUYwdUpjY0pmZGdUYjFlSGZDeG8xVmRpejR6V0p4RW42eHlZMGZRRWJvbmdNYVFUSUhVcUl4OVVJTUtqdkVnT1hLOXRockJhcXNhekJjOU94eWVhSVZXWV9iU1lLRThnVjh2MlAtUmZEb3hSaThYN1lyU3VKbmRNS0o2Z1hLLVhZdHRmdXVoYTFJMGlQa2hRcHRuNzl3d2hDNXpXRERhMnkxR3FKbWlaaXp5dUFoR3RkQVk?oc=5",
    "fecha": "Mon, 16 Nov 2026 09:18:54 GMT",
    "fuente": "La Brújula 24"
-  },
-  {
-   "titulo": "Federico Beligoy recibió más de $420 millones de la AFA, con pagos en efectivo y facturas por “asesoramiento” y “seminarios”",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUkJKSFZwQjFncXFLSE5mTmhLVDNPbUxMVDlWZkRzQXNWSE14VDdqTldTTWtoVk9SVzZ4Qno1Tmxuc3RxRDg2a1lmdHhzLVdISVpzSVBTd2diSmdaOVhjS1JOWVMtNDd6R1FNMzloRWdwLTI2RUl1cU5Wd3BHVlNvVXJ3RzB2MWtRb0RwS3RuOWpxcHVZUWk1ajY3WURIcmNXSjRXQS1YZExQVmhxLTB3S1lSNXViMjdPVEdPS3ZQVzlkeWJrdlpoUzRoQmZfcFFhblVuS2s3Vko?oc=5",
-   "fecha": "Mon, 16 Nov 2026 13:36:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Javier Milei, en vivo: el jefe del Episcopado argentino destacó el acercamiento entre el Gobierno y la Iglesia durante la visita del Papa, pero reclamó más diálogo",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSGRZM0dqQTNwZlktaWJSbGJBWXAzbDhDOE1MOHVqM3U5WlhQdEJZY0VOdkdyVjJjRHg2YlFRTVlvd2hRS0dXUDFrQ0ppUjR5bTYzUlFjUktIQUgxbFBnNjNwRENndmRPQW1Nc2h4bjRuNmdZSXJqeVZmRGlzVGxsMDRIQW85VTJybzYyUXE2VzRtNXlVTUI3eXlTREMwX2Y3aVlzSjZQbWFaVXdMOS16NVpEZ2VNTnRCbmxpMl83aEFGS0ZoWkhUamdSM1M3V29UNldoQTRwQTE2M2JvbzRLWWNzM3l4LUc5d2FLUGg4R0VRTURw0gGIAkFVX3lxTE5pR25TVm9oU0FqTnBxZTdIdlFFN2pWa0dVM2NYRlpzNnB1TWR3M2hsb002Nzl2enNKaTdYN3l6YzVaUi0tSU1LenFRaXQybDlWUDE5R3NFalMyNWg1VEhzQkNBbkxDX3ptTER4V0p3X09KSXNEdjl3YnJTOU9NWXBiWkJFOWwycFJKZ0NMXzN3bEdKdVZySEZhNlp5RFFmUFZfaHdiUTJJWnFWSnZFOTVBemFpak5rOEVNU2VBMFZDM3dPZ2JvNVNjZnZKWXJoZEhlWVV2R3h3TmQweEZEZG85YkFya3diN3owSU1vUU5Ldko1NFZzT2dfX20yclR6RWxRTzZkVXEtdg?oc=5",
-   "fecha": "Mon, 16 Nov 2026 01:43:29 GMT",
-   "fuente": "TN"
   },
   {
    "titulo": "El Gobierno modificó el RIGI y las empresas extranjeras también podrán anotarse como proveedoras locales",
@@ -1045,16 +1029,28 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Lejos del Senado: la agenda de Milei entre Tesla, la AMIA y un partido de polo con Cambiaso",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1ZZTFo3ckN6dnYzUnVIMWN6T3JRMGxYNGpCTXZoN3RVaVJzMGlQMnpmZ0pEZXU0bjd3OHhMV1RPcnBzNmExN3p5SFZqc2V4aHRCMVpyeGJ0eGprT2MxZWdYcVo1NUM4eDdCcThTQW5LX0x3UlBrTGVNbXY1S210MHBESWZiRWt1TWhMTkxBdmRCbWlvaWp5aUk0Y3NiLVZuTFMxcElobVVqNG9FOXJtZF9PanRLSXJYYjkxREdqWFotT0Y3bG1CMVVMYWV0c0E?oc=5",
-   "fecha": "Mon, 16 Nov 2026 03:53:10 GMT",
-   "fuente": "Perfil"
+   "titulo": "Federico Beligoy recibió más de $420 millones de la AFA, con pagos en efectivo y facturas por “asesoramiento” y “seminarios”",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUkJKSFZwQjFncXFLSE5mTmhLVDNPbUxMVDlWZkRzQXNWSE14VDdqTldTTWtoVk9SVzZ4Qno1Tmxuc3RxRDg2a1lmdHhzLVdISVpzSVBTd2diSmdaOVhjS1JOWVMtNDd6R1FNMzloRWdwLTI2RUl1cU5Wd3BHVlNvVXJ3RzB2MWtRb0RwS3RuOWpxcHVZUWk1ajY3WURIcmNXSjRXQS1YZExQVmhxLTB3S1lSNXViMjdPVEdPS3ZQVzlkeWJrdlpoUzRoQmZfcFFhblVuS2s3Vko?oc=5",
+   "fecha": "Mon, 16 Nov 2026 13:36:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Desde este lunes, los comercios podrán adherirse a Sanluiseña: requisitos, trámites y dónde estarán los tráileres",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYWN0VWRnYUc3LUhFdFQyMVpfRU4tQ0VsRTVmdFVPWXg2ODA5WXZobXRsRUJiejl1dlItUnZIR05EZlM1b1NIVEFIZUpjaEhRcjdMU0hOQlJpdnMtSzQtTTdlajRRaTVXMllwS1Q0S2g4dWkya1VoMDhSeHlJdDB4Mzh2cWwzbEo1VjJ2ekszSlg0TzdlcndhY1pzSTAwb3F3UVVodUFnQ3hWNUVFS01oZTRoZGFxQzVBeTFhUjVkTWwxQnZzb0FkT3c5VmZZSjM5YVZjcFN5d0hrRTFpZ2tzQ3pYd2dGbVQzaExpSEF3VHR3Yk5NcU5n0gH3AUFVX3lxTE5hY3RVZGdhRzctSEV0VDIxWl9FTi1DRWxFNWZ0VU9ZeDY4MDlZdmhtdGxFQmJ6OXV2Ui1SdkhHTkRmUzVvU0hUQUhlSmNoSFFyN0xTSE5CUml2cy1LNC1NN2VqNFFpNVcyWXBLVDRLaDh1aTJrVWgwOFJ4eUl0MHgzOHZxbDNsSjVWMnZ6SzNKWDRPN2Vyd2FjWnNJMDBvcXdRVWh1QWdDeFY1RUVLTWhlNGhkYXFDNUF5MWFSNWRNbDFCdnNvQWRPdzlWZllKMzlhVmNwU3l3SGtFMWlna3NDelh3Z0ZtVDNoTGlIQXdUdHdiTk1xTmc?oc=5",
    "fecha": "Sun, 15 Nov 2026 21:05:16 GMT",
    "fuente": "El Chorrillero"
+  },
+  {
+   "titulo": "Alerta en Córdoba por tormentas fuertes y posible caída de granizo",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFY2clgyZHNNc0wtZjk4b3o1dDJ6RWJ5MzhCV25CUC1uNHpsLXVHVHZwMEpvb1hMekZhZ1g3d2ZUTFdzbmtKYnlNU0Z3R1dXNXRNcGJDU0xHNnpSTmhLT2xDeUhNMzBWSl9XS2VXQy1WREtEUHE2czIwN1RMNF9qSkQzSElhNE14S1NDdXhtdVpzeVhGOXJpU1haZ083OEFIVE9YSlBRdlBrU2hVdmQyaGtPcklmemNVdVZaTmxsRUd0bGVU?oc=5",
+   "fecha": "Mon, 16 Nov 2026 17:27:00 GMT",
+   "fuente": "Cba24n"
+  },
+  {
+   "titulo": "Lejos del Senado: la agenda de Milei entre Tesla, la AMIA y un partido de polo con Cambiaso",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1ZZTFo3ckN6dnYzUnVIMWN6T3JRMGxYNGpCTXZoN3RVaVJzMGlQMnpmZ0pEZXU0bjd3OHhMV1RPcnBzNmExN3p5SFZqc2V4aHRCMVpyeGJ0eGprT2MxZWdYcVo1NUM4eDdCcThTQW5LX0x3UlBrTGVNbXY1S210MHBESWZiRWt1TWhMTkxBdmRCbWlvaWp5aUk0Y3NiLVZuTFMxcElobVVqNG9FOXJtZF9PanRLSXJYYjkxREdqWFotT0Y3bG1CMVVMYWV0c0E?oc=5",
+   "fecha": "Mon, 16 Nov 2026 03:53:10 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Un apostador ganó más de $486 millones en el Quini 6 y ¡el Brinco quedó vacante! Se vienen nuevos pozos millonarios",
@@ -1067,6 +1063,12 @@
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdXY2T1htUERGaHVSU1ZmNGgyQkRyQ3pSS3JvcnV0dFFPdmE0Q2UyMjBvVUZibnAtaUZRNkZIRUVYU1hXUUxoaXk4YlZNSHpGNmRybUZYdlNhaXJNekdfN29NR0xRMHRpeDcteWk5elNUMVZRT0lKSVEzZ1ZpMkJlVm9ZVkpId290TUxlWVpGaFMtXzl2T1NPTWRHM183NUpnbFEzZEdDWTQ0TEIxTEVuRzRrbFFuZ1lYV20yMTRhbzZNZHJxQ3VUWDZYdUdaVEtUQTBqd1RRU3pwOU5hMmc?oc=5",
    "fecha": "Mon, 16 Nov 2026 13:37:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "La Noche de los Museos: más de 150.000 personas visitaron los museos nacionales",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2ZfX2dsV3ZLak1xRFI0ZGZOd0hFTG5ZdVVYbXc4YXhacmdsYjZDZGVNdzZENzVlanpFZWQ0b3lTYlZKYTdpRUxjeEVKVzAyNDg0UG10WlhxcjhmNENBZEZLdjZ3R0wtVU9hTUN1MTdzNnVCNjVFUnFxVEN4b1JRbHF6MkMwYUZTNmJ5YldSdTdPbGFHVG5RaXRPeEFvMjZ2SWV1bjUwOERxWEJnTjR0ZkNqWnZBdnBBNTVMZzlB0gHYAUFVX3lxTE5ZN0ZCNmJpeDNRRVRtUkhEZkJubUgxUjdXTEF1cWJHeU91dGhubUFLRGlHOUdWcWMxTXlKMG1Wc0ZfOVVUU3JfenM3MTFUWDh0dVFyVU52SExsWG1WV3pXVzVGS3AtU1FXVk14ZndpNjdwN3VKalJSVzVraEh0NEhnM3ZaLXFqanlIRzNXbHg0UjNRc1pNUXg3S0RlOUhjU2Z2YzkzNXpsSTBDcDJScnI5MmpIblFMOGVMbm1PSHNKWVZtU1ZKTm5SdFVMSEhuaTNtcWNtaUU4Mw?oc=5",
+   "fecha": "Sun, 15 Nov 2026 15:12:00 GMT",
+   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
