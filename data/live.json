@@ -917,8 +917,10 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-16T20:37-03:00",
+ "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests"
+ },
+ "actualizado": "2026-11-16T21:03-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -973,16 +975,28 @@
  },
  "nacionales": [
   {
-   "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 23:15:16 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Quiénes serán parte de la cumbre anti Milei en San Fernando: el PJ mostrará una influyente confluencia de actores",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmg0dHM3UTd0dVdjSGdMT2txZHNkMHptM3pDRzZWd1ZWcjJIUWhFWnhXRU5WeVloUGtmb3VMcHRubjdiYjlwVGNMV3FNb0tMc1ZkLUVHRWdPVjhNM0NPS2licV85bUFXUERRQ2liZ3hSMDFyX0w1TldYdjVFRjVWelRSYWJKYy1fLXNOYnBEbktXLUR4eEh2RDhQNU9aOTJsNG43YS1wTTRmYUpIS1NIOTVLMnRLc21OemVPRUJCWXZWY09YaDBya0dGUmRBYWxoeVJta3BNYUhrTDA3cnljVU1vc1didV84U1lReHZ30gGIAkFVX3lxTFBMY0hsTmU2OTgwMHdUWE52QmlSVjROTERvQjhhdVFZQXVTVkZTTk9HSWpLVGxLWDBDdmloRGRoQ0Z2am0wNF9qRWxFR09KMGhCbEp3YnVJcFhJZnZVcmRUb2xlUFlvOGxLYnhVM241VmlzNG5JYzhORkw2QnlqR0pxcGFlM01kN0FiNkNEeklxOGVUaXlmV2NtWnZQQjk2ZDlGRzNQSGc0b05sZmRjcUpWN3dBc3Vlc1BHRWR6NG1VOXRGdVJDZ1A0MDJsR25ZREFGemhmcW1GVWtwR2VTTXRhVDdubUE5eGRsbWt3MGUycExxbnZHOW55VmYtWUVUR25KMFFSWWxpdg?oc=5",
    "fecha": "Mon, 16 Nov 2026 21:44:08 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Javier Milei, EN VIVO: \"Ustedes van a sacar el país adelante\", el Presidente elogia a los empresarios en una cena",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYUF1WGhRbEJKcUYyLS1yQS1sRVhWMWhtZVA0NVFWclJuOU82ZjI0TzZ6RFFTeGR3QmFaQXhiM0tVSmlzZFJqQ09ESnZsYTdTX0RUQU52QUZ4VXV2RHFOLS1US080VlRadUt2bUtrSmp0bTA5OHFkWjNoT1B5V3RlWnF6VWdmRmkwdGhwWXl5ejVVd2Q5dlQzSFhRTE5hMXF1bFk0clkwTmZ3ZjN4YmE2dFhEM3JNd1VfLTBBUEJjb0hrcGhhWFVtZTVrZmNVS1hNZzJ0UW5HRmkzNmtXNFA4WlE2TG9kdDNhTVE?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:58:46 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:56:43 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "PASO 2027: quiénes son los 15 senadores indecisos que tienen en sus manos la reforma electoral de Milei",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFdlczdPbmtDYWhfOWExaG5YcThVRXBCZXV3cnlhZjVxamQtanh3bkVoYVdmS3JKcHEtNXFMOG1SdnloT21wTjJiLUJYWTJuM0NFU2l1aXRncEJEUW1tUGlfaVNJVVhEZUVjcDVmWDRqRWtLVlNqNVo3TFBRYm9tY2EydUVraXRVOGFNazBqQWFPVU9sLU1sYlJYWWx3ckpvSXNKU0M2M3JQMU45UTR5dXJ4YkhpNXdYV0VYSjdoQkE2VnZ1WF9aR1BMNkR4YVh3YlFzVjZEY1RYeHBtcDJB?oc=5",
+   "fecha": "Mon, 16 Nov 2026 22:15:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
@@ -997,10 +1011,10 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Giro pragmático de Cristina: elige a Guillermo Michel para el Consejo de la Magistratura",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMFlsdG1EWjRIZktZMzJOUlRrQURGNEVWb2dDSnNIOEtTdnV5RVZaai00SkV4V1ZHY256WU5MX2tuZG9OUzhLWG5OQVF3R3JBS0RhcU1lQUluWjhkUGsxQVpBMzNSdV9LUzF2eHpWWFZNblZFdDVEWkFlNnBCNTM1MUw0MFPSAcwBQVVfeXFMUHFOeDNFUXl3MjN4REoyRDBmYUVPTzRXcmlRVUdlRUdIQThQSTNqLXE1Q2QyVE84bjlpSVBQTXdNNkhmR0ozam1PYTVMeEV4NVRqSlcwVmlfMVZUMzAtLUpvYXVSZExNRTdPQzZ0OHB2RVlHcnhWSlExTDkwNlpYemQtT1BqSUM5dDhfTWtHSVVybDBaSUk4VlhJd1ozak8wMXJ4RExEMkMyQzdrU29QOTZ6Q0RtSWtKSU9RTDR4d3N1Q3hZajZSdVctdkRR?oc=5",
-   "fecha": "Mon, 16 Nov 2026 20:42:12 GMT",
-   "fuente": "La Política Online"
+   "titulo": "Cristina elige para la Magistratura a un diputado muy cercano a Massa y descoloca al kirchnerismo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTZ3aHJJb0tMSzItZmd1ZlB3YVZYdmQ4M3BPelRCb3V4dGVRRzQ5NVdyMUlDY2Y3NDBxb3MxUjZzRWo0dEJvdDFwM1lRMFFhYUd1Y1JtSGFfYkNCRDdMakhoN0NFemlNdU1WV1lDVXB5V0ZDWUtwQkJVUi1IY3NOTlVLYkJmTkpQOG1vR1U1U19YSldIQTFMMHRqdlVTWFV5Y1dmR2dPX2dxNWtrMzJEekNKa3VuQ1gzdTRzU19vX0o?oc=5",
+   "fecha": "Mon, 16 Nov 2026 21:17:19 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Bahía recordó a víctimas de incidentes de tránsito con un emotivo homenaje en la Plaza Rivadavia",
@@ -1015,28 +1029,22 @@
    "fuente": "La Voz del Interior"
   },
   {
+   "titulo": "Otro golpe a la industria: el Gobierno modificó el “compre nacional” del RIGI",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejA5Umh3dE5saUhXMUdOVjlLZXFsNHFhbWoxVjdoVnF1WlNjbl9Pa1FJSkEyU3l6R1gzTWNXMjhTdmw0VFBKUE5vVWFnVlIwa25tQm1rQVZNLWdmMTRMdHlsc2lqMEVobDB1QUVGbnppdjFTVHQzWFY1a055bi10QU8wY0pvU0gyd1RBZ2hjcUp0MDRCeWYzbFc5SGd4Ymh5NENQR21RNzc3bzhOcF9WaGhpSEk?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:44:46 GMT",
+   "fuente": "Página|12"
+  },
+  {
    "titulo": "Nacen más de 100 bebés prematuros por día en el país, según un informe de la Sociedad Argentina de Pediatría",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFJnd0pxRTZiYzBiRkd2Sm9wM2VyQ0JrdW9CcFlNdWczZXZHYUdCZzN2T215LUsycGQ4Y3pFci1hUU5abGZjMUtIZVdKRktjVVBxUDZwSjZQTFFGb1RoN1RuR3VzdFJpVEdwWFZYVnJ6ckl4VkpOUzE5UXNCbFlZeVlhWm44VlF0Y3llNkE4LVRsVFRMb1ppbWZKMXNkVGZFUkk1UXZWVXNKLVZlWFllMjBNYTZia291Mmg4YkNHWXhaVVZsQTQ3RW4yZHRLbm91d2ZrZVV2OW5vYmRTVWpheTlYM2bSAf8BQVVfeXFMTUg0UmJCZXBsYXY5dk5HTGVZUVZuZnVSZS1xV2paRXV2eVJsbHpDYWpXNFBiNzNpZHBkR21xQjljWGxRZVJ1MjhGZE9JUWpCekN4Z1pPaWJoeV80YjdaUlM5UDF1Z1d4QzB4dk5HbmVvbmxiaFFRX01WTU5qNkhrQ0pVVmRjdnVjNFRVMEQ3QWktcy11VlB0Qzc3WEhuQlhqdFlVMUtVNk5rbldzR3F4SWJZRnJqS1pDX3FHOXJvUnFWemFuSF9MVnNqWXoya2ZwVmtRRmp5ZlNreWpPTU84VUVSYVJvZG1YR3lGRkY1LVZYVjFKZlZhQzFmbUJuYlBv?oc=5",
    "fecha": "Mon, 16 Nov 2026 18:23:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "El Gobierno modificó el RIGI y las empresas extranjeras también podrán anotarse como proveedoras locales",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmJqNDJFNXdVbkZBWURTeFBzRnJFMVQ1SXdsVnBISFBJQUVxOVN1WlAyVUdMUExlbUtwUGZUTVZWYk4wdlZobElOQ25KcTdvTFdhT2t0dHY4cmZTSUFWbXdONU9hU19Mb08zRFpXMTlRWXJZRTdqaEY5X3hEZHpfRm5GQ2I4RWtKS2E1cWp6T2pMQVpOLU1KeV9RZzhrVHpaLUloOFYyZXZEUHFUcFlLeWNXSlo0UFQyemh1VmN3T2pQVHNpNGN0bEVISjYwNTJiUjlmYw?oc=5",
-   "fecha": "Mon, 16 Nov 2026 13:05:34 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Alerta en Córdoba por tormentas fuertes y posible caída de granizo",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFY2clgyZHNNc0wtZjk4b3o1dDJ6RWJ5MzhCV25CUC1uNHpsLXVHVHZwMEpvb1hMekZhZ1g3d2ZUTFdzbmtKYnlNU0Z3R1dXNXRNcGJDU0xHNnpSTmhLT2xDeUhNMzBWSl9XS2VXQy1WREtEUHE2czIwN1RMNF9qSkQzSElhNE14S1NDdXhtdVpzeVhGOXJpU1haZ083OEFIVE9YSlBRdlBrU2hVdmQyaGtPcklmemNVdVZaTmxsRUd0bGVU?oc=5",
    "fecha": "Mon, 16 Nov 2026 17:27:00 GMT",
    "fuente": "Cba24n"
-  },
-  {
-   "titulo": "PASO 2027: quiénes son los 15 senadores indecisos que tienen en sus manos la reforma electoral de Milei",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFdlczdPbmtDYWhfOWExaG5YcThVRXBCZXV3cnlhZjVxamQtanh3bkVoYVdmS3JKcHEtNXFMOG1SdnloT21wTjJiLUJYWTJuM0NFU2l1aXRncEJEUW1tUGlfaVNJVVhEZUVjcDVmWDRqRWtLVlNqNVo3TFBRYm9tY2EydUVraXRVOGFNazBqQWFPVU9sLU1sYlJYWWx3ckpvSXNKU0M2M3JQMU45UTR5dXJ4YkhpNXdYV0VYSjdoQkE2VnZ1WF9aR1BMNkR4YVh3YlFzVjZEY1RYeHBtcDJB?oc=5",
-   "fecha": "Mon, 16 Nov 2026 22:11:00 GMT",
-   "fuente": "La Nación"
   },
   {
    "titulo": "Desde este lunes, los comercios podrán adherirse a Sanluiseña: requisitos, trámites y dónde estarán los tráileres",
@@ -1049,12 +1057,6 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDhBejZnbkFCSzRaRUNUbS0zM21zSXgwWjFBR3FNRm1zZk9CTEJBVDZPTkpTdnFYS2FqVkVHdElSVUgtR2l6M1Via3RWanJHS3dZNzJrdlBjdlVoRXpjXzU2amV5Qll6ZTE2LWI1amRGbS1ydkZZMy1iMU9yUm10Z2V0VEFVYS1WRExfVEFCUUQ0UC1FMlA5UEVLd3RfQ25TWlRVN1FzaHBpVWpqNk5fODcwc1dlb0lIYWxKS1lrTzBqN0d5c0N5czJyUm12YnfSAdQBQVVfeXFMTmwxa212MlFLbE1HQkkySl96WGg1RkVILXdlQ2Q3NzB6SUlCQ2lmdFNsYk0tUVkwX1JCR05OQm04OFVDYkhNcXZyWTl4VXJ4QjIyNzV3WjhzN28wOGFZX2pfdVlsZzBMRlJ4dFV0NHBtREttblNiVkVSd3lPM0FCMWpBU1NISVNaR0RYZzZDNGtEVnRRUEVoX2RiSkI2YlB6eHV4RlExVjJ4bUl4N3hmeW13dmpObUpnZXAtWnVoaUE0OWd3YVFwX2xQRGVoWWdIdmh5TUk?oc=5",
    "fecha": "Mon, 16 Nov 2026 02:01:00 GMT",
    "fuente": "Lmneuquen.com"
-  },
-  {
-   "titulo": "Paritaria docente: cuánto cobrarían los maestros con el aumento propuesto por el Gobierno",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDdMbzFWOFpvS1lKSkdKVTlKS1pGTklGd2hvSnE2Tzc0VHJTT2YyQ0hFYlpkdHZrMnlRVl9nbTd0aW04cjlldWF4T2tzMHRiTURMdU56VFZMdVp4OWpmWmFqMVJCckNPdHNXbjUySnluN0loV19jMlVhVmpYOTVhbF8xLXNGRktsa0dLYXVYcGM0bEVHVWd3WHc3cFplcmvSAZgBQVVfeXFMTXVKUGFZZThOcUluR3BVZ3lYUDdHMVgzSkpTWmgtZkRkM0tHSlJud0wwbUFzSlNMa29RamJ0LVpuSmo5TFlOQmRKR3ZGd0tCS1hWdmhDZktQc0YycTBZa2I3dW5WWi0wUkNSNE9aekNqQm1MMzJ6MUZ5RVRBaVJYcFVqenFqTlY2V1psNGhodUJWdWtOREwtTnI?oc=5",
-   "fecha": "Mon, 16 Nov 2026 08:25:19 GMT",
-   "fuente": "Elonce.com"
   },
   {
    "titulo": "36 fotos de una edición histórica de La Noche de los Museos, con una multitud en las calles de Buenos Aires",
