@@ -12,13 +12,13 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1586.4,
-   "venta": 1587.7
+   "compra": 1590.3,
+   "venta": 1593
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1683.9,
-   "venta": 1684.2
+   "compra": 1690,
+   "venta": 1690.6
   },
   {
    "casa": "Mayorista",
@@ -1214,10 +1214,19 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-17T13:03-03:00",
+ "errores": {
+  "noticias": "HTTP Error 503: Service Unavailable",
+  "nacionales": "HTTP Error 503: Service Unavailable"
+ },
+ "actualizado": "2026-11-17T13:30-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "OpenAI refuerza la seguridad de ChatGPT con nuevas herramientas contra el abuso sexual infantil",
+    "link": "https://derechadiario.com.ar/politica/openai-refuerza-seguridad-chatgpt-nuevas-herramientas-abuso-sexual-infantil",
+    "fecha": "Tue, 17 Nov 2026 14:38:41 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Jorge Macri lanzó un régimen que devolverá el 25% de las inversiones de las pymes en Ingresos Brutos",
     "link": "https://derechadiario.com.ar/economia/jorge-macri-lanzo-regimen-que-devolvera-25-inversiones-pymes-en-ingresos-brutos",
@@ -1258,12 +1267,6 @@
     "titulo": "Javier Milei habló ante empresarios en el CICyP: \"Se viene un movimiento reformista mucho más profundo\"",
     "link": "https://derechadiario.com.ar/politica/en-vivo-javier-milei-habla-empresarios-en-consejo-interamericano-comercio-produccion",
     "fecha": "Mon, 16 Nov 2026 23:14:49 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "El Gordo Dan derrotó al diputado LGBTIQ+ Esteban Paulón en la Justicia",
-    "link": "https://derechadiario.com.ar/politica/gordo-dan-derroto-diputado-lgbtiq-esteban-paulon-en-justicia",
-    "fecha": "Mon, 16 Nov 2026 20:28:05 GMT",
     "fuente": "La Derecha Diario"
    }
   ]
