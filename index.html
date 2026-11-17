@@ -720,8 +720,9 @@ const LATERALES = {
         <div class="nota">${esc(od.titulo.replace(/\s+del\s.*$/, ''))} · ${od.asuntos.length} asuntos</div>
         <div class="enlaces"><a href="${esc(od.pdf)}" target="_blank" rel="noopener">Orden del día</a>${od.informe ? `<a href="${esc(od.informe)}" target="_blank" rel="noopener">Informe</a>` : ''}</div>`, 'fija'),
       W('Asuntos del Dip. Leconte', String(lec.length), lec.length ? lec.slice(0, 5).map(a => renglon(a.item, a.texto, a.expte ? pdfExpte(a.expte) : '', 'lec')).join('')
-        : '<div class="nota">Ninguno en este orden del día.</div>', lec.length ? '' : 'fija'),
-      W('Qué trae', '', Object.entries(secc).sort((x, y) => y[1] - x[1]).slice(0, 5).map(([k, n]) => renglon(n, k)).join(''), 'fija'),
+        : '<div class="nota">Ninguno en este orden del día.</div>', 'fija'),
+      // "Qué trae" es la que se achica si falta lugar; los asuntos de Leconte siempre se ven enteros
+      W('Qué trae', '', Object.entries(secc).sort((x, y) => y[1] - x[1]).slice(0, 5).map(([k, n]) => renglon(n, k)).join('')),
       sen.length ? W('Senado', 'órdenes del día', sen.slice(0, 3).map(o => renglon(fechaCorta(o.fecha), 'Orden del día N.º ' + o.numero, o.pdf)).join(''), 'fija') : '',
     ];
   },
@@ -798,12 +799,15 @@ document.getElementById('lateral').addEventListener('click', e => {
 
 // En pantallas bajas, lo que no entra en una tarjeta se oculta entero: nunca medio renglón.
 function ajustarTarjetas() {
-  document.querySelectorAll('.widget').forEach(w => {
+  const ws = [...document.querySelectorAll('.widget')];
+  ws.forEach(w => { w.style.display = ''; [...w.children].forEach(h => { h.style.visibility = ''; }); });
+  if (MOVIL.matches) return;
+  ws.forEach(w => {
     const hijos = [...w.children].slice(1);
-    hijos.forEach(h => { h.style.visibility = ''; });
-    if (MOVIL.matches) return;
     const limite = w.clientHeight - parseFloat(getComputedStyle(w).paddingBottom);
     hijos.forEach(h => { if (h.offsetTop + h.offsetHeight > limite + 1) h.style.visibility = 'hidden'; });
+    // si no entra ni un renglón, se oculta la tarjeta entera en vez de dejar solo el título aplastado
+    if (hijos.length && hijos.every(h => h.style.visibility === 'hidden')) w.style.display = 'none';
   });
 }
 // Si las cotizaciones no entran en el pie, se ocultan enteras, de la menos a la más importante.
