@@ -589,7 +589,7 @@
  "noticias": [
   {
    "titulo": "Hay alerta naranja por tormentas para este martes 17 de noviembre en Corrientes: las zonas afectadas",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUI3ZHRpeFdCRmd0aVJuWm5DdEd2LVJ0MnhRcDJIN080ekRiQldTcTM2NXN5TUZWUVV4ZU9JOFJFd1FTdUpGV2hqNHNyaURNYkZyUHlyYWo1VkFtaWVwV3JhNUZhUGpXVjBmMXlBTTczNTBVZ2tHMnk2YkdPSHFMN0tYbzJxMDlEZnNtOVdDYUxYZmotZHRuM3RhdFg5XzJma29iY1BMUDI1eDZmeVRKWTdPclBBMGgyWTNKbm9GZHdlcjBmcVBaZUJWXzBvcjU3NFZjdGU2X0ZObGvSAe8BQVVfeXFMTWx2a0hwWTZqX0JTRDZjVXNXdzdpS1pULVZIbC1jMXlDN0Y2ZGY3cmZEaEQybG1femJLbEIwWmdReHF0c3QtVVFhYWRwMWNwSGdPaFhHWTNJWmJVREdmSUdXOVRvbUJKLVo4VG83ZHE4a1FYLVpma2xtNTNZUS1DaWhLb1pyeDYxTmdCRGxfVGduLTdwYzFYTHAzTXVJUmFPYl9YTFBCeHNueTdoSUpyRlBoelVTTUFoWlI0M1ktLU1yOFlFdmVmZnZVR1liVHdRQ1NvbHBBQUNYMng4RUFYcFIzWFd4cm9INi1WaGFGUms?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUI3ZHRpeFdCRmd0aVJuWm5DdEd2LVJ0MnhRcDJIN080ekRiQldTcTM2NXN5TUZWUVV4ZU9JOFJFd1FTdUpGV2hqNHNyaURNYkZyUHlyYWo1VkFtaWVwV3JhNUZhUGpXVjBmMXlBTTczNTBVZ2tHMnk2YkdPSHFMN0tYbzJxMDlEZnNtOVdDYUxYZmotZHRuM3RhdFg5XzJma29iY1BMUDI1eDZmeVRKWTdPclBBMGgyWTNKbm9GZHdlcjBmcVBaZUJWXzBvcjU3NFZjdGU2X0ZObGs?oc=5",
    "fecha": "Tue, 17 Nov 2026 03:02:18 GMT",
    "fuente": "TN"
   },
@@ -648,16 +648,16 @@
    "fuente": "bellavista.gob.ar"
   },
   {
-   "titulo": "Alerta amarilla: pronostican tormentas fuertes para este martes en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPck9XeDJQTGZoTUNYWkF5YkYtUTFIcmcyWHdRY1RWWTVQb0l5cjFZWDkzYmNnVUJDNVJ0M1RnY0xtYnp5eVVnVjNGZGFDRGt0N0ptN2h6Y1l3RGhlX1Jwdkp3c1BiM1hQNGV4TjVNWlZzaWhaSTBkNEIyQjg4aUdSZzdWNjBLVG9QeFF1LURXRkRnWmVmQzBDbXBpT3ZDYVplT3VJM3I1OHFwbC0zMDJSZGNyZG9GSmlwQTh1WQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 23:33:50 GMT",
-   "fuente": "República de Corrientes"
-  },
-  {
    "titulo": "En una apuesta que desafía al contexto, Corrientes inauguró en Santo Tomé el 2° mega-aserradero de la era Milei",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU0Zib1ptQ0N6RUNtV1RYMldtMWZnSVVUYjJ6U0xMY01JUmY3X2k5QmtuazBPaGItNEZTTFhKMm03b2dwX1l0djNYOXVGbm50WGhvcUZoa21QNFIyM1plTEZxUk5KM0JXMVpEVm9PVW1sTmNaN1pkRWlCeW1GSVZPY1ExWkQwSjl4cmM0bk5WNFR0SExjd0pnQkpyenlFTVJFaXZEa2tjN0JKdVRIU3B1cGlmM2ozcjJ5SGdtRzRxWTBZTU5xN0VSdEZjemhEd0hfd1lZZUhDeFl1QXhwbV9tZmZ1Q0c3ZWM?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:12:15 GMT",
    "fuente": "Plan B Misiones"
+  },
+  {
+   "titulo": "Alerta amarilla: pronostican tormentas fuertes para este martes en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPck9XeDJQTGZoTUNYWkF5YkYtUTFIcmcyWHdRY1RWWTVQb0l5cjFZWDkzYmNnVUJDNVJ0M1RnY0xtYnp5eVVnVjNGZGFDRGt0N0ptN2h6Y1l3RGhlX1Jwdkp3c1BiM1hQNGV4TjVNWlZzaWhaSTBkNEIyQjg4aUdSZzdWNjBLVG9QeFF1LURXRkRnWmVmQzBDbXBpT3ZDYVplT3VJM3I1OHFwbC0zMDJSZGNyZG9GSmlwQTh1WQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:33:50 GMT",
+   "fuente": "República de Corrientes"
   },
   {
    "titulo": "Santo Tomé presentó su 60° edición en Corrientes y levantó el lema “Custodios del primer Sapucay”",
@@ -672,10 +672,10 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Detienen en Corrientes a un impostor que ejercía como médico en Chaco",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGhLT3R2aHBLT0xteUV4Z0RLVUk5YTgwdm5ZTmVobXdWTl9oVmxldWxuSjVJeGZjZ1M5NU5Cd00xZnJyYnpGY05ocFRBTUtDSXB1QThLMk4zVU5TbHNjRXNSUk5ZZlJsNmt4Z0F3SUJhcFFfS2hibmcyVm9VNUhlT01tZ2xsaGxoWlNjRDFSelFabUtiQVhIbkpLaGNWUQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 20:31:14 GMT",
-   "fuente": "Radio Facundo Quiroga"
+   "titulo": "Tiene casi 400 años, fue una capilla jesuita en 1635 y la conoció Manuel Belgrano: la estancia ganadera que recibe cientos de turistas en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTmNEcjdvcVVGQUdOcjdVaWZVUnkzbkRKNzdDWDFaRXFWa3g5V3V4MFJCeFhmNFlDU1ZoSE9BdUFIY1VYQnpIUWxLdm0ydkFfRHpYdjlUT0xpUmJ4VFBaTGZBamlkMTVtYUxZMDRRajYyLUJWNUdRWUsxcHFUYnlwcV9KNUpyQ1h3czNzSU9QOU5KcXk2MEU0UDJfdjB4X3ZNSXUwN2t6M1UwSFZzUFFYMm9nSmpDcFdIZ1NNTzk1TDQySlR2WmNwLUZJelBydDVIbXFiRWp2YkxKOTFiMFVWck9kTG4tRWI5enRLQmczb2tNMFduZEMwVNIBjAJBVV95cUxPOUVhN3dLbUlkQUo3ZjVLbF9qeUNKU0xrM2RtdGJGa1B1RkVyOTliWnYycUM4VER6MzhIcm0tVERpeW9UQ0JhbXhfWU1IazJidlBNcTlfX3lyYVJlUkl4OWxjYXlMU0FFcVg0WVo4Z2RTZlJBR3FoOUVMeGlaR0hpb2lMalhfYVl2YzFGSkF2c2RMQlM1UUJXRTd0Ri1QSmxyQjFCN01KUXJqRWFpVy1KOU9UWm1rZ0M5TVhYcjBlVGVCVjFYMmFKTzJ5OVdHa2t0N0pDSzhiMjdVdTd0WnlMLXB1RFluZ0QtZzF3eGlsNmxGeER1U2VEbDBfQWZWbWxOejE3UUxLdjVuU3dv?oc=5",
+   "fecha": "Tue, 17 Nov 2026 00:54:00 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Juan Pablo Valdés encabezó el acto por el aniversario de Curuzú Cuatiá y destacó el avance de la Ruta 126",
@@ -702,10 +702,10 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Juan Pablo Valdés inauguró obras sociales, pavimento e iluminación en el aniversario de Curuzú Cuatiá",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVRHZkZtVlJSRDRPNFpHR2VIQjlLSEFvOUQyWnZPaFplM1k3SE1Vb3c4dzVCdWdjTkp3dFkzR0UwZ0s1RjFrWXJ0Yks1cENvN2FYSG14OG1ZNjJ0Q0RfaVNKU0lzbWVxM3FHQlFVcl9ObmlJd0ZWNDg3bFBxVFlzbmo4SXg0YkxwOUQ5ZHBSd0lTc0swQWoxWXA0MXNLRHhkbjh5Z3JvQXEzN041WE54WjVnb1RNV2ZYbGZQWXZjUk9pR2p5WGFmVWktYWdQc2FsUldMVTZhTQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 11:48:28 GMT",
-   "fuente": "Perfil"
+   "titulo": "Anticipan que Valdés desplazaría a un funcionario vinculado a Lourdes Sánchez",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0h3a2JEOFROeGhJb1o1TGM0QXVfWHhuWUNhTTN0WHMxSXctVEJLeUxwT2xmczF4a2NGcnM5NTdyV2JXU1ZDb2tsaFg5Y09mcFMwcHByT0VUckd1UElSd0ZwdE5LcEFfbWVLZ0Q4YmdsY0JqZWxSVVptVGtpd3NOZlpPdTBFbjlDa0F0OU0xMVFYd1VIQ2NLRExMUW5CbG95ZTNHdGpsTVZ3dG9CcGZLTkk2UQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:01:40 GMT",
+   "fuente": "https://www.noticiero9.com.ar/"
   }
  ],
  "expedientes": {
@@ -918,7 +918,7 @@
   }
  },
  "errores": {},
- "actualizado": "2026-11-17T00:11-03:00",
+ "actualizado": "2026-11-17T01:10-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -979,6 +979,18 @@
    "fuente": "La Nación"
   },
   {
+   "titulo": "Cristina elige para la Magistratura a un diputado muy cercano a Massa y descoloca al kirchnerismo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTZ3aHJJb0tMSzItZmd1ZlB3YVZYdmQ4M3BPelRCb3V4dGVRRzQ5NVdyMUlDY2Y3NDBxb3MxUjZzRWo0dEJvdDFwM1lRMFFhYUd1Y1JtSGFfYkNCRDdMakhoN0NFemlNdU1WV1lDVXB5V0ZDWUtwQkJVUi1IY3NOTlVLYkJmTkpQOG1vR1U1U19YSldIQTFMMHRqdlVTWFV5Y1dmR2dPX2dxNWtrMzJEekNKa3VuQ1gzdTRzU19vX0o?oc=5",
+   "fecha": "Mon, 16 Nov 2026 21:17:19 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Salta se sumó a las provincias que desdoblan sus elecciones: votará el 16 de mayo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjBnNnlKZzVicmlsZXFWcXZ6N19SMXkwWi0yTl9IdWNvWU16azZqNUpXQlhrQ1l3bWVITmFXVWZVUzVmUm1vNGlVQ3ZBTXREVVRJU3dFdFFGUTZLM1BuMWROV1FjMXYzUUNOdUVZRTlHTUo0eTdZamJmTHFRVC10R1RMdWdHZHhHbGgxd3A2Tm5vYl9ZVVo5VU1rUkN4clN6TlRBTTdOTFEteHM?oc=5",
+   "fecha": "Mon, 16 Nov 2026 22:59:51 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
    "titulo": "Sube el río en Rosario y hay más evacuados en Santa Fe",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeE1rcy11ZHdDeFdlU001ajRUb0h5ZEU1WVRwclNUN2VCR3YxUkJWdGZOWGx3ZHl5bWRNQjBQcjltTkhKX2ZTaUNfRFNYR0RONldmWTdwWWo1a2huSlQ2WU9MNHU2Q1MzZjdQaXNjMGtyeVp1NFp2NzNOUUFibGFORHFsdGw3ZU5yQ1pqeDN2VlJuWldWZ3AzekZB?oc=5",
    "fecha": "Mon, 16 Nov 2026 22:08:02 GMT",
@@ -991,10 +1003,10 @@
    "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "Lego abrirá su primer local en la Argentina",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ081SUs0bHdXUlc3X3BiNm9sUjhpcjMwTXl1M09NaEZILWlvTWdVYUpJR08wNW04Z21SdWVHMkRsY2gtOF9CVHp5a1JXbGMzdXhLWmR1LUprYWtOdkIxUjZ1M3ozd0JsZFR1RVUwak45NUdpVm1JLUd5OHgtSUxPRFVpZTIzX2d0elVETk9WNG41c3lENElUem5vYk1CaWV4cF84MHF4VQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 23:42:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Pruebas Aprender: evaluarán a casi 700 mil alumnos de tercer grado de todo el país",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTdpTmpTUTZGVUMtTC1xMnU3OW1oMzZqN1VvM0t6MTVKNEc1S3ZBNHlxUF9CUFlsRjRsRE55c2xjdUx0eS1YeGRMaU9tTi1oVTd6SFdQWGdmWTQ0OUV5V3lYMDZUT2UtWWNScUZieDRKV0x6TUozNnhtcHFRM0VNcjM4T3VDdGVZbE80ZE1yVFM4U0tzaXJQREdFcGpoNmd4bTZleHZ5V0k3Umg3V0dpU1pOYUR2RTAxVGRrRzRRTWtzVGJVWl9vUjFDQmF5NVRYOGFCRjA3eFN1ekxJ0gHcAUFVX3lxTE1pN2lOalNRNkZVQy1MLXEydTc5bWgzNmo3VW8zS3oxNUo0RzVLdkE0eXFQX0JQWWxGNGxETnlzbGN1THR5LVh4ZExpT21OLWhVN3pIV1BYZ2ZZNDQ5RXlXeVgwNlRPZS1ZY1JxRmJ4NEpXTHpNSjM2eG1wcVEzRU1yMzhPdUN0ZVlsTzRkTXJUUzhTS3NpclBER0Vwamg2Z3htNmV4dnlXSTdSaDdXR2lTWk5hRHZFMDFUZGtHNFFNa3NUYlVaX29SMUNCYXk1VFg4YUJGMDd4U3V6TEk?oc=5",
+   "fecha": "Mon, 16 Nov 2026 22:15:00 GMT",
+   "fuente": "Rosario3"
   },
   {
    "titulo": "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
@@ -1009,16 +1021,16 @@
    "fuente": "El Chorrillero"
   },
   {
-   "titulo": "Argentina LNG: críticas ambientales, reclamos locales y expectativas de empleo en la audiencia pública",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWhWTTFYR1BQMjVuRkJZdnpvMFhMZGZUTXp6UlZISzZ0RkczSGQ3VDNpQWhrM1E2ZUxHVXRqc1ZzdkFMSnB6Zk0xNWVyZC1fSWtWMmY2S281UW1Lb0p4SmNiX0xqRHprYTM2YmFOby1mWVpPbkh1bE5HN3p6LXFOdzl6cGdKanAyaW1ib2lvaUxockE0dElGM0VrbFVwWVBSVDF5ZkNDQXhSWm4xX2tOaF96WFZ6U3FLbmVheWp1dUhFclpwTXdQbk9ya2lNWndhc1c3UUE3OURVQ0N4WjJvSFlvZXJkMGJW0gHwAUFVX3lxTE9ETU40Yjl3dDN3c1p2a1FhZDJHSmhUZkJvLU9qZER6cmhFUjBaOVlrVU8tQkduMmRnSVU0WEp1WWNGQldnay1ia2ZoRi1BYnE0UHIwZWlkb3ZSRUY4TXIwOUhEc3lPNFRveE1SSGVjTFpWQ3lpRkc3dUhnVy1RYVl2NnpBWG5CU05Ld25zZlUwUm83endUVGlPb1VJM0dkbnJGNVExcUNKcHZPZ2k4Y2pHLUpCS1pYcElMSkNaQWxQUXoyV2ZETHFyMjF0bmllWElRaWxHcDNrTkxEb2RIckVUOEMwLUUxR1h3M3BGU21Bcg?oc=5",
-   "fecha": "Mon, 16 Nov 2026 17:39:58 GMT",
-   "fuente": "Diario Río Negro"
+   "titulo": "Nacen más de 100 bebés prematuros por día en el país, según un informe de la Sociedad Argentina de Pediatría",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFJnd0pxRTZiYzBiRkd2Sm9wM2VyQ0JrdW9CcFlNdWczZXZHYUdCZzN2T215LUsycGQ4Y3pFci1hUU5abGZjMUtIZVdKRktjVVBxUDZwSjZQTFFGb1RoN1RuR3VzdFJpVEdwWFZYVnJ6ckl4VkpOUzE5UXNCbFlZeVlhWm44VlF0Y3llNkE4LVRsVFRMb1ppbWZKMXNkVGZFUkk1UXZWVXNKLVZlWFllMjBNYTZia291Mmg4YkNHWXhaVVZsQTQ3RW4yZHRLbm91d2ZrZVV2OW5vYmRTVWpheTlYM2bSAf8BQVVfeXFMTUg0UmJCZXBsYXY5dk5HTGVZUVZuZnVSZS1xV2paRXV2eVJsbHpDYWpXNFBiNzNpZHBkR21xQjljWGxRZVJ1MjhGZE9JUWpCekN4Z1pPaWJoeV80YjdaUlM5UDF1Z1d4QzB4dk5HbmVvbmxiaFFRX01WTU5qNkhrQ0pVVmRjdnVjNFRVMEQ3QWktcy11VlB0Qzc3WEhuQlhqdFlVMUtVNk5rbldzR3F4SWJZRnJqS1pDX3FHOXJvUnFWemFuSF9MVnNqWXoya2ZwVmtRRmp5ZlNreWpPTU84VUVSYVJvZG1YR3lGRkY1LVZYVjFKZlZhQzFmbUJuYlBv?oc=5",
+   "fecha": "Mon, 16 Nov 2026 18:23:00 GMT",
+   "fuente": "Infobae"
   },
   {
-   "titulo": "Nacen más de 100 bebés prematuros por día en el país, según un informe de la Sociedad Argentina de Pediatrí...",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOTVXRGYwTGlicFduTlBDQzBSV2o1MlYxRzh5Y2t6dTFPR3ZLN1F2UEV5bjlMbTh5bHl4WWNTeU1IYk1sSTJXNGo3eWswM0RISU9Lb1hBenhJMHg2VXR6Z1ZnY1ptRzU5QkQxdHJUNHQ4eEFqSklfYVdqR0VONXp3WHltTE5yRnUyeTdlR1JRWEtBRGVfaEdMRmhQaGg0VTdjQTMyUHdMNnlJVGZkSHpOcEItN1BCSzl2QkxTMjhHYXU2QnRoMGdwNDV0MG4zTEZBU0xraVBOVnFRd3RBSDlDdlBhaURVd1hTc3RNNVRvak9XZzNYdXM1bnllMDBPMGPSAf8BQVVfeXFMUDk1V0RmMExpYnBXbk5QQ0MwUldqNTJWMUc4eWNrenUxT0d2SzdRdlBFeW45TG04eWx5eFljU3lNSGJNbEkyVzRqN3lrMDNESElPS29YQXp4STB4NlV0emdWZ2NabUc1OUJEMXRyVDR0OHhBakpJX2FXakdFTjV6d1h5bUxOckZ1Mnk3ZUdSUVhLQURlX2hHTEZoUGhoNFU3Y0EzMlB3TDZ5SVRmZEh6TnBCLTdQQks5dkJMUzI4R2F1NkJ0aDBncDQ1dDBuM0xGQVNMa2lQTlZxUXd0QUg5Q3ZQYWlEVXdYU3N0TTVUb2pPV2czWHVzNW55ZTAwTzBj?oc=5",
-   "fecha": "Mon, 16 Nov 2026 20:56:00 GMT",
-   "fuente": "Rosario3"
+   "titulo": "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnNkY1lvNHdJb1dMa0pKSFI5REhleDJUTkl5c1BoM29OMXZ4TGVXVlpXWmdKZmE4YURQTXBoaHBPMFgtaVFBVkdfVDFlZnVLbXBpR01zTFZKN3hxRGpwWUJzOWx4d3VBUlRrenJpUFJqQ0QxZERTT1lLV2FfOS01eEhXZkxLekExd1lGZ0pFVDN2NU5yVDFYR1I1Qlc3eE9tRjgtUGRGVl9NNDVmLVNHalJIdU11d2tCb0FYS05ucGM3R3AtRWVJNXI3TmZ3c3ZlZklsT3oxUVktUQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:00:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Bahía recordó a víctimas de incidentes de tránsito con un emotivo homenaje en la Plaza Rivadavia",
@@ -1027,10 +1039,10 @@
    "fuente": "La Brújula 24"
   },
   {
-   "titulo": "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnNkY1lvNHdJb1dMa0pKSFI5REhleDJUTkl5c1BoM29OMXZ4TGVXVlpXWmdKZmE4YURQTXBoaHBPMFgtaVFBVkdfVDFlZnVLbXBpR01zTFZKN3hxRGpwWUJzOWx4d3VBUlRrenJpUFJqQ0QxZERTT1lLV2FfOS01eEhXZkxLekExd1lGZ0pFVDN2NU5yVDFYR1I1Qlc3eE9tRjgtUGRGVl9NNDVmLVNHalJIdU11d2tCb0FYS05ucGM3R3AtRWVJNXI3TmZ3c3ZlZklsT3oxUVktUQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 23:00:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Argentina LNG: críticas ambientales, reclamos locales y expectativas de empleo en la audiencia pública",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLWhWTTFYR1BQMjVuRkJZdnpvMFhMZGZUTXp6UlZISzZ0RkczSGQ3VDNpQWhrM1E2ZUxHVXRqc1ZzdkFMSnB6Zk0xNWVyZC1fSWtWMmY2S281UW1Lb0p4SmNiX0xqRHprYTM2YmFOby1mWVpPbkh1bE5HN3p6LXFOdzl6cGdKanAyaW1ib2lvaUxockE0dElGM0VrbFVwWVBSVDF5ZkNDQXhSWm4xX2tOaF96WFZ6U3FLbmVheWp1dUhFclpwTXdQbk9ya2lNWndhc1c3UUE3OURVQ0N4WjJvSFlvZXJkMGJW0gHwAUFVX3lxTE9ETU40Yjl3dDN3c1p2a1FhZDJHSmhUZkJvLU9qZER6cmhFUjBaOVlrVU8tQkduMmRnSVU0WEp1WWNGQldnay1ia2ZoRi1BYnE0UHIwZWlkb3ZSRUY4TXIwOUhEc3lPNFRveE1SSGVjTFpWQ3lpRkc3dUhnVy1RYVl2NnpBWG5CU05Ld25zZlUwUm83endUVGlPb1VJM0dkbnJGNVExcUNKcHZPZ2k4Y2pHLUpCS1pYcElMSkNaQWxQUXoyV2ZETHFyMjF0bmllWElRaWxHcDNrTkxEb2RIckVUOEMwLUUxR1h3M3BGU21Bcg?oc=5",
+   "fecha": "Mon, 16 Nov 2026 17:39:58 GMT",
+   "fuente": "Diario Río Negro"
   },
   {
    "titulo": "Futaleufú, Río Colorado y Bajada del Maida: avanza el corredor que une tres municipios y dos provincias",
@@ -1055,18 +1067,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuaDgzQTBoa3g1U1RFUWoxT2M4Nmd6ZVAxWjNYZlRNcGx5M0dtd1lUUmJ5RWJOMS1DQzJmNGJScjZEUkpfVkYwRlAxTUJ2eENwUVNuejdKanNmSlJaT01DV2xDbVNWTU96X2NfaXJ6Q1B4MDJmblJj0gGyAUFVX3lxTFAyazVURV9Sd1BqOVdlREhrMERUTEtrV2VINXdJMUJvaHN1ZlM2U0VZTlZNeUdtZmtpTmluNGRETTM5TndzWjZNaUJ2a1RXaGdHTGZzZXZMOVVza2xfZTk1blVLTS02UW95TDFLU0hUQXdIcGxPNGhaYlI3SUZobGRKWkwyVldqYU9Qa3FrT3p4TW8yeS1QOWF0RmlieUJibXpzVm4wYVBibGY2T1JfNVMzcnc?oc=5",
    "fecha": "Mon, 16 Nov 2026 15:58:00 GMT",
    "fuente": "La Política Online"
-  },
-  {
-   "titulo": "Lotería. Quini 6: a cuánto se fue el pozo acumulado para el sorteo del miércoles 18 de noviembre",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGY4REFNMS1KMURYSHQtamRzWEY1aUVkd2V2TnBhT2QyT2dGd01oLXVrdWdOU0I3OTgweVVXTXlHZ3l1YjIya0xMNUQwUzN2LVBEMFhFbkhBcF9aYmNEa0V2LXRnMmRBS1pYNG03SE9iYm1lYjZXMkVhcjg5Nk1IdUxCNUJhSW1INHR4bklSRzNURTdDMG9GMGlmR1lxcnVUV0R6a09XR2E?oc=5",
-   "fecha": "Mon, 16 Nov 2026 12:57:08 GMT",
-   "fuente": "La Voz del Interior"
-  },
-  {
-   "titulo": "PASO 2027: quiénes son los 15 senadores indecisos que tienen en sus manos la reforma electoral de Milei",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFdlczdPbmtDYWhfOWExaG5YcThVRXBCZXV3cnlhZjVxamQtanh3bkVoYVdmS3JKcHEtNXFMOG1SdnloT21wTjJiLUJYWTJuM0NFU2l1aXRncEJEUW1tUGlfaVNJVVhEZUVjcDVmWDRqRWtLVlNqNVo3TFBRYm9tY2EydUVraXRVOGFNazBqQWFPVU9sLU1sYlJYWWx3ckpvSXNKU0M2M3JQMU45UTR5dXJ4YkhpNXdYV0VYSjdoQkE2VnZ1WF9aR1BMNkR4YVh3YlFzVjZEY1RYeHBtcDJB?oc=5",
-   "fecha": "Mon, 16 Nov 2026 22:15:00 GMT",
-   "fuente": "La Nación"
   }
  ],
  "finanzas_argy": [
