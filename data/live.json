@@ -917,12 +917,20 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-16T21:56-03:00",
+ "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests"
+ },
+ "actualizado": "2026-11-16T22:22-03:00",
  "medios": {
   "derecha_diario": [
    {
-    "titulo": "Javier Milei habló ante empresarios en el Consejo Interamericano de Comercio y Producción",
+    "titulo": "Milei anunció que LEGO abrirá su primera tienda oficial en Argentina y se sumará a las grandes marcas internacionales",
+    "link": "https://derechadiario.com.ar/politica/milei-anuncio-que-lego-abrira-primera-tienda-oficial-en-argentina-sumara-grandes-marcas-internacionales",
+    "fecha": "Tue, 17 Nov 2026 01:18:42 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "Javier Milei habló ante empresarios en el CICyP: \"Se viene un movimiento reformista mucho más profundo\"",
     "link": "https://derechadiario.com.ar/politica/en-vivo-javier-milei-habla-empresarios-en-consejo-interamericano-comercio-produccion",
     "fecha": "Mon, 16 Nov 2026 23:14:49 GMT",
     "fuente": "La Derecha Diario"
@@ -962,32 +970,20 @@
     "link": "https://derechadiario.com.ar/economia/gracias-milei-toyota-anuncio-inversion-usd-1-300-millones-en-argentina",
     "fecha": "Mon, 16 Nov 2026 17:46:45 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Javier Milei participará del lanzamiento de Tesla en Argentina",
-    "link": "https://derechadiario.com.ar/economia/javier-milei-participara-lanzamiento-tesla-en-argentina",
-    "fecha": "Mon, 16 Nov 2026 17:23:02 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
  "nacionales": [
   {
-   "titulo": "PASO 2027: quiénes son los 15 senadores indecisos que tienen en sus manos la reforma electoral de Milei",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFdlczdPbmtDYWhfOWExaG5YcThVRXBCZXV3cnlhZjVxamQtanh3bkVoYVdmS3JKcHEtNXFMOG1SdnloT21wTjJiLUJYWTJuM0NFU2l1aXRncEJEUW1tUGlfaVNJVVhEZUVjcDVmWDRqRWtLVlNqNVo3TFBRYm9tY2EydUVraXRVOGFNazBqQWFPVU9sLU1sYlJYWWx3ckpvSXNKU0M2M3JQMU45UTR5dXJ4YkhpNXdYV0VYSjdoQkE2VnZ1WF9aR1BMNkR4YVh3YlFzVjZEY1RYeHBtcDJB?oc=5",
-   "fecha": "Mon, 16 Nov 2026 22:15:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Javier Milei, ante empresarios: “La única forma de crecer es ahorrar”",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONm1Yb3NlTDhMRjVzMVV0czdkVi1icml0U0syZEZ2ajJnemdleWF3MVd1TklYOS0wTk1tOHVINGsxQmRpMDk0OC0xT3pJWGpHVEJkOTdEZzdTTWgwNS1fZU44Y2NncUtrSHZZczNEN1NhbW13a0ZmLWZBZUZxVHZEM19qcWNicWt2OE9fa1prQU54NkNWX3FGRlhjTW1yeXptVF9nek9TUlNXcTc1RU41NzFwQlUwdw?oc=5",
-   "fecha": "Tue, 17 Nov 2026 00:26:00 GMT",
+   "fecha": "Tue, 17 Nov 2026 00:53:00 GMT",
    "fuente": "La Nación"
   },
   {
    "titulo": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYkhfZEdlTVpOMVVBT1p6Rk5CNS1JVU9YaDhabDF4Q2o5bTl3LVVjUEhUbTV1cUhOLTduN3p4bE4zMVJtTXpWemhMYm1JbUhTajNQeGZfaHJiblQ3ZXV6bG54RTlUWU93eFVsdk1VdkliUXdRR0dNSHNRUW9DYkwzRm1HQXZ1WDdKeFQyVUpLd0EzOXpCc0l0dnN5czdCd3pjQmdUdkxnUWgzazNCZEg2Y050NEExNDkyVFNmNVM2ZkpWSVR3bXBIejZmdG1ISkFva1hod1NRRQ?oc=5",
-   "fecha": "Tue, 17 Nov 2026 00:35:13 GMT",
+   "fecha": "Mon, 16 Nov 2026 23:38:51 GMT",
    "fuente": "Clarin.com"
   },
   {
@@ -995,6 +991,12 @@
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkljREh2bDJ4RkF6Q1BWUmRuc1hFazFqekZKVUJKMkpjay1ZcmV3a00tbEZaMjZ3bzFMNS1VVnM0ZkcyT2tlMW9iczNmRzlMcGlXSmhUVXF2a1FqVG1YUVJZaWFQUk93RTBCekpiOXlUWjBwNHB2NGN0elg1NDUtWkxGeWVBNjBDdVY3US1NcjJXTWlYQzcxZlRmeWhWcGdMYWlPeTA1RUxKVmFsVXVGRU05Wl9Gc05Od2FnSUlqbnFlRVhYRmJNNjdIVm1GRUI5NXJ30gHbAUFVX3lxTFB6ZzUtM0k3TG9sdTU0ZVpPcExwLU9CSGl0Rk1sNnRxSlp0SDZWaU9BU3Rid3FLVEEzNmRzNm5VcWFGUWY5N1hkcUZDa3JiTThLV3pBSjFJZWE5bW5mZ3dHUXVDN3JSa01rQWJYUHl1UmFkT2w1ZVU2RGkxaG5NSXdWa3c5ZFBKLVVBbXRCTXlvcnNVbldlNTJQdVN5R01LRUFCaHN6clFydEt1MG9BS1U3Y2wtM1JaVEJNUHM1YUpab1RIWGIzRXFmMk1UMTFMR2dVUWJRS3Vsc3ctSQ?oc=5",
    "fecha": "Mon, 16 Nov 2026 10:00:00 GMT",
    "fuente": "Diario Río Negro"
+  },
+  {
+   "titulo": "Reforma electoral: el borrador del Gobierno incluyó la suspensión de las PASO, un nuevo formato de listas colectoras y Ficha Limpia",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWk2MEF1eGhGdFlKYzI5SHJpSEtBWl9Pb2VMNV9LMGdFaDZSMGpmdE1aNTAyNi1PdHZvLUxHS1VuTVRlcnNtdzBCUld5bDN6dmhKODA3Ulk5SENZS050NWN0WEtFSW96czBJWmZhS3B5UkZGRkJ3THJSbThPS3VlTDZud0RUa1RCWnlPY3dMSGcxdkdUNS11cENRdUhjNi05cWVENlhfd3l1akpoRjJieVZpOU9hRU80YldHZFRNUXRUYWMxNUlFbGFrcHc3OHByOGVfMzJjcDNBWnpnY29OdE5LR2xsTS00RVhIVjRjOTFMcmt5elR3eUpFNHRyd2dxb2x4TtIBnwJBVV95cUxOMVFPc1dUcTkxVTJHQWVaYWFjempTTkRhT0RPRFRPOW94LTJBTnc2azJyM25MU0NkMHpZckJUMkJYNHZ6TDRzYldLUTA0X3JiN0JJRjlOcThNdXBYR1M3SXhmS1J3M01tSi1IajhfVHFiT3NqUWlnaWo2aUI1eXdBRUhtRzNEX1lRNjBsUE9GTm9LbExmNDFiYWdyTl9qa2pISFc4QklZektCb0pQUC11TjRsdnlTV2ZfeHVCelpMazA2VkJZbE94NjBpVGd1RGJIa0s4RnlQaE1YbWVVVG9tMWR3OEI2ZXVqajlMQ3d2dGxrSlJocF8welRVUlJhZFRDa0dZcXhwbmZhX2Y3cE16VWc0cThhNFdCdUQyc1BHcw?oc=5",
+   "fecha": "Mon, 16 Nov 2026 15:24:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "ARA San Juan: el homenaje en el puerto de Santa Fe que se convirtió en un lugar para recordar a los 44 tripulantes",
@@ -1033,28 +1035,16 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnNkY1lvNHdJb1dMa0pKSFI5REhleDJUTkl5c1BoM29OMXZ4TGVXVlpXWmdKZmE4YURQTXBoaHBPMFgtaVFBVkdfVDFlZnVLbXBpR01zTFZKN3hxRGpwWUJzOWx4d3VBUlRrenJpUFJqQ0QxZERTT1lLV2FfOS01eEhXZkxLekExd1lGZ0pFVDN2NU5yVDFYR1I1Qlc3eE9tRjgtUGRGVl9NNDVmLVNHalJIdU11d2tCb0FYS05ucGM3R3AtRWVJNXI3TmZ3c3ZlZklsT3oxUVktUQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 23:00:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Cómo es la propuesta de Bornoroni para eliminar el Inmobiliario Urbano y de dónde saldría la plata",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEVxanBRck80WGpJZXlmMXhOYlV1aFBUUllNeXRDc2pPN3ZHSi13UlgxUUhEbmhoSnUtcFQ1QlBCSjlpMFJCbVZ5eWI2TFA1a1N2QkJ1WFpDSzNlNlQ4ZmNNRU5uWk9Ua2JfcVptX1gtaEtzV3ltMWEwN3NfNWtuMklOV2pSNkJzdTR2NzhOajhjUkZRQmtURWt6dVdPbEg4X1ZfblZYQl9rRUtEQ1NDOVBtOWE?oc=5",
-   "fecha": "Sun, 15 Nov 2026 22:37:16 GMT",
-   "fuente": "La Voz del Interior"
-  },
-  {
    "titulo": "Zapala eligió a su Gran Campeona de la empanada: quién ganó los $3 millones y representará a Neuquén",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDhBejZnbkFCSzRaRUNUbS0zM21zSXgwWjFBR3FNRm1zZk9CTEJBVDZPTkpTdnFYS2FqVkVHdElSVUgtR2l6M1Via3RWanJHS3dZNzJrdlBjdlVoRXpjXzU2amV5Qll6ZTE2LWI1amRGbS1ydkZZMy1iMU9yUm10Z2V0VEFVYS1WRExfVEFCUUQ0UC1FMlA5UEVLd3RfQ25TWlRVN1FzaHBpVWpqNk5fODcwc1dlb0lIYWxKS1lrTzBqN0d5c0N5czJyUm12YnfSAdQBQVVfeXFMTmwxa212MlFLbE1HQkkySl96WGg1RkVILXdlQ2Q3NzB6SUlCQ2lmdFNsYk0tUVkwX1JCR05OQm04OFVDYkhNcXZyWTl4VXJ4QjIyNzV3WjhzN28wOGFZX2pfdVlsZzBMRlJ4dFV0NHBtREttblNiVkVSd3lPM0FCMWpBU1NISVNaR0RYZzZDNGtEVnRRUEVoX2RiSkI2YlB6eHV4RlExVjJ4bUl4N3hmeW13dmpObUpnZXAtWnVoaUE0OWd3YVFwX2xQRGVoWWdIdmh5TUk?oc=5",
    "fecha": "Mon, 16 Nov 2026 02:01:00 GMT",
    "fuente": "Lmneuquen.com"
   },
   {
-   "titulo": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZi12M21ncTYtWkFrY0dDRC02WGZJbWp0TEtLRUZNNS1fN3BjQWU3SFdFZ3dnV1pDY1I3TkVQRDBPNFVSMTg2SmU3aG9yMlk4UnZvbEtQMThpbGZjWVhUSUZxSUFIeUNUUVg0TWdLbEY4MXNiaUtKZl9uNVZOSTZQZFN5aDZURWNuWVlWU2MxOGRPSjh4RFhLUThOLVh4UUJibDN3dGM5ZWtzYUdLMnBRMWE4azd0VUliNWJ0bl92R0FMVHNpMjVtMkQ0SnZ0ZE1hTm1CdlRSTThnSzNTWERxV3hER0xRVzBmZm9PN1EwYXXSAYsCQVVfeXFMTlZSU2s0d2VRZUdNNGpBdjhzTHN3VE1aemQ3elJhdTNNLUtoMUxMQkk2ekdQZ3V2UzFzb3lfSTl5UGZyYWs2NHUtOXg3OHRfVVNQRE5YejM3Q2tnczVmV3U1ekFiNV9wb1RkeF9WVHY5VTVWMW96TGhma2l6WkExSno4emJUdWlKNmI1Nm5lMlNGOWluY3hwd1ppQkFISzJ4VGdLYWZYWEV2TDlQUC1qWWZiWERmSjZ3ZUxuYzA0UVNqUUQtZUZYbVR4amRUODJvTFFqQ2Jad1JiSDNsa01LT283czNEOFZ4clplenBRNTZ3UUJVcjV3ZGt4S25aZXlJVmxEc0FRbHBCdkhJ?oc=5",
-   "fecha": "Sun, 15 Nov 2026 22:59:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Mega-granizo en Córdoba: un temporal azotó a la provincia y hay alerta naranja por abundantes precipitaciones para las próximas horas",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnNkY1lvNHdJb1dMa0pKSFI5REhleDJUTkl5c1BoM29OMXZ4TGVXVlpXWmdKZmE4YURQTXBoaHBPMFgtaVFBVkdfVDFlZnVLbXBpR01zTFZKN3hxRGpwWUJzOWx4d3VBUlRrenJpUFJqQ0QxZERTT1lLV2FfOS01eEhXZkxLekExd1lGZ0pFVDN2NU5yVDFYR1I1Qlc3eE9tRjgtUGRGVl9NNDVmLVNHalJIdU11d2tCb0FYS05ucGM3R3AtRWVJNXI3TmZ3c3ZlZklsT3oxUVktUQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:00:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Cristina elige para la Magistratura a un diputado muy cercano a Massa y descoloca al kirchnerismo",
@@ -1063,10 +1053,22 @@
    "fuente": "Clarin.com"
   },
   {
+   "titulo": "Gustavo Sáenz reclamó la falta de ayuda del Gobierno nacional tras el fuerte temporal que afectó el norte de Salta",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZi12M21ncTYtWkFrY0dDRC02WGZJbWp0TEtLRUZNNS1fN3BjQWU3SFdFZ3dnV1pDY1I3TkVQRDBPNFVSMTg2SmU3aG9yMlk4UnZvbEtQMThpbGZjWVhUSUZxSUFIeUNUUVg0TWdLbEY4MXNiaUtKZl9uNVZOSTZQZFN5aDZURWNuWVlWU2MxOGRPSjh4RFhLUThOLVh4UUJibDN3dGM5ZWtzYUdLMnBRMWE4azd0VUliNWJ0bl92R0FMVHNpMjVtMkQ0SnZ0ZE1hTm1CdlRSTThnSzNTWERxV3hER0xRVzBmZm9PN1EwYXXSAYsCQVVfeXFMTlZSU2s0d2VRZUdNNGpBdjhzTHN3VE1aemQ3elJhdTNNLUtoMUxMQkk2ekdQZ3V2UzFzb3lfSTl5UGZyYWs2NHUtOXg3OHRfVVNQRE5YejM3Q2tnczVmV3U1ekFiNV9wb1RkeF9WVHY5VTVWMW96TGhma2l6WkExSno4emJUdWlKNmI1Nm5lMlNGOWluY3hwd1ppQkFISzJ4VGdLYWZYWEV2TDlQUC1qWWZiWERmSjZ3ZUxuYzA0UVNqUUQtZUZYbVR4amRUODJvTFFqQ2Jad1JiSDNsa01LT283czNEOFZ4clplenBRNTZ3UUJVcjV3ZGt4S25aZXlJVmxEc0FRbHBCdkhJ?oc=5",
+   "fecha": "Sun, 15 Nov 2026 22:59:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
    "titulo": "Paritaria docente: cuánto cobrarían los maestros con el aumento propuesto por el Gobierno",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDdMbzFWOFpvS1lKSkdKVTlKS1pGTklGd2hvSnE2Tzc0VHJTT2YyQ0hFYlpkdHZrMnlRVl9nbTd0aW04cjlldWF4T2tzMHRiTURMdU56VFZMdVp4OWpmWmFqMVJCckNPdHNXbjUySnluN0loV19jMlVhVmpYOTVhbF8xLXNGRktsa0dLYXVYcGM0bEVHVWd3WHc3cFplcmvSAZgBQVVfeXFMTXVKUGFZZThOcUluR3BVZ3lYUDdHMVgzSkpTWmgtZkRkM0tHSlJud0wwbUFzSlNMa29RamJ0LVpuSmo5TFlOQmRKR3ZGd0tCS1hWdmhDZktQc0YycTBZa2I3dW5WWi0wUkNSNE9aekNqQm1MMzJ6MUZ5RVRBaVJYcFVqenFqTlY2V1psNGhodUJWdWtOREwtTnI?oc=5",
    "fecha": "Mon, 16 Nov 2026 08:25:19 GMT",
    "fuente": "Elonce.com"
+  },
+  {
+   "titulo": "Javier Milei, en vivo: el jefe del Episcopado argentino destacó el acercamiento entre el Gobierno y la Iglesia durante la visita del Papa, pero reclamó más diálogo",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSGRZM0dqQTNwZlktaWJSbGJBWXAzbDhDOE1MOHVqM3U5WlhQdEJZY0VOdkdyVjJjRHg2YlFRTVlvd2hRS0dXUDFrQ0ppUjR5bTYzUlFjUktIQUgxbFBnNjNwRENndmRPQW1Nc2h4bjRuNmdZSXJqeVZmRGlzVGxsMDRIQW85VTJybzYyUXE2VzRtNXlVTUI3eXlTREMwX2Y3aVlzSjZQbWFaVXdMOS16NVpEZ2VNTnRCbmxpMl83aEFGS0ZoWkhUamdSM1M3V29UNldoQTRwQTE2M2JvbzRLWWNzM3l4LUc5d2FLUGg4R0VRTURw0gGIAkFVX3lxTE5pR25TVm9oU0FqTnBxZTdIdlFFN2pWa0dVM2NYRlpzNnB1TWR3M2hsb002Nzl2enNKaTdYN3l6YzVaUi0tSU1LenFRaXQybDlWUDE5R3NFalMyNWg1VEhzQkNBbkxDX3ptTER4V0p3X09KSXNEdjl3YnJTOU9NWXBiWkJFOWwycFJKZ0NMXzN3bEdKdVZySEZhNlp5RFFmUFZfaHdiUTJJWnFWSnZFOTVBemFpak5rOEVNU2VBMFZDM3dPZ2JvNVNjZnZKWXJoZEhlWVV2R3h3TmQweEZEZG85YkFya3diN3owSU1vUU5Ldko1NFZzT2dfX20yclR6RWxRTzZkVXEtdg?oc=5",
+   "fecha": "Mon, 16 Nov 2026 01:43:29 GMT",
+   "fuente": "TN"
   }
  ],
  "finanzas_argy": [
