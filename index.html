@@ -409,7 +409,7 @@ const SECCIONES = [
       const cambio = r.cambio && haceDias(r.cambio) <= 7;
       return caja(pdfExpte(p.expte), `proy ${cambio ? 'cambio' : ''}`, `<div class="n">${numExpte(p.expte)}</div>
         <div class="t">${esc(p.tema)}</div>
-        <div class="e">${p.tipo} · ${esc(p.comision === 'Sin asignar' && r.comision ? r.comision : p.comision)} · ${chipEstado(estadoDe(p))}
+        <div class="e">${[p.tipo, p.comision === 'Sin asignar' && r.comision ? r.comision : p.comision].filter(Boolean).map(esc).join(' · ')} · ${chipEstado(estadoDe(p))}
         ${cambio ? ` <span class="chip cambio">Cambió el ${fechaCorta(r.cambio)}</span>` : ''}</div>`);
     };
     const orden = [...recientes, ...lista.filter(p => !recientes.includes(p))];
