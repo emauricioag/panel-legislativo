@@ -309,7 +309,7 @@ def expedientes_leconte(base, previo):
         ant = previo.get(ex, {})
         try:
             t = limpio(texto(f"{HCD}/expedientes/{ex}/"))
-            asunto = re.search(r"Asunto:\s*(.*?)\s*Autor", t)
+            asunto = re.search(r"Asunto:\s*(.*?)\s*Autor(?:/es|es)?\s*:", t)  # no cortar en "Autorizaciones"
             comision = re.search(r"Comisi[oó]n:\s*(.*?)\s*Expediente completo", t)
             tipo = re.search(r"Tipo de Proyecto:\s*(\w+)", t)
             reg = {
@@ -324,7 +324,9 @@ def expedientes_leconte(base, previo):
             continue
         reg["nuevo"] = ex not in conocidos
         reg["visto"] = ant.get("visto", HOY.date().isoformat())
-        if ant and (ant.get("asunto"), ant.get("comision")) != (reg["asunto"], reg["comision"]):
+        # un asunto que antes salía cortado y ahora sale completo no es un cambio
+        asunto_cambio = ant.get("asunto") != reg["asunto"] and not reg["asunto"].startswith(ant.get("asunto") or "\0")
+        if ant and (asunto_cambio or ant.get("comision") != reg["comision"]):
             reg["cambio"] = HOY.date().isoformat()
             reg["antes"] = ant.get("asunto", "")
         else:

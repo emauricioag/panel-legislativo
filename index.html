@@ -167,6 +167,10 @@ body.sin-lateral .lateral{display:none}
 .widget .mini{display:grid;grid-template-columns:repeat(4,1fr);gap:.5vw}
 .widget .mini b{display:block;font-size:1.7em;line-height:1.05;font-variant-numeric:tabular-nums}
 .widget .mini span{color:var(--suave);font-size:.8em;line-height:1.2;display:block}
+.widget .mini button{all:unset;cursor:pointer;display:block;border-radius:.4vw;padding:.15vw .3vw;margin:-.15vw -.3vw}
+.widget .mini button:hover,.widget .mini button:focus-visible{background:rgba(255,255,255,.06)}
+.widget .mini button:focus-visible{outline:3px solid var(--alerta)}
+.widget .mini button.on{background:rgba(201,182,255,.16);box-shadow:inset 0 -2px 0 var(--acento)}
 .renglon{display:flex;gap:.8vw;font-size:.9em;line-height:1.3;min-width:0}
 .renglon time,.renglon .h{font-weight:700;flex:none;min-width:3.3em;white-space:nowrap;font-variant-numeric:tabular-nums}
 .renglon .t{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
@@ -364,6 +368,18 @@ const caja = (href, clase, html) => href
   ? `<a class="${clase}" href="${esc(href)}" target="_blank" rel="noopener">${html}</a>`
   : `<div class="${clase}">${html}</div>`;
 
+// Filtro de la sección Proyectos: se elige tocando los números de la columna derecha.
+const FILTROS = {
+  todos: {txt: 'presentados', f: () => true},
+  aprob: {txt: 'aprobados', f: p => /aprob|sanci/i.test(estadoDe(p))},
+  comision: {txt: 'en comisión', f: p => /comisi|ingres/i.test(estadoDe(p))},
+  pref: {txt: 'con preferencia', f: p => /prefer/i.test(estadoDe(p))},
+  Ley: {txt: 'de ley', f: p => p.tipo === 'Ley'},
+  'Resolución': {txt: 'de resolución', f: p => p.tipo === 'Resolución'},
+  'Declaración': {txt: 'de declaración', f: p => p.tipo === 'Declaración'},
+};
+let filtroProy = 'todos';
+
 // El estado sale de base.json, salvo que la ficha de la Cámara muestre algo más nuevo:
 // una aprobación (con su número de declaración, resolución o ley) o el giro a comisión.
 function estadoDe(p) {
@@ -409,11 +425,14 @@ const SECCIONES = [
       const cambio = r.cambio && haceDias(r.cambio) <= 7;
       return caja(pdfExpte(p.expte), `proy ${cambio ? 'cambio' : ''}`, `<div class="n">${numExpte(p.expte)}</div>
         <div class="t">${esc(p.tema)}</div>
-        <div class="e">${p.tipo} · ${esc(p.comision === 'Sin asignar' && r.comision ? r.comision : p.comision)} · ${chipEstado(estadoDe(p))}
+        <div class="e">${[p.tipo, p.comision === 'Sin asignar' && r.comision ? r.comision : p.comision].filter(Boolean).map(esc).join(' · ')} · ${chipEstado(estadoDe(p))}
         ${cambio ? ` <span class="chip cambio">Cambió el ${fechaCorta(r.cambio)}</span>` : ''}</div>`);
     };
-    const orden = [...recientes, ...lista.filter(p => !recientes.includes(p))];
-    return trozos(orden, 10).map(g => `<div class="grilla">${g.map(ficha).join('')}</div>`);
+    const filtro = FILTROS[filtroProy] || FILTROS.todos;
+    const orden = [...recientes, ...lista.filter(p => !recientes.includes(p))].filter(filtro.f);
+    const aviso = filtroProy === 'todos' ? '' : `<div class="sub">Solo los proyectos ${filtro.txt} (${orden.length}). Tocá "presentados" para ver todos.</div>`;
+    if (!orden.length) return [aviso + '<div class="vacio">Ningún proyecto en este grupo.</div>'];
+    return trozos(orden, 10).map((g, i) => (i ? '' : aviso) + `<div class="grilla">${g.map(ficha).join('')}</div>`);
   }},
 
   {id:'od', corto:'Orden del día', titulo:'Orden del día · Diputados de Corrientes', paginas() {
@@ -674,16 +693,16 @@ const renglon = (h, t, link, cls = '') => `<div class="renglon ${cls}"><span cla
 const LATERALES = {
   proyectos() {
     const est = LIVE.expedientes || {}, ps = BASE.proyectos || [];
-    const cuenta = re => ps.filter(p => re.test(estadoDe(p))).length;
-    const tipos = ['Ley', 'Resolución', 'Declaración'].map(t => [t, ps.filter(p => p.tipo === t).length]);
+    const n = k => ps.filter(FILTROS[k].f).length;
+    // cada número es un botón que filtra la sección Proyectos
+    const boton = (k, num = n(k)) => `<div><button type="button" data-filtro="${esc(k)}" class="${filtroProy === k ? 'on' : ''}" aria-pressed="${filtroProy === k}"><b>${num}</b><span>${FILTROS[k].txt}</span></button></div>`;
     const cambios = ps.filter(p => est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7);
     const pref = ps.filter(p => /prefer/i.test(estadoDe(p)));
     const fila = p => renglon(numExpte(p.expte), p.tema, pdfExpte(p.expte));
     return [
       W('Proyectos de Leconte', '', `<div class="mini">
-        <div><b>${ps.length}</b><span>presentados</span></div><div><b>${cuenta(/aprob|sanci/i)}</b><span>aprobados</span></div>
-        <div><b>${cuenta(/comisi|ingres/i)}</b><span>en comisión</span></div><div><b>${pref.length}</b><span>con preferencia</span></div></div>`, 'fija'),
-      W('Por tipo', '', `<div class="mini tres">${tipos.map(([t, n]) => `<div><b>${n}</b><span>${t === 'Ley' ? 'de ley' : 'de ' + t.toLowerCase()}</span></div>`).join('')}</div>`, 'fija'),
+        ${boton('todos', ps.length)}${boton('aprob')}${boton('comision')}${boton('pref')}</div>`, 'fija'),
+      W('Por tipo', '', `<div class="mini tres">${['Ley', 'Resolución', 'Declaración'].map(t => boton(t)).join('')}</div>`, 'fija'),
       pref.length ? W('Con preferencia', 'se votan pronto', pref.slice(0, 3).map(fila).join(''), 'fija') : '',
       W(cambios.length ? 'Movimientos de la semana' : 'Últimos presentados', '', (cambios.length ? cambios : ps).slice(0, 6).map(fila).join('')),
     ];
@@ -770,6 +789,12 @@ function elegirBanca(e) {
   if (MOVIL.matches) document.getElementById('lateral').scrollIntoView({block: 'start', behavior: 'smooth'});
 }
 ['click', 'keydown'].forEach(ev => document.getElementById('main').addEventListener(ev, elegirBanca));
+// Tocar un número de "Proyectos de Leconte" o "Por tipo" filtra la sección; "presentados" vuelve a mostrar todos.
+document.getElementById('lateral').addEventListener('click', e => {
+  const b = e.target.closest?.('[data-filtro]'); if (!b) return;
+  filtroProy = b.dataset.filtro === filtroProy ? 'todos' : b.dataset.filtro;
+  armarCola(); elegir('proyectos');
+});
 
 // En pantallas bajas, lo que no entra en una tarjeta se oculta entero: nunca medio renglón.
 function ajustarTarjetas() {
