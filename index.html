@@ -102,7 +102,7 @@ a.item.noti::after{top:auto;bottom:.45em}
 .vacio{color:var(--suave);font-size:1.3em;padding:2vw 0}
 /* mapa de la Cámara: hemiciclo con las fotos y, debajo, los bloques */
 .mapa{display:flex;flex-direction:column;align-items:center;gap:1.4vw}
-.mapa svg{display:block;width:100%;height:auto;max-height:max(60vh,420px)}
+.mapa svg{display:block;width:100%;height:auto;max-height:max(72vh,420px)}
 .mapa .fila{fill:none;stroke:var(--borde);stroke-width:2}
 .mapa .nom{font-size:15px;font-weight:600;fill:var(--texto);paint-order:stroke;stroke:var(--fondo);stroke-width:4px;stroke-linejoin:round}
 .mapa .propia .nom{fill:var(--acento);font-weight:800}
@@ -114,6 +114,10 @@ a.item.noti::after{top:auto;bottom:.45em}
 .leyenda i{width:.85em;height:.85em;border-radius:50%;flex:none;transform:translateY(.05em)}
 .leyenda b{white-space:nowrap}
 .leyenda span{color:var(--suave)}
+.leyenda.lat{display:flex;flex-direction:column;gap:.35vw;font-size:.86em;line-height:1.3}
+.leyenda.lat div{display:block}
+.leyenda.lat i{display:inline-block;margin-right:.5em;transform:none}
+.leyenda.lat b{white-space:normal}
 .hoy{color:var(--alerta);font-weight:800}
 
 /* estructura: cabecera, panel principal + columna de tarjetas, pie financiero */
@@ -536,16 +540,21 @@ function mapa() {
   const arcos = filas.map(f => `<path class="fila" d="M${CX - f.r} ${BASE_Y}A${f.r} ${f.r} 0 0 1 ${CX + f.r} ${BASE_Y}"/>`).join('');
   const bancas = asientos.map(s => s.d ? banca(s.d, s.x, s.y, R, s.num) : '').join('')
     + (presi ? banca(presi, CX, BASE_Y + 16, RP, 0, 'Presidente') : '');
-  const grupos = orden.map(p => ({p, ds: dips.filter(d => d.partido === p)})).filter(g => g.ds.length);
-  const ley = grupos.map(g => `<div><i style="background:${color[g.p]}"></i><b>${esc(g.p)} (${g.ds.length})</b><span>${
-    g.ds.map(d => esc(d.apellido) + (d === presi ? ' (presidente)' : '')).join(', ')}</span></div>`).join('');
+  const grupos = bloquesCamara();
   const ext = filas[filas.length - 1].r + R, x0 = CX - ext - 14, y0 = BASE_Y - ext - 8, alto = BASE_Y + 16 + RP + 44 - y0;
   return `<div class="mapa"><svg viewBox="${x0} ${y0} ${2 * (CX - x0)} ${alto}" role="img" aria-label="Hemiciclo de la Cámara de Diputados: ${dips.length} bancas por bloque">
     <defs><clipPath id="redondo" clipPathUnits="objectBoundingBox"><circle cx=".5" cy=".5" r=".5"/></clipPath></defs>
     ${arcos}
     <text class="total" x="${CX}" y="${BASE_Y - 80}" text-anchor="middle">${dips.length} bancas</text>
     <text class="bloques" x="${CX}" y="${BASE_Y - 52}" text-anchor="middle">${grupos.length} bloques</text>
-    ${bancas}</svg><div class="leyenda">${ley}</div></div>`;
+    ${bancas}</svg></div>`;
+}
+// Bloques de la Cámara, en el orden de base.json, con sus diputados (para la columna derecha del Mapa).
+function bloquesCamara() {
+  const orden = BASE.partidos.map(p => p.nombre);
+  const dips = BASE.diputados.slice().sort((a, b) => a.apellido.localeCompare(b.apellido));
+  return orden.map(p => ({p, color: (BASE.partidos.find(x => x.nombre === p) || {}).color || '#666', ds: dips.filter(d => d.partido === p)}))
+    .filter(g => g.ds.length);
 }
 
 // ---------------------------------------------------------------- rotación
@@ -687,7 +696,7 @@ document.addEventListener('mousemove', () => {
 
 // ---------------------------------------------------------------- columna de tarjetas
 // Cada sección tiene su propia columna; Noticias no lleva y usa todo el ancho.
-let DIPS = {}, elegido = 'Leconte|Ricardo Guillermo';
+let DIPS = {}, elegido = null;   // banca tocada en el Mapa; sin ninguna, la columna muestra los bloques
 const W = (titulo, extra, cuerpo, cls = '') => `<div class="widget ${cls}"><h2>${titulo}${extra ? `<small>${extra}</small>` : ''}</h2>${cuerpo}</div>`;
 const renglon = (h, t, link, cls = '') => `<div class="renglon ${cls}"><span class="h">${h}</span>${link ? `<a class="t" href="${esc(link)}" target="_blank" rel="noopener">${esc(t)}</a>` : `<span class="t">${esc(t)}</span>`}</div>`;
 const LATERALES = {
@@ -720,8 +729,9 @@ const LATERALES = {
         <div class="nota">${esc(od.titulo.replace(/\s+del\s.*$/, ''))} · ${od.asuntos.length} asuntos</div>
         <div class="enlaces"><a href="${esc(od.pdf)}" target="_blank" rel="noopener">Orden del día</a>${od.informe ? `<a href="${esc(od.informe)}" target="_blank" rel="noopener">Informe</a>` : ''}</div>`, 'fija'),
       W('Asuntos del Dip. Leconte', String(lec.length), lec.length ? lec.slice(0, 5).map(a => renglon(a.item, a.texto, a.expte ? pdfExpte(a.expte) : '', 'lec')).join('')
-        : '<div class="nota">Ninguno en este orden del día.</div>', lec.length ? '' : 'fija'),
-      W('Qué trae', '', Object.entries(secc).sort((x, y) => y[1] - x[1]).slice(0, 5).map(([k, n]) => renglon(n, k)).join(''), 'fija'),
+        : '<div class="nota">Ninguno en este orden del día.</div>', 'fija'),
+      // "Qué trae" es la que se achica si falta lugar; los asuntos de Leconte siempre se ven enteros
+      W('Qué trae', '', Object.entries(secc).sort((x, y) => y[1] - x[1]).slice(0, 5).map(([k, n]) => renglon(n, k)).join('')),
       sen.length ? W('Senado', 'órdenes del día', sen.slice(0, 3).map(o => renglon(fechaCorta(o.fecha), 'Orden del día N.º ' + o.numero, o.pdf)).join(''), 'fija') : '',
     ];
   },
@@ -751,8 +761,14 @@ const LATERALES = {
     ];
   },
   mapa() {
-    const d = (BASE.diputados || []).find(x => x.apellido + '|' + x.nombre === elegido) || (BASE.diputados || [])[0];
-    if (!d) return [];
+    const d = (BASE.diputados || []).find(x => x.apellido + '|' + x.nombre === elegido);
+    if (!d) {   // vista inicial: la lista de bloques
+      const gs = bloquesCamara();
+      const ley = gs.map(g => `<div><i style="background:${g.color}"></i><b>${esc(g.p)} (${g.ds.length})</b> <span>${
+        g.ds.map(x => esc(x.apellido) + (/^presid/i.test(x.cargo || '') ? ' (presidente)' : '')).join(', ')}</span></div>`).join('');
+      return [W('Bloques', `${(BASE.diputados || []).length} bancas · ${gs.length} bloques`,
+        `<div class="leyenda lat">${ley}</div><div class="nota">Tocá una banca para ver la ficha del diputado; tocala otra vez para volver a los bloques.</div>`)];
+    }
     const k = d.apellido + '|' + d.nombre, r = (DIPS.diputados || {})[k];
     const color = (BASE.partidos.find(p => p.nombre === d.partido) || {}).color || '#666';
     const cab = `<div class="ficha">${d.foto ? `<img src="${esc(d.foto)}" alt="" style="border-color:${color}">` : ''}<div>
@@ -763,7 +779,7 @@ const LATERALES = {
     const ses = r.presentes + r.ausencias, coaut = r.presentados - r.solo;
     const tipos = Object.entries(r.tipos).sort((x, y) => y[1] - x[1]).map(([t, n]) => `${n} de ${t === 'Ley' ? 'ley' : t.toLowerCase()}`).join(' · ');
     return [
-      W('Diputado', 'tocá una banca', cab, 'fija'),
+      W('Diputado', 'tocá de nuevo para volver', cab, 'fija'),
       W('Labor en el período', 'desde ' + fechaCorta(DIPS.desde) + '/' + DIPS.desde.slice(2, 4), `<div class="mini">
         <div><b>${r.presentados}</b><span>proyectos</span></div><div><b>${r.aprobados}</b><span>aprobados</span></div>
         <div><b>${r.en_comision}</b><span>en trámite</span></div><div><b>${r.presentes}<small>/${ses}</small></b><span>asistencias</span></div></div>
@@ -782,10 +798,10 @@ function lateral() {
   document.querySelectorAll('.mapa .banca').forEach(g => g.classList.toggle('sel', g.dataset.k === elegido));
   ajustarTarjetas();
 }
-// En el mapa, tocar una banca muestra la ficha de ese diputado.
+// En el mapa, tocar una banca muestra la ficha de ese diputado; tocar la misma otra vez vuelve a los bloques.
 function elegirBanca(e) {
   const g = e.target.closest?.('.banca[data-k]'); if (!g || (e.type === 'keydown' && e.key !== 'Enter' && e.key !== ' ')) return;
-  e.preventDefault(); elegido = g.dataset.k; lateral();
+  e.preventDefault(); elegido = elegido === g.dataset.k ? null : g.dataset.k; lateral();
   if (MOVIL.matches) document.getElementById('lateral').scrollIntoView({block: 'start', behavior: 'smooth'});
 }
 ['click', 'keydown'].forEach(ev => document.getElementById('main').addEventListener(ev, elegirBanca));
@@ -798,12 +814,15 @@ document.getElementById('lateral').addEventListener('click', e => {
 
 // En pantallas bajas, lo que no entra en una tarjeta se oculta entero: nunca medio renglón.
 function ajustarTarjetas() {
-  document.querySelectorAll('.widget').forEach(w => {
+  const ws = [...document.querySelectorAll('.widget')];
+  ws.forEach(w => { w.style.display = ''; [...w.children].forEach(h => { h.style.visibility = ''; }); });
+  if (MOVIL.matches) return;
+  ws.forEach(w => {
     const hijos = [...w.children].slice(1);
-    hijos.forEach(h => { h.style.visibility = ''; });
-    if (MOVIL.matches) return;
     const limite = w.clientHeight - parseFloat(getComputedStyle(w).paddingBottom);
     hijos.forEach(h => { if (h.offsetTop + h.offsetHeight > limite + 1) h.style.visibility = 'hidden'; });
+    // si no entra ni un renglón, se oculta la tarjeta entera en vez de dejar solo el título aplastado
+    if (hijos.length && hijos.every(h => h.style.visibility === 'hidden')) w.style.display = 'none';
   });
 }
 // Si las cotizaciones no entran en el pie, se ocultan enteras, de la menos a la más importante.
