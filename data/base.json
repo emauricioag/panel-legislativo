@@ -1,19 +1,33 @@
 {
- "nota": "Datos que se editan a mano. Fuente: catálogo de proyectos y guía (relevados el 27/10/2026).",
+ "nota": "Datos que se editan a mano. Fuente: índice de proyectos y orden del día de la 19ª sesión (actualizados el 17/11/2026).",
  "proyectos": [
+  {
+   "expte": "20635",
+   "tipo": "Declaración",
+   "tema": "De interés la 2ª Jornada de Enfermedades Poco Frecuentes (Salón OSDE, 20/11)",
+   "comision": "Asuntos entrados 18/11",
+   "estado": "Ingresado"
+  },
+  {
+   "expte": "20619",
+   "tipo": "Ley",
+   "tema": "Silencio positivo en las autorizaciones administrativas regladas",
+   "comision": "Asuntos entrados 18/11",
+   "estado": "Ingresado"
+  },
   {
    "expte": "20561",
    "tipo": "Resolución",
    "tema": "Coto de caza El Curupí lindante con la Escuela 626 (pedido de informes)",
-   "comision": "Sin asignar",
-   "estado": "Ingresado"
+   "comision": "Seguridad y Servicios Penitenciarios",
+   "estado": "En comisión"
   },
   {
    "expte": "20560",
    "tipo": "Resolución",
    "tema": "Escuelas rurales inhóspitas y Escuela 626 de El Malezal (pedido de informes)",
-   "comision": "Sin asignar",
-   "estado": "Ingresado"
+   "comision": "Educación",
+   "estado": "En comisión"
   },
   {
    "expte": "20497",
@@ -41,7 +55,7 @@
    "tipo": "Ley",
    "tema": "Armas de letalidad reducida, cámaras corporales y GPS para la Policía",
    "comision": "Seguridad; Asuntos Constitucionales",
-   "estado": "Preferencia: se vota en la próxima sesión"
+   "estado": "Preferencia: se trata el 18/11 (OD 19ª, punto 02)"
   },
   {
    "expte": "20429",
