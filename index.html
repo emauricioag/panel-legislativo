@@ -99,6 +99,17 @@ a.item.noti::after{top:auto;bottom:.45em}
 .proy .e{grid-column:2;color:var(--suave);font-size:.85em}
 .proy .e .chip{font-size:.95em}
 .proy.cambio{border-color:var(--alerta)}
+/* esqueleto mientras cargan los datos: bloques grises con un brillo que pasa */
+.esq{display:block;height:.95em;border-radius:.35em;background:linear-gradient(90deg,var(--panel2) 0,#25324f 45%,var(--panel2) 90%);
+  background-size:220% 100%;animation:brillo 1.5s linear infinite}
+.esq+.esq{margin-top:.45em}
+.esq.n{width:3.6em;height:1.15em}.esq.w9{width:92%}.esq.w7{width:72%}.esq.w5{width:52%}.esq.w3{width:32%}
+.esq.grande{height:1.9em;width:2.2em}
+.proy.esqueleto{min-height:5.5em}
+.widget h2 .esq{width:9em;height:.8em}
+.cot .esq{width:5.5em;height:1em;display:inline-block;margin:0 .6vw 0 0}
+@keyframes brillo{from{background-position:110% 0}to{background-position:-110% 0}}
+@media (prefers-reduced-motion:reduce){.esq{animation:none}}
 .vacio{color:var(--suave);font-size:1.3em;padding:2vw 0}
 /* mapa de la Cámara: hemiciclo con las fotos y, debajo, los bloques */
 .mapa{display:flex;flex-direction:column;align-items:center;gap:1.4vw}
@@ -318,12 +329,12 @@ header,footer{background:#080e1ad9}
   <section class="principal" aria-labelledby="titulo">
     <nav class="tabs" id="tabs" aria-label="Secciones del panel"></nav>
     <h1 id="titulo">Panel legislativo</h1>
-    <main id="main"><div class="pagina visible"><div class="vacio">Cargando…</div></div></main>
+    <main id="main" aria-busy="true"><div class="pagina visible"><div class="grilla" aria-label="Cargando"><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div><div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div></div></div></main>
   </section>
-  <aside class="lateral" id="lateral" aria-label="Resumen"></aside>
+  <aside class="lateral" id="lateral" aria-label="Resumen"><div class="widget fija"><h2><span class="esq"></span></h2><div class="mini"><div><span class="esq grande"></span></div><div><span class="esq grande"></span></div><div><span class="esq grande"></span></div><div><span class="esq grande"></span></div></div></div><div class="widget fija"><h2><span class="esq"></span></h2><span class="esq w9"></span><span class="esq w7"></span><span class="esq w9"></span></div><div class="widget fija"><h2><span class="esq"></span></h2><span class="esq w9"></span><span class="esq w7"></span><span class="esq w9"></span><span class="esq w5"></span></div></aside>
 </div>
 <footer>
-  <div class="cot" id="cot"></div>
+  <div class="cot" id="cot"><span class="esq"></span><span class="esq"></span><span class="esq"></span><span class="esq"></span></div>
   <div class="act" id="act" role="status"></div>
   <div class="ctl">
     <button type="button" class="auto chico" id="menos" aria-label="Achicar la letra" title="Achicar la letra (tecla −)">A−</button>
@@ -567,8 +578,15 @@ function bloquesCamara() {
 const MOVIL = matchMedia('(max-width: 900px)');
 const ESPERA = 3;   // segundos quieto arriba y abajo antes de moverse
 let pausado = false, cola = [], pos = -1, temporizador, animacion, auto = !FIJA && !MOVIL.matches, fija = FIJA;
+// Mientras llega live.json, las secciones que dependen de él muestran el esqueleto en vez de "Sin datos".
+const ESQ_TARJETA = `<div class="proy esqueleto"><span class="esq n"></span><div><span class="esq w9"></span><span class="esq w7"></span><span class="esq w5"></span></div></div>`;
+const ESQ_WIDGET = (n = 3) => `<div class="widget fija"><h2><span class="esq"></span></h2>${['w9', 'w7', 'w9', 'w5', 'w7'].slice(0, n).map(w => `<span class="esq ${w}"></span>`).join('')}</div>`;
+const NECESITA_LIVE = new Set(['od', 'boctes', 'noticias']);
+let liveFallo = false;
+const esperandoLive = id => !LIVE.actualizado && !liveFallo && NECESITA_LIVE.has(id);
 function armarCola() {
   cola = SECCIONES.map(s => {
+    if (esperandoLive(s.id)) return {s, html: `<div class="grilla">${ESQ_TARJETA.repeat(8)}</div>`};
     let pags; try { pags = s.paginas(); } catch (e) { console.error(s.id, e); pags = [`<div class="vacio">Sin datos.</div>`]; }
     return {s, html: pags.join('')};
   });
@@ -777,6 +795,7 @@ const LATERALES = {
       <div class="nombre">${esc(d.nombre + ' ' + d.apellido)}</div>
       <div class="partido"><i style="background:${color}"></i>${esc(d.partido)}</div>
       <div class="nota n1">${d.cargo ? esc(d.cargo) + ' · ' : ''}Mandato ${esc((d.mandato || '').replace('-', ' a '))}</div></div></div>`;
+    if (!r && !DIPS.diputados) return [W('Diputado', 'tocá de nuevo para volver', cab, 'fija'), ESQ_WIDGET(4), ESQ_WIDGET(2), ESQ_WIDGET(4)];   // diputados.json todavía en camino
     if (!r) return [W('Diputado', '', cab + '<div class="nota">Todavía no hay datos de su labor.</div>')];
     const ses = r.presentes + r.ausencias, coaut = r.presentados - r.solo;
     const tipos = Object.entries(r.tipos).sort((x, y) => y[1] - x[1]).map(([t, n]) => `${n} de ${t === 'Ley' ? 'ley' : t.toLowerCase()}`).join(' · ');
@@ -794,7 +813,9 @@ const LATERALES = {
   },
 };
 function lateral() {
-  const id = cola[pos]?.s.id, out = ((!MOVIL.matches || id) && LATERALES[id] ? LATERALES[id]() : []).filter(Boolean);
+  const id = cola[pos]?.s.id;
+  const out = esperandoLive(id) ? [ESQ_WIDGET(2), ESQ_WIDGET(4), ESQ_WIDGET(3)]
+    : ((!MOVIL.matches || id) && LATERALES[id] ? LATERALES[id]() : []).filter(Boolean);
   document.body.classList.toggle('sin-lateral', !out.length);
   document.getElementById('lateral').innerHTML = out.join('');
   document.querySelectorAll('.mapa .banca').forEach(g => g.classList.toggle('sel', g.dataset.k === elegido));
@@ -880,16 +901,31 @@ function reloj() {
 
 async function cargar() {
   const v = '?v=' + Date.now();
+  const leer = u => fetch(u + v, {cache: 'no-store'}).then(r => { if (!r.ok) throw new Error(u + ' ' + r.status); return r.json(); });
+  const primeraVez = !BASE.proyectos;
+  // Los tres archivos se piden juntos. La primera vez se muestra cada parte apenas llega:
+  // base.json (chico) arma Proyectos, Comisiones y Mapa; live.json completa el resto y el pie.
+  const pBase = leer('data/base.json'), pLive = leer('data/live.json');
+  leer('data/diputados.json').then(d => { DIPS = d; if (cola[pos]?.s.id === 'mapa') lateral(); }).catch(() => {});
   try {
-    const [b, l] = await Promise.all(['data/base.json', 'data/live.json'].map(u =>
-      fetch(u + v, {cache: 'no-store'}).then(r => { if (!r.ok) throw new Error(u + ' ' + r.status); return r.json(); })));
+    if (primeraVez) {
+      BASE = await pBase;
+      armarCola(); lateral(); mostrar(1);
+      document.getElementById('main').removeAttribute('aria-busy');
+    }
+    const [b, l] = await Promise.all([pBase, pLive]);
     BASE = b; LIVE = l; sinConexion = false;
-    fetch('data/diputados.json' + v, {cache: 'no-store'}).then(r => r.ok ? r.json() : DIPS).then(d => { DIPS = d; if (cola[pos]?.s.id === 'mapa') lateral(); }).catch(() => {});
   } catch (e) { sinConexion = true; console.error('No se pudieron leer los datos', e); }
   if (!BASE.proyectos) {   // nunca llegó a cargar: aviso y nuevo intento en un minuto
-    const aviso = document.querySelector('#main .vacio');
-    if (aviso) aviso.textContent = 'Sin conexión. Se vuelve a intentar en un minuto…';
+    document.getElementById('main').innerHTML = '<div class="pagina visible"><div class="vacio">Sin conexión. Se vuelve a intentar en un minuto…</div></div>';
     setTimeout(cargar, 60e3);
+    return;
+  }
+  if (primeraVez) {   // llegó live.json: se rearma todo y la sección actual se vuelve a dibujar con los datos completos
+    if (!LIVE.actualizado) liveFallo = true;   // sin live.json: esas secciones dicen "Sin datos" en vez de quedar en esqueleto
+    const antes = cola[pos]?.html;
+    pie(); armarCola(); lateral();
+    if (cola[pos]?.html !== antes) mostrar(0);
     return;
   }
   pie();
