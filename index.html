@@ -98,7 +98,7 @@ a.item.noti::after{top:auto;bottom:.45em}
 .proy .n{font-weight:800;font-size:1.05em;color:var(--acento)}
 .proy .t{font-weight:600}
 .proy .e{grid-column:2;color:var(--suave);font-size:.85em}
-.proy .e .chip{font-size:.95em}
+.proy .e .chip{font-size:.95em;white-space:normal;max-width:100%;overflow-wrap:anywhere}   /* estados largos: bajan de renglón en vez de salirse */
 .proy.cambio{border-color:var(--alerta)}
 /* esqueleto mientras cargan los datos: bloques grises con un brillo que pasa */
 .esq{display:block;height:.95em;border-radius:.35em;background:linear-gradient(90deg,var(--panel2) 0,#25324f 45%,var(--panel2) 90%);
