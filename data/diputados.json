@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-17T12:35-03:00",
+ "actualizado": "2026-11-17T15:36-03:00",
  "desde": "2025-12-10",
  "sesiones": 20,
  "ultima_sesion": "2026-10-14",
- "expedientes": 906,
+ "expedientes": 978,
  "diputados": {
   "Améndola|Ana Gabriela": {
    "presentes": 18,
@@ -12,38 +12,38 @@
     "2026-06-03",
     "2026-07-08"
    ],
-   "presentados": 25,
+   "presentados": 31,
    "aprobados": 17,
-   "en_comision": 8,
-   "solo": 20,
+   "en_comision": 14,
+   "solo": 25,
    "tipos": {
-    "Declaración": 15,
+    "Declaración": 21,
     "Ley": 7,
     "Resolución": 3
    },
    "ultimos": [
     {
-     "expte": "20577",
+     "expte": "20649",
      "tipo": "Declaración",
-     "asunto": "De interés la Asamblea Extraordinaria del Consejo Federal del Catastro (CFC), en la ciudad de Corrientes.",
-     "aprobado": true
-    },
-    {
-     "expte": "20529",
-     "tipo": "Ley",
-     "asunto": "Crea la figura del agente sanitario en el ámbito del Ministerio de Salud Pública.",
+     "asunto": "De interés la 60ª edición de la Fiesta Nacional del Folklore Correntino, en el anfiteatro Genaro Berón de Astrada de la localidad de Santo Tomé.",
      "aprobado": false
     },
     {
-     "expte": "20506",
+     "expte": "20644",
      "tipo": "Declaración",
-     "asunto": "De interés el Torneo Internacional de Pádel FEBAP Ituzaingó.",
-     "aprobado": true
+     "asunto": "De interés la Primera Jornada Fundacional “Enfermería de Pie: Nace Nuestro Colegio”, organizada por el Colegio de Profesionales de Enfermería de la provincia, en la ciudad de Corrientes.",
+     "aprobado": false
     },
     {
-     "expte": "20486",
-     "tipo": "Ley",
-     "asunto": "Modificación de ley 2839.",
+     "expte": "20636",
+     "tipo": "Declaración",
+     "asunto": "De interés el centenario de la fundación de la Cooperativa Agrícola de Colonia Liebig.",
+     "aprobado": false
+    },
+    {
+     "expte": "20631",
+     "tipo": "Declaración",
+     "asunto": "De interés la 23ª edición de la Fiesta Nacional de la Naranja y la Diversidad Productiva, en la localidad de Bella Vista.",
      "aprobado": false
     }
    ]
@@ -54,38 +54,38 @@
    "ultimas_ausencias": [
     "2026-09-23"
    ],
-   "presentados": 71,
+   "presentados": 81,
    "aprobados": 24,
-   "en_comision": 47,
-   "solo": 5,
+   "en_comision": 57,
+   "solo": 6,
    "tipos": {
-    "Resolución": 35,
-    "Ley": 9,
-    "Declaración": 27
+    "Resolución": 40,
+    "Ley": 13,
+    "Declaración": 28
    },
    "ultimos": [
     {
-     "expte": "20572",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación un informe sobre las medidas adoptadas por los hechos acontecidos en la Escuela Nº 563 “Domingo Sarmiento” de la localidad de Carlos Pellegrini.",
-     "aprobado": false
-    },
-    {
-     "expte": "20571",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo que arbitre los medios necesarios para la instalación de un puesto de control del PRIAR (Policía Rural e Islas y Ambiente Rural) en la localidad de Carlos Pellegrini.",
-     "aprobado": false
-    },
-    {
-     "expte": "20570",
+     "expte": "20653",
      "tipo": "Ley",
-     "asunto": "Regulación de la Actividad Productiva de Engorde Intensivo de Animales a Corral.",
+     "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
      "aprobado": false
     },
     {
-     "expte": "20554",
+     "expte": "20652",
      "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo un informe sobre la situación de revista y condiciones laborales de los docentes en cargos directivos de establecimientos de educación rural de la Provincia.",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia de la Escuela Primaria 604 “Ejército Argentino” del paraje Yurucuá, departamento de San Martín.",
+     "aprobado": false
+    },
+    {
+     "expte": "20651",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20650",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
      "aprobado": false
     }
    ]
@@ -97,39 +97,39 @@
     "2026-06-03",
     "2026-09-23"
    ],
-   "presentados": 91,
+   "presentados": 100,
    "aprobados": 32,
-   "en_comision": 59,
+   "en_comision": 68,
    "solo": 0,
    "tipos": {
     "Declaración": 35,
-    "Resolución": 46,
-    "Ley": 10
+    "Resolución": 51,
+    "Ley": 14
    },
    "ultimos": [
     {
-     "expte": "20576",
-     "tipo": "Declaración",
-     "asunto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
-     "aprobado": true
-    },
-    {
-     "expte": "20575",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "expte": "20653",
+     "tipo": "Ley",
+     "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
      "aprobado": false
     },
     {
-     "expte": "20574",
-     "tipo": "Declaración",
-     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
-     "aprobado": true
+     "expte": "20652",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia de la Escuela Primaria 604 “Ejército Argentino” del paraje Yurucuá, departamento de San Martín.",
+     "aprobado": false
     },
     {
-     "expte": "20573",
-     "tipo": "Declaración",
-     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
-     "aprobado": true
+     "expte": "20651",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20650",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
+     "aprobado": false
     }
    ]
   },
@@ -137,16 +137,22 @@
    "presentes": 20,
    "ausencias": 0,
    "ultimas_ausencias": [],
-   "presentados": 7,
+   "presentados": 8,
    "aprobados": 5,
-   "en_comision": 2,
-   "solo": 4,
+   "en_comision": 3,
+   "solo": 5,
    "tipos": {
-    "Declaración": 3,
+    "Declaración": 4,
     "Ley": 2,
     "Resolución": 2
    },
    "ultimos": [
+    {
+     "expte": "20645",
+     "tipo": "Declaración",
+     "asunto": "De interés la Primera Jornada Fundacional del Colegio de Profesionales de Enfermería de la Provincia de Corrientes, bajo el lema: Enfermería de pie, nace nuestro Colegio, en la ciudad de Corrientes.",
+     "aprobado": false
+    },
     {
      "expte": "20419",
      "tipo": "Declaración",
@@ -164,12 +170,6 @@
      "tipo": "Declaración",
      "asunto": "De interés el 4º Congreso Ecoturístico de la Región Litoral, organizado por el Gobierno de la Provincia de Corrientes, a través del Ministerio de Turismo y el Comité Iberá, bajo el lema “ReGenera Turismo: viajes con prop",
      "aprobado": true
-    },
-    {
-     "expte": "20271",
-     "tipo": "Ley",
-     "asunto": "Modifica el artículo 1º de la ley 6753 -Día Provincial del Granadero Correntino-, sustituyendo la palabra “Batalla” por el término “Combate”.",
-     "aprobado": true
     }
    ]
   },
@@ -181,39 +181,39 @@
     "2026-07-08",
     "2026-09-23"
    ],
-   "presentados": 87,
+   "presentados": 90,
    "aprobados": 80,
-   "en_comision": 7,
-   "solo": 8,
+   "en_comision": 10,
+   "solo": 11,
    "tipos": {
     "Ley": 7,
-    "Declaración": 79,
+    "Declaración": 82,
     "Resolución": 1
    },
    "ultimos": [
+    {
+     "expte": "20625",
+     "tipo": "Declaración",
+     "asunto": "De interés el evento “Encuentro Cannabis – 1ª Edición del Litoral”, en el predio Espacio Andes de la ciudad de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20599",
+     "tipo": "Declaración",
+     "asunto": "De interés el Festival de la Torta Frita y la Tradición, en Bonpland.",
+     "aprobado": false
+    },
+    {
+     "expte": "20595",
+     "tipo": "Declaración",
+     "asunto": "De interés la conferencia ECOA 2026 “ Coaching un mundo de posibilidades”, en el auditorio Julián Zini de Corrientes.",
+     "aprobado": false
+    },
     {
      "expte": "20562",
      "tipo": "Ley",
      "asunto": "Crea el Museo “General Manuel Belgrano” en la ciudad de Curuzú Cuatiá.",
      "aprobado": false
-    },
-    {
-     "expte": "20489",
-     "tipo": "Declaración",
-     "asunto": "De interés el XIV Salón Bienal 2026 – 3º de Arte Contemporáneo, organizado por la Asociación Cultural y Artística Curuzucuatiense – Biblioteca Popular “Rivadavia” (ACYAC-BPR), en la ciudad de Curuzú Cuatiá.",
-     "aprobado": true
-    },
-    {
-     "expte": "20466",
-     "tipo": "Declaración",
-     "asunto": "De interés la XXIII Fiesta Provincial del Ladrillo, en San Lorenzo.",
-     "aprobado": true
-    },
-    {
-     "expte": "20465",
-     "tipo": "Declaración",
-     "asunto": "De interés la XIX Fiesta Provincial del Peón Rural, en Concepción del Yaguareté Corá.",
-     "aprobado": true
     }
    ]
   },
@@ -225,37 +225,37 @@
     "2026-09-23",
     "2026-10-14"
    ],
-   "presentados": 8,
+   "presentados": 11,
    "aprobados": 8,
-   "en_comision": 0,
-   "solo": 5,
+   "en_comision": 3,
+   "solo": 8,
    "tipos": {
-    "Declaración": 7,
+    "Declaración": 10,
     "Resolución": 1
    },
    "ultimos": [
     {
+     "expte": "20626",
+     "tipo": "Declaración",
+     "asunto": "De interés la conmemoración del Día de la Tradición, en homenaje al nacimiento del escritor José Hernández.",
+     "aprobado": false
+    },
+    {
+     "expte": "20610",
+     "tipo": "Declaración",
+     "asunto": "De interés la trayectoria científica, académica y profesional del Dr. Carlos A. Busatto, de la ciudad de Esquina.",
+     "aprobado": false
+    },
+    {
+     "expte": "20588",
+     "tipo": "Declaración",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
+     "aprobado": false
+    },
+    {
      "expte": "20463",
      "tipo": "Declaración",
      "asunto": "De interés la imposición del nombre “Juan Daniel Cafferata Soto” a la Escuela Nº 625 del paraje Tranquera Cadena, departamento de Esquina.",
-     "aprobado": true
-    },
-    {
-     "expte": "20462",
-     "tipo": "Declaración",
-     "asunto": "De interés la trayectoria histórica, educativa y comunitaria de la Escuela Nº 587 “Elvira Ceferina Sánchez de Maciel”, del paraje Itá Corá, departamento de Mercedes.",
-     "aprobado": true
-    },
-    {
-     "expte": "20421",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo Nacional, garantice la efectiva transferencia y distribución de los fondos correspondientes al Sistema Nacional de Bomberos Voluntarios, establecido por ley nacional 25054 .",
-     "aprobado": true
-    },
-    {
-     "expte": "20389",
-     "tipo": "Declaración",
-     "asunto": "De interés el libro sobre la vida y obra de “Raúl Benito Castillo – Gobernador 1952 – 1955”, autoría de Aníbal Expedito Méndez.",
      "aprobado": true
     }
    ]
@@ -267,16 +267,22 @@
     "2026-04-29",
     "2026-05-06"
    ],
-   "presentados": 19,
+   "presentados": 20,
    "aprobados": 12,
-   "en_comision": 7,
-   "solo": 15,
+   "en_comision": 8,
+   "solo": 16,
    "tipos": {
     "Resolución": 6,
     "Ley": 7,
-    "Declaración": 6
+    "Declaración": 7
    },
    "ultimos": [
+    {
+     "expte": "20598",
+     "tipo": "Declaración",
+     "asunto": "De interés el 2º Congreso de Psiquiatría de la Provincia de Corrientes, organizado por la Asociación Psiquiatras de Corrientes (APSICO), en el hotel Marriott de Corrientes.",
+     "aprobado": false
+    },
     {
      "expte": "20485",
      "tipo": "Resolución",
@@ -294,12 +300,6 @@
      "tipo": "Declaración",
      "asunto": "De interés la conmemoración del 174º aniversario de la elevación de Goya al rango de ciudad, acontecida el 7 de octubre de 1852.",
      "aprobado": true
-    },
-    {
-     "expte": "20332",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo Nacional que, por intermedio del Ministerio de Defensa y/o del Ejército Argentino, arbitre las medidas necesarias para la reactivación de un servicio regular de cruce fluvial mediante balsa en",
-     "aprobado": true
     }
    ]
   },
@@ -309,16 +309,28 @@
    "ultimas_ausencias": [
     "2026-07-08"
    ],
-   "presentados": 11,
+   "presentados": 13,
    "aprobados": 7,
-   "en_comision": 4,
-   "solo": 10,
+   "en_comision": 6,
+   "solo": 11,
    "tipos": {
-    "Declaración": 6,
+    "Declaración": 8,
     "Ley": 4,
     "Resolución": 1
    },
    "ultimos": [
+    {
+     "expte": "20639",
+     "tipo": "Declaración",
+     "asunto": "De interés la presentación del libro “ El sistema profesional inmobiliario. Fundamentos, estándares, instituciones y práctica profesional”, impulsado por la Cámara Inmobiliaria de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20583",
+     "tipo": "Declaración",
+     "asunto": "De interés el “Conversatorio Jurídico e Interinstitucional”, en el auditorio del campus Deodoro Roca, de la Facultad de Derecho, Ciencias Sociales y Políticas de la UNNE.",
+     "aprobado": false
+    },
     {
      "expte": "20442",
      "tipo": "Ley",
@@ -330,18 +342,6 @@
      "tipo": "Declaración",
      "asunto": "De interés los actos y eventos de concientización del Día Mundial de la Parálisis Cerebral.",
      "aprobado": true
-    },
-    {
-     "expte": "20306",
-     "tipo": "Declaración",
-     "asunto": "De interés el documental “Regreso a Caá Catí. El viaje de las Hermanas Vera”.",
-     "aprobado": true
-    },
-    {
-     "expte": "20251",
-     "tipo": "Ley",
-     "asunto": "Crea el Régimen de Patrocinio Deportivo y Mecenazgo o Tutoría del Deporte.",
-     "aprobado": false
     }
    ]
   },
@@ -353,39 +353,39 @@
     "2026-08-19",
     "2026-08-26"
    ],
-   "presentados": 39,
+   "presentados": 44,
    "aprobados": 33,
-   "en_comision": 6,
-   "solo": 36,
+   "en_comision": 11,
+   "solo": 41,
    "tipos": {
-    "Declaración": 26,
-    "Ley": 9,
+    "Declaración": 28,
+    "Ley": 12,
     "Resolución": 4
    },
    "ultimos": [
     {
-     "expte": "20549",
+     "expte": "20648",
      "tipo": "Declaración",
-     "asunto": "De interés la trayectoria institucional de trabajo en salud mental y educación emocional desarrollada por la Escuela Normal “Ramón J. Cárcano” de la ciudad de Monte Caseros.",
-     "aprobado": true
-    },
-    {
-     "expte": "20512",
-     "tipo": "Declaración",
-     "asunto": "De interés el homenaje y reconocimiento al Ing. Antonio Ramón Ferreyra.",
-     "aprobado": true
-    },
-    {
-     "expte": "20511",
-     "tipo": "Ley",
-     "asunto": "Adhesión a la ley nacional 27333 – “15 de septiembre Día Nacional de la Concientización del Linfoma”-.",
+     "asunto": "De interés al Ballet Sentido Folklore, en reconocimiento a su trayectoria y compromiso con la difusión de las danzas folklóricas argentinas.",
      "aprobado": false
     },
     {
-     "expte": "20501",
-     "tipo": "Declaración",
-     "asunto": "De interés el Encuentro de Muralismo y Expo Feria Regional 2026: Rumbo a los 140 años de la Escuela Normal José Manuel Estrada.",
-     "aprobado": true
+     "expte": "20624",
+     "tipo": "Ley",
+     "asunto": "Ley Compasión.",
+     "aprobado": false
+    },
+    {
+     "expte": "20623",
+     "tipo": "Ley",
+     "asunto": "Adhesión a la ley nacional 26879 del Registro Nacional de Datos Genéticos Vinculados con la Investigación Criminal.",
+     "aprobado": false
+    },
+    {
+     "expte": "20622",
+     "tipo": "Ley",
+     "asunto": "Ley de Pasafauna.",
+     "aprobado": false
     }
    ]
   },
@@ -397,38 +397,38 @@
     "2026-09-23",
     "2026-10-14"
    ],
-   "presentados": 180,
+   "presentados": 198,
    "aprobados": 94,
-   "en_comision": 86,
+   "en_comision": 104,
    "solo": 0,
    "tipos": {
-    "Declaración": 96,
-    "Resolución": 49,
-    "Ley": 35
+    "Declaración": 109,
+    "Resolución": 51,
+    "Ley": 38
    },
    "ultimos": [
     {
-     "expte": "20564",
+     "expte": "20643",
      "tipo": "Declaración",
-     "asunto": "De interés las actividades en conmemoración del Día de la Educación Física.",
-     "aprobado": true
-    },
-    {
-     "expte": "20563",
-     "tipo": "Declaración",
-     "asunto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
-     "aprobado": true
-    },
-    {
-     "expte": "20559",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
+     "asunto": "De interés las actividades que se realicen en conmemoración del Día Nacional de la Enfermería.",
      "aprobado": false
     },
     {
-     "expte": "20552",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
+     "expte": "20642",
+     "tipo": "Declaración",
+     "asunto": "De interés el 294º aniversario de la fundación de Saladas.",
+     "aprobado": false
+    },
+    {
+     "expte": "20641",
+     "tipo": "Declaración",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
+     "aprobado": false
+    },
+    {
+     "expte": "20640",
+     "tipo": "Declaración",
+     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
      "aprobado": false
     }
    ]
@@ -483,38 +483,38 @@
    "ultimas_ausencias": [
     "2026-09-23"
    ],
-   "presentados": 184,
+   "presentados": 202,
    "aprobados": 96,
-   "en_comision": 88,
+   "en_comision": 106,
    "solo": 0,
    "tipos": {
-    "Declaración": 99,
-    "Resolución": 51,
-    "Ley": 34
+    "Declaración": 112,
+    "Resolución": 53,
+    "Ley": 37
    },
    "ultimos": [
     {
-     "expte": "20564",
+     "expte": "20643",
      "tipo": "Declaración",
-     "asunto": "De interés las actividades en conmemoración del Día de la Educación Física.",
-     "aprobado": true
-    },
-    {
-     "expte": "20563",
-     "tipo": "Declaración",
-     "asunto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
-     "aprobado": true
-    },
-    {
-     "expte": "20559",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
+     "asunto": "De interés las actividades que se realicen en conmemoración del Día Nacional de la Enfermería.",
      "aprobado": false
     },
     {
-     "expte": "20552",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
+     "expte": "20642",
+     "tipo": "Declaración",
+     "asunto": "De interés el 294º aniversario de la fundación de Saladas.",
+     "aprobado": false
+    },
+    {
+     "expte": "20641",
+     "tipo": "Declaración",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
+     "aprobado": false
+    },
+    {
+     "expte": "20640",
+     "tipo": "Declaración",
+     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
      "aprobado": false
     }
    ]
@@ -526,16 +526,28 @@
     "2026-03-11",
     "2026-09-23"
    ],
-   "presentados": 66,
+   "presentados": 68,
    "aprobados": 21,
-   "en_comision": 45,
-   "solo": 56,
+   "en_comision": 47,
+   "solo": 58,
    "tipos": {
-    "Resolución": 26,
-    "Declaración": 23,
+    "Resolución": 27,
+    "Declaración": 24,
     "Ley": 17
    },
    "ultimos": [
+    {
+     "expte": "20646",
+     "tipo": "Declaración",
+     "asunto": "De interés la obra literaria titulada “Che Roga Yekove”, autoría de la profesora y escritora correntina Ingrid Teresa Miranda.",
+     "aprobado": false
+    },
+    {
+     "expte": "20620",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo la actualización e incremento de las tarjetas Sapucay y Mamá Mbareté/Programa Primeros Latidos.",
+     "aprobado": false
+    },
     {
      "expte": "20558",
      "tipo": "Resolución",
@@ -547,18 +559,6 @@
      "tipo": "Resolución",
      "asunto": "Solicita al Poder Ejecutivo que informe sobre la situación laboral y administrativa de la docente Nanci Estela Godoy, el funcionamiento de la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina y las a",
      "aprobado": false
-    },
-    {
-     "expte": "20545",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo que informe sobre los establecimientos educativos rurales de gestión estatal de la Provincia.",
-     "aprobado": false
-    },
-    {
-     "expte": "20544",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Seguridad Nacional la cooperación federal en la búsqueda de la docente Nanci Estela Godoy.",
-     "aprobado": false
     }
    ]
   },
@@ -569,39 +569,39 @@
     "2026-04-29",
     "2026-05-06"
    ],
-   "presentados": 27,
+   "presentados": 31,
    "aprobados": 24,
-   "en_comision": 3,
-   "solo": 21,
+   "en_comision": 7,
+   "solo": 24,
    "tipos": {
     "Ley": 4,
-    "Declaración": 21,
+    "Declaración": 25,
     "Resolución": 2
    },
    "ultimos": [
     {
-     "expte": "20529",
-     "tipo": "Ley",
-     "asunto": "Crea la figura del agente sanitario en el ámbito del Ministerio de Salud Pública.",
+     "expte": "20638",
+     "tipo": "Declaración",
+     "asunto": "De interés el centenario de la fundación de la Cooperativa Agrícola de Colonia Liebig Ltda.",
      "aprobado": false
     },
     {
-     "expte": "20509",
+     "expte": "20634",
      "tipo": "Declaración",
-     "asunto": "De interés la X Jornada de Capacitación sobre Medidas de Prevención y Control de Infecciones Asociadas al Cuidado de la Salud (IACS) y Seguridad del Paciente, en la Casa de la Cultura “Pedro Mendoza” de la ciudad de Bell",
-     "aprobado": true
+     "asunto": "De interés la XXIII Fiesta Nacional de la Naranja y la Diversidad Productiva, en la ciudad de Bella Vista.",
+     "aprobado": false
     },
     {
-     "expte": "20490",
+     "expte": "20602",
      "tipo": "Declaración",
-     "asunto": "De interés el “NEA TECH 2026”, encuentro regional de tecnología, innovación y desarrollo en el Museo de Arte Contemporáneo de Corrientes (MACC).",
-     "aprobado": true
+     "asunto": "De interés la distinción otorgada al periodista correntino Jaime Aníbal Meza, con el primer premio de la Asociación de Entidades Periodísticas Argentinas (ADEPA) 2026, en la categoría “Periodismo de Investigación”.",
+     "aprobado": false
     },
     {
-     "expte": "20488",
+     "expte": "20594",
      "tipo": "Declaración",
-     "asunto": "De interés la “XXIII Fiesta Provincial de la Miel y el Desarrollo Emprendedor”, en la ciudad de Saladas.",
-     "aprobado": true
+     "asunto": "De interés la 4ª Fiesta Provincial del Lechón Artesanal -9ª edición histórica-, en la localidad de Pago de los Deseos, departamento de Saladas.",
+     "aprobado": false
     }
    ]
   },
@@ -612,38 +612,38 @@
     "2026-04-29",
     "2026-09-23"
    ],
-   "presentados": 187,
+   "presentados": 205,
    "aprobados": 97,
-   "en_comision": 90,
+   "en_comision": 108,
    "solo": 0,
    "tipos": {
-    "Declaración": 99,
-    "Resolución": 53,
-    "Ley": 35
+    "Declaración": 112,
+    "Resolución": 55,
+    "Ley": 38
    },
    "ultimos": [
     {
-     "expte": "20564",
+     "expte": "20643",
      "tipo": "Declaración",
-     "asunto": "De interés las actividades en conmemoración del Día de la Educación Física.",
-     "aprobado": true
-    },
-    {
-     "expte": "20563",
-     "tipo": "Declaración",
-     "asunto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
-     "aprobado": true
-    },
-    {
-     "expte": "20559",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
+     "asunto": "De interés las actividades que se realicen en conmemoración del Día Nacional de la Enfermería.",
      "aprobado": false
     },
     {
-     "expte": "20552",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
+     "expte": "20642",
+     "tipo": "Declaración",
+     "asunto": "De interés el 294º aniversario de la fundación de Saladas.",
+     "aprobado": false
+    },
+    {
+     "expte": "20641",
+     "tipo": "Declaración",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
+     "aprobado": false
+    },
+    {
+     "expte": "20640",
+     "tipo": "Declaración",
+     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
      "aprobado": false
     }
    ]
@@ -654,16 +654,22 @@
    "ultimas_ausencias": [
     "2026-08-05"
    ],
-   "presentados": 37,
+   "presentados": 38,
    "aprobados": 26,
-   "en_comision": 11,
+   "en_comision": 12,
    "solo": 2,
    "tipos": {
-    "Declaración": 23,
+    "Declaración": 24,
     "Ley": 12,
     "Resolución": 2
    },
    "ultimos": [
+    {
+     "expte": "20582",
+     "tipo": "Declaración",
+     "asunto": "De interés el libro “El General José de San Martín: sabiduría práctica y ejemplo de imitación”, autoría de Lorena Paola Penayo.",
+     "aprobado": false
+    },
     {
      "expte": "20540",
      "tipo": "Declaración",
@@ -680,12 +686,6 @@
      "expte": "20494",
      "tipo": "Declaración",
      "asunto": "De interés las actividades en conmemoración del Día del Obrero Marítimo, en el anfiteatro Marcos Herminio Ramírez de la localidad de Empedrado.",
-     "aprobado": true
-    },
-    {
-     "expte": "20493",
-     "tipo": "Declaración",
-     "asunto": "De interés el 1º Congreso Nacional de Psicología Social y Neurociencias Aplicadas denominado “La construcción del tejido social: educación vs. aprendizaje”.",
      "aprobado": true
     }
    ]
@@ -738,16 +738,28 @@
    "presentes": 20,
    "ausencias": 0,
    "ultimas_ausencias": [],
-   "presentados": 23,
+   "presentados": 25,
    "aprobados": 5,
-   "en_comision": 18,
-   "solo": 22,
+   "en_comision": 20,
+   "solo": 24,
    "tipos": {
     "Resolución": 8,
-    "Declaración": 4,
-    "Ley": 11
+    "Declaración": 5,
+    "Ley": 12
    },
    "ultimos": [
+    {
+     "expte": "20635",
+     "tipo": "Declaración",
+     "asunto": "De interés la 2ª Jornada de Enfermedades Poco Frecuentes (2º Encuentro Interdisciplinario sobre Enfermedades Poco Frecuentes), en el Salón OSDE de la ciudad de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20619",
+     "tipo": "Ley",
+     "asunto": "Ley de Silencio Positivo en las Autorizaciones Administrativas Regladas.",
+     "aprobado": false
+    },
     {
      "expte": "20561",
      "tipo": "Resolución",
@@ -759,18 +771,6 @@
      "tipo": "Resolución",
      "asunto": "Solicita al Poder Ejecutivo que informe sobre las condiciones de los establecimientos educativos rurales clasificados como zonas inhóspitas o muy inhóspitas, con especial referencia a la Escuela Rural Nº 626 del paraje E",
      "aprobado": false
-    },
-    {
-     "expte": "20497",
-     "tipo": "Declaración",
-     "asunto": "De profundo pesar y conmemoración a la memoria de las víctimas de la masacre de Rincón Bomba ocurrida entre el 10 y el 30 de octubre de 1947 en el entonces territorio nacional de Formosa.",
-     "aprobado": true
-    },
-    {
-     "expte": "20475",
-     "tipo": "Ley",
-     "asunto": "De protección de la propiedad privada ante trámites de regularización dominial.",
-     "aprobado": false
     }
    ]
   },
@@ -780,39 +780,39 @@
    "ultimas_ausencias": [
     "2026-09-23"
    ],
-   "presentados": 94,
+   "presentados": 103,
    "aprobados": 32,
-   "en_comision": 62,
+   "en_comision": 71,
    "solo": 3,
    "tipos": {
     "Declaración": 35,
-    "Resolución": 49,
-    "Ley": 10
+    "Resolución": 54,
+    "Ley": 14
    },
    "ultimos": [
     {
-     "expte": "20576",
-     "tipo": "Declaración",
-     "asunto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
-     "aprobado": true
-    },
-    {
-     "expte": "20575",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "expte": "20653",
+     "tipo": "Ley",
+     "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
      "aprobado": false
     },
     {
-     "expte": "20574",
-     "tipo": "Declaración",
-     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
-     "aprobado": true
+     "expte": "20652",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia de la Escuela Primaria 604 “Ejército Argentino” del paraje Yurucuá, departamento de San Martín.",
+     "aprobado": false
     },
     {
-     "expte": "20573",
-     "tipo": "Declaración",
-     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
-     "aprobado": true
+     "expte": "20651",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20650",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
+     "aprobado": false
     }
    ]
   },
@@ -824,16 +824,22 @@
     "2026-06-03",
     "2026-06-17"
    ],
-   "presentados": 9,
+   "presentados": 10,
    "aprobados": 8,
-   "en_comision": 1,
-   "solo": 8,
+   "en_comision": 2,
+   "solo": 9,
    "tipos": {
-    "Declaración": 7,
+    "Declaración": 8,
     "Resolución": 1,
     "Ley": 1
    },
    "ultimos": [
+    {
+     "expte": "20630",
+     "tipo": "Declaración",
+     "asunto": "De interés el XVII Encuentro de Productores y Armadores de Cigarros y Puros 2026, en el multiespacio Ferial Costa Surubí de la ciudad de Goya.",
+     "aprobado": false
+    },
     {
      "expte": "20533",
      "tipo": "Declaración",
@@ -851,12 +857,6 @@
      "tipo": "Declaración",
      "asunto": "De beneplácito e interés la jornada de capacitación docente “Algunos irrenunciables educativos para el nivel inicial: Reflexiones y acciones que constituyen oportunidades” a cargo de la Lic. Laura E. Pitluk, organizada p",
      "aprobado": true
-    },
-    {
-     "expte": "20427",
-     "tipo": "Declaración",
-     "asunto": "De interés la I Jornada Binacional de Terapia Ocupacional Argentina – Paraguay; la II Jornada de Terapia Ocupacional del Nordeste Argentino (NEA) y la IV Jornada Provincial de Terapia Ocupacional de Misiones, en las ciud",
-     "aprobado": true
     }
    ]
   },
@@ -867,38 +867,38 @@
     "2026-05-13",
     "2026-09-16"
    ],
-   "presentados": 30,
+   "presentados": 33,
    "aprobados": 29,
-   "en_comision": 1,
-   "solo": 29,
+   "en_comision": 4,
+   "solo": 32,
    "tipos": {
-    "Declaración": 28,
+    "Declaración": 30,
     "Resolución": 1,
-    "Ley": 1
+    "Ley": 2
    },
    "ultimos": [
+    {
+     "expte": "20587",
+     "tipo": "Ley",
+     "asunto": "Modifica los artículos 1º y 2º de la ley 6028 -Distribución de Regalías Hidroeléctricas de Yacyretá-.",
+     "aprobado": false
+    },
+    {
+     "expte": "20580",
+     "tipo": "Declaración",
+     "asunto": "De interés la labor de la Asociación de Bomberos Voluntarios de Itá Ibaté.",
+     "aprobado": false
+    },
+    {
+     "expte": "20579",
+     "tipo": "Declaración",
+     "asunto": "De interés la labor deportiva y social de la Academia de Artes Marciales Khwām Pheīyr, de la localidad de Itá Ibaté.",
+     "aprobado": false
+    },
     {
      "expte": "20578",
      "tipo": "Declaración",
      "asunto": "De interés el XXVIII aniversario de la creación y colocación de la escultura “Cristo de la hermandad” en la localidad de Itá Ibaté.",
-     "aprobado": true
-    },
-    {
-     "expte": "20439",
-     "tipo": "Declaración",
-     "asunto": "De interés la fiesta patronal en honor a San Miguel Arcángel, bajo el lema “Comunión, participación y misión”, en la localidad de San Miguel.",
-     "aprobado": true
-    },
-    {
-     "expte": "20345",
-     "tipo": "Declaración",
-     "asunto": "De interés la 47ª Peregrinación Juvenil del NEA a Itatí, bajo el lema “Caminamos con María, para sanar, soñar y servir”.",
-     "aprobado": true
-    },
-    {
-     "expte": "20255",
-     "tipo": "Declaración",
-     "asunto": "De interés las actividades que se realicen en conmemoración del paso a la inmortalidad del General José de San Martín.",
      "aprobado": true
     }
    ]
@@ -909,38 +909,38 @@
    "ultimas_ausencias": [
     "2026-09-23"
    ],
-   "presentados": 59,
+   "presentados": 68,
    "aprobados": 17,
-   "en_comision": 42,
+   "en_comision": 51,
    "solo": 2,
    "tipos": {
     "Declaración": 21,
-    "Resolución": 30,
-    "Ley": 8
+    "Resolución": 35,
+    "Ley": 12
    },
    "ultimos": [
     {
-     "expte": "20575",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "expte": "20653",
+     "tipo": "Ley",
+     "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
      "aprobado": false
     },
     {
-     "expte": "20574",
-     "tipo": "Declaración",
-     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
-     "aprobado": true
-    },
-    {
-     "expte": "20573",
-     "tipo": "Declaración",
-     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
-     "aprobado": true
-    },
-    {
-     "expte": "20572",
+     "expte": "20652",
      "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación un informe sobre las medidas adoptadas por los hechos acontecidos en la Escuela Nº 563 “Domingo Sarmiento” de la localidad de Carlos Pellegrini.",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia de la Escuela Primaria 604 “Ejército Argentino” del paraje Yurucuá, departamento de San Martín.",
+     "aprobado": false
+    },
+    {
+     "expte": "20651",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20650",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
      "aprobado": false
     }
    ]
@@ -952,16 +952,22 @@
     "2026-04-08",
     "2026-07-08"
    ],
-   "presentados": 14,
+   "presentados": 15,
    "aprobados": 9,
-   "en_comision": 5,
-   "solo": 12,
+   "en_comision": 6,
+   "solo": 13,
    "tipos": {
-    "Declaración": 6,
+    "Declaración": 7,
     "Ley": 6,
     "Resolución": 2
    },
    "ultimos": [
+    {
+     "expte": "20603",
+     "tipo": "Declaración",
+     "asunto": "De interés el Encuentro Internacional “Alfabetización: memorias, debates y futuros”.",
+     "aprobado": false
+    },
     {
      "expte": "20510",
      "tipo": "Declaración",
@@ -978,12 +984,6 @@
      "expte": "20301",
      "tipo": "Declaración",
      "asunto": "De interés las XLVII Jornadas Universitarias de Contabilidad.",
-     "aprobado": true
-    },
-    {
-     "expte": "20200",
-     "tipo": "Ley",
-     "asunto": "Crea la Campaña Provincial Permanente de Concientización, Prevención y Control de la Sífilis.",
      "aprobado": true
     }
    ]
@@ -1036,16 +1036,28 @@
    "ultimas_ausencias": [
     "2026-09-16"
    ],
-   "presentados": 37,
+   "presentados": 39,
    "aprobados": 26,
-   "en_comision": 11,
+   "en_comision": 13,
    "solo": 1,
    "tipos": {
-    "Declaración": 23,
+    "Declaración": 25,
     "Ley": 12,
     "Resolución": 2
    },
    "ultimos": [
+    {
+     "expte": "20602",
+     "tipo": "Declaración",
+     "asunto": "De interés la distinción otorgada al periodista correntino Jaime Aníbal Meza, con el primer premio de la Asociación de Entidades Periodísticas Argentinas (ADEPA) 2026, en la categoría “Periodismo de Investigación”.",
+     "aprobado": false
+    },
+    {
+     "expte": "20582",
+     "tipo": "Declaración",
+     "asunto": "De interés el libro “El General José de San Martín: sabiduría práctica y ejemplo de imitación”, autoría de Lorena Paola Penayo.",
+     "aprobado": false
+    },
     {
      "expte": "20540",
      "tipo": "Declaración",
@@ -1057,18 +1069,6 @@
      "tipo": "Declaración",
      "asunto": "De interés el evento “Octubre Rosa 2026: una noche para cuidarnos”, organizado por el Rotaract Club Corrientes Costanera.",
      "aprobado": true
-    },
-    {
-     "expte": "20494",
-     "tipo": "Declaración",
-     "asunto": "De interés las actividades en conmemoración del Día del Obrero Marítimo, en el anfiteatro Marcos Herminio Ramírez de la localidad de Empedrado.",
-     "aprobado": true
-    },
-    {
-     "expte": "20493",
-     "tipo": "Declaración",
-     "asunto": "De interés el 1º Congreso Nacional de Psicología Social y Neurociencias Aplicadas denominado “La construcción del tejido social: educación vs. aprendizaje”.",
-     "aprobado": true
     }
    ]
   },
@@ -1079,39 +1079,39 @@
     "2026-04-29",
     "2026-06-03"
    ],
-   "presentados": 82,
+   "presentados": 90,
    "aprobados": 70,
-   "en_comision": 12,
+   "en_comision": 20,
    "solo": 6,
    "tipos": {
-    "Declaración": 69,
-    "Ley": 11,
+    "Declaración": 76,
+    "Ley": 12,
     "Resolución": 2
    },
    "ultimos": [
     {
-     "expte": "20557",
+     "expte": "20647",
      "tipo": "Declaración",
-     "asunto": "De interés el 13º desafío Paso Timboy “Huellas”, en la ciudad de Monte Caseros.",
-     "aprobado": true
+     "asunto": "De interés las actividades del Hospital Materno Neonatal “Eloísa T. de Vidal”, en el marco de la concientización de la Semana del Prematuro.",
+     "aprobado": false
     },
     {
-     "expte": "20556",
+     "expte": "20629",
      "tipo": "Declaración",
-     "asunto": "De interés el agasajo a realizarse el 6 de noviembre en el marco del 41º aniversario del Hospital Geriátrico “Juana F. Cabral”.",
-     "aprobado": true
+     "asunto": "De interés la Semana del Prematuro, en la maternidad María de la Dulce Espera del hospital “Ángela Iglesia de Llano”.",
+     "aprobado": false
     },
     {
-     "expte": "20555",
+     "expte": "20621",
      "tipo": "Declaración",
-     "asunto": "De interés las Terceras Jornadas de la Red de Leche Humana y Lactancia de la Provincia de Corrientes, bajo el lema: Ciencia, solidaridad y trabajo en red para fortalecer la lactancia humana y la donación de leche humana.",
-     "aprobado": true
+     "asunto": "De interés la Primera Jornada Regional de Neonatología, en la Facultad de Derecho de la UNNE.",
+     "aprobado": false
     },
     {
-     "expte": "20538",
+     "expte": "20613",
      "tipo": "Declaración",
-     "asunto": "De interés la charla “Inteligencia Artificial y Tecnologías aplicadas a la Ganadería”, en la ciudad de Corrientes.",
-     "aprobado": true
+     "asunto": "De interés la 95ª Fiesta de Santa Catalina, en RN Nº 14 km 776 – paraje Santa Catalina.",
+     "aprobado": false
     }
    ]
   },
@@ -1119,15 +1119,21 @@
    "presentes": 20,
    "ausencias": 0,
    "ultimas_ausencias": [],
-   "presentados": 6,
+   "presentados": 7,
    "aprobados": 5,
-   "en_comision": 1,
+   "en_comision": 2,
    "solo": 4,
    "tipos": {
-    "Declaración": 5,
+    "Declaración": 6,
     "Ley": 1
    },
    "ultimos": [
+    {
+     "expte": "20602",
+     "tipo": "Declaración",
+     "asunto": "De interés la distinción otorgada al periodista correntino Jaime Aníbal Meza, con el primer premio de la Asociación de Entidades Periodísticas Argentinas (ADEPA) 2026, en la categoría “Periodismo de Investigación”.",
+     "aprobado": false
+    },
     {
      "expte": "20524",
      "tipo": "Declaración",
@@ -1144,12 +1150,6 @@
      "expte": "20132",
      "tipo": "Declaración",
      "asunto": "De interés la Segunda Edición del Encuentro de Mujeres Emprendedoras de Corrientes (EMEC).",
-     "aprobado": true
-    },
-    {
-     "expte": "20125",
-     "tipo": "Declaración",
-     "asunto": "De interés la 2ª Jornada Institucional del Colegio Argentino de Cardioangiología Intervencionista (CACI) Corrientes 2026 (Distrito Noreste), a celebrarse en el Salón Auditorio del Instituto de Cardiología de Corrientes “",
      "aprobado": true
     }
    ]
@@ -1193,39 +1193,39 @@
     "2026-08-26",
     "2026-09-16"
    ],
-   "presentados": 73,
+   "presentados": 81,
    "aprobados": 69,
-   "en_comision": 4,
+   "en_comision": 12,
    "solo": 1,
    "tipos": {
-    "Declaración": 67,
+    "Declaración": 74,
     "Resolución": 2,
-    "Ley": 4
+    "Ley": 5
    },
    "ultimos": [
     {
-     "expte": "20557",
+     "expte": "20647",
      "tipo": "Declaración",
-     "asunto": "De interés el 13º desafío Paso Timboy “Huellas”, en la ciudad de Monte Caseros.",
-     "aprobado": true
+     "asunto": "De interés las actividades del Hospital Materno Neonatal “Eloísa T. de Vidal”, en el marco de la concientización de la Semana del Prematuro.",
+     "aprobado": false
     },
     {
-     "expte": "20556",
+     "expte": "20629",
      "tipo": "Declaración",
-     "asunto": "De interés el agasajo a realizarse el 6 de noviembre en el marco del 41º aniversario del Hospital Geriátrico “Juana F. Cabral”.",
-     "aprobado": true
+     "asunto": "De interés la Semana del Prematuro, en la maternidad María de la Dulce Espera del hospital “Ángela Iglesia de Llano”.",
+     "aprobado": false
     },
     {
-     "expte": "20555",
+     "expte": "20621",
      "tipo": "Declaración",
-     "asunto": "De interés las Terceras Jornadas de la Red de Leche Humana y Lactancia de la Provincia de Corrientes, bajo el lema: Ciencia, solidaridad y trabajo en red para fortalecer la lactancia humana y la donación de leche humana.",
-     "aprobado": true
+     "asunto": "De interés la Primera Jornada Regional de Neonatología, en la Facultad de Derecho de la UNNE.",
+     "aprobado": false
     },
     {
-     "expte": "20538",
+     "expte": "20613",
      "tipo": "Declaración",
-     "asunto": "De interés la charla “Inteligencia Artificial y Tecnologías aplicadas a la Ganadería”, en la ciudad de Corrientes.",
-     "aprobado": true
+     "asunto": "De interés la 95ª Fiesta de Santa Catalina, en RN Nº 14 km 776 – paraje Santa Catalina.",
+     "aprobado": false
     }
    ]
   },
@@ -1237,39 +1237,39 @@
     "2026-09-16",
     "2026-09-23"
    ],
-   "presentados": 96,
+   "presentados": 106,
    "aprobados": 30,
-   "en_comision": 66,
-   "solo": 10,
+   "en_comision": 76,
+   "solo": 11,
    "tipos": {
     "Declaración": 32,
-    "Resolución": 50,
-    "Ley": 14
+    "Resolución": 56,
+    "Ley": 18
    },
    "ultimos": [
     {
-     "expte": "20576",
-     "tipo": "Declaración",
-     "asunto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
-     "aprobado": true
-    },
-    {
-     "expte": "20575",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
+     "expte": "20653",
+     "tipo": "Ley",
+     "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
      "aprobado": false
     },
     {
-     "expte": "20574",
-     "tipo": "Declaración",
-     "asunto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
-     "aprobado": true
+     "expte": "20652",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación la reparación edilicia de la Escuela Primaria 604 “Ejército Argentino” del paraje Yurucuá, departamento de San Martín.",
+     "aprobado": false
     },
     {
-     "expte": "20573",
-     "tipo": "Declaración",
-     "asunto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
-     "aprobado": true
+     "expte": "20651",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20650",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
+     "aprobado": false
     }
    ]
   }

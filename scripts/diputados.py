@@ -161,11 +161,13 @@ def main():
             # apellidos repetidos: la ficha aclara con la inicial o el nombre ("Benítez (E.)", "Benítez, Hugo")
             m = re.search(re.escape(ap.split()[0]) + r"\s+(\w+)", a)
             return bool(m) and nom.startswith(m.group(1)[:1]) and (len(m.group(1)) == 1 or nom.startswith(m.group(1)[:3]))
-        prop = {n: f for n, f in fichas.items() if f["ingreso"] >= INICIO and autor(f)}
+        # Hasta que se anuncian en sesión, las fichas no traen fecha de ingreso: cuentan igual
+        # (el feed solo trae expedientes del período) y se ordenan por el día en que se vieron.
+        prop = {n: f for n, f in fichas.items() if (f["ingreso"] or f["visto"]) >= INICIO and autor(f)}
         tipos = {}
         for f in prop.values():
             tipos[f["tipo"] or "Otro"] = tipos.get(f["tipo"] or "Otro", 0) + 1
-        ult = sorted(prop, key=lambda n: (prop[n]["ingreso"], n), reverse=True)[:4]
+        ult = sorted(prop, key=lambda n: (prop[n]["ingreso"] or prop[n]["visto"], n), reverse=True)[:4]
         dips[d["apellido"] + "|" + d["nombre"]] = {
             "presentes": pres, "ausencias": len(aus), "ultimas_ausencias": aus[-3:],
             "presentados": len(prop), "aprobados": sum(f["aprobado"] for f in prop.values()),
@@ -176,7 +178,7 @@ def main():
         }
     salida = {"actualizado": ahora.isoformat(timespec="minutes"), "desde": INICIO,
               "sesiones": len(sesiones), "ultima_sesion": sesiones[-1]["fecha"] if sesiones else "",
-              "expedientes": sum(1 for f in fichas.values() if f["ingreso"] >= INICIO),
+              "expedientes": sum(1 for f in fichas.values() if (f["ingreso"] or f["visto"]) >= INICIO),
               "diputados": dips}
     with open(SALIDA, "w", encoding="utf-8") as f:
         json.dump(salida, f, ensure_ascii=False, indent=1)
