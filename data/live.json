@@ -927,12 +927,6 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "Coordinan la distribución de donaciones del Neike Solidario para los afectados por el fenómeno de El Niño",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQjZESlZHdUxnNUh2UEF0aEhKZmdORThxSFJ3U3dQV1NzaEhSUE9aZVF5dzBXMmk3cUk0X3dpaGU1SXRUVGZldTcwT05lUGRUNlZGRDFCUHFqbFA2NW82VzNyMXRZNk1YR0o2SzU5cmoxUWhKR3lZTlhsTWd5OFBxeFRncFpNWXFza0VWc3luZWtlMUJaX0pjWlZadlJOaTR0N21tLTdtVTFTUnU3VzloTldBZ3p2X24tY3NtOHdJaVVOSGRaQzU3RXhOVXlXOFA2YTRvMDg3dk9fUTRzU0xjc3ZjWlVJc0J4?oc=5",
-   "fecha": "Tue, 17 Nov 2026 21:12:04 GMT",
-   "fuente": "Corrientes Hoy"
-  },
-  {
    "titulo": "Bono de fin de año en Corrientes: \"El Gobernador analiza alternativas\"",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2JQOHViYkUxYkxieVRaZU9xbWhsNm1wbHE5bW0yNWlaTDBSWlExeTdiNzU3a2tBUVBabnA3LTBuMVJZWnJSaXl5UUlNZGJvX2VTOWRoNExlYXY3anB5Y2lENHpvQUF6SGtULXhtNng0ZldLbW8yOE50UU9lemMzS2ZINXlCNnNZUnpWYWoycWJrd2N4QjU4blo2VUU4cldYTm5OeG05N3Uxd2Fsck1Jb1B4NzRsQy1ibGJEaVVB?oc=5",
    "fecha": "Tue, 17 Nov 2026 20:29:00 GMT",
@@ -954,6 +948,12 @@
    "titulo": "Un funcionario, la dueña de un campo clave y un testigo del hallazgo del botín hablarán en el juicio por Loan",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPelB3MlF1eW9RWWRwM3dPSjNQdWY4TzJqWDBqbFA4eDh1WGQ3N2dMVXhablhNUnR3Qzd4YVFYWmRtSkowdEdZTVlTUnNLOVJmREZ1WlFSbGVsZy0yQU1KYUZKRzVtMVlOcGlvWG95eVhOMGNnV05hNUFOT1JVSGhIeEFpY3ZIVFdLbGN6bGx6aFQxSGJNQlBPS1dFbUdIdWd0N2hLTFBqYWh1THhITnpDY25mbGlmaXlPNFMtODFRUEpFQWdoNk9SblRaRmZfU3FkNm5feC1kN2xNMTAzMzhTQ1ZmdU9Qalp5NVh0WG5sei1adzRUMzB1dnVUWQ?oc=5",
    "fecha": "Tue, 17 Nov 2026 19:21:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Neike Solidario: en dos camiones cargados preparan donaciones para inundados en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUs5Wjc5bk8xNGxoMUo4dXZydENWdERHYXRMVUdSd3hjQ3RNM0MtM0Y5TFRDMU5JVlQ4MEsyWk9aLVp4T2c3aDM1LUxyQUtDX3VlaVl1OE85STdvYWtTRi12a2RmLUpEM3RCR2Y0eVRrMUt2R1dUNFlFNGVURmI5OGkyWmYtRU9iVWx4MXczOEJVVTQyUllQaWVCcC1naFNkenp6UjE0ZHR3X2g0WkYyRWkxNTY2M2thbndGVXZEMEhjdHUyUnRVa3BjaGxUMFRteEZtRFFYVDNlWHds?oc=5",
+   "fecha": "Tue, 17 Nov 2026 21:20:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-17T20:07-03:00",
+ "actualizado": "2026-11-17T20:33-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,21 +1272,15 @@
  },
  "nacionales": [
   {
-   "titulo": "Senado: se reúne una comisión clave para tratar la reforma electoral, pero el Gobierno no tiene aún los votos",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPanBHWWN0dlJLV25Gak9kTUM1NVdrMmNkemRPNXQyaURSZ1BGeUlvNlF6WWZsYWtRSktWanV4dmloblJpQ3pCRGc4V3N0MlZvd0JXbG9hYlBGX0c5VzBVenpkUWJQM1RIam5WOUlwaElxNjdpTEVTYjBfYjg0bHlKbGtiZnNXSG5KNnJ4bHJfUGFjUVFsbGoyT2llWkFaV1hva3hKLWQxd0xkam5iUjd6U3VVdGhvd3JMdDNDX1J1QnVYdjBXcjlzdEc2LTR1NnRlZ1F2aDdKazJnMC1ubGZNaQ?oc=5",
-   "fecha": "Tue, 17 Nov 2026 22:55:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Milei negocia con los gobernadores para destrabar la reforma electoral y suspender las PASO",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTRNSjVCNTJNY0k0UW5RaGo1c1dXSEdzbjJ1ZHh6VHgwazFwU0VpYXlBQl85dmtVckFUU0xJaDFpUFRrQ1dTS2YtTFhaeHVsRTlfbkJCU3dJTTJKV1haeEgtbThQYVBzX2UzbEEyWjVRSS1iYmhtaXB0aGFLdkkzZ2NZX25mYnlORWFLc3JMUGU1OHpRSVR5a3M1Ym84TmI2QVl1Q2U2eUE3ZzhTREowTlZLcGd3eWpLUFJVVjdhendwVzJFdXpLNFhJUQ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 20:56:45 GMT",
+   "fuente": "Página|12"
   },
   {
-   "titulo": "El oficialismo busca dictamen para el Presupuesto 2027 tras ceder a pedidos de sus aliados",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkFhckJQYnR0WUg5eHhFajFEMlJGdDB3N2xIZ19YNTJienNWc0tIZVJnZjlCNlhrWmpmSEFhZVlILVdMdDhGSjRXTDdZZU1zczhBUnV1VjhxZVFJVDFOX0hoZHBWSVFFSTZCT0Z3aDJ2QWRzSnRVNjNGbHNJNHgzLUFkV3I5emhiVDBWZTZTdkE4cFFETnFYdzNXQVhBQjR4UzJ4aGlZbVVQLVN3Q2F4TFJCZ3ZHend2NUpWMnJ6eVJVbHRRT2FoS3dKdW5IUGJR0gHrAUFVX3lxTE1EbXhiTUppMlFQeDBjY3hJVXdtR1k5ZGlUNm9sVnp5ZnVkcDVkR1Z2b1pyNXd6aGJrVWk3UVZrdEV2Qy1Xa29LcTlwMGZEWEhsMmo1eGJKOFc5dDRmQWkyUFZnMS1QNHlzSXVBMUZGbGNWNEc3SUpPdUotQUFLd1Z4ZElHMGJmNjFCUDlhcmxhd2Ntdk1YX1RxVEFqTnBfdXhrUDRKZE0yazA0LW9ZSWozRExtWnZUNldQYTFnTDM1TmhsZkJHdURoUzdlTUt0YllqMWN6QlRQdlBtenA3QjVIdlRaMGZXcjB2QmM?oc=5",
-   "fecha": "Tue, 17 Nov 2026 14:51:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Javier Milei y sus medidas, en vivo: “Cavallo tiene un prontuario de expropiaciones”, dijo el Presidente sobre el economista",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTm9MSkhsT0Qxdnl2d2Zlc3RmdFZzQ3ZIaW5PSkdlZC1CQk5PXzBMbGZiS1Q5YlU3Vy1NOGVuMzRvcU1qTlNPQ05neGExRXVMN0lJNkZSekMxWDN0elctN0FhRUdNMVU3UEE0THNIOVhYeDdOWGo2SDZlbDJXdVN5T245cnJoWHBIekFhMTdYVGgyUVFKVU14RGtDTmVRVXduSWFYVUwwNFQzRzRDYk9TZC0zWDB6U29ndFI2S3ZHWndUd0VXMzVvbS1Lbnp4bWcydF8yT0JUVGw0WkZCa2prVk5fVQ?oc=5",
-   "fecha": "Tue, 17 Nov 2026 22:55:00 GMT",
+   "titulo": "Los documentos internos del Deutsche Bank para evitar conflictos de intereses por Bausili durante el gobierno de Macri",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXg1c1NSdkZCbzFnYVd0V3REeENGNm1DNHdxUFBiRTA1dGVHYmo5aEs1YWdsdVQxbTF1YVl1ZGZubXAySDY5b2piNzZtV2hCS082eVFYVENaYUxYTXpjLXdSSlJHVWhIV1U0bGZxU09FSWN0cHlQRGlweFRwLXpkU2t0U040dzJnNVhkeG4wbjRFbEtTYnpUWHNXbWt6WktyMF9rRjlIREZDeTA0LThTM3QzWUVqOENXSjNjMTZjaDNLMjlpSnhQRXVyQ00xSTZxU29ZekI0djgzS0pHX3lza1gwcWo?oc=5",
+   "fecha": "Tue, 17 Nov 2026 13:03:00 GMT",
    "fuente": "La Nación"
   },
   {
@@ -1302,28 +1296,28 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "Milei en modo electoral: elogió a los empresarios y tuvo un gesto hacia Bullrich",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFJaSkdOMklGSGo5UUwyZ0cyMDdraUk0MUVKRUgzckxUT0VCRTVyNi1BOHNyVldkVlNsd0hnZXR3MFRaRFR2bWlxdkUtc09xWUwxajVzRG1NTFBmQlRtQkFEZFZSdnJXdnI4UGdHS2V6MURZU1lzSlpMLVFQRG53QnVfLS12QzJhdlFZbzJZeFR5anRsUmlLYUk4eFY3Vnl5ZmdLU1dybw?oc=5",
-   "fecha": "Tue, 17 Nov 2026 01:29:09 GMT",
+   "titulo": "Javier Milei y sus medidas, EN VIVO: \"Vamos a seguir bajando el gasto y devolviéndole el dinero a los creadores de riqueza\", dijo",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWVpvOUZLYmxPeldlRlh2c3FFd1pJUEdjck1UcEdGaW1YcWJPQzI4OW1oNkJFRGRvRFZNa0tkY2NKNE4ydDVyQ0pDQWxyVzZLMllIM3RxM2ptMjFYdndSeWs3X1Q5TldvdlI1V0RQbEpJcHE1TXZ6YW1vakJDRG50cmtaYnhxeUVwRFFBcFl0U2Z6LU43Y1diUi1kc21BZ0xBMXQ5MG1hQUVGV1Mwc2gxLXpsMFBYRW9xWXhyekFiNmctSGlnY2FMZXZMWUZDanVZWnZORDB1VlpKREdNcmNSSEZn?oc=5",
+   "fecha": "Tue, 17 Nov 2026 21:58:18 GMT",
    "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "El oficialismo busca dictamen para el Presupuesto 2027 tras ceder a pedidos de sus aliados",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkFhckJQYnR0WUg5eHhFajFEMlJGdDB3N2xIZ19YNTJienNWc0tIZVJnZjlCNlhrWmpmSEFhZVlILVdMdDhGSjRXTDdZZU1zczhBUnV1VjhxZVFJVDFOX0hoZHBWSVFFSTZCT0Z3aDJ2QWRzSnRVNjNGbHNJNHgzLUFkV3I5emhiVDBWZTZTdkE4cFFETnFYdzNXQVhBQjR4UzJ4aGlZbVVQLVN3Q2F4TFJCZ3ZHend2NUpWMnJ6eVJVbHRRT2FoS3dKdW5IUGJR0gHrAUFVX3lxTE1EbXhiTUppMlFQeDBjY3hJVXdtR1k5ZGlUNm9sVnp5ZnVkcDVkR1Z2b1pyNXd6aGJrVWk3UVZrdEV2Qy1Xa29LcTlwMGZEWEhsMmo1eGJKOFc5dDRmQWkyUFZnMS1QNHlzSXVBMUZGbGNWNEc3SUpPdUotQUFLd1Z4ZElHMGJmNjFCUDlhcmxhd2Ntdk1YX1RxVEFqTnBfdXhrUDRKZE0yazA0LW9ZSWozRExtWnZUNldQYTFnTDM1TmhsZkJHdURoUzdlTUt0YllqMWN6QlRQdlBtenA3QjVIdlRaMGZXcjB2QmM?oc=5",
+   "fecha": "Tue, 17 Nov 2026 14:51:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Se presentó en Diputados un proyecto de ley con beneficios impositivos para el sistema privado de salud",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1BBUzJFZXFBZVJ1ZzNnVFl6ZUx3akdTQnRwS2hzWGtLb1BjU1VMQ18xQXVIaHREZ3lWeUpJLXhKMlU5b3dFR0g0UDg0dU1vYkxwbWRUakp0WS1laXZyaWhJNURGbExnNkpDUmR3SE5kUzNMLW9WbC1VQUJsLW84Q0M0b3JxZ1JOVDhlSVUwd0JoZXo4SHQ0RU1VaTFlc01pei0yWmw2RGkxNjRKbkpwOS1rM2E3TFZfMTUtS0JQelJMTnRC0gHKAUFVX3lxTFBjcnhCMFB4R1AtNWVSbmFjYTAyT2NMODU2Ull0eHphREQwM3JId2ZTcjlVNFFDUDNiUmI1SFhyTlUyWWpwbHVLdkI1c1NvVEVtd2hTLUpnb1pkcWM4Q2NGbTY4NlRqSTVkVVdPby1nX2RsMTNkN1FkQl9GM2V0bnByR3FZcWNaLWRZcmJjWXNUQ19RMy1NamFGY3B4cjFDRjdFS1VvanM1RGlkank4cy1IM0Z6LTdDYTF1OHE3SnBSa2gtVTVoaGJITWc?oc=5",
+   "fecha": "Tue, 17 Nov 2026 17:36:00 GMT",
+   "fuente": "Ambito"
   },
   {
    "titulo": "Sube el río en Rosario y hay más evacuados en Santa Fe",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeE1rcy11ZHdDeFdlU001ajRUb0h5ZEU1WVRwclNUN2VCR3YxUkJWdGZOWGx3ZHl5bWRNQjBQcjltTkhKX2ZTaUNfRFNYR0RONldmWTdwWWo1a2huSlQ2WU9MNHU2Q1MzZjdQaXNjMGtyeVp1NFp2NzNOUUFibGFORHFsdGw3ZU5yQ1pqeDN2VlJuWldWZ3AzekZB?oc=5",
    "fecha": "Mon, 16 Nov 2026 22:06:00 GMT",
    "fuente": "Página|12"
-  },
-  {
-   "titulo": "Milei sobre Rosario: \"Sacamos a los narcos a las patadas\"",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1YwR2UtYTY1LVFuR2wtWjRveWdMUkJrS2JzZ2FvY09Ob2hEMFZha1ktaU9faE1aUXVTVVlDWklSME5RZE11TFZncXdLeTczT2psaFA0LVp4R25Ec0J0aWsxb3hJdlAxNG9mN281c2dNcGZNQ1M3d2x5TGhMa0ROUkNKdFFUc2pjb0VoZjd5UG1fX3h1aS16cG9HNmc2d0NFRXMzcE1DMTVwRHfSAasBQVVfeXFMTXNWMEdlLWE2NS1RbkdsLVo0b3lnTFJCa0tic2dhb2NPTm9oRDBWYWtZLWlPX2hNWlF1U1VZQ1pJUjBOUWRNdUxWZ3F3S3k3M09qbGhQNC1aeEduRHNCdGlrMW94SXZQMTRvZjdvNXNnTXBmTUNTN3dseUxoTGtETlJDSnRRVHNqY29FaGY3eVBtX194dWktenBvRzZnNndDRUVzM3BNQzE1cER3?oc=5",
-   "fecha": "Tue, 17 Nov 2026 01:36:00 GMT",
-   "fuente": "Rosario3"
-  },
-  {
-   "titulo": "Santiago Bausili reconoció que la estabilidad no alcanza para crecer",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLV9JMmJfNE9pOGxMNy1Tdk1LbjhsNkFBVzZRMDVnY3lBT0FiaVF1dnllc2hmTTN1cXliWTMyRmgzZ3owODBETHpTWFA4OURDZTZpX0ZEa0UwdHhJREMtM1NWdmp1U3pxWFpZTVFxVDdRdUJZZWNSbnNSbnhiVWR1cGtuZExtWWdoWVRVdzFqTU9pS1hycmgyTDF2djY2Nlh3TW5nbl9Gc9IBrAFBVV95cUxNeWljZVlPRklqV1c3Yy1JUzBJNVZfcnhsODhHV1JhcThPVUxId09FRDdHN005bF80dndpVUdacFBtam9YXzF3eGU3V01QNW9CeGFwcnEzQkkySTNWS3lISVpWNkYyT25IZkxObFZlUUw5ekljUzhHdmZhWDlpUFhUSGhxMjhsbE9JYVFMejFNRWtDUUFCazVXV1lkV3h6Q3JUVWp2Z21FbmNDaWR5?oc=5",
-   "fecha": "Mon, 16 Nov 2026 17:48:00 GMT",
-   "fuente": "Ambito"
   },
   {
    "titulo": "Muntes cuestionó la postergación de la paritaria estatal: “El salario no puede esperar”",
@@ -1366,6 +1360,12 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUlvVi1STTJ3M2x4ZGpLZTBrTzU5ZVZwMjByaEtVVUpER0VMSFpRLWVBZW9YdjBid04tYjdtLXBMNnFCRzJoeWl2MFdwcmViWWotRjFpWXptSWgyQ0JLTmtzVElMeXpYdlNkRmZvd3A1Z0RWeGhlZW9Ka3dCVnlBUldLQUFienNVcG9UdEpDejVJby1hQ09PSUV0cDQ3VGt3SVZCQWpqbWx2SjBCQlB1Z01jbjJTbXMtUGhJTkZYckFQT2JVMVE?oc=5",
    "fecha": "Mon, 16 Nov 2026 23:04:00 GMT",
    "fuente": "Lmneuquen.com"
+  },
+  {
+   "titulo": "Noche de las Heladerías en Mendoza: dónde aprovechar el 2×1",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlp2aHhJbDRLd1RxY003WjBZdXZ2ZlpjbVFIZEMwZlVvOU9SZXNOQ2w0cEs0ckZrczhzeXhIQ3E3cHo0eWxLX1B2X0tMS0syWkpnTEtrSldPT19NTGNpVkRDdGpQQzAtMTEzN1VjWGtZcWhLT2l4SHNzQWVMNXZCdGhrbV9idHZ2a3ZvM3NERFh2SF9QUVVJ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 11:23:03 GMT",
+   "fuente": "Diario El Sol Mendoza"
   }
  ],
  "finanzas_argy": [
