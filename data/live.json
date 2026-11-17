@@ -927,10 +927,10 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "Tecnicar 2026: Corrientes puso en marcha la 5° edición del desafío de vehículos eléctricos",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk4yLTN1RXpzXzR4WnVNVHF6LU90eU1QbG1rSHZmZ2E1ZnUwVnFZSExtMl9FWWlnaFFucGQ2OHducWZSR3FjUjVkbXBTMFFmU25UWkduc1pBZVlIZ2tabzcxM2dRYUFNa0lFZVF6WDBETE9MRElBNDFZRnlwV21xVEMwWG1WOUNVdndyZ1RJcS1qQ2JjSHI4OTdpdUdNZ1NTa3VxX3ZXS1E3U3ZZVVJLYVN5Q24xU3JqaFltOEl0RXo?oc=5",
-   "fecha": "Tue, 17 Nov 2026 11:36:13 GMT",
-   "fuente": "Radio Dos Corrientes"
+   "titulo": "Grupo Faro Verde le compró 94.000 hectáreas forestadas en Corrientes al gigante CMPC",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcTAxVHptdWctRVRIQlhCT0FmWFFsZ2xlSEszekFhRjFDYXVNbnZ2Z1JHZ1FlRGxyajhwRVk4enlRMUdQQWYydkJoSXdPd19pXzRmcHdaUjhUNENRY1cyZ2tvemE0QjBUcFFmWDNGMGZkMUxxMENSTG5nSnZ6WDU5elQtck5KbUVRLW9JNERzc2VmaGtnaFROQXM0d1ppNW5VclNIdjB1TUhuR2lsVXFkeUpKR29qbXlWNGhEVnd4RDJNTTRWY1c3U29ObHZTeVZTdHNfcA?oc=5",
+   "fecha": "Tue, 17 Nov 2026 18:25:23 GMT",
+   "fuente": "Corrientes Hoy"
   },
   {
    "titulo": "El gobernador de Corrientes defendió el aumento del 10 % y aseguró que el incremento anual llega al 28",
@@ -983,11 +983,29 @@
   {
    "titulo": "Ranking de gobernadores: Valdés cayó al puesto 15°, mientras Zdero y Passalacqua resisten en el top ten",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLS1vZ2lFSVhZV05tRHhUZ25pRFhVLUdoQ1ZCWUZ0UzlZMVZWM2lpRVpTclB1RnBLT21CN1RBaXhpTFVFcmtld2VEd25oazJQWElZT3dQYTFrZXhJMEpIQTNXMHpFT3RCS3NLWE1aVjhiVE84TTVVMmVxazJYUTdYemQ3N19NMDRLY0N5Ui03OE5uU0FFa2FoMm9NZkdLejRTY2M2eEpTVmdpRU1SRks2Z1hBUEpBTS1sM3FMQmR1SW5fVEZwU3cxUFJSajVTX3lFQnY0QjVUMA?oc=5",
-   "fecha": "Tue, 17 Nov 2026 14:01:54 GMT",
+   "fecha": "Tue, 17 Nov 2026 15:37:26 GMT",
    "fuente": "Perfil"
   }
  ],
  "expedientes": {
+  "20635": {
+   "asunto": "De interés la 2ª Jornada de Enfermedades Poco Frecuentes (2º Encuentro Interdisciplinario sobre Enfermedades Poco Frecuentes), en el Salón OSDE de la ciudad de Corrientes.",
+   "comision": "",
+   "tipo": "Declaración",
+   "nuevo": false,
+   "visto": "2026-11-17",
+   "cambio": "",
+   "antes": ""
+  },
+  "20619": {
+   "asunto": "Ley de Silencio Positivo en las Autorizaciones Administrativas Regladas.",
+   "comision": "",
+   "tipo": "Ley",
+   "nuevo": false,
+   "visto": "2026-11-17",
+   "cambio": "",
+   "antes": ""
+  },
   "20561": {
    "asunto": "Solicita al Poder Ejecutivo un informe sobre la habilitación, fiscalización y protocolos de seguridad perimetral en predios rurales colindantes a la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina.",
    "comision": "Seguridad y Servicios Penitenciarios",
@@ -1194,32 +1212,20 @@
    "visto": "2026-11-05",
    "cambio": "",
    "antes": ""
-  },
-  "20635": {
-   "asunto": "De interés la 2ª Jornada de Enfermedades Poco Frecuentes (2º Encuentro Interdisciplinario sobre Enfermedades Poco Frecuentes), en el Salón OSDE de la ciudad de Corrientes.",
-   "comision": "",
-   "tipo": "Declaración",
-   "nuevo": true,
-   "visto": "2026-11-17",
-   "cambio": "",
-   "antes": ""
-  },
-  "20619": {
-   "asunto": "Ley de Silencio Positivo en las",
-   "comision": "",
-   "tipo": "Ley",
-   "nuevo": true,
-   "visto": "2026-11-17",
-   "cambio": "",
-   "antes": ""
   }
  },
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-17T15:16-03:00",
+ "actualizado": "2026-11-17T15:42-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Peter Thiel aumentó su inversión en la petrolera Vista Energy y apuesta por Vaca Muerta",
+    "link": "https://derechadiario.com.ar/economia/peter-thiel-aumento-inversion-en-petrolera-vista-energy-apuesta-por-vaca-muerta",
+    "fecha": "Tue, 17 Nov 2026 18:23:53 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Yamandú Orsi elogió a Javier Milei y aseguró que las relaciones entre Uruguay y Argentina son excelentes",
     "link": "https://derechadiario.com.ar/politica/yamandu-orsi-elogio-javier-milei-aseguro-que-relaciones-uruguay-argentina-excelentes",
@@ -1261,51 +1267,39 @@
     "link": "https://derechadiario.com.ar/politica/milei-destrozo-kicillof-por-impedirle-combatir-narcotrafico-en-buenos-aires",
     "fecha": "Tue, 17 Nov 2026 01:43:00 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Milei anunció que LEGO abrirá su primera tienda oficial en Argentina y se sumará a las grandes marcas internacionales",
-    "link": "https://derechadiario.com.ar/politica/milei-anuncio-que-lego-abrira-primera-tienda-oficial-en-argentina-sumara-grandes-marcas-internacionales",
-    "fecha": "Tue, 17 Nov 2026 01:18:42 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
  "nacionales": [
   {
-   "titulo": "El PRO le da los votos a Milei para suspender las PASO pero siembra la duda sobre las colectoras",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzFHM3NIMVp6cjBqZllrV0FSZjJ2OGJoNUFlWk1UMWdqUUNhaDF4dHJnTzhPT2NWTmJHQkNRZkF5X1Jvc1A1RXU4ajNiM2lLc1Z3bVBCU3Y5TmVvcVY3UUgyQlo3b2dUUlBjQTdmYmVJaURIempSOVc3ckRqYzZETzJrZG5qQVdVejRCcTV0RXdoOElranJScXVDUTd2SFlOcU9NVDdIU1ZtM1BzWjlzalBJa3FXTGFrYVFFT2hZbDg5X0w1REtZeGVwUXNhaUgxVnc?oc=5",
-   "fecha": "Tue, 17 Nov 2026 14:28:25 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "Diego Santilli suma colectoras y ficha limpia para suspender las PASO, pero sigue la negociación",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmhxbEFqaGVQbVI2ZDl6UWFtZVZfWTdmOFh5ZjNFd2gyVU9tODhOcksyLUNLSjBFSmFRb0VFUFRuYi1CQkJjNjg1TWlIY0dmWlN1dDROZzJkejBrbnZGVnlueWJDS0U4R1Y0ZTBVbWlUTWhIdGRadDdHbnZlR0haYkFDd2QxNDZ6NDZOUG5USFlHa203Z1UwS0ZrTjRiVndiWFREbGlXejZsUUxycHlUU01rNlhWYTN3WHlGMzBSekl4ZnFwOThjNnRtbXJtWmM?oc=5",
-   "fecha": "Mon, 16 Nov 2026 21:53:00 GMT",
-   "fuente": "Letra P"
-  },
-  {
-   "titulo": "Javier Milei respondió al mensaje de León XIV: \"Tremenda Masterclass\"",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjktcjN5OVNWY25RQ1FGVWpGTG1LLVFJUDMxZmVWd05HUEU3MWZQRHlZNWlnLUN0MHdQNnMzS1l2bHdXSjlkOVRHM3o1TldiTUN0YXhjY2VtaERCTi1yTW9YaFZBdkNEdjI0UlV5UnhRNTdjLWpwYVFRUzRpMm5PS3hWbUpYUWIyZ19uNkZ4NFZra3ZHTUlVMHdFa1dGSHJPTkF2WklKeW8wVDBFY1ktcA?oc=5",
-   "fecha": "Tue, 17 Nov 2026 15:11:52 GMT",
-   "fuente": "Perfil"
-  },
-  {
-   "titulo": "Máximo Kirchner le bajó el tono a la ruptura con Di Nápoli y pidió por una lista de unidad en La Pampa",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYUU4eEZwcThQN0ViSm1lXzRxZXZJVWtTX1E5aEdhbS1FN1RRa3JMai11eWgzelZKWUpuXzE5TkVuMmtxeU80RDhZU2FPVVNqYXphLXdjTURTaDl1a0NEWkVzc2hUMW9OT1ZZQkVOcVlIVTFjd3h4TG9VYURZRWtTSXJyYzRaMlFnRVNkQXFiZEVicWZ4R3NKdklCYlFIMG4wOXplSTh1d19wRm5hdjlDN1dOZnpaTHdCZHRPU2VUUkg1NkJaVDJGTExpUmlEal80S1hxYTVleVYyRDcxQ1BwVTNjT1RCX0xNSUE?oc=5",
-   "fecha": "Tue, 17 Nov 2026 13:24:00 GMT",
-   "fuente": "El Diario de la Pampa"
-  },
-  {
-   "titulo": "Milei le hizo un guiño a Bullrich y criticó a Villarruel en una charla ante empresarios",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONm1Yb3NlTDhMRjVzMVV0czdkVi1icml0U0syZEZ2ajJnemdleWF3MVd1TklYOS0wTk1tOHVINGsxQmRpMDk0OC0xT3pJWGpHVEJkOTdEZzdTTWgwNS1fZU44Y2NncUtrSHZZczNEN1NhbW13a0ZmLWZBZUZxVHZEM19qcWNicWt2OE9fa1prQU54NkNWX3FGRlhjTW1yeXptVF9nek9TUlNXcTc1RU41NzFwQlUwdw?oc=5",
-   "fecha": "Tue, 17 Nov 2026 10:31:00 GMT",
+   "titulo": "Javier Milei elogió las respuestas del Papa sobre su paso por la Argentina, pero omitió las referencias al odio",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzdVeVJaa1R4cnVyNEE2dWplWjdUVmpQbHNvd1MweTJKcGY4ZE5mbHljRXQ3dmVncUEtZ0RfZzlGT09TSWduUWdORlNkOGN3UXRLU3E0ZjY5Z04zMFZEOGZUYXcwRTFTVVFIN25QZUpDUU5TdHpkRlhsa2Naal9UZl9xd2doVjNjR21xcUxRU2NyQWkwWFNDM0lLZmNuVHR5M19FSVE4b19MeEZlSEJGUENpNjBRVzJrNUFBS2dOYy1CSk04UldNMUpkcUFHU012UWQyMW9aMA?oc=5",
+   "fecha": "Tue, 17 Nov 2026 15:02:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "El Presupuesto 2027 vuelve a Diputados y busca dictamen antes del viernes",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdmttSlVEZFVoZHJyaGlqVzAyQ1MzOHk5TzU5YWxZVk1ZYkdKd1BqdFlTUXYzR0x6WnEtWDFoZmd3NS1QZE9wREpOTlJiREVZWHh5bVhlRXZFOVAxaEhWU015RVdzTlByLWJYX2ZDaS1SUGVfUW5fZlZxYk5yZFE5dm9kMW51U1VQb1AwUmhrZGxwSi1nNkNKVnd6bWgyM2NwZ2FpWXhyT0tYekd3SW5hc2JGcFZjQTFWWm5LOXVwbXpDM1l2TElnblMtb3BKbWFkMVU5TQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 15:36:05 GMT",
-   "fuente": "El Litoral"
+   "titulo": "Javier Milei remarcó que el riesgo país sube por el miedo a “Orcolandia\"",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalpfLUt1enY4UkRsNkpROGdLV2FleGw0dXBJUS1OS09UNTNUUEQ5YVg4NndycmYyd09rNm5ieDFXQzR1Y05Hcnd5R0E5WUJkV3p3NURWUDROS0VHUkZpZ1FMOXdGaFc5VFRYSkJ4WXkyRmtjWlhPOHN0RDhoZWdmVUV1VGFWSTRJOTZsdFpERjdtTzlFTVFLQ0JId3RtVTBfby12U0RGME91TENGYkdzSEpYM214bG55aDdHN01HWHpJU1RqS2g4V00takU5T2c?oc=5",
+   "fecha": "Tue, 17 Nov 2026 00:51:00 GMT",
+   "fuente": "Cba24n"
+  },
+  {
+   "titulo": "Reforma política: las colectoras terminarían chocando con la Justicia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWJkWjYtTXItX2dNWDZndXVMdjlqSVdEanFvMFUtZ0xhMFR2NV9BbUJBYVQ5V2twUW1XUnRoUDk3bktYVjlKdzlaZjRKSlMwOXdBSjJTLTJDMFlwUVVSUkVURGUwRmtvaUM4T2JDdU9ieFNrRFFfZ1Y2ZUh3X1F6ZVdtZ2pldFRqYjBScHo0MWhCckxvNjhYT2g4d3RKVDk3OFFvV0ZyNk5xeDZX?oc=5",
+   "fecha": "Mon, 16 Nov 2026 22:01:00 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Macri reunió a la Mesa Ejecutiva del PRO y resolvió acompañar la suspensión de las PASO",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNUpOc1Q0Wk5GaFJTdHBnOEVaRDhKa0RiaVFpTjNXTDVKRXZhVVV3RnhsYkF3S1I5dFI5RTJNYlkzUUJLOWYxU0xXMXYtQkFVTW5fdjc1QkIxT01YRXNmSzFGVlR3VkV2Sm55N3lvQTdzSEhsZnRGOUdJRnVMRlVkcmxXRDAwcmhyQUstZG05ZjJkSHhjY1ZNdFZmX0tBdTZBZ3FXSHlMa0d3S2JnTTlKaHhpLU81aGpqSVNZdGNqV0hXZ2I0SW15UGNQTWpyUjB3RU1WUVZpTENrTmZUaW13UmxxX2R4bGR5eUdoVld3enI?oc=5",
+   "fecha": "Tue, 17 Nov 2026 13:49:02 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Techint ganó una de las licitaciones de los caños de Argentina LNG",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWc0SzJRTXpISWFxX2t4RTlhQloySERqei1GS3dsYkFRTG45TXdpVE1XMmlUT1RuSjdDV3NuTl9RY1EtMkpXVmR3dDJmdUZfNzRKYTNhLVlSSDFLRXFRVUlCaTRPY2ViN05jdFM2WU43WjJiVzVJelZJaG9VczV4OXZndjJsZEVHRU5BX3l0dnRsQ25rUzFwdGhUSHJ5MFRTRHlNcmFDdmNlVXhHaEVVOQ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 10:28:14 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Germán Heinzenknecht: por qué la campaña agrícola podría parecerse a la del año pasado pese al Niño",
@@ -1314,16 +1308,10 @@
    "fuente": "Agrositio"
   },
   {
-   "titulo": "Tenaris se tomó revancha en el GNL y fabricará en el conurbano los caños de uno de los ductos para exportar gas licuado",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeXh2MWFMX2xsbVdWZ24yNDdFTFY2eTRYWGNDeS1IbzlybE95aFFzNHBuaVluZU5NUzFSR1BuZjlFQmVPblNoWjV2RWZHT3hORmtQcXdoQW4xdThUZzE5ZVBJbGtjbVBKMGMtQ3JIWXo1Nnk2NGREQU5TYmVGTTFXbXBYN3ktdTZQVkR2c004RENfTHdTcllMTU1WUEFYdEJ1ZFpUV0ZXX1d5bExjWVh5OVdLMFpxU1JnV0t3R1ZoRVJnZlpfYkdaX3RyaHJfLUJQVUlSN1BodTZ5eUdUR2Zpb3VB?oc=5",
-   "fecha": "Tue, 17 Nov 2026 11:28:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Alarma por la crecida del río Paraná: hay cientos de evacuados y crece la preocupación por nuevas tormentas",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQWFxX1BNQUI4RkNaQ3EtckRROF83RVJqV2dVa3BzSENMeEJzTTJzWU11VjJOYS1ScFhNNFE4OHNKS1hOb2N6bC1QR0ZFR1Izajh4RmxJOEhCUFYwMm0wRXhndXBqS1FkalB1NWM2X0ZRdXh0eWJ0QTVJTXhsYUtmWXNxLWdKR3lMdVQzVU5zZGYtN1BoVnFPd3Yzc1lIdE5lbTBIdi01RjZlRGotQWtYenhjTFVaVTlzMWhyVndGNk1QVlRqbENSWmJNY1lRTXZuWnM5c1lQajRIUG11OUg2b1JIY0ZIUdIBgAJBVV95cUxOQjh2V2o3azlmMzI4QUw1cmc1anNIMDdhbTFvSkRsX3VUd25mQnhjWU9pV2RsdG5OeGQ2d0U3bzNLTkk3a2Z1N19Wc1B3MlJtdXladzltYlI2dEJVUnNrc1V2LUFvb1B2dEpmQTFSdG9Ub0l3SENoZks3ZkVQOUlJV2pIcW1zX09XYzVxcVpoMG9VY2U3MXFpankzaEpyMXFXNUJSRWtSa3drT0g2andWeVFHR0pPVEVCejJWM1RVczRWeU5ZWlJVOWtiSlBfSFhYODRaa0pDRlRKX1NHV3hDOGtpdEtIbFEtd01nR2ptZFg3cUQtNTZwbGhGdjR1ZE9I?oc=5",
-   "fecha": "Mon, 16 Nov 2026 19:18:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "El Paraná atraviesa un pico de crecida en Santa Fe y se espera una meseta antes del descenso \"muy lento\"",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3lrT21MekR2R0hhMmJUNTlRXzh2ZHpJQTRTSDkzYmRFUURBMnJ0NVZyMEV4Y0w0dDZfTzNQb3FaU1ZmRkZabnRaeDEwSmFiYVA3ZHI3dU52bnpVY3pTUHZtSUFSOWlmczlQWkZvRG5iQVI3MEhjY2lTRnYzeEJZV2hZSFYzZGJwSFNpT3JRT29VOW5jVDBFWmRIQnJMOUJrRjdKS3lMTnpjZ0dOSEZBQVFoY01HRVg3VVFYVlVPekhVLVVNdnc?oc=5",
+   "fecha": "Tue, 17 Nov 2026 17:06:38 GMT",
+   "fuente": "El Litoral"
   },
   {
    "titulo": "Muntes cuestionó la postergación de la paritaria estatal: “El salario no puede esperar”",
@@ -1332,16 +1320,16 @@
    "fuente": "Elonce.com"
   },
   {
-   "titulo": "Otra provincia que desdobla: Salta se adelanta a la elección nacional y votará para gobernador el 17 de mayo",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdVhzbFlWSWRvd0NYQ2tGWTZLa3B5ZndVeVl0N2RwSTJjVjNDMkZENFFZVzRmdjI0MzVfS0M1NXZvVkN4dHliV2lBSDgxR0NFR003M1JxLWZFMkczS0FvN0U1emVxSXJSbjZQVmZRWkpWamtOZF8xalBEVlpZcHcxeW9VT2VscHFHZmtjbHY2bER5eUJ2ZlVkMWdtR1JFR2tvVER2bm5fYUo5RTVQMnV4NTFpV0NaZ0l0WXdFQ21abVZUMXhlVzZBaE5fbTVWRVhfLWV5Mm5EZGxGRDFUdjJkQjRsNA?oc=5",
-   "fecha": "Tue, 17 Nov 2026 03:38:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "El día que Juan Domingo Perón volvió a la Argentina después de 17 años de exilio",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelVqRlFiMnlrMkRLZGFLWXFLb2hTekFGMjY4bWNJZ3FHdi1UYzc0MmVqRXVPWVRwNUJPQ2VFUUw0eVJINV9HZGFiR2tnMWVtN1pUS0EzTmM2bmtQVDRxVjNlWlU2WC1nZ1ZtM2JRaXRNcXR4SEtTbmEyWjdrWUpJWmNMRlkyeFZ5LVFmYURJbDZKX1lLRnNnVjdXR3hzWHJYdTlIbWlrUGlQUjVtSWxrNXRBN1dScnk0SkhtTno4S0w0LWPSAd4BQVVfeXFMTTJyU2VRWDB5SkZkbXNIWkF0MTNmc0ZNWkxYU1pabnRURWNSRzZjaVNhX2ZTVmhtWG5wVHRISlg2dGdiU3VoVjF0a1JhVlVLTTdHNm5wek1zbDBkYV9hRU1HTmxOTXNxMVgxVi1vQkJ1d1hiTnhTNVo2d3lkX0YySFVBZVdpeWNkNThoZlJZZHVKTEJ3WkRUaGpjN29hU1BQdlhSc1dlcUVQVlBfeHhCOThWNE9kWHFYdHhDYnI5bm42ckM1NGxHcndUSXFvYkdJb3NVY0gxc0QwVU80ZElB?oc=5",
    "fecha": "Tue, 17 Nov 2026 06:23:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Otra provincia que desdobla: Salta se adelanta a la elección nacional y votará para gobernador el 17 de mayo",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdVhzbFlWSWRvd0NYQ2tGWTZLa3B5ZndVeVl0N2RwSTJjVjNDMkZENFFZVzRmdjI0MzVfS0M1NXZvVkN4dHliV2lBSDgxR0NFR003M1JxLWZFMkczS0FvN0U1emVxSXJSbjZQVmZRWkpWamtOZF8xalBEVlpZcHcxeW9VT2VscHFHZmtjbHY2bER5eUJ2ZlVkMWdtR1JFR2tvVER2bm5fYUo5RTVQMnV4NTFpV0NaZ0l0WXdFQ21abVZUMXhlVzZBaE5fbTVWRVhfLWV5Mm5EZGxGRDFUdjJkQjRsNA?oc=5",
+   "fecha": "Tue, 17 Nov 2026 03:38:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Lola Mora desafió los prejuicios de una sociedad que rechazó sus esculturas, murió pobre y olvidada, y el tiempo la reivindicó",
@@ -1356,19 +1344,37 @@
    "fuente": "Rosario3"
   },
   {
+   "titulo": "Temporal en General Roca: estiman pérdidas por $ 35 millones y rige el “estado de desastre”",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXBjMmc0ZWxrNlFNWkVKOU14bUkwZ0loMURkbUh4YkVEeTFuUUdzRWFfeHUwUXZDcXMzSEFXWm1LOE03azhUNE1hbHQwTzVFbE9jbEJlUEc2YjFXdjdIMVJBQTFsOHd2RWJLeS1zR2hxbldCQm9Jc08yd01nM2h5c3BodzNwSUNjNEF3RXZ1NTlMblhXLWJrSGtaNEZXNEJxb0E?oc=5",
+   "fecha": "Tue, 17 Nov 2026 12:38:46 GMT",
+   "fuente": "La Voz del Interior"
+  },
+  {
+   "titulo": "Máximo Kirchner le bajó el tono a la ruptura con Di Nápoli y pidió por una lista de unidad en La Pampa",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYUU4eEZwcThQN0ViSm1lXzRxZXZJVWtTX1E5aEdhbS1FN1RRa3JMai11eWgzelZKWUpuXzE5TkVuMmtxeU80RDhZU2FPVVNqYXphLXdjTURTaDl1a0NEWkVzc2hUMW9OT1ZZQkVOcVlIVTFjd3h4TG9VYURZRWtTSXJyYzRaMlFnRVNkQXFiZEVicWZ4R3NKdklCYlFIMG4wOXplSTh1d19wRm5hdjlDN1dOZnpaTHdCZHRPU2VUUkg1NkJaVDJGTExpUmlEal80S1hxYTVleVYyRDcxQ1BwVTNjT1RCX0xNSUE?oc=5",
+   "fecha": "Tue, 17 Nov 2026 13:24:00 GMT",
+   "fuente": "El Diario de la Pampa"
+  },
+  {
    "titulo": "Noche de las Heladerías en Mendoza: dónde aprovechar el 2×1",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlp2aHhJbDRLd1RxY003WjBZdXZ2ZlpjbVFIZEMwZlVvOU9SZXNOQ2w0cEs0ckZrczhzeXhIQ3E3cHo0eWxLX1B2X0tMS0syWkpnTEtrSldPT19NTGNpVkRDdGpQQzAtMTEzN1VjWGtZcWhLT2l4SHNzQWVMNXZCdGhrbV9idHZ2a3ZvM3NERFh2SF9QUVVJ?oc=5",
    "fecha": "Tue, 17 Nov 2026 11:23:03 GMT",
    "fuente": "Diario El Sol Mendoza"
   },
   {
-   "titulo": "Rige alerta naranja y amarilla por tormentas en Entre Ríos: prevén lluvias intensas y granizo",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0FmYXJSUGVOeHowT3Y0Wlk3RHJvNDNpTTFEYTB6dlF6SHkyQ2ZsWXZTaXNJUEF6b0lTak9nZHRnQjh6eXA2UWVrcFNLbWxNaC05NVJ5TWpLdDJLWmNxbXdNanNOOXpmaTBaNXk4aDFaZ0ZhNDdZUkIwM3BQd1ZiUGR6cnZvRFRtcktVQTVtaFBKc3ZXblp5Mk1KYjh0dHNRLTFvTlU4cGdCc3BOVFNpXzRMRHF1OVF0dkNiOWt2MlE3c3ZBN3Jr0gHAAUFVX3lxTE5POFVkRmJBLTBHTGJnTFpzdmZLQ3BvOFl2ZUFnRkJPeGFRSWg4T2NYaFM2by1yVUVFSDNvWXVaVGw4eXduSFdKSkZTWlFoSDU3UkJyTVZ6NFRhSUxpUzR0cEtUN2lFVUJPSDltQzFaX1ZWdUp6ck4xZGpraHNpMThpOWtISGhidHJEbUtXSFU1V3dDekFlWnFuQjctcDNKWnVDQlZtMGdkN2I3VUNUMTh3SEEteGZjRDlybkFXXzVoeg?oc=5",
-   "fecha": "Tue, 17 Nov 2026 07:10:12 GMT",
-   "fuente": "Elonce.com"
+   "titulo": "De vendedora ambulante a chef premiada: quién es la nueva campeona de Festival de la Empanada",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUlvVi1STTJ3M2x4ZGpLZTBrTzU5ZVZwMjByaEtVVUpER0VMSFpRLWVBZW9YdjBid04tYjdtLXBMNnFCRzJoeWl2MFdwcmViWWotRjFpWXptSWgyQ0JLTmtzVElMeXpYdlNkRmZvd3A1Z0RWeGhlZW9Ka3dCVnlBUldLQUFienNVcG9UdEpDejVJby1hQ09PSUV0cDQ3VGt3SVZCQWpqbWx2SjBCQlB1Z01jbjJTbXMtUGhJTkZYckFQT2JVMVE?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:04:00 GMT",
+   "fuente": "Lmneuquen.com"
   }
  ],
  "finanzas_argy": [
+  {
+   "titulo": "Varios servicios presentan interrupciones a nivel global: entre los afectados se encuentran Gmail, Marriott, Microsoft Outlook, Microsoft 365 y distintas plataformas de Apple, como Apple Support, la App Store, iCloud y Apple Pay.",
+   "fecha": "2026-11-17T18:22:39+00:00",
+   "fuente": "Finanzas Argy",
+   "link": "https://t.me/FinanzasArgy/28086"
+  },
   {
    "titulo": "A pocos días de las elecciones, España aprobó un aumento del 5,3% en el salario mínimo para 2027: pasa de 1.221 a 1.286 euros brutos al mes en 14 pagas y se mantiene exento del IRPF",
    "fecha": "2026-11-17T17:29:41+00:00",
@@ -1434,12 +1440,6 @@
    "fecha": "2026-11-15T13:51:24+00:00",
    "fuente": "Finanzas Argy",
    "link": "https://t.me/FinanzasArgy/28075"
-  },
-  {
-   "titulo": "Las ventas de productos argentinos en Carrefour España crecieron un 17% en 2026 y representan cerca del 10% de las ventas de su surtido internacional, superando incluso al surtido francés, según confirmó la directora ejecutiva de la cadena.",
-   "fecha": "2026-11-13T10:46:29+00:00",
-   "fuente": "Finanzas Argy",
-   "link": "https://t.me/FinanzasArgy/28074"
   }
  ],
  "mercado": {
