@@ -103,6 +103,8 @@ a.item.noti::after{top:auto;bottom:.45em}
 /* mapa de la Cámara: hemiciclo con las fotos y, debajo, los bloques */
 .mapa{display:flex;flex-direction:column;align-items:center;gap:1.4vw}
 .mapa svg{display:block;width:100%;height:auto;max-height:max(72vh,420px)}
+/* en pantalla grande el hemiciclo ocupa todo el alto disponible y se achica entero si no entra */
+@media (min-width:901px){.mapa{height:100%}.mapa svg{flex:1 1 auto;min-height:0;height:100%;max-height:none}}
 .mapa .fila{fill:none;stroke:var(--borde);stroke-width:2}
 .mapa .nom{font-size:15px;font-weight:600;fill:var(--texto);paint-order:stroke;stroke:var(--fondo);stroke-width:4px;stroke-linejoin:round}
 .mapa .propia .nom{fill:var(--acento);font-weight:800}
