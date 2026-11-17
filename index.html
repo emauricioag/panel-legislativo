@@ -33,6 +33,7 @@ header .hora{font-size:2.4em;font-weight:700;font-variant-numeric:tabular-nums;l
 header .fecha{color:var(--suave);font-size:.95em;margin-top:.3em}
 main{position:relative;padding:1.6vw 2.4vw;overflow:hidden}
 .pagina{position:absolute;inset:1.6vw 2.4vw;opacity:0;transition:opacity .8s;overflow-y:auto;scrollbar-width:none}
+.pagina.ya{transition:none}   /* cambio elegido a mano: sin fundido */
 .pagina::-webkit-scrollbar{display:none}
 .pagina .grilla+.grilla,.pagina .lista+.lista,.pagina .lista+.sub{margin-top:.75vw}
 .pagina.visible{opacity:1}
@@ -611,9 +612,10 @@ document.getElementById('control').addEventListener('click', () => {
 document.getElementById('tabs').addEventListener('click', e => {
   const b = e.target.closest('button'); if (b) elegir(b.dataset.id);
 });
+let sinFundido = false;   // true cuando el cambio lo pide la persona (pestaña, filtro, flechas): se muestra al instante
 function elegir(id) {
   auto = false; pausado = false; fija = id; url();
-  mostrar(1);
+  sinFundido = true; mostrar(1);
   if (MOVIL.matches) document.querySelector('.principal').scrollIntoView({block: 'start'});
 }
 // rueda del mouse (o dedo) sobre la sección: se pausa y queda donde la dejes
@@ -685,21 +687,25 @@ function mostrar(delta = 1) {
     return;
   }
   const nueva = document.createElement('div');
-  nueva.className = 'pagina'; nueva.innerHTML = c.html;
+  const ya = sinFundido; sinFundido = false;
+  nueva.className = 'pagina' + (ya ? ' ya visible' : ''); nueva.innerHTML = c.html;
   sinSubtitulosRepetidos(nueva);
   main.appendChild(nueva);
   lateral();
   const marcar = () => nueva.classList.toggle('mas', nueva.scrollTop + nueva.clientHeight < nueva.scrollHeight - 4);
   nueva.addEventListener('scroll', marcar, {passive: true}); marcar();
-  requestAnimationFrame(() => nueva.classList.add('visible'));
-  [...main.children].slice(0, -1).forEach(v => { v.classList.remove('visible'); setTimeout(() => v.remove(), 900); });
+  if (ya) [...main.children].slice(0, -1).forEach(v => v.remove());
+  else {
+    requestAnimationFrame(() => nueva.classList.add('visible'));
+    [...main.children].slice(0, -1).forEach(v => { v.classList.remove('visible'); setTimeout(() => v.remove(), 900); });
+  }
   if (c.s.alMostrar) setTimeout(c.s.alMostrar, 50);
   if (!pausado) programar(nueva);
 }
 // teclado: flechas = sección anterior o siguiente; espacio = pausar o seguir; + y − = letra; F = pantalla completa
 document.addEventListener('keydown', e => {
   if (e.ctrlKey || e.metaKey || e.altKey) return;
-  if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') { fija = null; auto = true; pausado = false; url(); mostrar(e.key === 'ArrowRight' ? 1 : -1); }
+  if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') { fija = null; auto = true; pausado = false; url(); sinFundido = true; mostrar(e.key === 'ArrowRight' ? 1 : -1); }
   else if (e.key === ' ' && !e.target.closest?.('button, a')) { e.preventDefault(); document.getElementById('control').click(); }
   else if (e.key === '+') zoom(.1);
   else if (e.key === '-') zoom(-.1);
