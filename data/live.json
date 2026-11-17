@@ -12,13 +12,13 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1594.8,
-   "venta": 1595.9
+   "compra": 1591.5,
+   "venta": 1603.3
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1692.8,
-   "venta": 1693.2
+   "compra": 1694.2,
+   "venta": 1697.2
   },
   {
    "casa": "Mayorista",
@@ -879,16 +879,16 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "Marcela Pagano tildó a Martín Menem de traidor: \"En Corrientes dijiste que Milei está loco\"",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZGJ2NHJWaHRFWk9Zall4dHE2RlFGNkRobUJtMHhMX0xiWlFzZUlHd2RYU05BcVJQYWIyRjg4c0ZpbFhjVmVBeGQ5V3hNVFkyUHIyUktVUXRmQ3E1Tk9xbFBkRDY4LWhXLXlFdTdnQkhOWVp1YlN2RTR2VHFOdVAxNHZCZEg0N21XMlVjb21wRmhYVnRHRjJIdTJ4cXJNUUtNOGxBUUJrYUxuY0xrdFJkM0FYVmpZS3NVSkl5REJzSHozQjA2WUd0NEpFRnNjYm5EVzU0d0dvQkNBRDAtR3lPbw?oc=5",
-   "fecha": "Tue, 17 Nov 2026 15:01:12 GMT",
-   "fuente": "Perfil"
-  },
-  {
    "titulo": "Cáncer de pulmón: Corrientes fortalece la detección temprana y advierten sobre la importancia de los controles",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXJJbWdtLUdEamFNQ3dEQzRfbUFwYVYzT3FnVWtXb1A3UVBHNXhHRFczbTAwQkRKV3UwbUFYM1ZYSDhBUXBFeWpSN0dYQmFpZDltakpLSG5RdFYzWk9acDhvS3dmMi1fUlBYdEpDTW5BLVFpN1F2dGJ5ZHlITld4WjQxOXFoMGNDb0dZRFlva0s5TnU0N0RZV0FzRWdzeUhOXzc1ZjZ3dXFxdDIzcnJvSHFPQWJBV213bnhFX0ZlSFBUcUZWR0FlTFVYZ2J3UTVXeWdmMzFQNFVqSnRhZXFyS2V4eVc3YzA?oc=5",
    "fecha": "Tue, 17 Nov 2026 14:12:11 GMT",
    "fuente": "La Red Corrientes"
+  },
+  {
+   "titulo": "Marcela Pagano tildó a Martín Menem de traidor: \"En Corrientes dijiste que Milei está loco\"",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZGJ2NHJWaHRFWk9Zall4dHE2RlFGNkRobUJtMHhMX0xiWlFzZUlHd2RYU05BcVJQYWIyRjg4c0ZpbFhjVmVBeGQ5V3hNVFkyUHIyUktVUXRmQ3E1Tk9xbFBkRDY4LWhXLXlFdTdnQkhOWVp1YlN2RTR2VHFOdVAxNHZCZEg0N21XMlVjb21wRmhYVnRHRjJIdTJ4cXJNUUtNOGxBUUJrYUxuY0xrdFJkM0FYVmpZS3NVSkl5REJzSHozQjA2WUd0NEpFRnNjYm5EVzU0d0dvQkNBRDAtR3lPbw?oc=5",
+   "fecha": "Tue, 17 Nov 2026 15:01:12 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Valdés presentó los avances de Corrientes para enfrentar El Niño",
@@ -913,12 +913,6 @@
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aOUdRblBDQkhCR0pERXVRNzRlNE04bUlZaUZIS3NGaW9MenNuRmkxcXlrVThaN0xVbUlSZlM4QTZCdDBFWEstTi1RaFpoUQ?oc=5",
    "fecha": "Tue, 17 Nov 2026 11:55:15 GMT",
    "fuente": "Chajarí Digital"
-  },
-  {
-   "titulo": "Libres es sede del inicio del programa \"Más Cerca de la Tecnología\"",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHBUa0duTjJqakhDNzM5LU41cmdFeWpVMGpkdkRqUmdMbDY1eTQ2cjc5M1k0Z0ZvUmQ0SXhGS1Z1VlpyeVBoQjc1Tzl6VWN6NmNyMzRraG5DNDlRdGFkOF9wRGY4U0l3UUdxcjJRTHZkcEZHZ0l6T1d3TFRKZ3ltOWR2cnYwc29QU3dwNTFqVFFTQU9iOHJzcS1nZjRudVdjQ2c?oc=5",
-   "fecha": "Tue, 17 Nov 2026 14:45:30 GMT",
-   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "El Superior Tribunal de Justicia de Corrientes dispuso un aumento salarial del 10 % para diciembre",
@@ -954,6 +948,12 @@
    "titulo": "El Poder Judicial de Corrientes tendrá un aumento salarial del 10% en diciembre",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3NVR1NCZVh2eXlSWTNRTm9DTkdlcEl0RTJoSkdQamNNazU5R3FSSTNsMExtQkVaLWxPak9xQ0UxZzI4TlUxeWhSNDRaNEJCdlpGRFNCMWcwVEFRYjRRTmlOM0pqeEZyMVBablc1M2x4elhmdF9JaW52cnBoUzhwY2Q0dE40OWtlLWViRW8yZVhpajlNZGhOR0pIczdLSmF4cWRWMHVaZjc1ZVNNOEFrVm83QUozSkx3T3F1ZWVsVC1oS3dhU0xac0labktrelFlWUE?oc=5",
    "fecha": "Tue, 17 Nov 2026 12:30:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Paso de los Libres es sede del programa provincial “Más Cerca de la Tecnología\"",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelFtQy12eG1KSUVxT2g4WFdHU2lubXlsLTN2WVd6VGZfS3hvSDN3S2pyN25kN0hDdEgweFZNeDBhelh5WTFqQlZINnVRWDVrZUFaa3JneTFNNlFTRGJlUW9uVGpsOVE5SGxJUEx5aDg1S0I4S0dnb1YxTHkza3BoMUJVbWdrU2RIelhkeFhwNnRCUHNpRTI4MU5nU2pkUXRvM0Z1elBpazNlak83ZGVHT3BXNE9saHlnOWlMU2lKbzZVdlVMMUxuNjVsek9oN0k?oc=5",
+   "fecha": "Tue, 17 Nov 2026 14:50:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-17T17:01-03:00",
+ "actualizado": "2026-11-17T17:28-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,10 +1272,10 @@
  },
  "nacionales": [
   {
-   "titulo": "Javier Milei elogió las respuestas del Papa sobre su paso por la Argentina, pero omitió las referencias al odio",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzdVeVJaa1R4cnVyNEE2dWplWjdUVmpQbHNvd1MweTJKcGY4ZE5mbHljRXQ3dmVncUEtZ0RfZzlGT09TSWduUWdORlNkOGN3UXRLU3E0ZjY5Z04zMFZEOGZUYXcwRTFTVVFIN25QZUpDUU5TdHpkRlhsa2Naal9UZl9xd2doVjNjR21xcUxRU2NyQWkwWFNDM0lLZmNuVHR5M19FSVE4b19MeEZlSEJGUENpNjBRVzJrNUFBS2dOYy1CSk04UldNMUpkcUFHU012UWQyMW9aMA?oc=5",
-   "fecha": "Tue, 17 Nov 2026 15:02:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Javier Milei respondió al mensaje de León XIV: \"Tremenda Masterclass\"",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjktcjN5OVNWY25RQ1FGVWpGTG1LLVFJUDMxZmVWd05HUEU3MWZQRHlZNWlnLUN0MHdQNnMzS1l2bHdXSjlkOVRHM3o1TldiTUN0YXhjY2VtaERCTi1yTW9YaFZBdkNEdjI0UlV5UnhRNTdjLWpwYVFRUzRpMm5PS3hWbUpYUWIyZ19uNkZ4NFZra3ZHTUlVMHdFa1dGSHJPTkF2WklKeW8wVDBFY1ktcA?oc=5",
+   "fecha": "Tue, 17 Nov 2026 15:11:52 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "La reforma política tensiona más la interna libertaria",
@@ -1284,16 +1284,16 @@
    "fuente": "Página|12"
   },
   {
+   "titulo": "Javier Milei y sus medidas, en vivo: “Hay que dejar atrás ‘orcolandia”, manifestó el Presidente ante empresarios",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTm9MSkhsT0Qxdnl2d2Zlc3RmdFZzQ3ZIaW5PSkdlZC1CQk5PXzBMbGZiS1Q5YlU3Vy1NOGVuMzRvcU1qTlNPQ05neGExRXVMN0lJNkZSekMxWDN0elctN0FhRUdNMVU3UEE0THNIOVhYeDdOWGo2SDZlbDJXdVN5T245cnJoWHBIekFhMTdYVGgyUVFKVU14RGtDTmVRVXduSWFYVUwwNFQzRzRDYk9TZC0zWDB6U29ndFI2S3ZHWndUd0VXMzVvbS1Lbnp4bWcydF8yT0JUVGw0WkZCa2prVk5fVQ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 17:45:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
    "titulo": "El oficialismo busca dictamen para el Presupuesto 2027 tras ceder a pedidos de sus aliados",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkFhckJQYnR0WUg5eHhFajFEMlJGdDB3N2xIZ19YNTJienNWc0tIZVJnZjlCNlhrWmpmSEFhZVlILVdMdDhGSjRXTDdZZU1zczhBUnV1VjhxZVFJVDFOX0hoZHBWSVFFSTZCT0Z3aDJ2QWRzSnRVNjNGbHNJNHgzLUFkV3I5emhiVDBWZTZTdkE4cFFETnFYdzNXQVhBQjR4UzJ4aGlZbVVQLVN3Q2F4TFJCZ3ZHend2NUpWMnJ6eVJVbHRRT2FoS3dKdW5IUGJR0gHrAUFVX3lxTE1EbXhiTUppMlFQeDBjY3hJVXdtR1k5ZGlUNm9sVnp5ZnVkcDVkR1Z2b1pyNXd6aGJrVWk3UVZrdEV2Qy1Xa29LcTlwMGZEWEhsMmo1eGJKOFc5dDRmQWkyUFZnMS1QNHlzSXVBMUZGbGNWNEc3SUpPdUotQUFLd1Z4ZElHMGJmNjFCUDlhcmxhd2Ntdk1YX1RxVEFqTnBfdXhrUDRKZE0yazA0LW9ZSWozRExtWnZUNldQYTFnTDM1TmhsZkJHdURoUzdlTUt0YllqMWN6QlRQdlBtenA3QjVIdlRaMGZXcjB2QmM?oc=5",
    "fecha": "Tue, 17 Nov 2026 14:51:00 GMT",
    "fuente": "Infobae"
-  },
-  {
-   "titulo": "El Niño 2026–27 amenaza con lluvias extremas en Argentina: las zonas más expuestas y cómo prepararse",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX0pIUlN1VE9GUWRHVjlHelpxVDFwbTNTaTlCcUEza05mMjRVZmVZR3p3WkZnc281VExTV1FkaU1CY3FaWE1zdkVSZ1hGYU5pQTZTek9PVGZvemhyUXJWYS1wZGs3VkZKelNZa1E0UUUxNUFoaHdsWFpiUnJvNG1IME5sQno5eTZ6dTRmYXFPUVY0VENrRGVUQ3hqeng4b3FkcGwtZUlVWk1Fc05iSGJCTlppb1otcmk0UFRRRnRGWWdMVXZGMzZ1bXhrQjdhLTVCY3BwTFRiLW1PdDZ0bzA1bkR2SW5JSE0?oc=5",
-   "fecha": "Tue, 17 Nov 2026 09:12:00 GMT",
-   "fuente": "Meteored Argentina"
   },
   {
    "titulo": "Tras los llamativos resultados de 2024, el Gobierno volvió a evaluar a los alumnos de tercer grado de todo el país",
@@ -1302,10 +1302,16 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Mauricio Macri definió que el PRO acompañará la iniciativa del Gobierno de suspender las PASO",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPREtWblBZQ005N2hiaFJfQXU2eEhKWGlPUFJiSkhsVjQxTDJ1ejRiRzNrMUNvQnhQVlVhQ0hDb2lJSHRBQVZnenVaVzdURzUwLVJsVGNwM2c1b2JKZXQ0WkNmbG5IanMyOWpSay1jTUh0NTRabnQ1eVBNaDd0MFdHNE1SRUtUeEtPc0JOclp3MXlNRjVnelZRRVFiY21tSjlkZmFFVmRhZmJ2eXU5SXIzVU5vaGlnUDg0WjFBTjJB?oc=5",
-   "fecha": "Tue, 17 Nov 2026 13:40:19 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "El Niño 2026–27 amenaza con lluvias extremas en Argentina: las zonas más expuestas y cómo prepararse",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX0pIUlN1VE9GUWRHVjlHelpxVDFwbTNTaTlCcUEza05mMjRVZmVZR3p3WkZnc281VExTV1FkaU1CY3FaWE1zdkVSZ1hGYU5pQTZTek9PVGZvemhyUXJWYS1wZGs3VkZKelNZa1E0UUUxNUFoaHdsWFpiUnJvNG1IME5sQno5eTZ6dTRmYXFPUVY0VENrRGVUQ3hqeng4b3FkcGwtZUlVWk1Fc05iSGJCTlppb1otcmk0UFRRRnRGWWdMVXZGMzZ1bXhrQjdhLTVCY3BwTFRiLW1PdDZ0bzA1bkR2SW5JSE0?oc=5",
+   "fecha": "Tue, 17 Nov 2026 09:12:00 GMT",
+   "fuente": "Meteored Argentina"
+  },
+  {
+   "titulo": "Se presentó en Diputados un proyecto de ley con beneficios impositivos para el sistema privado de salud",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1BBUzJFZXFBZVJ1ZzNnVFl6ZUx3akdTQnRwS2hzWGtLb1BjU1VMQ18xQXVIaHREZ3lWeUpJLXhKMlU5b3dFR0g0UDg0dU1vYkxwbWRUakp0WS1laXZyaWhJNURGbExnNkpDUmR3SE5kUzNMLW9WbC1VQUJsLW84Q0M0b3JxZ1JOVDhlSVUwd0JoZXo4SHQ0RU1VaTFlc01pei0yWmw2RGkxNjRKbkpwOS1rM2E3TFZfMTUtS0JQelJMTnRC0gHKAUFVX3lxTFBjcnhCMFB4R1AtNWVSbmFjYTAyT2NMODU2Ull0eHphREQwM3JId2ZTcjlVNFFDUDNiUmI1SFhyTlUyWWpwbHVLdkI1c1NvVEVtd2hTLUpnb1pkcWM4Q2NGbTY4NlRqSTVkVVdPby1nX2RsMTNkN1FkQl9GM2V0bnByR3FZcWNaLWRZcmJjWXNUQ19RMy1NamFGY3B4cjFDRjdFS1VvanM1RGlkank4cy1IM0Z6LTdDYTF1OHE3SnBSa2gtVTVoaGJITWc?oc=5",
+   "fecha": "Tue, 17 Nov 2026 17:36:00 GMT",
+   "fuente": "Ambito"
   },
   {
    "titulo": "El Paraná atraviesa un pico de crecida en Santa Fe y se espera una meseta antes del descenso \"muy lento\"",
@@ -1320,10 +1326,16 @@
    "fuente": "Elonce.com"
   },
   {
-   "titulo": "Javier Milei remarcó que el riesgo país sube por el miedo a “Orcolandia\"",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNalpfLUt1enY4UkRsNkpROGdLV2FleGw0dXBJUS1OS09UNTNUUEQ5YVg4NndycmYyd09rNm5ieDFXQzR1Y05Hcnd5R0E5WUJkV3p3NURWUDROS0VHUkZpZ1FMOXdGaFc5VFRYSkJ4WXkyRmtjWlhPOHN0RDhoZWdmVUV1VGFWSTRJOTZsdFpERjdtTzlFTVFLQ0JId3RtVTBfby12U0RGME91TENGYkdzSEpYM214bG55aDdHN01HWHpJU1RqS2g4V00takU5T2c?oc=5",
-   "fecha": "Tue, 17 Nov 2026 00:51:00 GMT",
-   "fuente": "Cba24n"
+   "titulo": "Santiago Bausili reconoció que la estabilidad no alcanza para crecer",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLV9JMmJfNE9pOGxMNy1Tdk1LbjhsNkFBVzZRMDVnY3lBT0FiaVF1dnllc2hmTTN1cXliWTMyRmgzZ3owODBETHpTWFA4OURDZTZpX0ZEa0UwdHhJREMtM1NWdmp1U3pxWFpZTVFxVDdRdUJZZWNSbnNSbnhiVWR1cGtuZExtWWdoWVRVdzFqTU9pS1hycmgyTDF2djY2Nlh3TW5nbl9Gc9IBrAFBVV95cUxNeWljZVlPRklqV1c3Yy1JUzBJNVZfcnhsODhHV1JhcThPVUxId09FRDdHN005bF80dndpVUdacFBtam9YXzF3eGU3V01QNW9CeGFwcnEzQkkySTNWS3lISVpWNkYyT25IZkxObFZlUUw5ekljUzhHdmZhWDlpUFhUSGhxMjhsbE9JYVFMejFNRWtDUUFCazVXV1lkV3h6Q3JUVWp2Z21FbmNDaWR5?oc=5",
+   "fecha": "Mon, 16 Nov 2026 17:48:00 GMT",
+   "fuente": "Ambito"
+  },
+  {
+   "titulo": "El PRO le da los votos a Milei para suspender las PASO pero siembra la duda sobre las colectoras",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzFHM3NIMVp6cjBqZllrV0FSZjJ2OGJoNUFlWk1UMWdqUUNhaDF4dHJnTzhPT2NWTmJHQkNRZkF5X1Jvc1A1RXU4ajNiM2lLc1Z3bVBCU3Y5TmVvcVY3UUgyQlo3b2dUUlBjQTdmYmVJaURIempSOVc3ckRqYzZETzJrZG5qQVdVejRCcTV0RXdoOElranJScXVDUTd2SFlOcU9NVDdIU1ZtM1BzWjlzalBJa3FXTGFrYVFFT2hZbDg5X0w1REtZeGVwUXNhaUgxVnc?oc=5",
+   "fecha": "Tue, 17 Nov 2026 14:28:25 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "El día que Juan Domingo Perón volvió a la Argentina después de 17 años de exilio",
@@ -1344,12 +1356,6 @@
    "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "Temporal en General Roca: estiman pérdidas por $ 35 millones y rige el “estado de desastre”",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXBjMmc0ZWxrNlFNWkVKOU14bUkwZ0loMURkbUh4YkVEeTFuUUdzRWFfeHUwUXZDcXMzSEFXWm1LOE03azhUNE1hbHQwTzVFbE9jbEJlUEc2YjFXdjdIMVJBQTFsOHd2RWJLeS1zR2hxbldCQm9Jc08yd01nM2h5c3BodzNwSUNjNEF3RXZ1NTlMblhXLWJrSGtaNEZXNEJxb0E?oc=5",
-   "fecha": "Tue, 17 Nov 2026 12:38:46 GMT",
-   "fuente": "La Voz del Interior"
-  },
-  {
    "titulo": "Noche de las Heladerías en Mendoza: dónde aprovechar el 2×1",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlp2aHhJbDRLd1RxY003WjBZdXZ2ZlpjbVFIZEMwZlVvOU9SZXNOQ2w0cEs0ckZrczhzeXhIQ3E3cHo0eWxLX1B2X0tMS0syWkpnTEtrSldPT19NTGNpVkRDdGpQQzAtMTEzN1VjWGtZcWhLT2l4SHNzQWVMNXZCdGhrbV9idHZ2a3ZvM3NERFh2SF9QUVVJ?oc=5",
    "fecha": "Tue, 17 Nov 2026 11:23:03 GMT",
@@ -1360,12 +1366,6 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUlvVi1STTJ3M2x4ZGpLZTBrTzU5ZVZwMjByaEtVVUpER0VMSFpRLWVBZW9YdjBid04tYjdtLXBMNnFCRzJoeWl2MFdwcmViWWotRjFpWXptSWgyQ0JLTmtzVElMeXpYdlNkRmZvd3A1Z0RWeGhlZW9Ka3dCVnlBUldLQUFienNVcG9UdEpDejVJby1hQ09PSUV0cDQ3VGt3SVZCQWpqbWx2SjBCQlB1Z01jbjJTbXMtUGhJTkZYckFQT2JVMVE?oc=5",
    "fecha": "Mon, 16 Nov 2026 23:04:00 GMT",
    "fuente": "Lmneuquen.com"
-  },
-  {
-   "titulo": "Sanluiseña comenzó a sumar comercios: el trámite demanda dos minutos y los tráileres recorrerán los barrios",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOVdqMFhHX2JSUWpfS3psNWwxN0dzOWJCVVAxTlphSnI3ckZBYXdQazd2TTh1bkdZbmxuRmF2X05DVngwbWo1OUZIb3hZaGwzVHFZekpxdzhZYTBwZ3JmMWFSamc0aElOaG55OGZOX0I2bl9kc0thLUJOTE5CV056b3lieGZMd1UycXc4eVZBUW85eVlwbjNNOHdzeFh6d1JuczU0MEJOWDdlUUpKY3pZYjNYSHloeThYUy05RFpHbFhVYzFNeTFXSzhNeVVYNjlLVmQ3eC1mMmVqZC1TcnZLZ0lQZjdwMGNFN2xPWVBLY01ld9IB8gFBVV95cUxPOVdqMFhHX2JSUWpfS3psNWwxN0dzOWJCVVAxTlphSnI3ckZBYXdQazd2TTh1bkdZbmxuRmF2X05DVngwbWo1OUZIb3hZaGwzVHFZekpxdzhZYTBwZ3JmMWFSamc0aElOaG55OGZOX0I2bl9kc0thLUJOTE5CV056b3lieGZMd1UycXc4eVZBUW85eVlwbjNNOHdzeFh6d1JuczU0MEJOWDdlUUpKY3pZYjNYSHloeThYUy05RFpHbFhVYzFNeTFXSzhNeVVYNjlLVmQ3eC1mMmVqZC1TcnZLZ0lQZjdwMGNFN2xPWVBLY01ldw?oc=5",
-   "fecha": "Mon, 16 Nov 2026 16:46:40 GMT",
-   "fuente": "El Chorrillero"
   }
  ],
  "finanzas_argy": [
