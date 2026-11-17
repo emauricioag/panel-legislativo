@@ -918,9 +918,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "nacionales": "HTTP Error 429: Too Many Requests"
  },
- "actualizado": "2026-11-17T02:06-03:00",
+ "actualizado": "2026-11-17T03:02-03:00",
  "medios": {
   "derecha_diario": [
    {
