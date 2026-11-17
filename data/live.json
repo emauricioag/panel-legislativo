@@ -27,8 +27,8 @@
   }
  ],
  "riesgo_pais": {
-  "valor": 830,
-  "fecha": "2026-11-13"
+  "valor": 855,
+  "fecha": "2026-11-16"
  },
  "bo_corrientes": {
   "modo": "directo",
@@ -606,6 +606,12 @@
    "fuente": "Momarandu Corrientes"
   },
   {
+   "titulo": "El boom de las motos: creció 53% el patentamiento en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1NaUDhrbkJVM3N6QzkxaEV0ZVZucnM1ZFNkTlloZldGZTdsdDMwa2k0QVg1UzI4ZXdxcldJTkJvenQxaUJnTTFvd2NWeXY3OWpYT3hfX0FZZ2xldFV5ak5WbHRKWGpvdnZaNXJBSkNQcjNfQ2FoUzFMN2NIMmJReWU5V0o3RFI4U24xWEtnZjN5dnpUaDZtRGVjU3JOMWhtcnc?oc=5",
+   "fecha": "Tue, 17 Nov 2026 04:56:05 GMT",
+   "fuente": "Diario El Libertador de Corrientes"
+  },
+  {
    "titulo": "Tormentas fuertes y temperaturas de más de 30° en Corrientes",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQXzVYNlAzYVY2dmRiRjgzbVJuM0h1VzVjcFRLTGRGSXNCdVJMdHp2bXVSbGJUTkJoc1pwTk5lRmgwMlJzSi0tMUlXUV9uVWdNLUl4ZW5NTWd2OGpDclptNnQ4UGRaVm5wM3VDZzJvOUZHM2NjUjVaZmRJWlJZWGF5Q0wwVkJKV3NzN2N1d3ZSNGFyejlSaF9tLUpzRWJkQ3JWNEUtN1BKS1RTN3hraFlvcmtjSFNQUC16YWR3YWxTbHFfajlIbUNqZWVZTEQ4SUhNWFJPZA?oc=5",
    "fecha": "Mon, 16 Nov 2026 22:08:00 GMT",
@@ -642,16 +648,16 @@
    "fuente": "Economis"
   },
   {
-   "titulo": "Expo Frutos 2026 ya es un éxito en reservas",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHEyeHF1NXY0ck1qS1prQ1FRYnZ5QXF2NGZyMGJwakNqSF9OWDRNMWhzRnhPaE02cGNXQWpaVV9vcUJNTEFpS3ptSFMxN1ZfWmJMWFd1cnI2clF3UGQ4VGJxSXMwVnM3Q044MmU2blktdTFSZGJxY2kwWEMwSDlZQzM3NWdYbXQ1eGVN?oc=5",
-   "fecha": "Mon, 16 Nov 2026 23:23:41 GMT",
-   "fuente": "bellavista.gob.ar"
-  },
-  {
    "titulo": "En una apuesta que desafía al contexto, Corrientes inauguró en Santo Tomé el 2° mega-aserradero de la era Milei",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU0Zib1ptQ0N6RUNtV1RYMldtMWZnSVVUYjJ6U0xMY01JUmY3X2k5QmtuazBPaGItNEZTTFhKMm03b2dwX1l0djNYOXVGbm50WGhvcUZoa21QNFIyM1plTEZxUk5KM0JXMVpEVm9PVW1sTmNaN1pkRWlCeW1GSVZPY1ExWkQwSjl4cmM0bk5WNFR0SExjd0pnQkpyenlFTVJFaXZEa2tjN0JKdVRIU3B1cGlmM2ozcjJ5SGdtRzRxWTBZTU5xN0VSdEZjemhEd0hfd1lZZUhDeFl1QXhwbV9tZmZ1Q0c3ZWM?oc=5",
    "fecha": "Mon, 16 Nov 2026 14:12:15 GMT",
    "fuente": "Plan B Misiones"
+  },
+  {
+   "titulo": "Expo Frutos 2026 ya es un éxito en reservas",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHEyeHF1NXY0ck1qS1prQ1FRYnZ5QXF2NGZyMGJwakNqSF9OWDRNMWhzRnhPaE02cGNXQWpaVV9vcUJNTEFpS3ptSFMxN1ZfWmJMWFd1cnI2clF3UGQ4VGJxSXMwVnM3Q044MmU2blktdTFSZGJxY2kwWEMwSDlZQzM3NWdYbXQ1eGVN?oc=5",
+   "fecha": "Mon, 16 Nov 2026 23:23:41 GMT",
+   "fuente": "bellavista.gob.ar"
   },
   {
    "titulo": "Alerta amarilla: pronostican tormentas fuertes para este martes en Corrientes",
@@ -660,22 +666,16 @@
    "fuente": "República de Corrientes"
   },
   {
-   "titulo": "Santo Tomé presentó su 60° edición en Corrientes y levantó el lema “Custodios del primer Sapucay”",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcDNSRm9idjZsb3ZsVFNrazM4YmlLSTFxZjVSMGZkVGNBUXFPWnVqVFc4dXNGZWxjLXo0RUk1eGlsalVyVGoyMEFYVUJWUG9iYVhWZ3FyNnVfZEpCYng5NmVqRzduS0otRFhBY1RmaHRkQnc0UktPTm82NktSQzJyNVNWdEtlbG1LbWczRGhWVUVCbHdkWEcyelpfcWVsVkx6LXJndlVLeS03WjNsamxtalVYTWExOHFLN2RTTTY4VkpJQQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 20:11:42 GMT",
-   "fuente": "urgente santo tome"
-  },
-  {
    "titulo": "Baja el Río Uruguay en toda la provincia de Corrientes pero siguen las recomendaciones y alertas",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZl9oa2lqVFlBUEtDYlJzenF1anY3d0RoSWRUWnhRRm5pM0pyWURYamwxR3Q0V2V1NDhBa0YtU1hEUkZzZzI3QVhJbm81QkZCNWpKcGhUMmpHdzRIRDBMOWhtMHdNN1N3UHJ0c3YtWG4zS3BOWGlXRWhsVzRkd3lvV2RxVG02MEJFTWhBQW9ZeEJDSElvM3ZXSWg1bXdqZGpaNGl0SUZBM0tlMmR6ZWVJTE9KZDdEMVg0NjRBMW5hbXlRLWlWUXR4SU9rOU5KRlZzcVpKdkdUTWtfUWM?oc=5",
    "fecha": "Mon, 16 Nov 2026 12:42:51 GMT",
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Tiene casi 400 años, fue una capilla jesuita en 1635 y la conoció Manuel Belgrano: la estancia ganadera que recibe cientos de turistas en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTmNEcjdvcVVGQUdOcjdVaWZVUnkzbkRKNzdDWDFaRXFWa3g5V3V4MFJCeFhmNFlDU1ZoSE9BdUFIY1VYQnpIUWxLdm0ydkFfRHpYdjlUT0xpUmJ4VFBaTGZBamlkMTVtYUxZMDRRajYyLUJWNUdRWUsxcHFUYnlwcV9KNUpyQ1h3czNzSU9QOU5KcXk2MEU0UDJfdjB4X3ZNSXUwN2t6M1UwSFZzUFFYMm9nSmpDcFdIZ1NNTzk1TDQySlR2WmNwLUZJelBydDVIbXFiRWp2YkxKOTFiMFVWck9kTG4tRWI5enRLQmczb2tNMFduZEMwVNIBjAJBVV95cUxPOUVhN3dLbUlkQUo3ZjVLbF9qeUNKU0xrM2RtdGJGa1B1RkVyOTliWnYycUM4VER6MzhIcm0tVERpeW9UQ0JhbXhfWU1IazJidlBNcTlfX3lyYVJlUkl4OWxjYXlMU0FFcVg0WVo4Z2RTZlJBR3FoOUVMeGlaR0hpb2lMalhfYVl2YzFGSkF2c2RMQlM1UUJXRTd0Ri1QSmxyQjFCN01KUXJqRWFpVy1KOU9UWm1rZ0M5TVhYcjBlVGVCVjFYMmFKTzJ5OVdHa2t0N0pDSzhiMjdVdTd0WnlMLXB1RFluZ0QtZzF3eGlsNmxGeER1U2VEbDBfQWZWbWxOejE3UUxLdjVuU3dv?oc=5",
-   "fecha": "Tue, 17 Nov 2026 00:54:00 GMT",
-   "fuente": "TN"
+   "titulo": "Santo Tomé presentó su 60° edición en Corrientes y levantó el lema “Custodios del primer Sapucay”",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcDNSRm9idjZsb3ZsVFNrazM4YmlLSTFxZjVSMGZkVGNBUXFPWnVqVFc4dXNGZWxjLXo0RUk1eGlsalVyVGoyMEFYVUJWUG9iYVhWZ3FyNnVfZEpCYng5NmVqRzduS0otRFhBY1RmaHRkQnc0UktPTm82NktSQzJyNVNWdEtlbG1LbWczRGhWVUVCbHdkWEcyelpfcWVsVkx6LXJndlVLeS03WjNsamxtalVYTWExOHFLN2RTTTY4VkpJQQ?oc=5",
+   "fecha": "Mon, 16 Nov 2026 20:11:42 GMT",
+   "fuente": "urgente santo tome"
   },
   {
    "titulo": "Juan Pablo Valdés encabezó el acto por el aniversario de Curuzú Cuatiá y destacó el avance de la Ruta 126",
@@ -702,10 +702,10 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Anticipan que Valdés desplazaría a un funcionario vinculado a Lourdes Sánchez",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0h3a2JEOFROeGhJb1o1TGM0QXVfWHhuWUNhTTN0WHMxSXctVEJLeUxwT2xmczF4a2NGcnM5NTdyV2JXU1ZDb2tsaFg5Y09mcFMwcHByT0VUckd1UElSd0ZwdE5LcEFfbWVLZ0Q4YmdsY0JqZWxSVVptVGtpd3NOZlpPdTBFbjlDa0F0OU0xMVFYd1VIQ2NLRExMUW5CbG95ZTNHdGpsTVZ3dG9CcGZLTkk2UQ?oc=5",
-   "fecha": "Mon, 16 Nov 2026 23:01:40 GMT",
-   "fuente": "https://www.noticiero9.com.ar/"
+   "titulo": "La influencia de la arquitectura francesa en Corrientes, eje de una charla en la Legislatura",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ2kweThEejZXbWlQSGFHWmJ3bE0zZmNHakJ6cXRwUHUwcGN4N3BfaVRLbGpWMmRXdjhDRHlwQ1k3Z3hrbXpfdFkyalFOQVFFSjFtTDU5dUt3bDBjU3BzMnJQclB3cExucEdPV0xVZUZiMU5CYW0yczFMbGF1bDlRUUdnUGVVMnFzZ2UyZVdlYXhmNzFwVHJvWnRISERmRTNhSXBSbnMxMmlGNlFHeFBVMU5VekZRMUo3NGRrVkZyMmtnUlZ5bmc?oc=5",
+   "fecha": "Mon, 16 Nov 2026 11:39:26 GMT",
+   "fuente": "Diario Época Corrientes"
   }
  ],
  "expedientes": {
@@ -917,8 +917,10 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-17T01:10-03:00",
+ "errores": {
+  "nacionales": "HTTP Error 429: Too Many Requests"
+ },
+ "actualizado": "2026-11-17T02:06-03:00",
  "medios": {
   "derecha_diario": [
    {
