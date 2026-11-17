@@ -66,445 +66,728 @@
   ]
  },
  "hcd_od": {
-  "titulo": "18ª Sesión Ordinaria del 28 de octubre de 2026 – Hora 11",
-  "rotulo": "28/10/2026 - 18ª - S.O.",
-  "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/10/Ordinaria-28-10-26.pdf",
+  "titulo": "19ª Sesión Ordinaria del 18 de noviembre de 2026 – Hora 11",
+  "rotulo": "18/11/2026 - 19ª - S.O.",
+  "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/11/Ordinaria-18-11-26.pdf",
   "informe": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/10/Informe-28-10-26.pdf",
   "asuntos": [
    {
     "item": "a.01",
     "seccion": "Comunicaciones oficiales",
     "expte": "",
-    "nota": "3692",
-    "texto": "Superior Tribunal de Justicia remite Acuerdo Extraordinario N° 6/26, referente al anteproyecto de Presupuesto del Poder Judicial de la Provincia de Corrientes para el ejercicio 2027 (preliminar) y sus proyecciones para los ejercicios 2028 y 2029; y Acuerdo Extraordinario N° 7/26, referente a los ant",
+    "nota": "3700",
+    "texto": "Honorable Senado comunica la sanción definitiva de los proyectos de ley: 6766 -Plan Provincial de Conservación de Grandes Felinos; 6767 -Declara Fiesta Provincial a la Muestra de la Artesanía “Arandú Po” (Manos Sabias) que anualmente se realiza en la ciudad de Empedrado-; y 6768 -Declara a Colonia L",
     "autores": "",
     "leconte": false
    },
    {
-    "item": "a.02",
-    "seccion": "Comunicaciones oficiales",
+    "item": "b.01",
+    "seccion": "Comunicaciones particulares",
     "expte": "",
-    "nota": "3693",
-    "texto": "Honorable Senado comunica la sanción definitiva de los proyectos de ley: 6762 -Declara “Fiesta Provincial del Asado Criollo y Concurso de Asadores” a la que se realiza anualmente en el mes de noviembre, en la ciudad de Goya.-; 6763 -Declara Monumento Histórico e integrante del Patrimonio Cultural al",
+    "nota": "3699",
+    "texto": "Colegio de Agrimensores de Corrientes solicita a la Cámara de Diputados que promueva proyectos de declaración y resolución relacionados con la preservación, intangibilidad y protección del archivo cartográfico y registral físico de la Dirección General de Catastro y Cartografía.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "c.01",
+    "seccion": "Expediente venido en revisión del honorable senado",
+    "expte": "20633",
+    "nota": "",
+    "texto": "Declara el estado de emergencia climática e hídrica en todo el territorio provincial, por el término de 180 días, prorrogable por igual período, de mantenerse los eventos críticos climáticos e hídricos derivados de la corriente de “El Niño”. Poder Ejecutivo.",
     "autores": "",
     "leconte": false
    },
    {
     "item": "d.01",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20542",
+    "expte": "20584",
     "nota": "",
-    "texto": "Carrera y Escalafón Sanitario de la Provincia de Corrientes.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "Instituye el 19 de diciembre de cada año como el Día del Narrador Oral. Bloque Partido Popular.",
+    "autores": "",
     "leconte": false
    },
    {
     "item": "d.02",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20550",
+    "expte": "20587",
     "nota": "",
-    "texto": "Creación del Programa Provincial “Mi Mérito, Mi Orgullo”.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "Modifica los artículos 1º y 2º de la ley 6028 -Distribución de Regalías Hidroeléctricas de Yacyretá-.",
+    "autores": "Dip. Nazer.",
     "leconte": false
    },
    {
     "item": "d.03",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20562",
+    "expte": "20600",
     "nota": "",
-    "texto": "Crea el Museo “General Manuel Belgrano” en la ciudad de Curuzú Cuatiá.",
-    "autores": "Dip. Benítez E.",
+    "texto": "Modifica la ley 4067.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
     "leconte": false
    },
    {
     "item": "d.04",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20570",
+    "expte": "20601",
     "nota": "",
-    "texto": "Regulación de la Actividad Productiva de Engorde Intensivo de Animales a Corral.",
+    "texto": "Declara en estado de emergencia agropecuaria a todo el territorio de la provincia, por el término de ciento ochenta (180) días, debido a los daños provocados por el fenómeno climático \"El Niño\".",
     "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
     "leconte": false
    },
    {
     "item": "d.05",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20535",
+    "expte": "20605",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe sobre la aplicación de la ley nacional 26737 de Régimen de Protección al Dominio Nacional sobre la Propiedad, Posesión o Tenencia de las Tierras Rurales.",
-    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Compensación Especial por Rectoría y Gestión Integral en Escuelas Secundarias Rurales.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.06",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20536",
+    "expte": "20607",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe sobre el choque de una barcaza de bandera paraguaya contra el pilote N° 5 del Puente General Belgrano, luego de que por decreto nacional 690/2026 se flexibilizaron las normas de navegación y practicaje.",
-    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Régimen de los Consejos Escolares Municipales.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.07",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20537",
+    "expte": "20608",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe el plan de contingencia y contención por la abrupta caída del empleo formal y la cantidad de cierres de negocios en la provincia de Corrientes.",
-    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Día Provincial del Docente Rural.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.08",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20539",
+    "expte": "20618",
     "nota": "",
-    "texto": "Interpelar al Ministro de Seguridad y a la Ministra de Educación respecto a los procedimientos llevados adelante ante la desaparición de la docente rural Nanci Estela Godoy.",
-    "autores": "Dips. Aparicio, Gauna, Gortari, Lezcano y Vidal Domínguez.",
+    "texto": "Crea el Programa Provincial de Prevención y Atención de las Emergencias de Accidentes Cerebrovasculares (ACV).",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
     "leconte": false
    },
    {
     "item": "d.09",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20541",
+    "expte": "20619",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe sobre el régimen de mantenimiento edilicio de las escuelas rurales de la provincia y la situación particular de la Escuela Primaria Común Nº 626 del paraje El Malezal, departamento de Esquina.",
-    "autores": "Dip. Cassani.",
-    "leconte": false
+    "texto": "Ley de Silencio Positivo en las Autorizaciones Administrativas Regladas.",
+    "autores": "Dip. Leconte.",
+    "leconte": true
    },
    {
     "item": "d.10",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20543",
+    "expte": "20622",
     "nota": "",
-    "texto": "Insta al Poder Ejecutivo a reglamentar la ley 6309 -Actividad Turística en la Provincia de Corrientes-.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "Ley de Pasafauna.",
+    "autores": "Dip. Calvano.",
     "leconte": false
    },
    {
     "item": "d.11",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20544",
+    "expte": "20623",
     "nota": "",
-    "texto": "Solicita al Ministerio de Seguridad Nacional la cooperación federal en la búsqueda de la docente Nanci Estela Godoy.",
-    "autores": "Dips. Almirón, Aparicio, Canteros, Fernández Recalde, Gauna, Gortari, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Adhesión a la ley nacional 26879 del Registro Nacional de Datos Genéticos Vinculados con la Investigación Criminal.",
+    "autores": "Dip. Calvano.",
     "leconte": false
    },
    {
     "item": "d.12",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20545",
+    "expte": "20624",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe sobre los establecimientos educativos rurales de gestión estatal de la Provincia.",
-    "autores": "Dips. Almirón, Aparicio, Canteros, Fernández Recalde, Gauna, Gortari, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Ley Compasión.",
+    "autores": "Dip. Calvano.",
     "leconte": false
    },
    {
     "item": "d.13",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20547",
+    "expte": "20653",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe sobre la situación laboral y administrativa de la docente Nanci Estela Godoy, el funcionamiento de la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina y las actuaciones administrativas referidas a ese establecimiento.",
-    "autores": "Dips. Almirón, Aparicio, Canteros, Fernández Recalde, Gauna, Gortari, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
     "leconte": false
    },
    {
     "item": "d.14",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20551",
+    "expte": "20581",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que incorpore partidas en el Presupuesto 2027 para la construcción del edificio propio del Instituto Superior de Formación Docente de Gobernador Virasoro.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "Solicita al Poder Ejecutivo la inspección técnica integral del puente ubicado sobre RP Nº 40, en cercanía de Colonia Carlos Pellegrini.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
     "leconte": false
    },
    {
     "item": "d.15",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20552",
+    "expte": "20586",
     "nota": "",
-    "texto": "Solicita al Ministerio de Educación la postergación de la aplicación de la resolución ministerial Nº 875/25 y la implementación de un período de transición y capacitación.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "Solicita a la Dirección de Parques y Reservas informe sobre el convenio realizado entre el Poder Ejecutivo y la Municipalidad de Colonia Carlos Pellegrini.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
     "leconte": false
    },
    {
     "item": "d.16",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20553",
+    "expte": "20592",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe sobre los hechos ocurridos en torno a la detención y custodia del ciudadano Ernesto Ezequiel Bordón.",
-    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Solicita el tratamiento de las iniciativas nacionales destinadas al fortalecimiento del sector tabacalero y promover la participación de Corrientes en la reunión federal de productores del 17 de noviembre de 2026.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.17",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20554",
+    "expte": "20604",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo un informe sobre la situación de revista y condiciones laborales de los docentes en cargos directivos de establecimientos de educación rural de la Provincia.",
-    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "Solicita al Poder Ejecutivo, disponga la inspección técnica de ocho establecimientos educativos ubicados en los departamentos de Lavalle, Goya, General Paz y Esquina.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.18",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20558",
+    "expte": "20620",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que cree e implemente un programa extraordinario de asistencia financiera y económica para pequeños productores de zonas costeras y áreas insulares del río Paraná damnificados por las inundaciones.",
+    "texto": "Solicita al Poder Ejecutivo la actualización e incremento de las tarjetas Sapucay y Mamá Mbareté/Programa Primeros Latidos.",
     "autores": "Dip. Gauna.",
     "leconte": false
    },
    {
     "item": "d.19",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20559",
+    "expte": "20650",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que gestione ante Vialidad Nacional el mantenimiento y reparación de la RN Nº 120 en toda su extensión (intersecciones RN Nº 14 a RN Nº 12).",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
     "leconte": false
    },
    {
     "item": "d.20",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20560",
+    "expte": "20651",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que informe sobre las condiciones de los establecimientos educativos rurales clasificados como zonas inhóspitas o muy inhóspitas, con especial referencia a la Escuela Rural Nº 626 del paraje El Malezal, departamento de Esquina.",
-    "autores": "Dip. Leconte.",
-    "leconte": true
+    "texto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
    },
    {
     "item": "d.21",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20561",
+    "expte": "20652",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo un informe sobre la habilitación, fiscalización y protocolos de seguridad perimetral en predios rurales colindantes a la Escuela Primaria Nº 626 del paraje El Malezal, departamento de Esquina.",
-    "autores": "Dip. Leconte.",
-    "leconte": true
+    "texto": "Solicita al Ministerio de Educación la reparación edilicia de la Escuela Primaria 604 “Ejército Argentino” del paraje Yurucuá, departamento de San Martín.",
+    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "leconte": false
    },
    {
     "item": "d.22",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20571",
+    "expte": "20579",
     "nota": "",
-    "texto": "Solicita al Poder Ejecutivo que arbitre los medios necesarios para la instalación de un puesto de control del PRIAR (Policía Rural e Islas y Ambiente Rural) en la localidad de Carlos Pellegrini.",
-    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "De interés la labor deportiva y social de la Academia de Artes Marciales Khwām Pheīyr, de la localidad de Itá Ibaté.",
+    "autores": "Dip. Nazer.",
     "leconte": false
    },
    {
     "item": "d.23",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20572",
+    "expte": "20580",
     "nota": "",
-    "texto": "Solicita al Ministerio de Educación un informe sobre las medidas adoptadas por los hechos acontecidos en la Escuela Nº 563 “Domingo Sarmiento” de la localidad de Carlos Pellegrini.",
-    "autores": "Dips. Almirón, Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "De interés la labor de la Asociación de Bomberos Voluntarios de Itá Ibaté.",
+    "autores": "Dip. Nazer.",
     "leconte": false
    },
    {
     "item": "d.24",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20575",
+    "expte": "20582",
     "nota": "",
-    "texto": "Solicita al Ministerio de Educación la reparación edilicia del Colegio Secundario del Mercosur, de la localidad de Colonia Libertad.",
-    "autores": "Dips. Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "De interés el libro “El General José de San Martín: sabiduría práctica y ejemplo de imitación”, autoría de Lorena Paola Penayo. Bloque Partido Liberal.",
+    "autores": "",
     "leconte": false
    },
    {
     "item": "d.25",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20531",
+    "expte": "20583",
     "nota": "",
-    "texto": "De beneplácito e interés la jornada de capacitación docente “Algunos irrenunciables educativos para el nivel inicial: Reflexiones y acciones que constituyen oportunidades” a cargo de la Lic. Laura E. Pitluk, organizada por el Instituto Superior “Daniel Lesteime” en articulación con la Fundación Ágor",
-    "autores": "Dip. Méndez Vernengo.",
+    "texto": "De interés el “Conversatorio Jurídico e Interinstitucional”, en el auditorio del campus Deodoro Roca, de la Facultad de Derecho, Ciencias Sociales y Políticas de la UNNE.",
+    "autores": "Dip. Branz.",
     "leconte": false
    },
    {
     "item": "d.26",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20532",
+    "expte": "20585",
     "nota": "",
-    "texto": "De beneplácito e interés el acto conmemorativo del 235° aniversario de la Primera Radicación Histórica de Goya, organizado por la Municipalidad de Goya.",
-    "autores": "Dip. Méndez Vernengo.",
+    "texto": "De interés el webinar “Tecnología de drones: nuevas herramientas ante incendios. Innovación local ante incendios de la investigación aplicada al prototipo”, en modalidad virtual. Bloque Partido Popular.",
+    "autores": "",
     "leconte": false
    },
    {
     "item": "d.27",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20533",
+    "expte": "20588",
     "nota": "",
-    "texto": "De beneplácito e interés el documental histórico de la ciudad de Goya, denominado “Goya, entre el río y la historia”, impulsado por la Municipalidad.",
-    "autores": "Dip. Méndez Vernengo.",
+    "texto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
+    "autores": "Dip. Benítez E.",
     "leconte": false
    },
    {
     "item": "d.28",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20534",
+    "expte": "20641",
     "nota": "",
-    "texto": "De interés el 145º aniversario de la fundación de Sauce.",
+    "texto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
     "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.29",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20538",
+    "expte": "20590",
     "nota": "",
-    "texto": "De interés la charla “Inteligencia Artificial y Tecnologías aplicadas a la Ganadería”, en la ciudad de Corrientes. Bloque Partido Popular.",
+    "texto": "De interés el 40º aniversario de la Fundación Cardiológica Correntina",
     "autores": "",
     "leconte": false
    },
    {
     "item": "d.30",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20540",
+    "expte": "20591",
     "nota": "",
-    "texto": "De interés la 60ª edición de la Fiesta Nacional del Folclore Correntino, bajo el lema “Custodios del primer sapucay”, en el anfiteatro Genaro Berón de Astrada, de la ciudad de Santo Tomé. Bloque Partido Liberal.",
-    "autores": "",
+    "texto": "De interés el 103º aniversario de la fundación de Lipton Football Club.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.31",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20546",
+    "expte": "20593",
     "nota": "",
-    "texto": "De interés la Muestra Técnica 2026 “Uniendo saberes, forjando futuro”, de la Escuela Técnica “Valentín Virasoro” de la ciudad de Goya.",
+    "texto": "De interés las actividades en conmemoración del Día Nacional del Donante Voluntario de Sangre.",
     "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.32",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20548",
+    "expte": "20594",
     "nota": "",
-    "texto": "De interés la Jornada de Capacitación “Nuevas modalidades de las violencias y sus diferentes abordajes”, en el Anexo de la Honorable Cámara de Diputados de Corrientes.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "De interés la 4ª Fiesta Provincial del Lechón Artesanal -9ª edición histórica-, en la localidad de Pago de los Deseos, departamento de Saladas.",
+    "autores": "Dip. Giotta.",
     "leconte": false
    },
    {
     "item": "d.33",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20549",
+    "expte": "20595",
     "nota": "",
-    "texto": "De interés la trayectoria institucional de trabajo en salud mental y educación emocional desarrollada por la Escuela Normal “Ramón J. Cárcano” de la ciudad de Monte Caseros.",
-    "autores": "Dip. Calvano.",
+    "texto": "De interés la conferencia ECOA 2026 “Coaching un mundo de posibilidades”, en el auditorio Julián Zini de Corrientes.",
+    "autores": "Dip. Benítez E.",
     "leconte": false
    },
    {
     "item": "d.34",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20555",
+    "expte": "20597",
     "nota": "",
-    "texto": "De interés las Terceras Jornadas de la Red de Leche Humana y Lactancia de la Provincia de Corrientes, bajo el lema: Ciencia, solidaridad y trabajo en red para fortalecer la lactancia humana y la donación de leche humana. Bloque Partido Popular.",
-    "autores": "",
+    "texto": "De interés el proyecto “Nosotros”, enfocado en la educación emocional, realizado en la Escuela Integral Artística I-33, en Ituzaingó.",
+    "autores": "Dip. Améndola.",
     "leconte": false
    },
    {
     "item": "d.35",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20556",
+    "expte": "20598",
     "nota": "",
-    "texto": "De interés el agasajo a realizarse el 6 de noviembre en el marco del 41º aniversario del Hospital Geriátrico “Juana F. Cabral”. Bloque Partido Popular.",
-    "autores": "",
+    "texto": "De interés el 2º Congreso de Psiquiatría de la Provincia de Corrientes, organizado por la Asociación Psiquiatras de Corrientes (APSICO), en el hotel Marriott de Corrientes.",
+    "autores": "Dip. Brambilla.",
     "leconte": false
    },
    {
     "item": "d.36",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20557",
+    "expte": "20599",
     "nota": "",
-    "texto": "De interés el 13º desafío Paso Timboy “Huellas”, en la ciudad de Monte Caseros. Bloque Partido Popular.",
-    "autores": "",
+    "texto": "De interés el Festival de la Torta Frita y la Tradición, en Bonpland.",
+    "autores": "Dip. Benítez E.",
     "leconte": false
    },
    {
     "item": "d.37",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20563",
+    "expte": "20602",
     "nota": "",
-    "texto": "De interés el 41º aniversario de la fundación del Hospital Geriátrico “Juana Francisca Cabral”.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "De interés la distinción otorgada al periodista correntino Jaime Aníbal Meza, con el primer premio de la Asociación de Entidades Periodísticas Argentinas (ADEPA) 2026, en la categoría “Periodismo de Investigación”.",
+    "autores": "Dips. Améndola, Giotta, Romero y Tassano.",
     "leconte": false
    },
    {
     "item": "d.38",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20564",
+    "expte": "20603",
     "nota": "",
-    "texto": "De interés las actividades en conmemoración del Día de la Educación Física.",
-    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "texto": "De interés el Encuentro Internacional “Alfabetización: memorias, debates y futuros”.",
+    "autores": "Dip. Pavón.",
     "leconte": false
    },
    {
     "item": "d.39",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20565",
+    "expte": "20606",
     "nota": "",
-    "texto": "De interés y reconocimiento para el deportista correntino Jeremías José Fisch, oriundo de la ciudad de Ituzaingó, por su destacada participación en el Campeonato Mundial de la WKF (World Kickboxing Federation) desarrollado en Cartagena de Indias, República de Colombia.",
-    "autores": "Dip. Lazaroff Pucciariello.",
+    "texto": "De interés la participación de los estudiantes de la Facultad de Derecho y Ciencias Sociales y Políticas de la Universidad Nacional del Nordeste: Emiliano J. Salvador Martínez, Nicolás A. Anocibar, Fernanda A. Sainz, Marcos E. Leyes Pérez y Ana L. Cabrera Lagues, como finalistas de la 8ª Edición del",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.40",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20566",
+    "expte": "20609",
     "nota": "",
-    "texto": "De interés la “Fiesta de San Cirilo”, en la Estancia San Cirilo, del departamento de General Paz.",
-    "autores": "Dip. Lazaroff Pucciariello.",
+    "texto": "De reconocimiento y homenaje a los productores tabacaleros de la Provincia, con motivo del Día Mundial del Productor Tabacalero.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.41",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20567",
+    "expte": "20610",
     "nota": "",
-    "texto": "De interés los actos y festejos por la celebración de “Ángeles Somos” en las distintas localidades de la Provincia.",
-    "autores": "Dip. Lazaroff Pucciariello.",
+    "texto": "De interés la trayectoria científica, académica y profesional del Dr. Carlos A. Busatto, de la ciudad de Esquina.",
+    "autores": "Dip. Benítez H.",
     "leconte": false
    },
    {
     "item": "d.42",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20568",
+    "expte": "20611",
     "nota": "",
-    "texto": "De interés la 10ª Fiesta Provincial del Búfalo, en la localidad de Caá Catí.",
-    "autores": "Dip. Lazaroff Pucciariello.",
+    "texto": "De interés las actividades de la Fundación Miguelito Rosbaco durante el mes de noviembre, bajo el lema “Allí, donde nos habitamos”. Bloque Partido Popular.",
+    "autores": "",
     "leconte": false
    },
    {
     "item": "d.43",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20569",
+    "expte": "20612",
     "nota": "",
-    "texto": "De interés y reconocimiento para Josefina Azula, oriunda de la localidad de Empedrado, quien se consagró ganadora de la medalla de oro en la Olimpíada Internacional de Matemática celebrada en la República de Colombia.",
-    "autores": "Dip. Lazaroff Pucciariello.",
+    "texto": "De interés la I Jornada Provincial de Enfermería Gerontogeriátrica, bajo el lema “Envejecer en un mundo que cambia: saberes y prácticas en el contexto actual”. Bloque Partido Popular.",
+    "autores": "",
     "leconte": false
    },
    {
     "item": "d.44",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20574",
+    "expte": "20613",
     "nota": "",
-    "texto": "De interés la destacada participación académica en las Olimpiadas de Matemática con medalla de oro de la señorita Josefina Azula, alumna de la Escuela Normal “Dr. Fernando Piragine Niveyro” de la localidad de Empedrado.",
-    "autores": "Dips. Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "De interés la 95ª Fiesta de Santa Catalina, en RN Nº 14 km 776 - paraje Santa Catalina. Bloque Partido Popular.",
+    "autores": "",
     "leconte": false
    },
    {
     "item": "d.45",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20573",
+    "expte": "20614",
     "nota": "",
-    "texto": "De interés el XI Congreso Sanmartiniano, en el Centro Cultural Sanmartiniano de la ciudad de Corrientes.",
-    "autores": "Dips. Aparicio, Lezcano, Ojeda y Vidal Domínguez.",
+    "texto": "De interés las actividades en conmemoración del Día del Taquígrafo Parlamentario.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
     "leconte": false
    },
    {
     "item": "d.46",
     "seccion": "Proyectos presentados por los señores diputados",
-    "expte": "20576",
+    "expte": "20615",
     "nota": "",
-    "texto": "De interés la Fiesta Provincial de la Caña de Azúcar, en Colonia San Antonio, departamento de San Miguel.",
-    "autores": "Dips. Aparicio, Lezcano y Vidal Domínguez.",
+    "texto": "De interés las actividades en conmemoración del Día del Trabajador Judicial Argentino.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.47",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20617",
+    "nota": "",
+    "texto": "De interés las actividades en conmemoración del Día de la Educación Técnica.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.48",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20621",
+    "nota": "",
+    "texto": "De interés la Primera Jornada Regional de Neonatología, en la Facultad de Derecho de la UNNE. Bloque Partido Popular.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.49",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20625",
+    "nota": "",
+    "texto": "De interés el evento “Encuentro Cannabis - 1ª Edición del Litoral”, en el predio Espacio Andes de la ciudad de Corrientes.",
+    "autores": "Dip. Benítez E.",
+    "leconte": false
+   },
+   {
+    "item": "d.50",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20626",
+    "nota": "",
+    "texto": "De interés la conmemoración del Día de la Tradición, en homenaje al nacimiento del escritor José Hernández.",
+    "autores": "Dip. Benítez H.",
+    "leconte": false
+   },
+   {
+    "item": "d.51",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20629",
+    "nota": "",
+    "texto": "De interés la Semana del Prematuro, en la maternidad María de la Dulce Espera del hospital “Ángela Iglesia de Llano”. Bloque Partido Popular.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.52",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20630",
+    "nota": "",
+    "texto": "De interés el XVII Encuentro de Productores y Armadores de Cigarros y Puros 2026, en el multiespacio Ferial Costa Surubí de la ciudad de Goya.",
+    "autores": "Dip. Méndez Vernengo.",
+    "leconte": false
+   },
+   {
+    "item": "d.53",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20631",
+    "nota": "",
+    "texto": "De interés la 23ª edición de la Fiesta Nacional de la Naranja y la Diversidad Productiva, en la localidad de Bella Vista.",
+    "autores": "Dip. Améndola.",
+    "leconte": false
+   },
+   {
+    "item": "d.54",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20634",
+    "nota": "",
+    "texto": "De interés la XXIII Fiesta Nacional de la Naranja y la Diversidad Productiva, en la ciudad de Bella Vista.",
+    "autores": "Dip. Giotta.",
+    "leconte": false
+   },
+   {
+    "item": "d.55",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20632",
+    "nota": "",
+    "texto": "De interés las celebraciones y actividades pastorales programadas en el marco de la histórica gira regional de su santidad el papa León XIV.",
+    "autores": "Dip. Almirón.",
+    "leconte": false
+   },
+   {
+    "item": "d.56",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20635",
+    "nota": "",
+    "texto": "De interés la 2ª Jornada de Enfermedades Poco Frecuentes (2º Encuentro Interdisciplinario sobre Enfermedades Poco Frecuentes), en el Salón OSDE de la ciudad de Corrientes.",
+    "autores": "Dip. Leconte.",
+    "leconte": true
+   },
+   {
+    "item": "d.57",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20636",
+    "nota": "",
+    "texto": "De interés el centenario de la fundación de la Cooperativa Agrícola de Colonia Liebig.",
+    "autores": "Dip. Améndola.",
+    "leconte": false
+   },
+   {
+    "item": "d.58",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20638",
+    "nota": "",
+    "texto": "De interés el centenario de la fundación de la Cooperativa Agrícola de Colonia Liebig Ltda.",
+    "autores": "Dip. Giotta.",
+    "leconte": false
+   },
+   {
+    "item": "d.59",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20637",
+    "nota": "",
+    "texto": "De beneplácito y reconocimiento a la ciclista goyana Sonia Ferrara por la medalla de oro obtenida en la prueba de persecución individual, categoría Máster Damas B, del Campeonato Argentino de Pista Máster y Elite II 2026.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.60",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20639",
+    "nota": "",
+    "texto": "De interés la presentación del libro “ El sistema profesional inmobiliario. Fundamentos, estándares, instituciones y práctica profesional”, impulsado por la Cámara Inmobiliaria de Corrientes.",
+    "autores": "Dip. Branz.",
+    "leconte": false
+   },
+   {
+    "item": "d.61",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20640",
+    "nota": "",
+    "texto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026), en la categoría mejor Obra/Composición clásica, por su obra: Adagio de las tres y diez.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.62",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20642",
+    "nota": "",
+    "texto": "De interés el 294º aniversario de la fundación de Saladas.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.63",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20643",
+    "nota": "",
+    "texto": "De interés las actividades que se realicen en conmemoración del Día Nacional de la Enfermería.",
+    "autores": "Dips. Canteros, Fernández Recalde y Gortari.",
+    "leconte": false
+   },
+   {
+    "item": "d.64",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20644",
+    "nota": "",
+    "texto": "De interés la Primera Jornada Fundacional “Enfermería de Pie: Nace Nuestro Colegio”, organizada por el Colegio de Profesionales de Enfermería de la provincia, en la ciudad de Corrientes.",
+    "autores": "Dip. Améndola.",
+    "leconte": false
+   },
+   {
+    "item": "d.65",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20645",
+    "nota": "",
+    "texto": "De interés la Primera Jornada Fundacional del Colegio de Profesionales de Enfermería de la Provincia de Corrientes, bajo el lema: Enfermería de pie, nace nuestro Colegio, en la ciudad de Corrientes.",
+    "autores": "Dip. Ast.",
+    "leconte": false
+   },
+   {
+    "item": "d.66",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20646",
+    "nota": "",
+    "texto": "De interés la obra literaria titulada “Che Roga Yekove”, autoría de la profesora y escritora correntina Ingrid Teresa Miranda.",
+    "autores": "Dip. Gauna.",
+    "leconte": false
+   },
+   {
+    "item": "d.67",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20647",
+    "nota": "",
+    "texto": "De interés las actividades del Hospital Materno Neonatal “Eloísa T. de Vidal”, en el marco de la concientización de la Semana del Prematuro. Bloque Partido Popular.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "d.68",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20648",
+    "nota": "",
+    "texto": "De interés al Ballet Sentido Folklore, en reconocimiento a su trayectoria y compromiso con la difusión de las danzas folklóricas argentinas.",
+    "autores": "Dip. Calvano.",
+    "leconte": false
+   },
+   {
+    "item": "d.69",
+    "seccion": "Proyectos presentados por los señores diputados",
+    "expte": "20649",
+    "nota": "",
+    "texto": "De interés la 60ª edición de la Fiesta Nacional del Folklore Correntino, en el anfiteatro Genaro Berón de Astrada de la localidad de Santo Tomé.",
+    "autores": "Dip. Améndola.",
+    "leconte": false
+   },
+   {
+    "item": "e.01",
+    "seccion": "Expedientes con despacho de comisión que van a prensa",
+    "expte": "19916",
+    "nota": "",
+    "texto": "Despacho 3378 de las Comisiones de Asuntos Constitucionales y Legislación General y de Salud Pública que aconsejan SANCIÓN FAVORABLE CON MODIFICACIONES al proyecto de ley que crea el Protocolo Provincial de Abordaje en Situaciones de Crisis de Salud Mental. Bloque Liberal.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "e.02",
+    "seccion": "Expedientes con despacho de comisión que van a prensa",
+    "expte": "19980",
+    "nota": "",
+    "texto": "Despacho 3376 de la Comisión de Producción, Industria, Comercio y Turismo que aconseja SANCIÓN FAVORABLE CON MODIFICACIONES al proyecto de ley que crea el Programa de Valorización y Fomento a la Producción Lanera Correntina.",
+    "autores": "Dip. Benítez E.",
+    "leconte": false
+   },
+   {
+    "item": "e.03",
+    "seccion": "Expedientes con despacho de comisión que van a prensa",
+    "expte": "20001",
+    "nota": "",
+    "texto": "Despacho 3375 de la Comisión de Educación, Cultura, Ciencia y Tecnología que aconseja SANCIÓN FAVORABLE CON MODIFICACIONES al proyecto de ley que declara integrante del Patrimonio Cultural de la Provincia de Corrientes, al conjunto de imaginería religiosa y en especial a las sagradas imágenes marian",
+    "autores": "Dip. Benítez E.",
+    "leconte": false
+   },
+   {
+    "item": "e.04",
+    "seccion": "Expedientes con despacho de comisión que van a prensa",
+    "expte": "20297",
+    "nota": "",
+    "texto": "Despacho 3372 de la Comisión de Educación, Cultura, Ciencia y Tecnología que aconseja SANCIÓN FAVORABLE CON MODIFICACIONES al proyecto de ley que declara Patrimonio Cultural de la Provincia de Corrientes a la Imagen de “Nuestro Señor Hallado”. Bloque Partido Liberal.",
+    "autores": "",
+    "leconte": false
+   },
+   {
+    "item": "e.05",
+    "seccion": "Expedientes con despacho de comisión que van a prensa",
+    "expte": "20442",
+    "nota": "",
+    "texto": "Despacho 3373 de la Comisión de Educación, Cultura, Ciencia y Tecnología que aconseja SANCIÓN FAVORABLE CON MODIFICACIONES al proyecto de ley del Día Provincial de Concientización sobre la Parálisis Cerebral y Afecciones Neuromotoras y del Neurodesarrollo Relacionadas.",
+    "autores": "Dip. Branz.",
+    "leconte": false
+   },
+   {
+    "item": "e.06",
+    "seccion": "Expedientes con despacho de comisión que van a prensa",
+    "expte": "20486",
+    "nota": "",
+    "texto": "Despacho 3377 de la Comisión de Legislación del Trabajo, Previsión y Seguridad Social que aconseja SANCIÓN FAVORABLE SIN MODIFICACIONES al proyecto de ley de modificación de la ley 2839.",
+    "autores": "Dip. Améndola.",
+    "leconte": false
+   },
+   {
+    "item": "e.07",
+    "seccion": "Expedientes con despacho de comisión que van a prensa",
+    "expte": "20511",
+    "nota": "",
+    "texto": "Despacho 3374 de la Comisión de Educación, Cultura, Ciencia y Tecnología que aconseja SANCIÓN FAVORABLE CON MODIFICACIONES al proyecto de ley de adhesión a la ley nacional 27333 - “15 de septiembre Día Nacional de la Concientización del Linfoma”-.",
+    "autores": "Dip. Calvano.",
     "leconte": false
    }
   ],
   "anteriores": [
+   {
+    "rotulo": "28/10/2026 - 18ª - S.O.",
+    "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/10/Ordinaria-28-10-26.pdf"
+   },
    {
     "rotulo": "14/10/2026 - 17ª - S.O.",
     "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/10/Ordinaria-14-10-26.docx.pdf"
@@ -512,10 +795,6 @@
    {
     "rotulo": "23/09/2026 - 16ª - S.O.",
     "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/09/Ordinaria-23-09-26.pdf"
-   },
-   {
-    "rotulo": "16/09/2026 - 15ª - S.O.",
-    "pdf": "https://hcdcorrientes.gov.ar/wp-content/uploads/2026/09/Ordinaria-16-09-26-2.pdf"
    }
   ]
  },
@@ -917,10 +1196,24 @@
    "antes": ""
   }
  },
- "errores": {},
- "actualizado": "2026-11-17T11:14-03:00",
+ "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests"
+ },
+ "actualizado": "2026-11-17T11:40-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Jorge Macri lanzó un régimen que devolverá el 25% de las inversiones de las pymes en Ingresos Brutos",
+    "link": "https://derechadiario.com.ar/economia/jorge-macri-lanzo-regimen-que-devolvera-25-inversiones-pymes-en-ingresos-brutos",
+    "fecha": "Tue, 17 Nov 2026 14:27:17 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "El PRO finalmente confirmó su apoyo a la suspensión de las PASO que impulsa Milei",
+    "link": "https://derechadiario.com.ar/politica/pro-finalmente-confirmo-apoyo-suspension-paso-que-impulsa-milei",
+    "fecha": "Tue, 17 Nov 2026 14:24:46 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "EN VIVO | Adrián Ravier brinda una nueva conferencia de prensa y detalla la agenda del Gobierno",
     "link": "https://derechadiario.com.ar/politica/en-vivo-adrian-ravier-brinda-nueva-conferencia-prensa-detalla-agenda-gobierno",
@@ -956,18 +1249,6 @@
     "link": "https://derechadiario.com.ar/politica/gordo-dan-derroto-diputado-lgbtiq-esteban-paulon-en-justicia",
     "fecha": "Mon, 16 Nov 2026 20:28:05 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Milei eliminó una medida del kirchnerismo que beneficiaba a los extranjeros con órdenes de deportación",
-    "link": "https://derechadiario.com.ar/politica/milei-elimino-medida-kirchnerismo-que-beneficiaba-extranjeros-ordenes-deportacion",
-    "fecha": "Mon, 16 Nov 2026 19:49:37 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Campaña Anti-Argentina: medios brasileños difundieron fake news contra Javier Milei",
-    "link": "https://derechadiario.com.ar/politica/campana-anti-argentina-medios-brasilenos-difundieron-fake-news-javier-milei",
-    "fecha": "Mon, 16 Nov 2026 19:44:21 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -985,22 +1266,22 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "PASO: la Casa Rosada lleva un nuevo proyecto al Senado, cruzado por lo que piden los gobernadores y la tensión con Bullrich",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTERVMVFHaUZKYmtncHMxaGxhUndNN3VkVEljNFBubUJpZUVLS0pXMzB4ZmRsazhvdHRHLUp1dXpsekp5eTh4TVpSYnpQUm5nVmVaVEc4c3hyOVE0M2FSMEdzWmJlVmZrdjhDVW5oaG9LWEdoTTZ5RGhUS1M5dmFlb1FUSWZnYkNmTC1zSDRuWnlrQjBkNXE3YXMybUluclpFVG1ISV90X2o3TEdVWTRJVGxzRHIySjdiVmpRWVEzM0FMYXA3eEtqRXBBRDk3R1FJbnhKcFUxZmRKTE56a1VhNEUtVmZnZWdlR09nQmp0TmNWeHFHUjVjZXRR?oc=5",
-   "fecha": "Tue, 17 Nov 2026 08:35:53 GMT",
-   "fuente": "Perfil"
-  },
-  {
    "titulo": "Milei en modo electoral: elogió a los empresarios y tuvo un gesto hacia Bullrich",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFJaSkdOMklGSGo5UUwyZ0cyMDdraUk0MUVKRUgzckxUT0VCRTVyNi1BOHNyVldkVlNsd0hnZXR3MFRaRFR2bWlxdkUtc09xWUwxajVzRG1NTFBmQlRtQkFEZFZSdnJXdnI4UGdHS2V6MURZU1lzSlpMLVFQRG53QnVfLS12QzJhdlFZbzJZeFR5anRsUmlLYUk4eFY3Vnl5ZmdLU1dybw?oc=5",
    "fecha": "Tue, 17 Nov 2026 01:29:09 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "18N: los médicos residentes vuelven a parar y coparán las calles porteñas",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc0FoS2JnNXF5QWtCdmRZNTdybXA3OHQ4a3duSXBOMmdVRmJScG9xVHp3M3cxZmU0RVk0eGhaaG1lSGFzWFhaNWRYTHFqU25IbDIySnZGbGtxLUdvWVZheXNrazV1aXdjc25mdEV5d2VQUEVYSmk4N0NlV3JzVkstanVXelhvcW5iTFVvVF9TYmVWWnNLUC1hMWQ3enJ0Z3ozYXVEVzJWd05ncTllZUlJaDVwcU1zakVRQWIyNjRRRQ?oc=5",
-   "fecha": "Tue, 17 Nov 2026 00:22:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "PASO: la Casa Rosada lleva un nuevo proyecto al Senado, cruzado por lo que piden los gobernadores y la tensión con Bullrich",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTERVMVFHaUZKYmtncHMxaGxhUndNN3VkVEljNFBubUJpZUVLS0pXMzB4ZmRsazhvdHRHLUp1dXpsekp5eTh4TVpSYnpQUm5nVmVaVEc4c3hyOVE0M2FSMEdzWmJlVmZrdjhDVW5oaG9LWEdoTTZ5RGhUS1M5dmFlb1FUSWZnYkNmTC1zSDRuWnlrQjBkNXE3YXMybUluclpFVG1ISV90X2o3TEdVWTRJVGxzRHIySjdiVmpRWVEzM0FMYXA3eEtqRXBBRDk3R1FJbnhKcFUxZmRKTE56a1VhNEUtVmZnZWdlR09nQmp0TmNWeHFHUjVjZXRR?oc=5",
+   "fecha": "Tue, 17 Nov 2026 08:35:53 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "Techint ganó una de las licitaciones de los caños de Argentina LNG",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWc0SzJRTXpISWFxX2t4RTlhQloySERqei1GS3dsYkFRTG45TXdpVE1XMmlUT1RuSjdDV3NuTl9RY1EtMkpXVmR3dDJmdUZfNzRKYTNhLVlSSDFLRXFRVUlCaTRPY2ViN05jdFM2WU43WjJiVzVJelZJaG9VczV4OXZndjJsZEVHRU5BX3l0dnRsQ25rUzFwdGhUSHJ5MFRTRHlNcmFDdmNlVXhHaEVVOQ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 10:28:14 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "El Niño y un fenómeno récord: el mapa mes a mes de las regiones donde más lloverá en Argentina",
@@ -1009,10 +1290,16 @@
    "fuente": "Crónica"
   },
   {
-   "titulo": "Techint ganó una de las licitaciones de los caños de Argentina LNG",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWc0SzJRTXpISWFxX2t4RTlhQloySERqei1GS3dsYkFRTG45TXdpVE1XMmlUT1RuSjdDV3NuTl9RY1EtMkpXVmR3dDJmdUZfNzRKYTNhLVlSSDFLRXFRVUlCaTRPY2ViN05jdFM2WU43WjJiVzVJelZJaG9VczV4OXZndjJsZEVHRU5BX3l0dnRsQ25rUzFwdGhUSHJ5MFRTRHlNcmFDdmNlVXhHaEVVOQ?oc=5",
-   "fecha": "Tue, 17 Nov 2026 10:28:14 GMT",
-   "fuente": "Perfil"
+   "titulo": "18N: los médicos residentes vuelven a parar y coparán las calles porteñas",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc0FoS2JnNXF5QWtCdmRZNTdybXA3OHQ4a3duSXBOMmdVRmJScG9xVHp3M3cxZmU0RVk0eGhaaG1lSGFzWFhaNWRYTHFqU25IbDIySnZGbGtxLUdvWVZheXNrazV1aXdjc25mdEV5d2VQUEVYSmk4N0NlV3JzVkstanVXelhvcW5iTFVvVF9TYmVWWnNLUC1hMWQ3enJ0Z3ozYXVEVzJWd05ncTllZUlJaDVwcU1zakVRQWIyNjRRRQ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 00:22:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Cristina elige para la Magistratura a un diputado muy cercano a Massa y descoloca al kirchnerismo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTZ3aHJJb0tMSzItZmd1ZlB3YVZYdmQ4M3BPelRCb3V4dGVRRzQ5NVdyMUlDY2Y3NDBxb3MxUjZzRWo0dEJvdDFwM1lRMFFhYUd1Y1JtSGFfYkNCRDdMakhoN0NFemlNdU1WV1lDVXB5V0ZDWUtwQkJVUi1IY3NOTlVLYkJmTkpQOG1vR1U1U19YSldIQTFMMHRqdlVTWFV5Y1dmR2dPX2dxNWtrMzJEekNKa3VuQ1gzdTRzU19vX0o?oc=5",
+   "fecha": "Mon, 16 Nov 2026 21:17:19 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Sube el río en Rosario y hay más evacuados en Santa Fe",
@@ -1033,16 +1320,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Denuncian a Federico Beligoy por lavado de dinero ante la justicia federal",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDR6TXBPQ2YxMXVhN3d2UnpfejUtTWxpQ3k2Rl9TclV2LWlvLVFPVGd3VDhodUt4RFdNajlDUTh4V0lEMm15M0xicXdWRV9JdUJCRVVyRTFQSWp5QXI5Z1U0QTRVZFBjb2FFZEpoM1phdDlUTVdwcW1PME13cWFqdEVkVDA4eGR6WmFObklVNFd5Q1dPMUZKc1gwUDRyVy1ZUE9aNFo2cHJlVDAzdTd1b2s0V3FmYlpORTNUNkc3ZThiZw?oc=5",
-   "fecha": "Mon, 16 Nov 2026 16:03:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Más de 4.000 vidas truncadas por siniestros viales en Argentina en un año: el dolor detrás de las cifras",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTBGXzBDQVNGZlNpUk5oNjhVVldXSlZKc0dJdHlWVGxWeEZpaEU2TWQ3d1JsdnpKakNnZ2h6T25TQ1RqaFFhVkpMb1FoNE5FVFJPZExIQjF0WFg3NHdNRDRRc05yc3R4bDM0VTQ2b3JYNGhrTjYySURDTFRVSWhMQlY2QXRfR01nWlNna2RYRnQ1eFpmU3Nyc29TSFRqWV91aXpILUt5b1ItN2l0amJULXhHdEtsdl9nTDdXd0g4ME42dU5ETG5aeNIBwgFBVV95cUxNamtnLWVvbDlBRTNyVkY1d09oRVdxalljVjRnTGhuSFRtQWtuZHNTZEdXdWdiSEFnSXlXV3FzR3pTWEpjaFZZc1NCQTBzZ0JlM1c3LUFrZDdsUnhYSmRFUm9Yd0NvWS1pcFNrN0JkdDBxUTlvZU9iMjhUMDVYX21iMnY2cVUzOE56ZnF5QXlqRlV4VHRRb1dmMFdzN3hnV05BNTNkVjZaN3l5d1hUYUZVeTJmc1dIdzRQYURobHdfaWFuQQ?oc=5",
-   "fecha": "Tue, 17 Nov 2026 00:40:00 GMT",
-   "fuente": "Elonce.com"
+   "titulo": "Millones en efectivo y propiedades bajo sospecha: la Justicia investiga a Federico Beligoy por lavado de dinero",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWxrc0RmWUhHejQzVm5MSnR1dEpiTW90eGtiQ3hJWlcxSVFuVVRpTVVRek1qSl9nai1GdTRxMTFNR2V4NEQwVUNNQ3B4UkJWOVZDV3d0TnFWZmRKdFJFWGVrYkdSdXNVbDlXTFh1RFVxckxTU2RMdXJzejRVM004SEdCcVlKQ2t2Q3RwZkQtakZUNENnRDA4a2M0RXpSMkdMOEJoS2xfdnIwUQ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 00:38:17 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Pruebas Aprender: evaluarán a casi 700 mil alumnos de tercer grado de todo el país",
@@ -1063,9 +1344,9 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "Rige alerta naranja y amarilla por tormentas en Entre Ríos: prevén lluvias intensas y granizo",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0FmYXJSUGVOeHowT3Y0Wlk3RHJvNDNpTTFEYTB6dlF6SHkyQ2ZsWXZTaXNJUEF6b0lTak9nZHRnQjh6eXA2UWVrcFNLbWxNaC05NVJ5TWpLdDJLWmNxbXdNanNOOXpmaTBaNXk4aDFaZ0ZhNDdZUkIwM3BQd1ZiUGR6cnZvRFRtcktVQTVtaFBKc3ZXblp5Mk1KYjh0dHNRLTFvTlU4cGdCc3BOVFNpXzRMRHF1OVF0dkNiOWt2MlE3c3ZBN3Jr0gHAAUFVX3lxTE5POFVkRmJBLTBHTGJnTFpzdmZLQ3BvOFl2ZUFnRkJPeGFRSWg4T2NYaFM2by1yVUVFSDNvWXVaVGw4eXduSFdKSkZTWlFoSDU3UkJyTVZ6NFRhSUxpUzR0cEtUN2lFVUJPSDltQzFaX1ZWdUp6ck4xZGpraHNpMThpOWtISGhidHJEbUtXSFU1V3dDekFlWnFuQjctcDNKWnVDQlZtMGdkN2I3VUNUMTh3SEEteGZjRDlybkFXXzVoeg?oc=5",
-   "fecha": "Tue, 17 Nov 2026 07:10:12 GMT",
+   "titulo": "Más de 4.000 vidas truncadas por siniestros viales en Argentina en un año: el dolor detrás de las cifras",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVTBGXzBDQVNGZlNpUk5oNjhVVldXSlZKc0dJdHlWVGxWeEZpaEU2TWQ3d1JsdnpKakNnZ2h6T25TQ1RqaFFhVkpMb1FoNE5FVFJPZExIQjF0WFg3NHdNRDRRc05yc3R4bDM0VTQ2b3JYNGhrTjYySURDTFRVSWhMQlY2QXRfR01nWlNna2RYRnQ1eFpmU3Nyc29TSFRqWV91aXpILUt5b1ItN2l0amJULXhHdEtsdl9nTDdXd0g4ME42dU5ETG5aeNIBwgFBVV95cUxNamtnLWVvbDlBRTNyVkY1d09oRVdxalljVjRnTGhuSFRtQWtuZHNTZEdXdWdiSEFnSXlXV3FzR3pTWEpjaFZZc1NCQTBzZ0JlM1c3LUFrZDdsUnhYSmRFUm9Yd0NvWS1pcFNrN0JkdDBxUTlvZU9iMjhUMDVYX21iMnY2cVUzOE56ZnF5QXlqRlV4VHRRb1dmMFdzN3hnV05BNTNkVjZaN3l5d1hUYUZVeTJmc1dIdzRQYURobHdfaWFuQQ?oc=5",
+   "fecha": "Tue, 17 Nov 2026 00:40:00 GMT",
    "fuente": "Elonce.com"
   }
  ],
