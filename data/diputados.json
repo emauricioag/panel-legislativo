@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T15:36-03:00",
+ "actualizado": "2026-11-18T03:54-03:00",
  "desde": "2025-12-10",
  "sesiones": 20,
  "ultima_sesion": "2026-10-14",
@@ -364,6 +364,12 @@
    },
    "ultimos": [
     {
+     "expte": "20162",
+     "tipo": "Declaración",
+     "asunto": "De interés la Resolución del Comité Especial de Descolonización de las Naciones Unidas sobre la “Cuestión de las Islas Malvinas” (A/AC.109/2015/L.7) por el que se pide al Gobierno del Reino Unido afiance el proceso de di",
+     "aprobado": false
+    },
+    {
      "expte": "20648",
      "tipo": "Declaración",
      "asunto": "De interés al Ballet Sentido Folklore, en reconocimiento a su trayectoria y compromiso con la difusión de las danzas folklóricas argentinas.",
@@ -379,12 +385,6 @@
      "expte": "20623",
      "tipo": "Ley",
      "asunto": "Adhesión a la ley nacional 26879 del Registro Nacional de Datos Genéticos Vinculados con la Investigación Criminal.",
-     "aprobado": false
-    },
-    {
-     "expte": "20622",
-     "tipo": "Ley",
-     "asunto": "Ley de Pasafauna.",
      "aprobado": false
     }
    ]
