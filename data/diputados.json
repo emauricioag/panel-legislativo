@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-18T03:54-03:00",
+ "actualizado": "2026-11-18T16:06-03:00",
  "desde": "2025-12-10",
  "sesiones": 20,
  "ultima_sesion": "2026-10-14",
- "expedientes": 978,
+ "expedientes": 983,
  "diputados": {
   "Améndola|Ana Gabriela": {
    "presentes": 18,
@@ -13,8 +13,8 @@
     "2026-07-08"
    ],
    "presentados": 31,
-   "aprobados": 17,
-   "en_comision": 14,
+   "aprobados": 21,
+   "en_comision": 10,
    "solo": 25,
    "tipos": {
     "Declaración": 21,
@@ -26,25 +26,25 @@
      "expte": "20649",
      "tipo": "Declaración",
      "asunto": "De interés la 60ª edición de la Fiesta Nacional del Folklore Correntino, en el anfiteatro Genaro Berón de Astrada de la localidad de Santo Tomé.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20644",
      "tipo": "Declaración",
      "asunto": "De interés la Primera Jornada Fundacional “Enfermería de Pie: Nace Nuestro Colegio”, organizada por el Colegio de Profesionales de Enfermería de la provincia, en la ciudad de Corrientes.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20636",
      "tipo": "Declaración",
      "asunto": "De interés el centenario de la fundación de la Cooperativa Agrícola de Colonia Liebig.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20631",
      "tipo": "Declaración",
      "asunto": "De interés la 23ª edición de la Fiesta Nacional de la Naranja y la Diversidad Productiva, en la localidad de Bella Vista.",
-     "aprobado": false
+     "aprobado": true
     }
    ]
   },
@@ -55,8 +55,8 @@
     "2026-09-23"
    ],
    "presentados": 81,
-   "aprobados": 24,
-   "en_comision": 57,
+   "aprobados": 25,
+   "en_comision": 56,
    "solo": 6,
    "tipos": {
     "Resolución": 40,
@@ -64,6 +64,12 @@
     "Declaración": 28
    },
    "ultimos": [
+    {
+     "expte": "20632",
+     "tipo": "Declaración",
+     "asunto": "De interés las celebraciones y actividades pastorales programadas en el marco de la histórica gira regional de su santidad el papa León XIV.",
+     "aprobado": true
+    },
     {
      "expte": "20653",
      "tipo": "Ley",
@@ -80,12 +86,6 @@
      "expte": "20651",
      "tipo": "Resolución",
      "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
-     "aprobado": false
-    },
-    {
-     "expte": "20650",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
      "aprobado": false
     }
    ]
@@ -138,8 +138,8 @@
    "ausencias": 0,
    "ultimas_ausencias": [],
    "presentados": 8,
-   "aprobados": 5,
-   "en_comision": 3,
+   "aprobados": 6,
+   "en_comision": 2,
    "solo": 5,
    "tipos": {
     "Declaración": 4,
@@ -151,7 +151,7 @@
      "expte": "20645",
      "tipo": "Declaración",
      "asunto": "De interés la Primera Jornada Fundacional del Colegio de Profesionales de Enfermería de la Provincia de Corrientes, bajo el lema: Enfermería de pie, nace nuestro Colegio, en la ciudad de Corrientes.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20419",
@@ -310,8 +310,8 @@
     "2026-07-08"
    ],
    "presentados": 13,
-   "aprobados": 7,
-   "en_comision": 6,
+   "aprobados": 8,
+   "en_comision": 5,
    "solo": 11,
    "tipos": {
     "Declaración": 8,
@@ -323,7 +323,7 @@
      "expte": "20639",
      "tipo": "Declaración",
      "asunto": "De interés la presentación del libro “ El sistema profesional inmobiliario. Fundamentos, estándares, instituciones y práctica profesional”, impulsado por la Cámara Inmobiliaria de Corrientes.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20583",
@@ -354,8 +354,8 @@
     "2026-08-26"
    ],
    "presentados": 44,
-   "aprobados": 33,
-   "en_comision": 11,
+   "aprobados": 34,
+   "en_comision": 10,
    "solo": 41,
    "tipos": {
     "Declaración": 28,
@@ -364,15 +364,15 @@
    },
    "ultimos": [
     {
-     "expte": "20162",
-     "tipo": "Declaración",
-     "asunto": "De interés la Resolución del Comité Especial de Descolonización de las Naciones Unidas sobre la “Cuestión de las Islas Malvinas” (A/AC.109/2015/L.7) por el que se pide al Gobierno del Reino Unido afiance el proceso de di",
-     "aprobado": false
-    },
-    {
      "expte": "20648",
      "tipo": "Declaración",
      "asunto": "De interés al Ballet Sentido Folklore, en reconocimiento a su trayectoria y compromiso con la difusión de las danzas folklóricas argentinas.",
+     "aprobado": true
+    },
+    {
+     "expte": "20162",
+     "tipo": "Declaración",
+     "asunto": "De interés la Resolución del Comité Especial de Descolonización de las Naciones Unidas sobre la “Cuestión de las Islas Malvinas” (A/AC.109/2015/L.7) por el que se pide al Gobierno del Reino Unido afiance el proceso de di",
      "aprobado": false
     },
     {
@@ -398,8 +398,8 @@
     "2026-10-14"
    ],
    "presentados": 198,
-   "aprobados": 94,
-   "en_comision": 104,
+   "aprobados": 98,
+   "en_comision": 100,
    "solo": 0,
    "tipos": {
     "Declaración": 109,
@@ -411,25 +411,25 @@
      "expte": "20643",
      "tipo": "Declaración",
      "asunto": "De interés las actividades que se realicen en conmemoración del Día Nacional de la Enfermería.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20642",
      "tipo": "Declaración",
      "asunto": "De interés el 294º aniversario de la fundación de Saladas.",
-     "aprobado": false
-    },
-    {
-     "expte": "20641",
-     "tipo": "Declaración",
-     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20640",
      "tipo": "Declaración",
      "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
-     "aprobado": false
+     "aprobado": true
+    },
+    {
+     "expte": "20637",
+     "tipo": "Declaración",
+     "asunto": "De beneplácito y reconocimiento a la ciclista goyana Sonia Ferrara por la medalla de oro obtenida en la prueba de persecución individual, categoría Máster Damas B, del Campeonato Argentino de Pista Máster y Elite II 2026",
+     "aprobado": true
     }
    ]
   },
@@ -484,8 +484,8 @@
     "2026-09-23"
    ],
    "presentados": 202,
-   "aprobados": 96,
-   "en_comision": 106,
+   "aprobados": 100,
+   "en_comision": 102,
    "solo": 0,
    "tipos": {
     "Declaración": 112,
@@ -497,25 +497,25 @@
      "expte": "20643",
      "tipo": "Declaración",
      "asunto": "De interés las actividades que se realicen en conmemoración del Día Nacional de la Enfermería.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20642",
      "tipo": "Declaración",
      "asunto": "De interés el 294º aniversario de la fundación de Saladas.",
-     "aprobado": false
-    },
-    {
-     "expte": "20641",
-     "tipo": "Declaración",
-     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20640",
      "tipo": "Declaración",
      "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
-     "aprobado": false
+     "aprobado": true
+    },
+    {
+     "expte": "20637",
+     "tipo": "Declaración",
+     "asunto": "De beneplácito y reconocimiento a la ciclista goyana Sonia Ferrara por la medalla de oro obtenida en la prueba de persecución individual, categoría Máster Damas B, del Campeonato Argentino de Pista Máster y Elite II 2026",
+     "aprobado": true
     }
    ]
   },
@@ -527,8 +527,8 @@
     "2026-09-23"
    ],
    "presentados": 68,
-   "aprobados": 21,
-   "en_comision": 47,
+   "aprobados": 22,
+   "en_comision": 46,
    "solo": 58,
    "tipos": {
     "Resolución": 27,
@@ -540,7 +540,7 @@
      "expte": "20646",
      "tipo": "Declaración",
      "asunto": "De interés la obra literaria titulada “Che Roga Yekove”, autoría de la profesora y escritora correntina Ingrid Teresa Miranda.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20620",
@@ -570,8 +570,8 @@
     "2026-05-06"
    ],
    "presentados": 31,
-   "aprobados": 24,
-   "en_comision": 7,
+   "aprobados": 26,
+   "en_comision": 5,
    "solo": 24,
    "tipos": {
     "Ley": 4,
@@ -583,13 +583,13 @@
      "expte": "20638",
      "tipo": "Declaración",
      "asunto": "De interés el centenario de la fundación de la Cooperativa Agrícola de Colonia Liebig Ltda.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20634",
      "tipo": "Declaración",
      "asunto": "De interés la XXIII Fiesta Nacional de la Naranja y la Diversidad Productiva, en la ciudad de Bella Vista.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20602",
@@ -613,8 +613,8 @@
     "2026-09-23"
    ],
    "presentados": 205,
-   "aprobados": 97,
-   "en_comision": 108,
+   "aprobados": 101,
+   "en_comision": 104,
    "solo": 0,
    "tipos": {
     "Declaración": 112,
@@ -626,25 +626,25 @@
      "expte": "20643",
      "tipo": "Declaración",
      "asunto": "De interés las actividades que se realicen en conmemoración del Día Nacional de la Enfermería.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20642",
      "tipo": "Declaración",
      "asunto": "De interés el 294º aniversario de la fundación de Saladas.",
-     "aprobado": false
-    },
-    {
-     "expte": "20641",
-     "tipo": "Declaración",
-     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20640",
      "tipo": "Declaración",
      "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
-     "aprobado": false
+     "aprobado": true
+    },
+    {
+     "expte": "20637",
+     "tipo": "Declaración",
+     "asunto": "De beneplácito y reconocimiento a la ciclista goyana Sonia Ferrara por la medalla de oro obtenida en la prueba de persecución individual, categoría Máster Damas B, del Campeonato Argentino de Pista Máster y Elite II 2026",
+     "aprobado": true
     }
    ]
   },
@@ -654,16 +654,22 @@
    "ultimas_ausencias": [
     "2026-08-05"
    ],
-   "presentados": 38,
-   "aprobados": 26,
-   "en_comision": 12,
+   "presentados": 39,
+   "aprobados": 28,
+   "en_comision": 11,
    "solo": 2,
    "tipos": {
-    "Declaración": 24,
+    "Declaración": 25,
     "Ley": 12,
     "Resolución": 2
    },
    "ultimos": [
+    {
+     "expte": "20655",
+     "tipo": "Declaración",
+     "asunto": "De interés la visita a la ciudad de Corrientes del señor Andrés Stremiz, Gobernador del Distrito Rotario 4845 para el período 2026 – 2027.",
+     "aprobado": true
+    },
     {
      "expte": "20582",
      "tipo": "Declaración",
@@ -681,12 +687,6 @@
      "tipo": "Declaración",
      "asunto": "De interés el evento “Octubre Rosa 2026: una noche para cuidarnos”, organizado por el Rotaract Club Corrientes Costanera.",
      "aprobado": true
-    },
-    {
-     "expte": "20494",
-     "tipo": "Declaración",
-     "asunto": "De interés las actividades en conmemoración del Día del Obrero Marítimo, en el anfiteatro Marcos Herminio Ramírez de la localidad de Empedrado.",
-     "aprobado": true
     }
    ]
   },
@@ -698,38 +698,38 @@
     "2026-07-08",
     "2026-09-16"
    ],
-   "presentados": 43,
-   "aprobados": 34,
+   "presentados": 47,
+   "aprobados": 38,
    "en_comision": 9,
-   "solo": 42,
+   "solo": 46,
    "tipos": {
-    "Declaración": 31,
+    "Declaración": 35,
     "Resolución": 3,
     "Ley": 9
    },
    "ultimos": [
     {
-     "expte": "20569",
+     "expte": "20660",
      "tipo": "Declaración",
-     "asunto": "De interés y reconocimiento para Josefina Azula, oriunda de la localidad de Empedrado, quien se consagró ganadora de la medalla de oro en la Olimpíada Internacional de Matemática celebrada en la República de Colombia.",
+     "asunto": "De interés la presentación del libro “Código Procesal Penal de la Provincia de Corrientes: La visión del litigante”, del Dr. Diomedes Guillermo Rojas Busellato, en la ciudad de Corrientes.",
      "aprobado": true
     },
     {
-     "expte": "20568",
+     "expte": "20659",
      "tipo": "Declaración",
-     "asunto": "De interés la 10ª Fiesta Provincial del Búfalo, en la localidad de Caá Catí.",
+     "asunto": "De interés el III Congreso Regional de Derecho Ambiental, en la ciudad de Corrientes.",
      "aprobado": true
     },
     {
-     "expte": "20567",
+     "expte": "20658",
      "tipo": "Declaración",
-     "asunto": "De interés los actos y festejos por la celebración de “Ángeles Somos” en las distintas localidades de la Provincia.",
+     "asunto": "De interés el Rally de Aventura Huellas Argentinas – Misión: Litoral, organizado por Scouts de Argentina Asociación Civil, en el complejo turístico municipal de la ciudad de Saladas.",
      "aprobado": true
     },
     {
-     "expte": "20566",
+     "expte": "20657",
      "tipo": "Declaración",
-     "asunto": "De interés la “Fiesta de San Cirilo”, en la Estancia San Cirilo, del departamento de General Paz.",
+     "asunto": "De interés la conmemoración del 30º aniversario de la creación de los Scouts de Argentina Asociación Civil y la celebración de los 118 años del Escultismo en nuestro país.",
      "aprobado": true
     }
    ]
@@ -739,8 +739,8 @@
    "ausencias": 0,
    "ultimas_ausencias": [],
    "presentados": 25,
-   "aprobados": 5,
-   "en_comision": 20,
+   "aprobados": 6,
+   "en_comision": 19,
    "solo": 24,
    "tipos": {
     "Resolución": 8,
@@ -752,7 +752,7 @@
      "expte": "20635",
      "tipo": "Declaración",
      "asunto": "De interés la 2ª Jornada de Enfermedades Poco Frecuentes (2º Encuentro Interdisciplinario sobre Enfermedades Poco Frecuentes), en el Salón OSDE de la ciudad de Corrientes.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20619",
@@ -825,8 +825,8 @@
     "2026-06-17"
    ],
    "presentados": 10,
-   "aprobados": 8,
-   "en_comision": 2,
+   "aprobados": 9,
+   "en_comision": 1,
    "solo": 9,
    "tipos": {
     "Declaración": 8,
@@ -838,7 +838,7 @@
      "expte": "20630",
      "tipo": "Declaración",
      "asunto": "De interés el XVII Encuentro de Productores y Armadores de Cigarros y Puros 2026, en el multiespacio Ferial Costa Surubí de la ciudad de Goya.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20533",
@@ -1036,16 +1036,22 @@
    "ultimas_ausencias": [
     "2026-09-16"
    ],
-   "presentados": 39,
-   "aprobados": 26,
-   "en_comision": 13,
+   "presentados": 40,
+   "aprobados": 28,
+   "en_comision": 12,
    "solo": 1,
    "tipos": {
-    "Declaración": 25,
+    "Declaración": 26,
     "Ley": 12,
     "Resolución": 2
    },
    "ultimos": [
+    {
+     "expte": "20655",
+     "tipo": "Declaración",
+     "asunto": "De interés la visita a la ciudad de Corrientes del señor Andrés Stremiz, Gobernador del Distrito Rotario 4845 para el período 2026 – 2027.",
+     "aprobado": true
+    },
     {
      "expte": "20602",
      "tipo": "Declaración",
@@ -1063,12 +1069,6 @@
      "tipo": "Declaración",
      "asunto": "De interés la 60ª edición de la Fiesta Nacional del Folclore Correntino, bajo el lema “Custodios del primer sapucay”, en el anfiteatro Genaro Berón de Astrada, de la ciudad de Santo Tomé.",
      "aprobado": true
-    },
-    {
-     "expte": "20495",
-     "tipo": "Declaración",
-     "asunto": "De interés el evento “Octubre Rosa 2026: una noche para cuidarnos”, organizado por el Rotaract Club Corrientes Costanera.",
-     "aprobado": true
     }
    ]
   },
@@ -1080,8 +1080,8 @@
     "2026-06-03"
    ],
    "presentados": 90,
-   "aprobados": 70,
-   "en_comision": 20,
+   "aprobados": 71,
+   "en_comision": 19,
    "solo": 6,
    "tipos": {
     "Declaración": 76,
@@ -1093,7 +1093,7 @@
      "expte": "20647",
      "tipo": "Declaración",
      "asunto": "De interés las actividades del Hospital Materno Neonatal “Eloísa T. de Vidal”, en el marco de la concientización de la Semana del Prematuro.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20629",
@@ -1194,8 +1194,8 @@
     "2026-09-16"
    ],
    "presentados": 81,
-   "aprobados": 69,
-   "en_comision": 12,
+   "aprobados": 70,
+   "en_comision": 11,
    "solo": 1,
    "tipos": {
     "Declaración": 74,
@@ -1207,7 +1207,7 @@
      "expte": "20647",
      "tipo": "Declaración",
      "asunto": "De interés las actividades del Hospital Materno Neonatal “Eloísa T. de Vidal”, en el marco de la concientización de la Semana del Prematuro.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20629",
@@ -1248,6 +1248,12 @@
    },
    "ultimos": [
     {
+     "expte": "19690",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Superior Tribunal de Justicia aplique en carácter de urgente la ley 5893, con el objeto de proceder al remate judicial de los animales secuestrados y en custodia en la Sociedad Rural de La Cruz.",
+     "aprobado": false
+    },
+    {
      "expte": "20653",
      "tipo": "Ley",
      "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
@@ -1263,12 +1269,6 @@
      "expte": "20651",
      "tipo": "Resolución",
      "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
-     "aprobado": false
-    },
-    {
-     "expte": "20650",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
      "aprobado": false
     }
    ]
