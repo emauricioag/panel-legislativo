@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-18T19:38-03:00",
+ "actualizado": "2026-11-18T20:05-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Milei desafió al kirchnerismo, descartó medidas electoralistas y aseguró: “Voy a ser reelecto”",
+    "link": "https://derechadiario.com.ar/politica/milei-desafio-kirchnerismo-descarto-medidas-electoralistas-aseguro-voy-reelecto",
+    "fecha": "Wed, 18 Nov 2026 22:42:07 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "El Gobierno de Milei logró dictamen en el Senado para suspender las PASO",
     "link": "https://derechadiario.com.ar/politica/gobierno-milei-logro-dictamen-en-senado-suspender-paso",
@@ -1261,33 +1267,21 @@
     "link": "https://derechadiario.com.ar/politica/argentina-asumio-presidencia-pro-tempore-comision-antidrogas-oea",
     "fecha": "Wed, 18 Nov 2026 17:23:04 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Milei recibió el Doctorado Honoris Causa de la UB y reivindicó el modelo liberal: “Argentina va a ser grande nuevamente”",
-    "link": "https://derechadiario.com.ar/politica/milei-recibio-doctorado-honoris-causa-ub-reivindico-modelo-liberal-argentina-va-grande-nuevamente",
-    "fecha": "Wed, 18 Nov 2026 15:33:30 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
  "nacionales": [
   {
-   "titulo": "Javier Milei y sus medidas, en vivo: “Voy a ser reelecto: no tengan dudas de que vamos a ganar en primera”, dijo el Presidente",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNelhSWWVwWWRVamJuY1phRG1lSS1qaEFpMGJkVUlidlNoa1R2RzRHMWotU1NNTVBuczJ3SVZ3T3RRNWFiU3ZHU1VyU3R1WUY4d25Kdnh1V2gxeUFIcVRMR3BrTzUxMURVZmkzSVlTTmFMVmV3U3lhRzRSQTR0a21rS0dKdGJ4OWxFX0pENDVNZVlZblVVanBwX0tvYW41LThfdW5kSU1SVkJtcVhscHBfZjgyOEFqN2hhNndsNlRsWUdFTURCWk4wdUptSkpqZ2U1emtQVXMtbWtQd21iQllUTlhtWjg?oc=5",
-   "fecha": "Wed, 18 Nov 2026 22:19:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "El decreto olvidado de 1998: el día que el Concejo Municipal prohibió el GTA y ordenó vigilar los cibercafé...",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX05ha19hRE9nX1NJdFlWekdyWEYzQ1YxRVBIMFJpb0hhNWdCYTc3QlMyRjNyRUV1VHplWlRqU2dJc3kwMmVzQXNlaWlVUmJ5bWJJMXJyZHBvbmRPMXlXdk5wQXJ1RGVTUFMxc1VRQ0F3WVQ4aFpPSl9ULThkRjAxanRmZkVpQ2xDUnNQS01qTHNBbTh2Y2I5YVM5TGpLT1loTjhXTDVyYWlIYkZOYll2VllvRzNCcHlMTXRtUDBvT1Z0Wm5FbUJIMHBzZUw2c1ZxSkxpYkZhdTBKMjlmUDJUWVUtSEdRMEc3UW4yUVV6QXlVOFZIY1ptTmpBMGdPdm_SAf8BQVVfeXFMTV9OYWtfYURPZ19TSXRZVnpHclhGM0NWMUVQSDBSaW9IYTVnQmE3N0JTMkYzckVFdVR6ZVpUalNnSXN5MDJlc0FzZWlpVVJieW1iSTFycmRwb25kTzF5V3ZOcEFydURlU1BTMXNVUUNBd1lUOGhaT0pfVC04ZEYwMWp0ZmZFaUNsQ1JzUEtNakxzQW04dmNiOWFTOUxqS09ZaE44V0w1cmFpSGJGTmJZdlZZb0czQnB5TE10bVAwb09WdFpuRW1CSDBwc2VMNnNWcUpMaWJGYXUwSjI5ZlAyVFlVLUhHUTBHN1FuMlFVekF5VThWSGNabU5qQTBnT3Zv?oc=5",
-   "fecha": "Wed, 18 Nov 2026 16:12:00 GMT",
+   "fecha": "Wed, 18 Nov 2026 22:17:03 GMT",
    "fuente": "Rosario3"
   },
   {
-   "titulo": "Golpe al Gobierno: no consiguió quórum en Diputados para avanzar con la ley Malvinas y la reforma del BCRA",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkg3QTVqem13azFHMnVxcjRsandReWQtSHp0TGwzSE8taDNiMnRPM05IOEJuVkFSYVpqaHY2cWk3aTBFUnc1OXhhNUJjbG9feTkwbUFpUVZhSmliZ3NXNWhveXF0MWdhQVhLamotdHhfdnNZS1h1eUZOTkFRd1hjeEU0X0gzdDNlUTg1MzNFNkdYWFF0UzF5UzQzZEhZV2syTENYS2pyM2pGQzc1OWhPc2puVld5dmRHQ2N0ekxIdkhzTmRLTDU5MVF0b2NkSWlOaXVLSlJMZmpRUzRjckFmbkRjN08?oc=5",
-   "fecha": "Wed, 18 Nov 2026 18:36:51 GMT",
-   "fuente": "Perfil"
+   "titulo": "La Cámara de Casación redujo a 14 años la condena a José Alperovich por abuso sexual",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQlpIQldYcVhNMFMxTjc0TVhjMWtPc0o3ay1XOFdJS3JLbk5XcDNkc2VWUjhFbkhFbk4zczdJd3NoR2N5RnJQUkVWMF9pZHhtQ3RZaXBoT2NOUmNIb2xnTFVIYXJCYWc3Vy0yR2ZLYkhQQzlyaC1DT1pSYTI1TURfZEJLd2stMUZXbzFEa2hxdnEzemp0Z2hEdWhBLXZjUWNrLWg4Y19ZX1ZqY1NwNlVDbXZSeVZEb01yd1ZxTHBkbGNRVzTSAdcBQVVfeXFMTTZrYklrZGQ3NzhxamhkV213b0xiMmVJZ18tWHVjdHdZOHFDVnRNME51RUVEUEF2bWVudFdPdjN5MGRkWkNwWmNFcXdDR2IzTVRPaUVrNGxncGhUeFo3OWZjcVdWdHV6NmNpN0p5ZHA1Skh6ZHEyWkVnNmh1ek11T0twMXUxRGJoeGY4Qm0xTklIbWxCeDlLSjR4b0ZnQU92R3VYT0I3NWE0WVkydFM0NTgydVlUM0dtbnA2QU9xcVM4cmFOZmlZN1J1NFg5NWRRaVMxWmg4VEU?oc=5",
+   "fecha": "Wed, 18 Nov 2026 19:38:56 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Máximo Kirchner en La Pampa: “Nuestro pueblo vale la pena”",
@@ -1302,22 +1296,34 @@
    "fuente": "Infobae"
   },
   {
+   "titulo": "Cancillería bajó el tono a la disputa con Chile por el buque que unirá Punta Arenas con Malvinas",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSkFULTB2SkppckxwS3U4NFdHVXp4UGl5SVJCcmJpYWpNQ1hpemNyRnNCSDV4SkVqSHI5eEhTZzRHSVlJd3NhRzZaUndSeVBrLTRHbWVQbVdkbzZzb192dTd1QkNiamhUclVWUW1CdGZwdHpPOElGaExwalAxdEcyTlBrcFhUQ3BvY1BiZUQzOVlMWXhmTFV2NnJfUzBvaVhob3VnMHB0djE2aGRhQ3FHWk1lS0JLd21xOTNyVlRNajYyaVljWTUxMWV3VFdiQWYxSWpwUjBGX2M?oc=5",
+   "fecha": "Wed, 18 Nov 2026 17:54:20 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "Javier Milei y sus medidas, en vivo: “Voy a ser reelecto: no tengan dudas de que vamos a ganar en primera”, dijo el Presidente",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNelhSWWVwWWRVamJuY1phRG1lSS1qaEFpMGJkVUlidlNoa1R2RzRHMWotU1NNTVBuczJ3SVZ3T3RRNWFiU3ZHU1VyU3R1WUY4d25Kdnh1V2gxeUFIcVRMR3BrTzUxMURVZmkzSVlTTmFMVmV3U3lhRzRSQTR0a21rS0dKdGJ4OWxFX0pENDVNZVlZblVVanBwX0tvYW41LThfdW5kSU1SVkJtcVhscHBfZjgyOEFqN2hhNndsNlRsWUdFTURCWk4wdUptSkpqZ2U1emtQVXMtbWtQd21iQllUTlhtWjg?oc=5",
+   "fecha": "Wed, 18 Nov 2026 12:32:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Mapa de la Noche de las Heladerías 2026: barrio por barrio, los locales con 2x1 en Buenos Aires",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzBEM3pVSEFhUmVjS1pGdUVKR0plNkMycmNwVXRkdE1hekRmcUM4ZnZJM0EyeG5pb3BmcV9nNU1VQUpKZ0NldFhaZG1oWjAwMUROejN5NFdLT0ZnR3BOQnJROWYzb3h2X25paFQtQ1pWc0paOW16ejE1QTY0YUN3Uml4M2dQWklsbi1jdmhqU1pKdmMyVVBuaTYyZVJWMHpxVTFfWlFWRkJucjhreDhCMVVUMFQ?oc=5",
+   "fecha": "Wed, 18 Nov 2026 09:01:53 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
    "titulo": "El Papa volvió a hablar de la Argentina y pidió “la construcción de una sociedad justa y solidaria”",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNm04YnA5eTBRZVh4ajcwQU9WSDRZaldhUnhzZjllWkhnMHN2d19aVHZLWWt2WkpkOUJIVTNLYWgzLXZQa2xqYjJuZUc0MkRxR2xULXdOX2x1c1JZbG13UVljNFktR0hYZkswT1BxMUVKV3M2M3RxRHg3dkU0dXBJb0NYY2c2bUpFZDlscG1ZZjVfQTNNamlhUl9Da1NHMUtvajJYQmU2SkRXdFlLMFdZWDJtc2I2QjFaeUN5enFETDRnSnVLTDhYcmx0MWIwMmtEc000?oc=5",
    "fecha": "Wed, 18 Nov 2026 14:43:14 GMT",
    "fuente": "Página|12"
   },
   {
-   "titulo": "Triple femicidio de Barracas: condenaron al hombre que mató a tres mujeres por ser lesbianas",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa21WaTI1d3QtNEp5cUhzUjRrQnVoR3h6TFNJcmJsXzYyNkJBcUFZU3F1Sl9QVlJzM3J2eHF0YmFDT3hGQloydlo3UGFzcWlFV1JEcU50cDFxMmRzMjl5T3JpSXlEYkpjaFZKQU1yUFA4X1FfT2ZuTzBWQ2sweVlqanA0ZVIyQW9iVWRJSEtuNGd0YlYtQXB1Ym05RWdQRE1rSEdVUl9FaXhBcFRFTGtIWlBoSXJxUnFxR1HSAb8BQVVfeXFMUHFRT0w3UVVzem1tMHBHcm1Ld09lNlpzTjQwTmFfNzlHUHY0bklkZmtzdTBjX1JsdFVEcG5IRmhLdWlUYVlfeE9oMnpfT1JxeWRfUFdRVzA1eWwtajlQeklmV1dtNXJlY1A4QXRaUkVDR2RzTjdIdWxuZURiOFpWcXJCSFNRX3VaclVtZWVuYWU3dWNHcWIyRWZydFVndkNkblZDTlJkYnJKUW1oNWh5bWN0di1UVVM2Z0RvczZuaEU?oc=5",
-   "fecha": "Wed, 18 Nov 2026 17:49:02 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "El mapa de la La Noche de las Heladerías 2026: este es el listado de todos los locales adheridos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa2Nra2tvV29uUk0tYVRMWG05QnA0MGwyVHc0ZEhHNUt0U3hHNEFTUmZIdm55b3JQWTNTSi1USmY3WUZzVElSWVpINkJhN19DNVcxZDhmbGdIbDRfeWYxT0dHYUNfcVBHSEI0c3hyQmJrZFpzbXJiUFcxMEhwdjctU2ktTGNoeUl2YzBuRDhyZ2czM2txQzJNYklOWXJKUTUtdWlnbWl2Uk5sNkhNdnZmYmdnaEREZlgxcVY1cWQwWGkwY3V1Z3JSYmdxa040a3pyZ0ZHN291STNjcVFnV1E?oc=5",
-   "fecha": "Wed, 18 Nov 2026 14:46:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Lesbicidio de Barracas: condenaron a prisión perpetua al único acusado por el triple crimen",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN191MjJuZFJfcDJFM29YU1g2YVpCdFVVN3RrZ29zU2NfLTZwb01NdU5ra1hvMTRTa2tjOWNTNGs5eDltVUFRUUFsazktLVF5WXlWcWNqUDQ5bzBmcFdZV0h0dDhZcUNnN29ueWk0U1hnODY4Ml9yVXBjQnBza1hYVTQzNWl3YzRBSmhWcWIxMmJKbTAtWWNxZ09vRk9IZmk0dWU4YmxfRDZpSFAzb1hUYnRYOC1WaTZuSW1FVGxTMA?oc=5",
+   "fecha": "Wed, 18 Nov 2026 15:53:21 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "A contramano del pedido de Milei, una provincia sube impuestos a su banco y al gas para financiar la educación",
@@ -1326,22 +1332,22 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "FNS: a qué hora tocará cada artista y todos los entretelones de la organización",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM0ZfbmdHOWVXX2otVnh3eVVJOVpaSklTQkhJeFNkT0FTRGZ3RGlfQjlWSDRzMjJFUDEzd25HTUNIdFNCcHZfSXJPTGptUUNYakk1QnZZRHhDRHJTY3RkbnpWVFIzeHU5OXdaUy1RczRucnVuS05BVG5ySnVWbVd2eERXRnJBcHZWNE5ycURLRlF0UWtneTdTUTg0d2RiQlRMdjhOeVZQOEcyZmtOVEhBTDdnaEFjSWpmbkpwMmxuYTVVeUppMl9JakV3?oc=5",
-   "fecha": "Wed, 18 Nov 2026 14:05:00 GMT",
-   "fuente": "Tiempo de San Juan"
-  },
-  {
-   "titulo": "La pesca argentina rechazó la propuesta de Sturzenegger de abrir licitaciones: “Las especies ya están en su máximo nivel de explotación”",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYUllMllhbUIyTHVuSnRMM0VjZ0ZEMHE0Y0haenlud2VnV1FteVJYSmE2SkdWWHEwYU4yWkRWSGVENkFsRW95dld6R0p2RWRCOWxXTGFGNmFOcVk0cGxFWXJ0SkRnWmh3U2ZDZjgxU1lsaDgySmM3RENBenRSdVBHNHl6UGF3QXduM21sTWRoUXFLb3JqREt3SUoxV2JGVlhNN3RDTjJ6UFVBMGdSTXRudnlKOXVzNFVHajBlcDRJLXZiNTUxOTNVN0xKQzdxejgwRVlBc1VkVExzcko0VkI1R2V0VlNtTEw5QURkSXJpdDgzT2lBVmV3clhTTzhwU1RXM244NWJicTV3QdIBpAJBVV95cUxOa1hRbnhBN3c4WGZwXzlTdUtXZWJEb0RTa0NybmVqNFp4djNpV0xPS3p2bVo2bW5PWUg1eFNmMUhJVjNvMF9IMnN0LTJmNWM1TVN3dHMtMlBaQkJKOWRkbnZ1TnpXU0dWT1FxWnMtVDR6bWQ2NEZlaTZtM3d1aG81TEEzSWRSTmhwR0ZOSFB1NDBQQ3dLN2I1dEVfYWd5amw5TUNsOXMtUVRPSEtyTWZraGtRVlNSLUdNWFhwYUZhOEhlaXVfSHZhSnRLV3Y5bXkyVGhSdE5vOGhuYi1DcXJhX1J3SkRDZ3Rwek5nUWtuODdmUnBld3lndHNZNWhRSnJET1kwVWNxaldhU0VEZWtGVklCSmR6bHVBTHhCT00xMFhRZXFD?oc=5",
-   "fecha": "Wed, 18 Nov 2026 13:53:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Golpe al Gobierno: no consiguió quórum en Diputados para avanzar con la ley Malvinas y la reforma del BCRA",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMkg3QTVqem13azFHMnVxcjRsandReWQtSHp0TGwzSE8taDNiMnRPM05IOEJuVkFSYVpqaHY2cWk3aTBFUnc1OXhhNUJjbG9feTkwbUFpUVZhSmliZ3NXNWhveXF0MWdhQVhLamotdHhfdnNZS1h1eUZOTkFRd1hjeEU0X0gzdDNlUTg1MzNFNkdYWFF0UzF5UzQzZEhZV2syTENYS2pyM2pGQzc1OWhPc2puVld5dmRHQ2N0ekxIdkhzTmRLTDU5MVF0b2NkSWlOaXVLSlJMZmpRUzRjckFmbkRjN08?oc=5",
+   "fecha": "Wed, 18 Nov 2026 18:36:51 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Una beca como crédito y con límites para retirar dinero",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXU2eERmcmx1TUdRRTFnN2gwZVF2T3Iwa3gxamhfblpiSXVDSmxnN0lLc05GVkowa0JDUWlCZkdOWFN5R2hETFMzeEU5RUpTb0kwQnBBSHZpN2l1OW55b3FHdTd4Qi1FY0padTBxYjRfYzh5Y21jTlNUZEJzaUtOMldwTmdGdXBfaHVQeWxZYzlMY01EeDdCQUtMUEYzYVpoTmhlM3RiQmhTUmZkVTJjMWpGcWZIVVhI?oc=5",
    "fecha": "Tue, 17 Nov 2026 16:14:44 GMT",
    "fuente": "El Diario de la República"
+  },
+  {
+   "titulo": "La pesca argentina rechazó la propuesta de Sturzenegger de abrir licitaciones: “Las especies ya están en su máximo nivel de explotación”",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYUllMllhbUIyTHVuSnRMM0VjZ0ZEMHE0Y0haenlud2VnV1FteVJYSmE2SkdWWHEwYU4yWkRWSGVENkFsRW95dld6R0p2RWRCOWxXTGFGNmFOcVk0cGxFWXJ0SkRnWmh3U2ZDZjgxU1lsaDgySmM3RENBenRSdVBHNHl6UGF3QXduM21sTWRoUXFLb3JqREt3SUoxV2JGVlhNN3RDTjJ6UFVBMGdSTXRudnlKOXVzNFVHajBlcDRJLXZiNTUxOTNVN0xKQzdxejgwRVlBc1VkVExzcko0VkI1R2V0VlNtTEw5QURkSXJpdDgzT2lBVmV3clhTTzhwU1RXM244NWJicTV3QdIBpAJBVV95cUxOa1hRbnhBN3c4WGZwXzlTdUtXZWJEb0RTa0NybmVqNFp4djNpV0xPS3p2bVo2bW5PWUg1eFNmMUhJVjNvMF9IMnN0LTJmNWM1TVN3dHMtMlBaQkJKOWRkbnZ1TnpXU0dWT1FxWnMtVDR6bWQ2NEZlaTZtM3d1aG81TEEzSWRSTmhwR0ZOSFB1NDBQQ3dLN2I1dEVfYWd5amw5TUNsOXMtUVRPSEtyTWZraGtRVlNSLUdNWFhwYUZhOEhlaXVfSHZhSnRLV3Y5bXkyVGhSdE5vOGhuYi1DcXJhX1J3SkRDZ3Rwek5nUWtuODdmUnBld3lndHNZNWhRSnJET1kwVWNxaldhU0VEZWtGVklCSmR6bHVBTHhCT00xMFhRZXFD?oc=5",
+   "fecha": "Wed, 18 Nov 2026 13:53:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Triple A: comienza el juicio al excamarista Néstor Luis Montezanti",
@@ -1354,12 +1360,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVllqd2JlVEdUdldNZUFIdXZSMDFjdElNV1dNOFR3dHhZSEVOS3p4T0JVVzI3WlJxU0N0c011VktVS0RURWVKSVJIUVFfV2laYmNIZGI1TUZhNlpocWY5RzdKRlNQMTJqeU15dEtMUFlzeWdyUjFHY2ZsU2Vsd2Q3TEk4T2tNRUhScWFnc1BCWFQ3ZWY5UUJsNkE4S0ViWFA2aUhnY0tsT2ZtM1hibzFOZjRJZEZjWG83aUI1RGZwRkM1THprd1dwdXBleDk5OEFO0gHYAUFVX3lxTE9PYXZMNm43T3V4RV9aemFudmhRMko1WEEtRTVydkZ3Wks2UHBYQi1nQld4QUh2QWE2UDQwOVNfbFpSOXBlQllEUXozb19QQkdabzNTSGxJOU9iOVdsMWJSbGZxdGQyeUtBVlhrbkpVTUhrS0hxcHNEYVg3a1lOTkFIb2U3Yi1lT0NuU2ljcnpvTTYtYWw3bENGZl9zM1hFQTlNRzZuQkFQcnlBaW5sQVg3NzRSZlFaX1JWSk1NTUhGMGphaTNQTFhYZWk3LXJfdUViQzdXdkRZcg?oc=5",
    "fecha": "Tue, 17 Nov 2026 18:11:58 GMT",
    "fuente": "Diario Río Negro"
-  },
-  {
-   "titulo": "Por qué estará cortada la Ruta 40 este fin de semana: horarios y caminos alternativos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamZqZllqa01SNjlGMnVrN3BEVndJWUdSOGRNMEFhTVZubXlUZ2FIek9WYXJxa2FUYW5NOUdrZFRjdnBETjFfUEMtV2xnZUF5dFNXaEktcHNPR3ItcnBwdkQ5d0hzbzFkMmdYZkVEd2wzMmJ5MUhNRm4yeWhLNlIxS0RqdDFLc0RadzluOXJOSDRBZmNqMm9XU2hfbUNKalFuRmpMdnZlU28xSkVKdjNZUlUwZGN1VHVJZnNKNl9RUEVCTUtsUTdmbFZEWW1zaFNzVWtaY0RDc3FSSEotM1HSAeMBQVVfeXFMTXdGWWI3MXMwQlQ4aUtIUkRxbldWeThWazJGajZoTlhSWFBVMXpMX2JMYVFrVmpKX1ZDR1lsYXNQMHR3UmRzeWRvQkRzWG1CQW41NXpna2ZPbTdKYm5rYVVMaS0wRFhvLXVYTllmb0dNeE9VcXN5Z3NUSG9xeVFPQ2swNURiaWtmM25IRFNWb3lDMFMycG14eW81OFk1cG51bklsUUZISWlCNGNkYlJxbFhrVnB0RkNjcXhqN3lxRXZOXzFrUllPS0lHdlZsUjFYX0ROSEl2UUtlQ1o0LVJuYVZ4T2s?oc=5",
-   "fecha": "Wed, 18 Nov 2026 13:18:41 GMT",
-   "fuente": "Diario El Cordillerano"
   },
   {
    "titulo": "Argentina LNG: cómo será la megaplanta que acondicionará y separará el gas en las costas de Río Negro",
