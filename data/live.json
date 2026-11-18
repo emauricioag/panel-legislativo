@@ -1215,11 +1215,25 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 503: Service Unavailable",
+  "nacionales": "HTTP Error 503: Service Unavailable",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-18T09:28-03:00",
+ "actualizado": "2026-11-18T09:55-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "La Aduana secuestró 64 kilos de cocaína y mercadería por $300 millones en Salta",
+    "link": "https://derechadiario.com.ar/politica/aduana-secuestro-64-kilos-cocaina-mercaderia-por-300-millones-en-salta",
+    "fecha": "Wed, 18 Nov 2026 12:38:27 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "EN VIVO | Javier Milei recibe el Doctorado Honoris Causa de la Universidad de Belgrano",
+    "link": "https://derechadiario.com.ar/politica/en-vivo-javier-milei-recibe-doctorado-honoris-causa-universidad-belgrano",
+    "fecha": "Wed, 18 Nov 2026 12:32:41 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "El kirchnerismo de Rosario iluminará el Monumento a la Bandera con los colores de Palestina",
     "link": "https://derechadiario.com.ar/politica/kirchnerismo-rosario-iluminara-monumento-bandera-colores-palestina",
@@ -1254,18 +1268,6 @@
     "titulo": "EN VIVO: Javier Milei brinda un discurso en las Jornadas Monetarias y Bancarias del BCRA",
     "link": "https://derechadiario.com.ar/politica/en-vivo-javier-milei-brinda-discurso-en-jornadas-monetarias-bancarias-bcra",
     "fecha": "Tue, 17 Nov 2026 19:53:24 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "El kirchnerismo dejó afuera a Axel Kicillof de un acto en San Fernando",
-    "link": "https://derechadiario.com.ar/politica/kirchnerismo-dejo-afuera-axel-kicillof-acto-en-san-fernando",
-    "fecha": "Tue, 17 Nov 2026 19:36:24 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "La inflación mayorista fue del 1,6% en octubre y registró una desaceleración",
-    "link": "https://derechadiario.com.ar/economia/inflacion-mayorista-1-6-en-octubre-registro-desaceleracion",
-    "fecha": "Tue, 17 Nov 2026 19:29:00 GMT",
     "fuente": "La Derecha Diario"
    }
   ]
