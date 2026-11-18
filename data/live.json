@@ -1215,11 +1215,19 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 503: Service Unavailable",
+  "nacionales": "HTTP Error 503: Service Unavailable",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-18T17:52-03:00",
+ "actualizado": "2026-11-18T18:19-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El Gobierno de Milei logró dictamen en el Senado para suspender las PASO",
+    "link": "https://derechadiario.com.ar/politica/gobierno-milei-logro-dictamen-en-senado-suspender-paso",
+    "fecha": "Wed, 18 Nov 2026 21:08:32 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "REPUDIABLE: Cristina Kirchner cobrará $3 millones más por su jubilación de privilegio",
     "link": "https://derechadiario.com.ar/politica/cristina-kirchner-cobrara-3-millones-por-jubilacion-privilegio",
@@ -1260,12 +1268,6 @@
     "titulo": "Milei recibió el Doctorado Honoris Causa de la UB y reivindicó el modelo liberal: “Argentina va a ser grande nuevamente”",
     "link": "https://derechadiario.com.ar/politica/milei-recibio-doctorado-honoris-causa-ub-reivindico-modelo-liberal-argentina-va-grande-nuevamente",
     "fecha": "Wed, 18 Nov 2026 15:33:30 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Klaukol: vecinos de Virrey del Pino denuncian 200 muertes por contaminación y apuntan a Kicillof, Magario y Espinoza",
-    "link": "https://derechadiario.com.ar/politica/klaukol-vecinos-virrey-pino-denuncian-200-muertes-por-contaminacion-apuntan-kicillof-magario-espinoza",
-    "fecha": "Wed, 18 Nov 2026 14:03:27 GMT",
     "fuente": "La Derecha Diario"
    }
   ]
