@@ -302,7 +302,7 @@ def expedientes_leconte(base, previo):
                 nuevos.append(n.group(0))
     except Exception as e:  # noqa: BLE001
         print("feed Leconte:", e)
-    conocidos = [p["expte"] for p in base["proyectos"]]
+    conocidos = [p["expte"] for p in base["proyectos"] if p["expte"]]
     lista = conocidos + [n for n in nuevos if n not in conocidos]
     estado = {}
     for ex in lista:

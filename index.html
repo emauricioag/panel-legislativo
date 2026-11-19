@@ -267,9 +267,11 @@ header,footer{background:#080e1ad9}
 }
 /* teléfono y pantallas chicas: página con scroll, sin rotación automática */
 @media (max-width: 900px){
-  html,body{overflow:auto;height:auto}
+  html{overflow:auto;height:auto}
+  body{overflow:visible;overflow-x:clip;height:auto}   /* body sin scroll propio, así las pestañas quedan pegadas arriba */
   body{display:block;font-size:16px}
-  html{scroll-padding-top:72px}
+  html{scroll-padding-top:calc(68px + env(safe-area-inset-top))}
+  body::before{content:'';position:fixed;top:0;left:0;right:0;height:env(safe-area-inset-top);background:var(--fondo);z-index:6}
   .item,.proy{line-height:1.4}
   header{flex-wrap:wrap;gap:4px 12px;padding:calc(14px + env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) 10px max(16px, env(safe-area-inset-left))}
   header .logos img{height:44px}
@@ -280,8 +282,7 @@ header,footer{background:#080e1ad9}
   header .marca{font-size:1em}
   header .camara{font-size:.8em}
   .cuerpo{display:flex;flex-direction:column;gap:14px;padding:12px 16px}
-  .lateral{display:grid;grid-template-columns:1fr;gap:10px;order:-1}
-  body[data-s="mapa"] .lateral{order:0}   /* en el mapa, primero el hemiciclo y después la lista o la ficha */
+  .lateral{display:grid;grid-template-columns:1fr;gap:10px}   /* primero la sección y después el resumen */
   .widget{flex:none;border-radius:12px;padding:12px 14px;gap:6px}
   .widget .mini span{font-size:.75em}
   .principal{border-radius:12px;overflow:visible}
@@ -292,7 +293,8 @@ header,footer{background:#080e1ad9}
   .principal .pagina{margin:12px 16px}
   header .hora{font-size:1.5em}
   header .fecha{font-size:.8em}
-  .tabs{position:sticky;top:0;z-index:5;background:var(--fondo);gap:8px;padding:10px 16px}
+  /* en el teléfono las pestañas van debajo del encabezado y quedan pegadas arriba al bajar */
+  .tabs{position:sticky;top:env(safe-area-inset-top);z-index:5;background:var(--fondo);gap:8px;padding:10px max(16px, env(safe-area-inset-right)) 10px max(16px, env(safe-area-inset-left));border-bottom:1px solid var(--borde)}
   .tabs button{border-radius:8px;padding:8px 14px;font-size:.9em;min-height:44px}
   main{padding:14px 16px 24px;overflow:visible}
   .pagina{position:static;opacity:1;overflow:visible;margin-bottom:14px}
@@ -387,9 +389,9 @@ const horaAR = () => new Date().toLocaleTimeString('es-AR', {timeZone: TZ, hour:
 const aMin = h => +h.slice(0, 2) * 60 + +h.slice(3, 5);
 const diaCorto = iso => new Date(iso + 'T12:00:00').toLocaleDateString('es-AR', {weekday:'long'}) + ' ' + fechaCorta(iso);
 const isoDe = s => { const m = /(\d{2})[\/-](\d{2})[\/-](\d{4})/.exec(s || ''); return m ? `${m[3]}-${m[2]}-${m[1]}` : ''; };
-const numExpte = n => String(n).replace(/^(\d{2})(\d{3})$/, '$1.$2');
+const numExpte = n => n ? String(n).replace(/^(\d{2})(\d{3})$/, '$1.$2') : 's/n';
 // los PDF que enlaza la propia Cámara en el orden del día
-const pdfExpte = n => `https://www.hcdcorrientes.gov.ar/boletin/Expte%20${n}.pdf`;
+const pdfExpte = n => n ? `https://www.hcdcorrientes.gov.ar/boletin/Expte%20${n}.pdf` : '';
 const pdfNota = n => `https://www.hcdcorrientes.gov.ar/boletin/Nota%20${n}.pdf`;
 // bloque que abre su documento en otra pestaña (si no hay enlace, queda como bloque común)
 const caja = (href, clase, html) => href
@@ -419,6 +421,8 @@ function estadoDe(p) {
     if (inst) return `Aprobada (${{Dec:'Decl.', Res:'Res.', Com:'Com.'}[inst.slice(0, 3)] || inst} ${num})`;
     return p.tipo === 'Ley' ? `Media sanción (${d}/${m})` : `Aprobada (${d}/${m})`;
   }
+  const ms = c.match(/Media Sanci[oó]n[^:]*:\s*(\d{2})\/(\d{2})/i);
+  if (ms && !/sanci|aprob/i.test(p.estado)) return `Media sanción (${ms[1]}/${ms[2]})`;
   if (/ingres/i.test(p.estado) && c && !/sin asignar/i.test(c)) return 'En comisión';
   return p.estado;
 }
@@ -444,10 +448,11 @@ function chipEstado(e) {
 const SECCIONES = [
   {id:'proyectos', corto:'Proyectos', titulo:'Proyectos del Dip. Leconte', paginas() {
     const est = LIVE.expedientes || {};
-    const lista = [...BASE.proyectos];
-    for (const [n, r] of Object.entries(est)) if (r.nuevo && !lista.find(p => p.expte === n))
-      lista.unshift({expte:n, tipo:r.tipo, tema:r.asunto, comision:r.comision, estado:'Ingresado'});
-    const recientes = lista.filter(p => est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7);
+    // un proyecto cargado sin número ("expte": "" y "buscar") se va solo cuando el robot trae su ficha
+    const nuevos = Object.entries(est).filter(([n, r]) => r.nuevo && !BASE.proyectos.find(p => p.expte === n));
+    const lista = BASE.proyectos.filter(p => p.expte || !nuevos.some(([, r]) => new RegExp(p.buscar || '^$', 'i').test(r.asunto)));
+    for (const [n, r] of nuevos) lista.unshift({expte:n, tipo:r.tipo, tema:r.asunto, comision:r.comision, estado:'Ingresado'});
+    const recientes = lista.filter(p => !p.expte || (est[p.expte]?.cambio && haceDias(est[p.expte].cambio) <= 7));
     const ficha = p => {
       const r = est[p.expte] || {};
       const cambio = r.cambio && haceDias(r.cambio) <= 7;
@@ -587,6 +592,10 @@ function bloquesCamara() {
 // Tocando una tarjeta queda fija en esa sección (sigue subiendo y bajando).
 // "Pausar" la deja quieta. En el teléfono no rota: se usa el scroll normal.
 const MOVIL = matchMedia('(max-width: 900px)');
+// En el teléfono las pestañas salen de la sección y van arriba de todo, debajo del encabezado.
+const TABS = document.getElementById('tabs'), TABS_CASA = TABS.parentNode;
+const ubicarTabs = () => MOVIL.matches ? document.querySelector('header').after(TABS) : TABS_CASA.prepend(TABS);
+ubicarTabs(); MOVIL.addEventListener('change', ubicarTabs);
 const ESPERA = 3;   // segundos quieto arriba y abajo antes de moverse
 let pausado = false, cola = [], pos = -1, temporizador, animacion, auto = !FIJA && !MOVIL.matches, fija = FIJA;
 // Mientras llega live.json, las secciones que dependen de él muestran el esqueleto en vez de "Sin datos".
@@ -666,7 +675,8 @@ let sinFundido = false;   // true cuando el cambio lo pide la persona (pestaña,
 function elegir(id) {
   auto = false; pausado = false; fija = id; url();
   sinFundido = true; mostrar(1);
-  if (MOVIL.matches) document.querySelector('.principal').scrollIntoView({block: 'start'});
+  if (MOVIL.matches && scrollY > document.querySelector('.cuerpo').offsetTop - TABS.offsetHeight)
+    document.querySelector('.cuerpo').scrollIntoView({block: 'start'});
 }
 // rueda del mouse (o dedo) sobre la sección: se pausa y queda donde la dejes
 function pausarAqui() {

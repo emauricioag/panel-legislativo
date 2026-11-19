@@ -2,6 +2,14 @@
  "nota": "Datos que se editan a mano. Fuente: índice de proyectos y orden del día de la 19ª sesión (actualizados el 17/11/2026).",
  "proyectos": [
   {
+   "expte": "",
+   "tipo": "Ley",
+   "tema": "Publicidad de los fondos de las emergencias en una sección única del sitio oficial",
+   "comision": "Presentado el 19/11, con pedido de preferencia",
+   "estado": "Ingresado",
+   "buscar": "emergencia"
+  },
+  {
    "expte": "20635",
    "tipo": "Declaración",
    "tema": "De interés la 2ª Jornada de Enfermedades Poco Frecuentes (Salón OSDE, 20/11)",
@@ -55,7 +63,7 @@
    "tipo": "Ley",
    "tema": "Armas de letalidad reducida, cámaras corporales y GPS para la Policía",
    "comision": "Seguridad; Asuntos Constitucionales",
-   "estado": "Preferencia: se trata el 18/11 (OD 19ª, punto 02)"
+   "estado": "Media sanción (18/11); pasa al Senado"
   },
   {
    "expte": "20429",
