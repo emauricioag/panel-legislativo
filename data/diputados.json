@@ -1,20 +1,20 @@
 {
- "actualizado": "2026-11-18T16:06-03:00",
+ "actualizado": "2026-11-19T04:50-03:00",
  "desde": "2025-12-10",
- "sesiones": 20,
- "ultima_sesion": "2026-10-14",
+ "sesiones": 21,
+ "ultima_sesion": "2026-10-28",
  "expedientes": 983,
  "diputados": {
   "Améndola|Ana Gabriela": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-06-03",
     "2026-07-08"
    ],
    "presentados": 31,
-   "aprobados": 21,
-   "en_comision": 10,
+   "aprobados": 23,
+   "en_comision": 8,
    "solo": 25,
    "tipos": {
     "Declaración": 21,
@@ -50,9 +50,10 @@
   },
   "Almirón|Ana Claudia": {
    "presentes": 19,
-   "ausencias": 1,
+   "ausencias": 2,
    "ultimas_ausencias": [
-    "2026-09-23"
+    "2026-09-23",
+    "2026-10-28"
    ],
    "presentados": 81,
    "aprobados": 25,
@@ -64,12 +65,6 @@
     "Declaración": 28
    },
    "ultimos": [
-    {
-     "expte": "20632",
-     "tipo": "Declaración",
-     "asunto": "De interés las celebraciones y actividades pastorales programadas en el marco de la histórica gira regional de su santidad el papa León XIV.",
-     "aprobado": true
-    },
     {
      "expte": "20653",
      "tipo": "Ley",
@@ -87,11 +82,17 @@
      "tipo": "Resolución",
      "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
      "aprobado": false
+    },
+    {
+     "expte": "20650",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
+     "aprobado": false
     }
    ]
   },
   "Aparicio|María Sara": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-06-03",
@@ -134,7 +135,7 @@
    ]
   },
   "Ast|Norberto": {
-   "presentes": 20,
+   "presentes": 21,
    "ausencias": 0,
    "ultimas_ausencias": [],
    "presentados": 8,
@@ -174,20 +175,20 @@
    ]
   },
   "Benítez|Edgar V.": {
-   "presentes": 17,
+   "presentes": 18,
    "ausencias": 3,
    "ultimas_ausencias": [
     "2026-04-08",
     "2026-07-08",
     "2026-09-23"
    ],
-   "presentados": 90,
-   "aprobados": 80,
-   "en_comision": 10,
-   "solo": 11,
+   "presentados": 91,
+   "aprobados": 84,
+   "en_comision": 7,
+   "solo": 12,
    "tipos": {
     "Ley": 7,
-    "Declaración": 82,
+    "Declaración": 83,
     "Resolución": 1
    },
    "ultimos": [
@@ -195,42 +196,42 @@
      "expte": "20625",
      "tipo": "Declaración",
      "asunto": "De interés el evento “Encuentro Cannabis – 1ª Edición del Litoral”, en el predio Espacio Andes de la ciudad de Corrientes.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20599",
      "tipo": "Declaración",
      "asunto": "De interés el Festival de la Torta Frita y la Tradición, en Bonpland.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20595",
      "tipo": "Declaración",
      "asunto": "De interés la conferencia ECOA 2026 “ Coaching un mundo de posibilidades”, en el auditorio Julián Zini de Corrientes.",
-     "aprobado": false
+     "aprobado": true
     },
     {
-     "expte": "20562",
-     "tipo": "Ley",
-     "asunto": "Crea el Museo “General Manuel Belgrano” en la ciudad de Curuzú Cuatiá.",
-     "aprobado": false
+     "expte": "20588",
+     "tipo": "Declaración",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
+     "aprobado": true
     }
    ]
   },
   "Benítez|Hugo Daniel": {
    "presentes": 10,
-   "ausencias": 10,
+   "ausencias": 11,
    "ultimas_ausencias": [
-    "2026-08-05",
     "2026-09-23",
-    "2026-10-14"
+    "2026-10-14",
+    "2026-10-28"
    ],
-   "presentados": 11,
-   "aprobados": 8,
-   "en_comision": 3,
-   "solo": 8,
+   "presentados": 10,
+   "aprobados": 10,
+   "en_comision": 0,
+   "solo": 7,
    "tipos": {
-    "Declaración": 10,
+    "Declaración": 9,
     "Resolución": 1
    },
    "ultimos": [
@@ -238,38 +239,38 @@
      "expte": "20626",
      "tipo": "Declaración",
      "asunto": "De interés la conmemoración del Día de la Tradición, en homenaje al nacimiento del escritor José Hernández.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20610",
      "tipo": "Declaración",
      "asunto": "De interés la trayectoria científica, académica y profesional del Dr. Carlos A. Busatto, de la ciudad de Esquina.",
-     "aprobado": false
-    },
-    {
-     "expte": "20588",
-     "tipo": "Declaración",
-     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20463",
      "tipo": "Declaración",
      "asunto": "De interés la imposición del nombre “Juan Daniel Cafferata Soto” a la Escuela Nº 625 del paraje Tranquera Cadena, departamento de Esquina.",
      "aprobado": true
+    },
+    {
+     "expte": "20462",
+     "tipo": "Declaración",
+     "asunto": "De interés la trayectoria histórica, educativa y comunitaria de la Escuela Nº 587 “Elvira Ceferina Sánchez de Maciel”, del paraje Itá Corá, departamento de Mercedes.",
+     "aprobado": true
     }
    ]
   },
   "Brambilla|Sofía": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-04-29",
     "2026-05-06"
    ],
    "presentados": 20,
-   "aprobados": 12,
-   "en_comision": 8,
+   "aprobados": 13,
+   "en_comision": 7,
    "solo": 16,
    "tipos": {
     "Resolución": 6,
@@ -281,7 +282,7 @@
      "expte": "20598",
      "tipo": "Declaración",
      "asunto": "De interés el 2º Congreso de Psiquiatría de la Provincia de Corrientes, organizado por la Asociación Psiquiatras de Corrientes (APSICO), en el hotel Marriott de Corrientes.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20485",
@@ -304,14 +305,14 @@
    ]
   },
   "Branz|Mario Jacinto": {
-   "presentes": 19,
+   "presentes": 20,
    "ausencias": 1,
    "ultimas_ausencias": [
     "2026-07-08"
    ],
    "presentados": 13,
-   "aprobados": 8,
-   "en_comision": 5,
+   "aprobados": 9,
+   "en_comision": 4,
    "solo": 11,
    "tipos": {
     "Declaración": 8,
@@ -329,7 +330,7 @@
      "expte": "20583",
      "tipo": "Declaración",
      "asunto": "De interés el “Conversatorio Jurídico e Interinstitucional”, en el auditorio del campus Deodoro Roca, de la Facultad de Derecho, Ciencias Sociales y Políticas de la UNNE.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20442",
@@ -346,7 +347,7 @@
    ]
   },
   "Calvano|Hugo Ricardo": {
-   "presentes": 16,
+   "presentes": 17,
    "ausencias": 4,
    "ultimas_ausencias": [
     "2026-08-05",
@@ -364,16 +365,16 @@
    },
    "ultimos": [
     {
-     "expte": "20648",
-     "tipo": "Declaración",
-     "asunto": "De interés al Ballet Sentido Folklore, en reconocimiento a su trayectoria y compromiso con la difusión de las danzas folklóricas argentinas.",
-     "aprobado": true
-    },
-    {
      "expte": "20162",
      "tipo": "Declaración",
      "asunto": "De interés la Resolución del Comité Especial de Descolonización de las Naciones Unidas sobre la “Cuestión de las Islas Malvinas” (A/AC.109/2015/L.7) por el que se pide al Gobierno del Reino Unido afiance el proceso de di",
      "aprobado": false
+    },
+    {
+     "expte": "20648",
+     "tipo": "Declaración",
+     "asunto": "De interés al Ballet Sentido Folklore, en reconocimiento a su trayectoria y compromiso con la difusión de las danzas folklóricas argentinas.",
+     "aprobado": true
     },
     {
      "expte": "20624",
@@ -390,7 +391,7 @@
    ]
   },
   "Canteros|Gustavo J. A.": {
-   "presentes": 13,
+   "presentes": 14,
    "ausencias": 7,
    "ultimas_ausencias": [
     "2026-05-27",
@@ -398,8 +399,8 @@
     "2026-10-14"
    ],
    "presentados": 198,
-   "aprobados": 98,
-   "en_comision": 100,
+   "aprobados": 107,
+   "en_comision": 91,
    "solo": 0,
    "tipos": {
     "Declaración": 109,
@@ -420,21 +421,21 @@
      "aprobado": true
     },
     {
-     "expte": "20640",
+     "expte": "20641",
      "tipo": "Declaración",
-     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
      "aprobado": true
     },
     {
-     "expte": "20637",
+     "expte": "20640",
      "tipo": "Declaración",
-     "asunto": "De beneplácito y reconocimiento a la ciclista goyana Sonia Ferrara por la medalla de oro obtenida en la prueba de persecución individual, categoría Máster Damas B, del Campeonato Argentino de Pista Máster y Elite II 2026",
+     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
      "aprobado": true
     }
    ]
   },
   "Cassani|Pedro Gerardo": {
-   "presentes": 14,
+   "presentes": 15,
    "ausencias": 6,
    "ultimas_ausencias": [
     "2026-06-17",
@@ -478,14 +479,14 @@
    ]
   },
   "Fernández Recalde|Emiliano": {
-   "presentes": 19,
+   "presentes": 20,
    "ausencias": 1,
    "ultimas_ausencias": [
     "2026-09-23"
    ],
    "presentados": 202,
-   "aprobados": 100,
-   "en_comision": 102,
+   "aprobados": 109,
+   "en_comision": 93,
    "solo": 0,
    "tipos": {
     "Declaración": 112,
@@ -506,21 +507,21 @@
      "aprobado": true
     },
     {
-     "expte": "20640",
+     "expte": "20641",
      "tipo": "Declaración",
-     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
      "aprobado": true
     },
     {
-     "expte": "20637",
+     "expte": "20640",
      "tipo": "Declaración",
-     "asunto": "De beneplácito y reconocimiento a la ciclista goyana Sonia Ferrara por la medalla de oro obtenida en la prueba de persecución individual, categoría Máster Damas B, del Campeonato Argentino de Pista Máster y Elite II 2026",
+     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
      "aprobado": true
     }
    ]
   },
   "Gauna|Ana María Marlene": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-03-11",
@@ -563,15 +564,15 @@
    ]
   },
   "Giotta|Andrea María": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-04-29",
     "2026-05-06"
    ],
    "presentados": 31,
-   "aprobados": 26,
-   "en_comision": 5,
+   "aprobados": 28,
+   "en_comision": 3,
    "solo": 24,
    "tipos": {
     "Ley": 4,
@@ -595,26 +596,26 @@
      "expte": "20602",
      "tipo": "Declaración",
      "asunto": "De interés la distinción otorgada al periodista correntino Jaime Aníbal Meza, con el primer premio de la Asociación de Entidades Periodísticas Argentinas (ADEPA) 2026, en la categoría “Periodismo de Investigación”.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20594",
      "tipo": "Declaración",
      "asunto": "De interés la 4ª Fiesta Provincial del Lechón Artesanal -9ª edición histórica-, en la localidad de Pago de los Deseos, departamento de Saladas.",
-     "aprobado": false
+     "aprobado": true
     }
    ]
   },
   "Gortari|María Cecilia": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-04-29",
     "2026-09-23"
    ],
    "presentados": 205,
-   "aprobados": 101,
-   "en_comision": 104,
+   "aprobados": 110,
+   "en_comision": 95,
    "solo": 0,
    "tipos": {
     "Declaración": 112,
@@ -635,28 +636,28 @@
      "aprobado": true
     },
     {
-     "expte": "20640",
+     "expte": "20641",
      "tipo": "Declaración",
-     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
+     "asunto": "De interés el 154º aniversario de la fundación de Paso de la Patria.",
      "aprobado": true
     },
     {
-     "expte": "20637",
+     "expte": "20640",
      "tipo": "Declaración",
-     "asunto": "De beneplácito y reconocimiento a la ciclista goyana Sonia Ferrara por la medalla de oro obtenida en la prueba de persecución individual, categoría Máster Damas B, del Campeonato Argentino de Pista Máster y Elite II 2026",
+     "asunto": "De interés el reconocimiento obtenido por el músico correntino Richard Alejandro Scófano, ganador de los premios Grammy Latino 2026 (Latin Grammy Awards 2026) , en la categoría mejor Obra/Composición clásica, por su obra",
      "aprobado": true
     }
    ]
   },
   "Hardoy|Eduardo Daniel": {
-   "presentes": 19,
+   "presentes": 20,
    "ausencias": 1,
    "ultimas_ausencias": [
     "2026-08-05"
    ],
    "presentados": 39,
-   "aprobados": 28,
-   "en_comision": 11,
+   "aprobados": 29,
+   "en_comision": 10,
    "solo": 2,
    "tipos": {
     "Declaración": 25,
@@ -674,7 +675,7 @@
      "expte": "20582",
      "tipo": "Declaración",
      "asunto": "De interés el libro “El General José de San Martín: sabiduría práctica y ejemplo de imitación”, autoría de Lorena Paola Penayo.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20540",
@@ -691,7 +692,7 @@
    ]
   },
   "Lazaroff|Lorena": {
-   "presentes": 16,
+   "presentes": 17,
    "ausencias": 4,
    "ultimas_ausencias": [
     "2026-04-29",
@@ -735,12 +736,12 @@
    ]
   },
   "Leconte|Ricardo Guillermo": {
-   "presentes": 20,
+   "presentes": 21,
    "ausencias": 0,
    "ultimas_ausencias": [],
    "presentados": 25,
-   "aprobados": 6,
-   "en_comision": 19,
+   "aprobados": 7,
+   "en_comision": 18,
    "solo": 24,
    "tipos": {
     "Resolución": 8,
@@ -775,7 +776,7 @@
    ]
   },
   "Lezcano|César Daniel": {
-   "presentes": 19,
+   "presentes": 20,
    "ausencias": 1,
    "ultimas_ausencias": [
     "2026-09-23"
@@ -817,7 +818,7 @@
    ]
   },
   "Méndez Vernengo|Jesús Raúl": {
-   "presentes": 16,
+   "presentes": 17,
    "ausencias": 4,
    "ultimas_ausencias": [
     "2026-04-29",
@@ -861,15 +862,15 @@
    ]
   },
   "Nazer|Eliana Graciela": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-05-13",
     "2026-09-16"
    ],
    "presentados": 33,
-   "aprobados": 29,
-   "en_comision": 4,
+   "aprobados": 31,
+   "en_comision": 2,
    "solo": 32,
    "tipos": {
     "Declaración": 30,
@@ -887,13 +888,13 @@
      "expte": "20580",
      "tipo": "Declaración",
      "asunto": "De interés la labor de la Asociación de Bomberos Voluntarios de Itá Ibaté.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20579",
      "tipo": "Declaración",
      "asunto": "De interés la labor deportiva y social de la Academia de Artes Marciales Khwām Pheīyr, de la localidad de Itá Ibaté.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20578",
@@ -904,7 +905,7 @@
    ]
   },
   "Ojeda|Juan de la Cruz": {
-   "presentes": 19,
+   "presentes": 20,
    "ausencias": 1,
    "ultimas_ausencias": [
     "2026-09-23"
@@ -946,15 +947,15 @@
    ]
   },
   "Pavón|Valeria Luciana": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-04-08",
     "2026-07-08"
    ],
    "presentados": 15,
-   "aprobados": 9,
-   "en_comision": 6,
+   "aprobados": 10,
+   "en_comision": 5,
    "solo": 13,
    "tipos": {
     "Declaración": 7,
@@ -966,7 +967,7 @@
      "expte": "20603",
      "tipo": "Declaración",
      "asunto": "De interés el Encuentro Internacional “Alfabetización: memorias, debates y futuros”.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20510",
@@ -989,7 +990,7 @@
    ]
   },
   "Pereyra|Lucía Elizabeth": {
-   "presentes": 15,
+   "presentes": 16,
    "ausencias": 1,
    "ultimas_ausencias": [
     "2026-05-06"
@@ -1031,14 +1032,14 @@
    ]
   },
   "Romero|Jessica Natalia": {
-   "presentes": 19,
+   "presentes": 20,
    "ausencias": 1,
    "ultimas_ausencias": [
     "2026-09-16"
    ],
    "presentados": 40,
-   "aprobados": 28,
-   "en_comision": 12,
+   "aprobados": 30,
+   "en_comision": 10,
    "solo": 1,
    "tipos": {
     "Declaración": 26,
@@ -1056,13 +1057,13 @@
      "expte": "20602",
      "tipo": "Declaración",
      "asunto": "De interés la distinción otorgada al periodista correntino Jaime Aníbal Meza, con el primer premio de la Asociación de Entidades Periodísticas Argentinas (ADEPA) 2026, en la categoría “Periodismo de Investigación”.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20582",
      "tipo": "Declaración",
      "asunto": "De interés el libro “El General José de San Martín: sabiduría práctica y ejemplo de imitación”, autoría de Lorena Paola Penayo.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20540",
@@ -1073,15 +1074,15 @@
    ]
   },
   "Rotela Cañete|Albana Virginia": {
-   "presentes": 18,
+   "presentes": 19,
    "ausencias": 2,
    "ultimas_ausencias": [
     "2026-04-29",
     "2026-06-03"
    ],
    "presentados": 90,
-   "aprobados": 71,
-   "en_comision": 19,
+   "aprobados": 77,
+   "en_comision": 13,
    "solo": 6,
    "tipos": {
     "Declaración": 76,
@@ -1099,29 +1100,29 @@
      "expte": "20629",
      "tipo": "Declaración",
      "asunto": "De interés la Semana del Prematuro, en la maternidad María de la Dulce Espera del hospital “Ángela Iglesia de Llano”.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20621",
      "tipo": "Declaración",
      "asunto": "De interés la Primera Jornada Regional de Neonatología, en la Facultad de Derecho de la UNNE.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20613",
      "tipo": "Declaración",
      "asunto": "De interés la 95ª Fiesta de Santa Catalina, en RN Nº 14 km 776 – paraje Santa Catalina.",
-     "aprobado": false
+     "aprobado": true
     }
    ]
   },
   "Tassano|Eduardo Adolfo": {
-   "presentes": 20,
+   "presentes": 21,
    "ausencias": 0,
    "ultimas_ausencias": [],
    "presentados": 7,
-   "aprobados": 5,
-   "en_comision": 2,
+   "aprobados": 6,
+   "en_comision": 1,
    "solo": 4,
    "tipos": {
     "Declaración": 6,
@@ -1132,7 +1133,7 @@
      "expte": "20602",
      "tipo": "Declaración",
      "asunto": "De interés la distinción otorgada al periodista correntino Jaime Aníbal Meza, con el primer premio de la Asociación de Entidades Periodísticas Argentinas (ADEPA) 2026, en la categoría “Periodismo de Investigación”.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20524",
@@ -1155,7 +1156,7 @@
    ]
   },
   "Vallejos|Víctor Hugo": {
-   "presentes": 15,
+   "presentes": 16,
    "ausencias": 5,
    "ultimas_ausencias": [
     "2026-08-05",
@@ -1186,7 +1187,7 @@
    ]
   },
   "Vassel|José Lisandro": {
-   "presentes": 14,
+   "presentes": 15,
    "ausencias": 6,
    "ultimas_ausencias": [
     "2026-07-08",
@@ -1194,8 +1195,8 @@
     "2026-09-16"
    ],
    "presentados": 81,
-   "aprobados": 70,
-   "en_comision": 11,
+   "aprobados": 76,
+   "en_comision": 5,
    "solo": 1,
    "tipos": {
     "Declaración": 74,
@@ -1213,24 +1214,24 @@
      "expte": "20629",
      "tipo": "Declaración",
      "asunto": "De interés la Semana del Prematuro, en la maternidad María de la Dulce Espera del hospital “Ángela Iglesia de Llano”.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20621",
      "tipo": "Declaración",
      "asunto": "De interés la Primera Jornada Regional de Neonatología, en la Facultad de Derecho de la UNNE.",
-     "aprobado": false
+     "aprobado": true
     },
     {
      "expte": "20613",
      "tipo": "Declaración",
      "asunto": "De interés la 95ª Fiesta de Santa Catalina, en RN Nº 14 km 776 – paraje Santa Catalina.",
-     "aprobado": false
+     "aprobado": true
     }
    ]
   },
   "Vidal Domínguez|Adriana Cleofe": {
-   "presentes": 12,
+   "presentes": 13,
    "ausencias": 8,
    "ultimas_ausencias": [
     "2026-07-08",
@@ -1248,12 +1249,6 @@
    },
    "ultimos": [
     {
-     "expte": "19690",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Superior Tribunal de Justicia aplique en carácter de urgente la ley 5893, con el objeto de proceder al remate judicial de los animales secuestrados y en custodia en la Sociedad Rural de La Cruz.",
-     "aprobado": false
-    },
-    {
      "expte": "20653",
      "tipo": "Ley",
      "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
@@ -1269,6 +1264,12 @@
      "expte": "20651",
      "tipo": "Resolución",
      "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
+     "aprobado": false
+    },
+    {
+     "expte": "20650",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
      "aprobado": false
     }
    ]
