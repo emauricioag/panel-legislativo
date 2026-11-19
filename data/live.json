@@ -12,18 +12,18 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1635.6,
-   "venta": 1638.1
+   "compra": 1635.4,
+   "venta": 1639.6
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1737.1,
-   "venta": 1737.6
+   "compra": 1739.1,
+   "venta": 1739.6
   },
   {
    "casa": "Mayorista",
-   "compra": 1554,
-   "venta": 1563
+   "compra": 1556,
+   "venta": 1565
   }
  ],
  "riesgo_pais": {
@@ -891,6 +891,12 @@
    "fuente": "Bichos de Campo"
   },
   {
+   "titulo": "Llega Ñande Week Correntino: descuentos, promociones y $ 3 millones en premios",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORzhTYWhnd2xCanQ0QmhMVHhYQ3RTM2pLemFCaHRlVFZmQklZYy1jRmdvcEJEUFF2SG5PWWtzNUZJV3FtYnJmM3o3R0tnOXF0ZHkyVDhydk1jTWh0Z1JyVUM3bngxb3lsN3owVHRvN0VHLWpodDJTd3FwWkVLc0hzTHFCdXRMYWEzZmMyeDgwTERXS2xlN3RfTFBaUjhFOTFsQ1RaVUNXelowRkhCQ2EwcGRDcWh2dXE1Y2tGdkhn?oc=5",
+   "fecha": "Thu, 19 Nov 2026 14:58:27 GMT",
+   "fuente": "Corrientes en el aire"
+  },
+  {
    "titulo": "Corrientes declaró la emergencia hídrica por 180 días ante la amenaza de El Niño",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFBieXMtcU9LZXhEeXRHMl9TZklhZWxxbGtQUmJHanZkR2ZFUWp6NVFfbDFDRVZTQ3VEVV9CRlEyY3FxTWFncXlmanFURm9nekNnaGtBZk1sNjhlakVxeVF6RmtJSG9sTk5qVlFnYnJabWJFZUxZX3hLcXdWNXFCNFp4MW5OXzg2elM5Q3RQbG15V1p4VFZSQmtOZDlNeF80OTFPeHBmY3k?oc=5",
    "fecha": "Thu, 19 Nov 2026 11:36:07 GMT",
@@ -901,12 +907,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmpCLTNBdncxdHNKVDZTeDdkMnZEMWdjZ3A1VkZoX0Nmd2YxaGpWbjh3bVQ5aTdPQkNIZmNfWUIyY0hPbGliZFJ6Y1A4MFZHR3BVYnpTMWV6S0Z3QlQwZUI0U1BaNGh4WUFiNVZ4QkMxZGJNTkloc1dnbUswMHAzeEFnN2Q1MjNyZFl5TUJ5OGpabjlRRGpSQzRMSGFtcHRnTEJZcEc3eDhYNEEwQllheWJLRmxuWkJk?oc=5",
    "fecha": "Thu, 19 Nov 2026 12:54:29 GMT",
    "fuente": "Momarandu Corrientes"
-  },
-  {
-   "titulo": "Valdés solicitó al Senado el acuerdo para designar a Horacio Ortega en el Superior Tribunal de Justicia",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORlBCaG5oMFgwbGRFNVJIYzk4M3czbUQzRFpLOUY5emxmNEFaWTUwNVhiZE9rdV9wbHVyV2dHbFJUcUxCR0YyV0FDNzg4SFpWbVR4ekxVMFQ4QU1aRjlhbUlxWE0tcUJ6SmtmNGMtbHhFSE1oejVnOFd1OWNJc1owU0FTYWo2NUVIakwwaW9JekhieS1vTEU5X3Zic1lYc2s3Qjg2SFVDUzUxc19xVk1oU2tPQk9aNWtuMFVfNmFJQXNvWm9vRk1BcTJIZjE2WnVmWEo3M2h4VnFCcnBNWEhN?oc=5",
-   "fecha": "Thu, 19 Nov 2026 13:33:26 GMT",
-   "fuente": "Corrientes en el aire"
   },
   {
    "titulo": "Presentan la 4ª edición del certamen nacional de fotografía \"Iberá, Corazón Correntino\"",
@@ -927,9 +927,21 @@
    "fuente": "Identidad Correntina"
   },
   {
+   "titulo": "Secuestraron 900 kilos de surubíes a un transportista de Victoria en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1ZXV0UxLW1rdC1sYnhYaDdLWE5rRktUWklwdWVPaTZUT2VrX0tBZmZDdkhPMjliWVdYTW54bm9LS2tZS2RpdE9PN19abEZBWmFETENPWFJ3eVBFWDh1d1pnbjBtQjN6RU5VTXJzdnZMVHIxaVdUV1liRFNHdmJaUWNoRmMxc0k?oc=5",
+   "fecha": "Thu, 19 Nov 2026 13:07:43 GMT",
+   "fuente": "9 Digital"
+  },
+  {
+   "titulo": "El Tren Solidario llega a Chaco y Corrientes con ayuda para afectados por inundaciones",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHJiSk56S2RDR2ZxNHBhdExlY05qY202Zmx3TjZEQWhqR0FKcDdsckp2blY2YWZBd2xKVEpESHFLRFphMHkzWFozVktvQ2NfWHZIOGd5T1NRMFdHUnkwTFZBMHpNWk82MW94aUI1NWpjbWlicFRtSzB4WG43cjRpdTFwaXh2bVJ0RXJuXzVGcGVvbkNFTXB6VXBKY0ZwN1JPRHY3ZHRNc3ZFUm5KSjBCemZPNE1kbWNsM1FCOTBkVQ?oc=5",
+   "fecha": "Thu, 19 Nov 2026 19:05:22 GMT",
+   "fuente": "www.noticiero9.com.ar"
+  },
+  {
    "titulo": "Valdés propuso a Horacio Ortega para integrar el Superior Tribunal de Justicia de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEZpV3hQMHBOektnaktlS0FjVTBDazJxT3VLb2M4TXRhYzIyZmNBU3N3YkFyb0xrTS1zSnNaOXZaa1BqY2VCMnd1UEQzUmpsX2dBc3NfT0V2ZGxEdmxYTGdFdUNuZHROQW9TbEFnQ2EzZ2VPb0k1dUtXZzduZXRBbDhCX2NiMndXU3hXZFM2VXpHWGs1NGpRTmU0WFlfWjJKdi1hUEFwNGhCTXNVdzdFTW40WGhkNDhPVlpHVzdzUmJKOXZyaWFSSUFCTmp2Zw?oc=5",
-   "fecha": "Thu, 19 Nov 2026 14:24:53 GMT",
+   "fecha": "Thu, 19 Nov 2026 14:36:50 GMT",
    "fuente": "Corrientes al Día"
   },
   {
@@ -939,22 +951,16 @@
    "fuente": "Medios Provincia"
   },
   {
-   "titulo": "El Tren Solidario llega a Chaco y Corrientes para asistir a las familias evacuadas",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVUJyczZOSUZMbXduVTNqQXJhS0xCMmt2aXhoN3h6aks0SUdzWkxJZUR2bzVLbmc3TmtVUEFVWWpYZTNkRkx2bHlOb3dONUs3YXNFdUswUkRFUS1lZGZNSTJGbFhmdDIxMVNEeU4xNjBpRXlscEsySm5oaGpBT1pTZkNaOXhBWFRpSUxjelVORmJtYzJSQWU2U1g2eTdGOGRPdTJTb0Z2TDRtSkdQZ3g1bi10bGdmcVRiQU1iYWUyaWFIQjBRNDlxRjNR?oc=5",
-   "fecha": "Thu, 19 Nov 2026 11:35:53 GMT",
-   "fuente": "El Diario de la Región"
-  },
-  {
    "titulo": "Juan Pablo Valdés no descartó un bono navideño en Corrientes pese a la caída de coparticipación",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2FGOFJEQTY2RzFDTHFWRkhvOUxRc2JFYWc4aXBfd2dZNUJXT0NzZDJZQjljM0YwR0YycGNVZk9ULXpRQ1JqcVBYSUJyQnFvZklPZS1tSXQxanpBdndlQlZNMUJGQTVDak83OEM4dnV6WnZCSmNscDlYNDFQc0I4M2NweTBjNjg1U25GQ2dMMVl0QmgyOTI3Z0t4OTJKZTNfRXdNRjJJOFM3aTlXcUZvTjlONkVMTFk4ZDA0aDA5dFdMOHkxVk1OSjNhTFZnSTRW?oc=5",
    "fecha": "Thu, 19 Nov 2026 12:07:43 GMT",
    "fuente": "Perfil"
   },
   {
-   "titulo": "El 10% de aumento salarial en Corrientes tiene su primer paro de rechazo",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjJueDBIYlNJZ2hmMlFwZk15NEJicF94aVJvbHBXeVNRN21BZDRpdUNNQ21OQzNGZURQdXZlYUp3azFQbzM0QndEY0o0a1l4QWFwUWRmNGJobjYxTVZrYjRzSjBFMzJjTXhHQXBjQThQQ2h4YVdXWE0zV0hwMXZDUXNyRElHWkpYZEVqMng5NlVtRVVQRjktblhQS1JBMkhWRzJjY0laUDVmbDU1S21TV3R2Z3I3WTNwNXc?oc=5",
-   "fecha": "Thu, 19 Nov 2026 11:20:20 GMT",
-   "fuente": "Corrientes Hoy"
+   "titulo": "Valdés solicitó al Senado el acuerdo para designar a Horacio Ortega en el Superior Tribunal de Justicia",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORlBCaG5oMFgwbGRFNVJIYzk4M3czbUQzRFpLOUY5emxmNEFaWTUwNVhiZE9rdV9wbHVyV2dHbFJUcUxCR0YyV0FDNzg4SFpWbVR4ekxVMFQ4QU1aRjlhbUlxWE0tcUJ6SmtmNGMtbHhFSE1oejVnOFd1OWNJc1owU0FTYWo2NUVIakwwaW9JekhieS1vTEU5X3Zic1lYc2s3Qjg2SFVDUzUxc19xVk1oU2tPQk9aNWtuMFVfNmFJQXNvWm9vRk1BcTJIZjE2WnVmWEo3M2h4VnFCcnBNWEhN?oc=5",
+   "fecha": "Thu, 19 Nov 2026 13:33:26 GMT",
+   "fuente": "Corrientes en el aire"
   },
   {
    "titulo": "Juan Pablo Valdés solicitó que Horacio Ortega integre el Superior Tribunal de Justicia",
@@ -963,28 +969,22 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "Valdés propuso al actual Fiscal de Estado para ocupar el Superior Tribunal de Justicia de Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYldKUVdTQ2tNcHUzVXJqZlJzVVIxR3lrSFdDazU4eVIxS1dYNl9kMm9aVi11U1gwbGtzWERSWmZ2eXRMREx3VDFpRjNsa2FrcjNfWmoydXhqZkhvWXdSQ3ViWXBLNUVOWm9XTWxQUHpxdmVMNHJFalpxWjlUN2ZBTTRXVkVZMHB1cXV2WmZDNUdfY0tuRlpQN2YwZnQ0WHYxRXNiLWxJYVVFNnk2NGNCdDkxajU5YmVjUmFZYWt4TE9idnNUU01hbUpsN0czVl9tSWotakJyLXhQOFRhZ3VXRQ?oc=5",
-   "fecha": "Thu, 19 Nov 2026 10:52:24 GMT",
-   "fuente": "Corrientes Hoy"
-  },
-  {
    "titulo": "Ast respaldó que Gustavo Valdés “siga siendo el presidente” de la UCR",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeFNRRTRXNlRzNEpGcVFiczlibHI0ODZydkdmOTdIeW9zMUZfOFo3V3c4cU5DUVozU2hId2NPOXZpbms0SFVFTWEtd092bF9HLVREMHBYMjNnTERTRUxRTzhudHp0a2V4OHJDdFBrUDFUUXpMVEtiZzRjNmtWZFlwaFJmMmgtd1RPcndWTFM1LWJnYVZEMFBId3kxelNnc3V3bkZBX1BzRXBGWGNYNldRT3dXVXE3UQ?oc=5",
    "fecha": "Thu, 19 Nov 2026 06:13:18 GMT",
    "fuente": "Momarandu Corrientes"
   },
   {
+   "titulo": "Diputados aprobó donaciones de tierras y avanzó con proyectos sobre educación",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMG44N0tjWklYWDB4a3FUM1JNSlJKaGZubUt3ZFo3aFp4OF9Xd21id1RJRHZPdUhtb1FhNnExMjRiRHZob3Z0M2l5S2gtYzlIOTFpLVdfX3llbzdHV2RJRzdGak1fU0Y1cFg1YUNPcG5sZm1XV0VZN0NfODV5a2JISk1iX3BzMUJ1WHJlVWxCSk9PaDZEMHdCQ0hpc1JBNHU3UDhJcEphV0l0SEJrMDNpdW5OZFBlVThtdUp3WFBDMA?oc=5",
+   "fecha": "Thu, 19 Nov 2026 10:08:23 GMT",
+   "fuente": "Corrientes Hoy"
+  },
+  {
    "titulo": "Valdés pide acuerdo para nombrar a Ortega en el Superior Tribunal",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaDUzR21idi1BcXBtWjBUMDZxMlFfdGxOZlA3cHpNak9VeFlrd1ZMRUUzc3FRcEFuVVJpbEJZOTA1OWpGdkZFaUJjNFRLTENzWXR2ZHpObG1qNlpIZllfS3V1OFV1c0JIMjJCeWRmQzEyUUZ5dzFIazBGRkpOY2hWWDJlaGQyRzZKc25xSGJvRnh0d3gycWpxN1U0LW9XbHBhcFpyM3d5dw?oc=5",
    "fecha": "Thu, 19 Nov 2026 13:03:15 GMT",
    "fuente": "VirasoroVirtual"
-  },
-  {
-   "titulo": "Corrientes: la Cámara de Diputados aprobó la ley de Emergencia Hídrica",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnNWdVowb2hZVlhuWXd5TU9NMF9qM2J5R1kyS28yMGxZMThDVjk5RFV2OU5GRUVhTHlVZ0tlSkF1TVlTMDZZd3J3RTlwRU1RQzFWZTFzbUEzM0VLQkQ5YXkzbE9aNHpDeF9sV0NYRjZLNmllYm9NVUx3OVY4b3dZck0yallFUUphSUo3enhCZGpwN0gtZjZpdEtDOUZjaEs0c2hHZw?oc=5",
-   "fecha": "Wed, 18 Nov 2026 21:14:55 GMT",
-   "fuente": "TN24.com.ar"
   }
  ],
  "expedientes": {
@@ -1215,9 +1215,10 @@
   }
  },
  "errores": {
+  "nacionales": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-19T16:04-03:00",
+ "actualizado": "2026-11-19T16:30-03:00",
  "medios": {
   "derecha_diario": [
    {
