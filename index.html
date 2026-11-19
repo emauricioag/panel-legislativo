@@ -8,7 +8,13 @@
 <title>Panel legislativo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="icon" href="assets/icono.svg" type="image/svg+xml">
+<link rel="icon" href="assets/escudo-corrientes.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Panel">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{
@@ -1048,6 +1054,7 @@ document.addEventListener('visibilitychange', despierto);
 zoom(0); despierto();
 reloj(); setInterval(reloj, 5000);
 pintarEsqueleto(FIJA);
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 cargar(); revisarVersion();
 setInterval(() => { cargar(); revisarVersion(); }, 10 * 60 * 1000);   // datos nuevos cada 10 minutos
 </script>
