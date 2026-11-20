@@ -406,7 +406,8 @@ const caja = (href, clase, html) => href
 // Filtro de la sección Proyectos: se elige tocando los números de la columna derecha.
 const FILTROS = {
   todos: {txt: 'presentados', f: () => true},
-  aprob: {txt: 'aprobados', f: p => /aprob|sanci/i.test(estadoDe(p))},
+  aprob: {txt: 'aprobados', f: p => /aprob|sanci/i.test(estadoDe(p)) && !/media sanci/i.test(estadoDe(p))},
+  media: {txt: 'con media sanción', f: p => /media sanci/i.test(estadoDe(p))},
   comision: {txt: 'en comisión', f: p => /comisi|ingres/i.test(estadoDe(p))},
   pref: {txt: 'con preferencia', f: p => /prefer/i.test(estadoDe(p))},
   Ley: {txt: 'de ley', f: p => p.tipo === 'Ley'},
@@ -801,8 +802,8 @@ const LATERALES = {
     const pref = ps.filter(p => /prefer/i.test(estadoDe(p)));
     const fila = p => renglon(numExpte(p.expte), p.tema, pdfExpte(p.expte));
     return [
-      W('Proyectos de Leconte', '', `<div class="mini">
-        ${boton('todos', ps.length)}${boton('aprob')}${boton('comision')}${boton('pref')}</div>`, 'fija'),
+      W('Proyectos de Leconte', '', `<div class="mini tres">
+        ${boton('todos', ps.length)}${boton('aprob')}${boton('media')}${boton('comision')}${boton('pref')}</div>`, 'fija'),
       W('Por tipo', '', `<div class="mini tres">${['Ley', 'Resolución', 'Declaración'].map(t => boton(t)).join('')}</div>`, 'fija'),
       pref.length ? W('Con preferencia', 'se votan pronto', pref.slice(0, 3).map(fila).join(''), 'fija') : '',
       W(cambios.length ? 'Movimientos de la semana' : 'Últimos presentados', '', (cambios.length ? cambios : ps).slice(0, 6).map(fila).join('')),
@@ -866,11 +867,11 @@ const LATERALES = {
     // Leconte: los números salen de la lista de la sección Proyectos (base.json), para que coincidan con ella.
     // Los demás diputados salen de las fichas de la Cámara (diputados.json).
     if (r && d.apellido === 'Leconte' && (BASE.proyectos || []).length) {
-      const ps = BASE.proyectos, apr = ps.filter(FILTROS.aprob.f).length, tipos = {};
+      const ps = BASE.proyectos, apr = ps.filter(FILTROS.aprob.f).length, media = ps.filter(FILTROS.media.f).length, tipos = {};
       ps.forEach(p => { tipos[p.tipo || 'Otro'] = (tipos[p.tipo || 'Otro'] || 0) + 1; });
-      r = {...r, presentados: ps.length, aprobados: apr, en_comision: ps.filter(FILTROS.comision.f).length, txt_comision: 'en comisión', tipos,
+      r = {...r, presentados: ps.length, aprobados: apr, media, en_comision: ps.filter(FILTROS.comision.f).length, txt_comision: 'en comisión', tipos,
         solo: ps.length - (r.presentados - r.solo),
-        ultimos: ps.slice(0, 4).map(p => ({expte: p.expte, asunto: p.tema, aprobado: FILTROS.aprob.f(p)}))};
+        ultimos: ps.slice(0, 4).map(p => ({expte: p.expte, asunto: p.tema, aprobado: FILTROS.aprob.f(p) || FILTROS.media.f(p)}))};
     }
     const color = (BASE.partidos.find(p => p.nombre === d.partido) || {}).color || '#666';
     const cab = `<div class="ficha">${d.foto ? `<img src="${esc(d.foto)}" alt="" width="96" height="96" style="border-color:${color}">` : ''}<div>
@@ -886,7 +887,7 @@ const LATERALES = {
       W('Labor en el período', 'desde ' + fechaCorta(DIPS.desde) + '/' + DIPS.desde.slice(2, 4), `<div class="mini">
         <div><b>${r.presentados}</b><span>proyectos</span></div><div><b>${r.aprobados}</b><span>aprobados</span></div>
         <div><b>${r.en_comision}</b><span>${r.txt_comision || 'en trámite'}</span></div><div><b>${r.presentes}<small>/${ses}</small></b><span>asistencias</span></div></div>
-        <div class="nota">${tipos || 'Sin proyectos'}${coaut > 0 ? ` · ${coaut} con otros diputados` : ''}</div>
+        <div class="nota">${r.media ? `${r.media} con media sanción · ` : ''}${tipos || 'Sin proyectos'}${coaut > 0 ? ` · ${coaut} con otros diputados` : ''}</div>
         ${r.ausencias ? `<div class="nota n1">Últimas ausencias: ${r.ultimas_ausencias.map(fechaCorta).join(', ')}</div>` : ''}`, 'fija'),
       (d.comisiones || []).length ? W('Comisiones', String(d.comisiones.length), `<div class="nota libre">${d.comisiones.map(esc).join(' · ')}</div>`, 'fija') : '',
       W('Últimos proyectos', '', r.ultimos.map(u => renglon(numExpte(u.expte), u.asunto, pdfExpte(u.expte), u.aprobado ? 'ok' : '')).join('') || '<div class="nota">Ninguno en el período.</div>'),
