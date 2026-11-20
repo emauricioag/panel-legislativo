@@ -899,7 +899,7 @@
   {
    "titulo": "Autovía del Mercosur realiza limpieza de cauces en el sur de la provincia de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeE9OcldYZlRlUjBtLUk5bHhhNW5NSEZRdEFtOFlLazFSem9YLTVrdzc4UUxUTVFaR0Nncy1ZU3ZlTHM4dy1FOTdjM0JleHRUZXp1QUg4NWFDMGZEa2pQbTNua0JiNENLYlBSUlhYOEZKN3JZQk1VcVNrcU1NbU9HT2RGcDVJVENIVE1CQmJEQU44a25JWUk0anVwM3cyU1JTQkxHY01FLTlwcGFpU1dqUkRGRmNOakNsMTRuRG1ZNXdManpfeV9mbGF1SFpNVGM?oc=5",
-   "fecha": "Thu, 19 Nov 2026 12:30:58 GMT",
+   "fecha": "Thu, 19 Nov 2026 12:24:58 GMT",
    "fuente": "Corrientes Hoy"
   },
   {
@@ -915,16 +915,16 @@
    "fuente": "Bichos de Campo"
   },
   {
-   "titulo": "Corrientes redefine su estrategia en puertos y rutas",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDdUWFBfNG05V2QtMmczOXV1aFJaMmNRY2xJd2gxaWhhQUpvZm94RXBuVWd3emc3NnpxUXVzMDVuN0luWG44U2d2Vm53YkQ5djFNTVJkalNaUjlVYkZIVVI3N01Rd21ITTlySDU1d1FkelVrSk4wb0h0UkVKQjVCenFtekUyX18zZlotZG54Rmx6V2tTZ1pxVHFqWmthLXpGQ1h5LWRuOA?oc=5",
-   "fecha": "Thu, 19 Nov 2026 16:42:00 GMT",
-   "fuente": "Cadena de Radios"
-  },
-  {
    "titulo": "Siete Puntas Digital",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGVxVExVYXM4eWxXZ1E0aVVaOTRJUE1tcGlfTW5hT0Z5cFY5T1RWV2tEcnF4N2xQaE50Tm5CNW5GS2wxalZwZk9EaHpvQmpMeDEtSGlRZDczc1RhQS14bWpxUHY4aXVJS2tDamxoMzg4dm51UUdscDAwVjVzdTRSajNkVFJ2Umh4eFo5UHROZ3NJQTgtaW5zdG1iZ2VXM1JGNUdQYWVNSERpSE51Zk5wNlAtbGpIVmlVR251NGg5VEZUX0k?oc=5",
    "fecha": "Thu, 19 Nov 2026 12:39:09 GMT",
    "fuente": "sietepuntasdigital.com"
+  },
+  {
+   "titulo": "Corrientes redefine su estrategia en puertos y rutas",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDdUWFBfNG05V2QtMmczOXV1aFJaMmNRY2xJd2gxaWhhQUpvZm94RXBuVWd3emc3NnpxUXVzMDVuN0luWG44U2d2Vm53YkQ5djFNTVJkalNaUjlVYkZIVVI3N01Rd21ITTlySDU1d1FkelVrSk4wb0h0UkVKQjVCenFtekUyX18zZlotZG54Rmx6V2tTZ1pxVHFqWmthLXpGQ1h5LWRuOA?oc=5",
+   "fecha": "Thu, 19 Nov 2026 16:42:00 GMT",
+   "fuente": "Cadena de Radios"
   },
   {
    "titulo": "El SMN advierte por intensas lluvias para este viernes en Chaco y Corrientes",
@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-19T22:21-03:00",
+ "actualizado": "2026-11-19T22:47-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El Gobierno de Milei logró aprobar el tratado de patentes y profundiza el vínculo con Estados Unidos",
+    "link": "https://derechadiario.com.ar/politica/gobierno-milei-logro-aprobar-tratado-patentes-profundiza-vinculo-estados-unidos",
+    "fecha": "Fri, 20 Nov 2026 01:24:25 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "La Oficina de Respuesta Oficial domó a Delfina Rossi por sus fake news sobre la quiebra de SanCor",
     "link": "https://derechadiario.com.ar/politica/oficina-respuesta-oficial-domo-delfina-rossi-por-fake-news-quiebra-sancor",
@@ -1261,12 +1267,6 @@
     "link": "https://derechadiario.com.ar/politica/peronismo-prohibio-gta-en-rosario-hace-casi-30-anos-restriccion-sigue-vigente",
     "fecha": "Thu, 19 Nov 2026 16:30:43 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Es oficial: Trump se queda con Groenlandia tras un histórico acuerdo aprobado por unanimidad en Dinamarca",
-    "link": "https://derechadiario.com.ar/politica/oficial-trump-queda-groenlandia-tras-historico-acuerdo-aprobado-por-unanimidad-en-dinamarca",
-    "fecha": "Thu, 19 Nov 2026 15:45:01 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -1274,38 +1274,26 @@
   {
    "titulo": "Javier Milei y sus medidas, en vivo: el Presidente reveló que pudo haber sido una de las víctimas del atentado a la AMIA",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaURGaTdHRmF3TVhKZ29odmwtaWZUNnVZMjNMdllqbnUyVVJra2FRcHFhMmJ2aVhJdHNfR0hkLWh5dG91eUFYWXB5aWRtQzVPN3d3V1pOQ0dYdmo3TTdBMktmMTJDb1pHaVNwbDVaYzd3dUYtMkFZQVlRVmowWFlpZ3pRWlcyUzAzd0tSbA?oc=5",
-   "fecha": "Fri, 20 Nov 2026 01:03:00 GMT",
+   "fecha": "Fri, 20 Nov 2026 01:27:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Argentina negocia con Italia la compra de tres fragatas y la incorporación de otros buques militares para modernizar la Armada",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeDFQM1dfQlFQX3V4OVl2THhZdy11c2hKaGFwcHFwck1pMWdqVW92aTNiZWxWTEhBWUYtWFFMR2huRlJsVTY3RkJreFdpY3Nza2tSMEk2YkxJNnNzWGtHUTN3Uk9xMjZzREsydHl4V3RGVHJ5WGFWZE1Mbk5SVUF3ejk4UklibGlkQmNIZmxuc3M2bGtHWlZ2Nl9LWlhNSEJXRHJoNHI2ZmxoYjU0LVR5WWNEX2hOX2E2WmRhRDhMeHdrajhYcEc5b3hHZ3pYSllDOXZxRkFON1YtczRsUy1VRjVJR3hTZEhfV19Vb0JWLVRCeVNGTHpnMHRkbzZsd1ZZ0gGbAkFVX3lxTE0yQW9kRWx0YkpJU3JXUkdWdzYydlhkc0N2dXA0VkcyZzhLbFI0Vnh0alc2Q0d4TWZCY2FTclBXbmNQQVhCNmtYWHR1ZEpCVFEtS2lRV2VMZVBEak4xdEt5MWJSQ2NYS0RMZ1hyLXpwTGVaSVdHMFcycEtpcDh5ZGpGNGttd1BMM3NoUEpTUjdNaEpfUm9SMjVtbVcwQ00xMVJtZEoybDhXNWt1TVpZaERRY0RVbk5MYnE5b2tNNWwyN2k5OGNicGVucXBuODMtazROTGxHNDZpQkdmeThYZFZESFE5UE96THJLdmhiNmVMd2IwYWdzLU42Q25sU21ZUk5sa0JMUWpiLUh1N2xNTnZiWHpGNGtsVkg2Z00?oc=5",
-   "fecha": "Thu, 19 Nov 2026 15:09:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Encuentro entre los ministros de Defensa de Italia y la Argentina",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZ1LXhEWnlBcU5iUVZyb0ZiaFRncWlkT0FtajF1VXRIZHVpaXhrUS0ydGtXM000c3FNSVQtYi1keV9mVUpjTFIzZDN2VnhCOFRKY1pPcE1kbVVZSmRqZXpFOHhMalhaYzRZRWRMdTlEWi1IVERpdWY0Z3RJYUdPYjFBQ3J3MXJOTk45MkpGUUhqV3ZLa05waFdDak1DR1ltLUROcXZR?oc=5",
+   "fecha": "Wed, 18 Nov 2026 21:55:40 GMT",
+   "fuente": "Argentina.gob.ar"
   },
   {
-   "titulo": "El nuevo Consejo de la Magistratura debe empezar a funcionar y no logra completarse: quedan dos bancas sin oficializar",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpnSktqTXROMmxZNVRDRXFzV2xNMGF5QXdMRnlfRk54MFRFMEZWMGJ3b3VIeW5yc2dpOXctVUYxTmdLcFlMVEFRelkxYXZXLWt0SVNhZkJRdjJzYzRzY2VoWXd1NXJWWTJTcXY3Q1B2WDYwYWpMSXh5QkFMNWI5cXVVVjBNN05ZV0lOSGQ2RGNIU2R3Y0tLSEZLR2N6ZklvcTMtZ1NwQ3kyeXczeXFTd0JjOGVLdEpJTVhOYlZIbWhZTWJPN0l3bU5NckdXaXZpRUo1UGlHYXgwNjg4YzFZTzhPVQ?oc=5",
-   "fecha": "Thu, 19 Nov 2026 23:50:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Un diputado nacional se va del bloque de La Libertad Avanza y denuncia un pacto con el PJ en su provincia",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcS15Zlg5UWw2aXJERVFxRy0zNWJqUG45YlNBYS1lTHY1b1BrdEpmNFhVaDVUV050WVBQckxhZnRjMllJLXBjNXljQklFYTZVSjhYd3BFVVJ2VzdmMXRiX2Fhc1J0enpZSGt4VmM4ZzlhR1Y2MjBlSVRuOER5ODcwVUNiLVVlSDNfQXBaZllNUWpsUzZ2WlFITUE2ZVhoeTA1MnZBelgtMEtfRkU1LVFNNWFmTVVBa2M4SDFBTjFiUVZOcWx0bmZwdjlaTTIyY0tuSm9jbU5pLXF6Y0YyT3c?oc=5",
-   "fecha": "Thu, 19 Nov 2026 18:26:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Quién es Nadia Márquez, la pastora que ya se anotó en la carrera presidencial de 2027 como vice de Milei",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTFGSk1KdFNZRWlLcG5aOE9HUjQ2WkRpTTZtcktYR2pTWG5vdW5qcWRJNVJBQWtJSzl4bkw5dzJvbUxFRV8zZnA5M1JDMC13ZkdfRy14U3pvLV9RM2RBNFNCUE94UUxxQmgyQUZER09RbWk3cU9HRFhtakVMMzN6TjMzOXFpTGtMTmd6R0huYWN6WE9zRWRUYXdRQjNYck1nVVNuZ0NJdW5YMnpQVjVLVzUxcXM?oc=5",
-   "fecha": "Thu, 19 Nov 2026 18:06:08 GMT",
+   "titulo": "Arcor cierra la planta de conservas de pescado en Mar del Plata y ofrece reubicar a sus empleados",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0llWE5LLXEzZ2xHcjdZNENSNG16YWhjUERJMENfREZ6bTFYN3dqbFFmTkJzZGVDLVFURlNMb0xCWkJzdWc0MEhiTEJLYVczMWFES200OVFaa0d3VV9JMm1TT3BLVFF5TzFfbUVqSWpESDAyYmFneXJsenYwWVJ1alVYNjBmMUZ2SnRLVUxtWHY3LXp6cklGNzdKOXkybXo1T1BkZnlGcmV5dnUyUXRPR1lTaEp5Zm92ZU9tQkhIOW0?oc=5",
+   "fecha": "Thu, 19 Nov 2026 16:02:51 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Cierra en Mar del Plata una de la fábricas más icónica de atún y caballa",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSDllNTV1SnR2QkxjeXlpNzNoZkZlZGxBU0xzalBOYUYxNklFNjNQdk9XbEF4VUM1REtDWlVVV1JCdG1PNTJQdzBNNUh2Y1c0eHViRnJCSnB5UnFCeFUxYWFJZlZxLUVfMENqRWdTTmIzQ1NqcFZ3N2Q3cDRnZEhZRko1RjB4TDFsUHJnemdZQ0JUeDdVSkwxRlJ2M21JZ1R4SzhsbFBHdzQya3JTWWNyc2V4ZjN1em52YjE1d2Jwa2lNWXRzWEZwUDc5VUhpLVNrbzc1dkNDOWNuRFdZQVE?oc=5",
-   "fecha": "Thu, 19 Nov 2026 17:47:00 GMT",
-   "fuente": "Diario El Día de La Plata"
+   "titulo": "El Senado sancionó el Tratado de Patentes y la ley de propiedad privada con tope a venta de tierras a extranjeros",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNmFWZ3dMNks4cEtHZy0waTJuTWFQTVNkWDlwajNaUEE3MnBobWRyLUZObXdLVWZTcEF6ME4wRktoWmMyU3dXSXJ1VTNuRG5MWHN5cUlBMGk3RV9JbWVMVHc4dmNlUmRIdzBFQi1udXcyMWxyZ0hDQ0FrWGVJbmpNamJhTnk4NkZZVjdBTjQ0dDRIcm9JMjZhV01aTzQ0M0NSNElfbkZvOEdLM0JJUnZsNkJuOGdjOXQ5c0owTlFsUVgxd1FLcHlOTnl3bXYxbFpTZk5TRzZkWDB0cFlvQ0NvRm5EYjdGUjNBQlR0Ti04SdIBigJBVV95cUxOeEoxeTNVcnQwLVgxU09OblRfOS1wOGlhS21MVl9QQzNVYnEzajUteFpTUmxTNHNjRTZxLV9QY2pVZ3hnR2V2SDJMcWtnTWYwRy0xTVhTeGU2UVRwRnliUk9GWFdybEktcHA3T3hOQVpDWmlRY3ZjbjAxeVBuQmFHSE9Hb3dEUy1oQXd5MHZXZFBvV3RFUm9CU0dtbkIwelpic2QybHAxZFpIMmI0RnNPN1NfSWNMSTdWZHZEV25hRlhjblBxQjVZSWRMc1dWbVNRdTNXeVBCOUxwSTVPOXRVZTdHYnpHa2JEd2t3aFZFX0dJcFdOYWpYbVVmejF3eHk5SzJwbXA3b21WQQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 01:01:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Santilli confirmó acuerdo electoral con Cornejo para cargos nacionales",
@@ -1314,10 +1302,16 @@
    "fuente": "Mendoza Post"
   },
   {
-   "titulo": "Emergencia en discapacidad EN VIVO: el minuto a minuto de la votación en el Senado",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWFpVzc1REk0MWtFRUFlaTVGSHBHOVBlczdGTk9aQktYMVZQX1RrbGt4UHNjZjR6SjlEbzJOOEZOWGxBVGNtRzJFZXBBYk8xRXRtcHhfZVBBZDJLSnEzaUdQQzJ4ZUNOMks1Y2VjS2VQTTMtdFMxMUZ1ZGk0cFdFRUlzSU9HOUZWVHVraDhMU3lJT2tnUGRteGx5WHBobUstdWw3ZFJveVdHZlFuNEpIYmlPTFN3OU14bWJIUF9fbUtxZmp2YWhiUkt6Rm0xNl9nQUhZ?oc=5",
-   "fecha": "Fri, 20 Nov 2026 01:00:00 GMT",
-   "fuente": "El Destape"
+   "titulo": "El nuevo Consejo de la Magistratura debe empezar a funcionar y no logra completarse: quedan dos bancas sin oficializar",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEpnSktqTXROMmxZNVRDRXFzV2xNMGF5QXdMRnlfRk54MFRFMEZWMGJ3b3VIeW5yc2dpOXctVUYxTmdLcFlMVEFRelkxYXZXLWt0SVNhZkJRdjJzYzRzY2VoWXd1NXJWWTJTcXY3Q1B2WDYwYWpMSXh5QkFMNWI5cXVVVjBNN05ZV0lOSGQ2RGNIU2R3Y0tLSEZLR2N6ZklvcTMtZ1NwQ3kyeXczeXFTd0JjOGVLdEpJTVhOYlZIbWhZTWJPN0l3bU5NckdXaXZpRUo1UGlHYXgwNjg4YzFZTzhPVQ?oc=5",
+   "fecha": "Thu, 19 Nov 2026 23:50:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Quién es Nadia Márquez, la pastora que ya se anotó en la carrera presidencial de 2027 como vice de Milei",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTFGSk1KdFNZRWlLcG5aOE9HUjQ2WkRpTTZtcktYR2pTWG5vdW5qcWRJNVJBQWtJSzl4bkw5dzJvbUxFRV8zZnA5M1JDMC13ZkdfRy14U3pvLV9RM2RBNFNCUE94UUxxQmgyQUZER09RbWk3cU9HRFhtakVMMzN6TjMzOXFpTGtMTmd6R0huYWN6WE9zRWRUYXdRQjNYck1nVVNuZ0NJdW5YMnpQVjVLVzUxcXM?oc=5",
+   "fecha": "Thu, 19 Nov 2026 18:06:08 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Entre Ríos presentó \"Friendly por naturaleza\", su propuesta turística para el verano 2027",
@@ -1332,10 +1326,10 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Crecida del Paraná: 278 personas se encuentran alojadas en dos Centros de Asistencia Integral",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaV9OeG5pMGhxVkhRY05lZkJNalNWUlZGeTV1ZktPdUZPcW1MVkxFVTMtYUoyYklXai03ZW5xYzUtRUJzQ1gxR05mRWk1WVBKdkljSWdGQ01JbVA0TWVHZWM5NlI2dWg5Ti1qXzVWVFMtaFpwckduVVlZUnhtYXpYc0dPQmo2LXQ1alBVTC1ZZ3gwUXZhSy1PaTd3Y0hXZ1RjYlVTT2ZuWTQxeXBSa2xMSnA3ZHhqR2g4ei0weTRTOGNNd3NMbE1WOUFqdnJFQkJTNTQ3Q0Z3NEpaM2tsT2VxN3czN2FPWTVNNUhJUW5HUDdNRFdoaHIxOGJyc1ZaOGJoV01kaExpMEllSTBwV2c1Q1ZqSkhPdw?oc=5",
-   "fecha": "Wed, 18 Nov 2026 21:59:13 GMT",
-   "fuente": "El Litoral"
+   "titulo": "Super Niño en Argentina, EN VIVO: el río Paraná sigue creciendo, está en niveles críticos y pronostican más tormentas",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNWsyNF9sc21haXU4MTlfLWNtbDhPN0xfYzl4V0hGdFpieTl2ZUpsb2hNWE43SWtlV0s5R2kwNDFnZk5ZdHFHVVlCdnBpTHV2dXlaUlJZTTNraml3T0oweXU1MjRiMU5VZ2VZTGxxRFhZRENHQkNHcngwLU9KWVBBRHprZ2lHNjVRNUdveVdSMF93cEw2UG4wdXRBNC1PamliNlZEbUN3Sk44Tml2Q1g3TV82aGtTMkpHa01lb19Ra0hYNnRKN1pxbjR0dURQRmVsXy16Vm9ybzE?oc=5",
+   "fecha": "Thu, 19 Nov 2026 23:49:17 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Newmont en Santa Cruz: “El empleo local no se decreta, se construye”",
@@ -1350,22 +1344,28 @@
    "fuente": "Diario de Cuyo"
   },
   {
-   "titulo": "Viento Zonda en San Juan: a qué hora llegará y soplará con más fuerza",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkwwLURvZ3FoMzBUQi0xbENVN05kZm9DVFFRMVNSaEFGNnN0MmhWLWlEczNhWHZ2VERLYlRPSnpRWTRiMjh6ajV3VTdNR2ZTWW9aSExnMTVPU1RaZ2R1WEVQU181Wm5VM2M4ZEg1UnJqMXJXb1luWVZxOFROUVpyaXRaTnhQMUU5cHVjZUd2U0l3azhGRzRTVVAxUDlNMHpjMzhGalh4a0g5VUJxSkpBTXNfVQ?oc=5",
-   "fecha": "Thu, 19 Nov 2026 15:11:28 GMT",
-   "fuente": "Diario Huarpe"
-  },
-  {
    "titulo": "Imágenes: así están el Club de Pescadores y el CAE ante la crecida del río",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnN4ZDZoVDlSSUt4M1dYSlk4Z0NCYldvWW5oS3cyX0RoV01oSmFaZU9mOVAxdzJycTNyTWx0NDBIczNmZVo1Q2JsRF84MlFFX3lJLVZjb2o3clB3dmMwVjAzVlpRX1c0MEVHUEJQUVlkQ1VlS3JGRXBxRGlrLUNRZnpYUnc3VG5IQjY2T2tDM2Q3ZDE2OEdoU3FhdEFMVU3SAZsBQVVfeXFMT0NTeFVnbFYzQk9GUjlCUmZleExMbFZYUmUyMUxKNnd6X1NsRTZIR3A4a0Q5NjVPbzdDeVlyQkRwaWtmZ1J1S3NwSEoxYzc0UUVfTllFQXZFSmlWUDdxOUhWTHhnb3BhRk5wel8yeHQ1elNXTGk3TWpkMC1xb3JpUDZWRnZmS3NCZUdBMk43WGlia0VjVXlqalQzLWs?oc=5",
    "fecha": "Thu, 19 Nov 2026 12:41:03 GMT",
    "fuente": "Elonce.com"
   },
   {
-   "titulo": "Los secretos y las pistas que atesoraba la mochila que el exterrorista Leonardo Bertulazzi perdió en su fuga",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaVRjZ1VoTlJ2TndFdVIwZHltb2Q1Y2prejhxT1RGTDZ6VkZ3VU9oYnZhMHJkaEdhdGxnRVU3MmpsTGJPUzJUc3puVzZlSG84Q1NmeHhhbTRkdE51aWdDdjR1Ti1ROGlUYWpyVUFTeVZvRTc0SE91dThYWi1iQVhHLUxQMGJyemFXeWhyOTQxa1dJQVQwbEs1aXV5TjFEdkVKSVFPMmxTeDNVSXRLR0o3a1FQdE5uSE5kNndmdXVpSVVYVl83dm9yWWNvTDJGSG5GMzRKS25jUjdGeHVyNGM1VGxlY0Q4Zw?oc=5",
-   "fecha": "Thu, 19 Nov 2026 16:34:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Detuvieron en San Telmo a la esposa de Leonardo Bertulazzi, el ex Brigadas Rojas que sigue prófugo",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjRvY3VXNkt2bFRzdkMtelpvVTZ6R253dTJNenpiZ3hVbl9NZHhlVFowSVl6TmNLRFFBT0toZEJnQWc0UFVnX2F2YXFxdG1sdDNfclQ3ODBsUk9iQUJHYjNlT3k0TmhiR3UtWWdlcmFaWl92XzUtZTRCMVlFS2Fsa2hETUdxbjNwamp3MWNCdWY1REFNR0lkbFZ2Mkw3Z3lmUzF3Ukh2cmIzUUNNS19ZbnBGTzRmNllLd0RfUVdIdFQ0SmVzNWVxV3F1b9IB0AFBVV95cUxOU2pNdmNPYjZSbVAxbmMyUUVYZGowOVJHMWh2SXJhM3lGYzNfU0lSV05QWE9USm12QlE1YVh0dkRjYnFBc3hpRmhLMWhiZlpqN2NTQ1dCcGNHNC1uZlBWUWM1OXBfRl9lZ0MwQXBlTHRwRS02Y1pJQWxHUGJlM2FRODdUV3hVVHAwSENlakV4dVhaUVlqX3dScnN5b2NYSEpKcUx6ZUw0M25oMnI0R1JDRlJEaTV1bWo2VjdOaW1pam43cXp1QTM2bk1JaWxtM2R3?oc=5",
+   "fecha": "Thu, 19 Nov 2026 10:12:15 GMT",
+   "fuente": "elDiarioAR.com"
+  },
+  {
+   "titulo": "Vuelve el viento Zonda y podría superar los 70 km/h: cuáles son los departamentos en alerta",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbGphT0pRajdoMk5JUmNyMU9FaWVmRDFhd1BNQ0ttZnpiV0NEaXZ1MWdjVzFZYVRjTnZfZmVGVEJ5a1FSb1FtRm1iOFFYSlZvYVRKUlNXQ2tpc3VxNEZaTHowTXF3SnNBZEpNeHd4Um5ubU91enlaeHktcVQ2ajYyaFZTUElKQ2JJQmV4bndnT2tDZk1sNWczN2F2czZfMmtVb1NBSzcyTFdwUWc3cWVXWERvX1ZpVUJvYXZEMXk4aXY3enZJRE5XZy1na3FSeGNUVzIyeExBZndKUQ?oc=5",
+   "fecha": "Thu, 19 Nov 2026 12:04:00 GMT",
+   "fuente": "Tiempo de San Juan"
+  },
+  {
+   "titulo": "Atropelló a una joven a la salida de un boliche, le pegó en el piso y después se burló por redes: “Me avisan dónde velan a quien maté”",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYnpPRUZKbmxYYm1IYkNEQ05EMXdOMG5wTktTS1ppS0cwYXNIb0dLRFVhVFFya3Fjd2M1VG5TMDhSVGNNU253eDBtbXdNeFNpanFvc3h2RzhfeC1KRlIxdWJGTGcxZ2VyZTNJdzYtamZDaGp5S0pGOFhxVjJaNU9XS2l2VDlXNXpGVTdCSWhsbkhEMnZCOEQzZEZjS016MFdjVkNSMW1NNmFxeUJjOUU1ZnhOWXp0VGp1VHUxU3ZqbWY5WEU0MFJuWXNUZjNGdU5saUVLbE8tekJwTkt5djF1YW9pWnpFSDhqcFdEcVZjRTFCejTSAYcCQVVfeXFMT3NmaGdPdWNNS3kwVkFKdE1hOXhMWVNyVE01V0ZSSEdxVWdWN2pIZGsxMWNEXy1xTjh2UTllUzdNUnM0bFhqdW1PNXJZQXlTX0pnRjlhMTJNVUs3LWo2dkZZNHJkeXd3RHhXNUVxZXFFR3Jja1hYcmlFLW90bXlEMlBpbkFZdjZIZVpxSHhDR2dYcFFKdHE4ZnZLRjdrWERPajlvREhLU1VlUFBXM0hqVjlLZE0zNnF2aGswN2ZkcnRWZ0FlZnkzZjNtQ09PUENTTjA3eTBuMkM1TUhUZWwwaHRZZDBRTHN0dmhNendpREw1WEpNbWJoeXlkMzFJRVZEY05zZmh5X1U?oc=5",
+   "fecha": "Thu, 19 Nov 2026 14:23:36 GMT",
+   "fuente": "TN"
   }
  ],
  "finanzas_argy": [
