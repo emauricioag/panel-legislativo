@@ -34,6 +34,11 @@
   "modo": "directo",
   "items": [
    {
+    "organismo": "Boletín Oficial 19-11-2026",
+    "link": "https://www.corrientes.gob.ar/29193/boletin-oficial-19-11-2026",
+    "detalle": "Archivos: 19-11-2026 v20.pdf, Anexo BO 19-11-2026 - ACOBE.pdf, Sucesorios 19-11-2026.pdf, Anexo BO 19-11-2026 - Min de Hacienda.pdf"
+   },
+   {
     "organismo": "Boletín Oficial 18-11-2026",
     "link": "https://www.corrientes.gob.ar/29188/boletin-oficial-18-11-2026",
     "detalle": "Archivos: 18-11-2026 v20.pdf, Anexo BO 18-11-2026 - ACOBE.pdf, Anexo BO 18-11-2026 - Munic de San Carlos.pdf, Sucesorios 18-11-2026.pdf"
@@ -41,7 +46,7 @@
    {
     "organismo": "Boletín Oficial 17-11-2026",
     "link": "https://www.corrientes.gob.ar/29179/boletin-oficial-17-11-2026",
-    "detalle": "Archivos: Anexo BO 17-11-2026 - Lotería Correntina.pdf, Sucesorios 17-11-2026.pdf, 17-11-2026 v20.pdf"
+    "detalle": "Edición publicada"
    },
    {
     "organismo": "Boletín Oficial 16-11-2026",
@@ -56,11 +61,6 @@
    {
     "organismo": "Boletín Oficial 12-11-2026",
     "link": "https://www.corrientes.gob.ar/29161/boletin-oficial-12-11-2026",
-    "detalle": "Edición publicada"
-   },
-   {
-    "organismo": "Boletín Oficial 11-11-2026",
-    "link": "https://www.corrientes.gob.ar/29155/boletin-oficial-11-11-2026",
     "detalle": "Edición publicada"
    }
   ]
@@ -915,6 +915,12 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
+   "titulo": "Inflación: cuánto cuesta llenar el changuito del supermercado en cada provincia y qué productos aumentaron más",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPaFZCZEdXcnZ5a2NkalhmYjVDaFdTdWQ4eG56QWhXTzVBNmNOMTdxUFNEN0pRb2tNaU9PaEZ3YVNRWDJ6VVBiY1gtazh5emo0dXVjOERUSFNYeVhzbTY1S3M3M014SVNUZ3l2MnBuM2UzZ3g5bGVRWGEyRk9lR1FEUmd5MEpFQ0NrZ2IwTmRxNUxUQlA1eTdLdHE4dkR0QzBXYWRueTN1N3VwbDRYM2dkWTFfMHdMb1VQcG9wZWFWQmR5bTAteHRiY2tPWkM1SnRseGhrQ1hfd2xkNEZ1eVE0S1MtcTByRDUxbXdMdmdjV25qZEtCYV9PUmtmZDFTZU1QOUg2Y1hFcldEam1Bc2JfVW1NbEtwVDQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 00:32:57 GMT",
+   "fuente": "Impacto Corrientes"
+  },
+  {
    "titulo": "Corrientes: el SMN emitió un alerta amarilla por tormentas fuertes y ráfagas",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTU1cGN1XzhKbkJLcjg0cE9IRFVNeGtZVGgxeEV0UzZkUU0xNGI4RUlNTWFQN0hBTGtkVWliNzBKRDFmT3hvMlM5R0N1S0RockJGbklJemd3SFRfM0w0ZUhIZEljSVB6akliaTNEZ043OVF2TTVaNW56aWpKYVl1XzEwNjRkMEpDb1JfUlNfMjQ5UnJ5aFhkOXo2Yy0zWjN0WG9QNkNuRm5Cc2tfZ2Vj?oc=5",
    "fecha": "Thu, 19 Nov 2026 21:37:47 GMT",
@@ -949,12 +955,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWJuNUc4UEFpQjJZRDB5VUZ1NEUzOHItRDZ4TUJRLUJvVWR3UlVwY212VFpxYWV2ZWthQkpRRk1wdE5MRUYyd045ZWMxbUVDTFQ2bnl5VE9QUVNiWFliQ0dZc0tRd3hrc3p4YVBYVkdYcDVNM0phd0VVMXZUVFB2b3c0OWVsNmNRNlE3a1o5US1rWHNQeXNvdlVtLVNvT0I5bUs4ODVvMEY?oc=5",
    "fecha": "Fri, 20 Nov 2026 03:02:53 GMT",
    "fuente": "Diario Época Corrientes"
-  },
-  {
-   "titulo": "Ante el avance del delito rural, en Entre Ríos quieren crear fiscalías especializadas, una iniciativa que Corrientes puso en marcha hace 20 años y aún tiene a medio hacer",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQMnFOWGdTdTR1VGJtVWNvUWk5bTlfc3BUSlhqaGhmdnZOV3pxMWhnS2VsMjNVRkxOczU2Vk9ER2gwN0dQSkRFYlh0WGJEd0dlYU1IeXdNQVFpSlRGY3JYNWR3Rm55RXJMU0s4Uzg1TERIYlhGa1dsVk1ITEFyQmVESFU2aVdTRkhBb1g4YjhVRkJXQjVabm9ocFRsbHVubTZvZnJjeC0yRTh1TmNxbmIwNWhXQ0ZRcTJvZmVWcGR2Y0VRMTJvZjdvaVhiVXItVndDQmFzaDVLT3JDUF9ndGRNUDhoNnJrUEtyQ0twNnZHdDdmWms1d0lCSFJNZUkza2JzTUlLVVRHeUdnOU54UTd4MHl0MXVDR0xKQ0pKN3ZQVmM?oc=5",
-   "fecha": "Thu, 19 Nov 2026 16:23:47 GMT",
-   "fuente": "Bichos de Campo"
   },
   {
    "titulo": "Desde el Paso Valdés anunció medidas de alivio económico y nuevas obras",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-20T08:11-03:00",
+ "actualizado": "2026-11-20T08:37-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1302,16 +1302,16 @@
    "fuente": "Diario El Sol Mendoza"
   },
   {
+   "titulo": "Se desploma la aceptación del plan económico, sólo uno de cada cuatro argentinos lo apoya",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTW5EVmVvNTRGbmNYb3ZBeFlNMXpjQjBNREstbVdkM2FHVkkxUnVhVXBZdkZQUHFmemlwazJuenZUSWRDREZoaVNYNm1oNFVwSUZGRVhvdHBIa2JRMG8yM0UxV1ZJV2RpUFBmY3BBb1hNal9SZXpTU1pNOHVaMEx1YmxnT1pCT0luWnB2SFdaaW1yTkNuUjg4N2ZldW85SjR6cUtMb3NzTUFHQzdXbXc1S1Z5N2psRWFLOGNkc3gyVlhFeTJ2MXJ4djA2QdIBzgFBVV95cUxQQzdCWjlISGVEN3BNREQxZTNONE1yeElOeWtBTHJ4YlpqY2xVNERaeXZYMzBpNzItZlAzQmpuSVc1bjR2ZGRNeXdKSjQ3Mkt1YmV5cElKc0JOT0tjYVZJcGl6dGxPYzBkYkdwWS1SV2d1b01VVmRWa05iZEhHVThxWWwzUkw4cVBSWmZaUXotUTFUZWVNa2J3UzNOd2VyWlcyVzI1a1R6dE1JbVFENXowRzVUd1NIMGlwaENnSTFGZllxaDRHeW55MFlBTDVoZw?oc=5",
+   "fecha": "Thu, 19 Nov 2026 23:23:31 GMT",
+   "fuente": "La Política Online"
+  },
+  {
    "titulo": "Rondas de inversiones: asociativismo como clave de éxito y gestiones en mira al crecimiento minero local",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1pEdFhnMDl0QjRWeTI2b1JiaXRiWUpRWm5jNTNWeGU2Tm9MbHo1NTQwMEVBS0g0QTFxYkhaSy1naXZqRGtGQ005UnNpZHVJa2pPMEYxTTBCT19RSWFzejBVTTdOMXpEYjJkYkJVMlNrQlRWMFktU3N5aEJRN0UtQ1NyeGUxaFZiakx1RkdRLTBBaHc5MUhSMnN6WkRPekFVVG9fUTZsOUJfU0V3dlgzTk1mSjMwODZ6c2hUZjNwbmVOS0tSTlptVWxmM2JHYTVmRnhGWEpWNTBXaFpC?oc=5",
    "fecha": "Thu, 19 Nov 2026 21:04:00 GMT",
    "fuente": "Diario de Cuyo"
-  },
-  {
-   "titulo": "Alerta para el Gobierno: hicieron una encuesta entre votantes libertarios y Milei quedó cuarto",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHd5S2ZSWVFFYUMzaUsxalp6ei1SVk9PM0Zmd3Zxa2VycEtYNDRBcm5jclcyUEYycnN0R3Y1RWUxM2JPQkpNUDhhYVZLOTBBNmIxVUJUZFdKc3RncjN2SEdzV0ZsSmRkVWNTS3k1NWtoU0htbnZoa0o4aVd0MGotbDBjZlozZjE1ajl2MHp1Z0hhOWwyR3hwdnhycm1LbHU2TVBxZjU5N1NFc04xWktMX0U4VWNGanRxeTNxS2tnUmE?oc=5",
-   "fecha": "Thu, 19 Nov 2026 09:00:11 GMT",
-   "fuente": "Clarín"
   },
   {
    "titulo": "Entre Ríos presentó \"Friendly por naturaleza\", su propuesta turística para el verano 2027",
@@ -1344,16 +1344,10 @@
    "fuente": "El Chorrillero"
   },
   {
-   "titulo": "Reapareció Práxedes Candelmo, la víctima del Bambino Veira: “Estoy gritando por ayuda”",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2dMOTFjZnpsS2tsYWdOVTVDSDZNYjRkc0duY1d4TThlUlV1S1ZyNkVOVzdNdmhuWWFvdVI5bTE0QTFsci1ZRWQ4ZkdYZkJsNmhsYmpOQmMxQTVfaGk1ZU91NmxpNjlLNWZSM28xZFlYa09ZSU95ZnU2ejdHUDhPdTNlbmVxQm54bVFMQUdUNGZwVlhEcmRqdndoaDhjdm5xb3Y4WWIxbkFaOGpqb2tnRkpCaFpwMHZydEVaTXFleWFkZ1XSAdcBQVVfeXFMT1RobjcwdjlHUzNUYlRmcnNSQ0pGMW1mR1dZNGt6U3lyTEU3dFJRWG1XSkozTVV5NnBVWXQ1S21nTVJhZXk0MzUzN3oxa1V3T1djVks1SkxfUG5hYXZ2cTFxZU0xVUZzRDdBX2FESjR4cnFoSVptOTM3M0V4MGRGMDJPMjBYQUw2aUtMdWNvQW9OSE5EY1FwNGtLVFgzRF9BSTdwYno5N29XZGVCeTVlZGVMaHg0MjRQZndLSzBHRHZSZG8xbDNiLThsTklEeEJNWHcyNXdDdGM?oc=5",
-   "fecha": "Fri, 20 Nov 2026 02:02:00 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "Por dónde circular durante la Maratón Nocturna de la Ciudad de Mendoza",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1ZPNC1mSVYzV1h4MjFlSkpXMXNmZGo2N25NZlhQSXpUT0IyaWlucUI5Zm9rTTB0YVItZTRka19mckxwWEJmREdKQ083M09JT01uRXlTd1dTWndMNHJXOGxrLTNDYVNZTm16ZUJZaXk5bTRxUmdJTjNYUUFhNE1FY3BLbHVEZ3V0d1Bkd19NemFrQVdxX3VDTTk4TTJ4Z1Fad1hhakx4NlFpcDBV0gGsAUFVX3lxTE1LVk80LWZJVjNXWHgyMWVKSlcxc2ZkajY3bk1mWFBJelRPQjJpaW5xQjlmb2tNMHRhUi1lNGRrX2ZyTHBYQmZER0pDTzczT0lPTW5FeVN3V1Nad0w0clc4bGstM0NhU1lObXplQllpeTltNHFSZ0lOM1hRQWE0TUVjcEtsdURndXR3UGR3X016YWtBV3FfdUNNOThNMnhnUVp3WGFqTHg2UWlwMFU?oc=5",
-   "fecha": "Thu, 19 Nov 2026 00:32:43 GMT",
-   "fuente": "Mendoza Post"
+   "titulo": "Es uno de los hombres más altos del país, tiene un tumor y necesita un tratamiento de $8 millones cada 28 días que no puede costear",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUjV3VTlwQ1dkU1B2SzlhRjJnQkpWa1k5YWhBWkRlemp6djJySGRoRVB1VXItUkw4OGM1Qi1BVUR3Y0RkY2lqQU5Ic1pZMHBZX0lHLVg5RUJKaXJZNGZOQ2h6Rmd4TUtnR0pHWS1TMHNBUHZOZnQ1R0s0VnNnVnpjdWFNNnpWRzJoMHA5VzhmVC1WZkVjMnV5ZGUtM2w2T3ZrbDJCdUJEcG9DR0xMR2lidk9TM3JmZXVzMGVGVWlYMzc0Tl9DY2Q0ZGFMc0xYZy1PcEY1X0IxRGxlbjc3OUlwWEhXaW1heTVLdjhKdGQtNENoaW12V0M1NkJGa3NiUkZKS09VctIBnwJBVV95cUxNMlRYd3RHNlVfS3NzcmZvdzlvRVp0TzdCUVczRFRvNGgySHZ2M285bUR5QmhxZWMzajhUMUJHT0o3Z3VYeDM4OXBrOXg5cnN4d00xRWZEb1ljM1N0cmJsSldNZXBuVVVIVkloMDNZMDBoTXhBeHQtQ3BmN1lLeDhGS2szeGdkM2ZQanR6WWp2NXhfaERiTlpPQVJzUDJ3bmdEbkhvaHpWZU1qM21XQ3JwdnhmS1NPZVE2OXJlQlJDRVVBQWt5QVpMX2dLcGxsMG5SdUNaXzROVjlmWFZ6TDJhYzA5TU95UHN5Q0JHUk5GSlR3SGZFaTJtcGRKV3dDTXQxSnlER0tRZGY3Qkk1cXh2MHBFUjgzTDZLYUNrV3BWMA?oc=5",
+   "fecha": "Fri, 20 Nov 2026 04:25:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Un policía mató a su expareja en un centro de mediación en Chicoana",
@@ -1362,10 +1356,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Refuerzan las defensas en Bajada Grande: pescador advirtió que el río está socavando su casa",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnlQYXN5bnlOdTFtbUo1bkw0UzFZeDgtUFZqYjhmRHZQTmZkY1AyQzROY3huS0taZU0zM3M4VTI0S0YwUUpWT0lyUko5Nlc3ZkZPWUJMeHVKMUVJNVNvOGtyU19RQVp6bTcxMm9KUVdBYTVfYnhrUFQxY0NMci1UYmdxUVctd3o3NXJKa1J4Mkhsa3VVb3pSQ3Nn0gGWAUFVX3lxTFBINFZ1ODA2VGlqV1lZbWQ3aHpZbnF3NDQ3X3BXQUN3ck9OWnZBeFg4bW05MEFIRGF5NV9QZUFRQmtoY0JLSWR5dUVNenVyODBGZkJpcm9aMGxXakI1ei03a09UYUV0UFFKOUxTX2QwV015TW01LURXTFV2cTdldGhvWF9nNnhSSDhRQU04SUdBY3pkWlowZw?oc=5",
-   "fecha": "Thu, 19 Nov 2026 14:04:29 GMT",
-   "fuente": "Elonce.com"
+   "titulo": "Por dónde circular durante la Maratón Nocturna de la Ciudad de Mendoza",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1ZPNC1mSVYzV1h4MjFlSkpXMXNmZGo2N25NZlhQSXpUT0IyaWlucUI5Zm9rTTB0YVItZTRka19mckxwWEJmREdKQ083M09JT01uRXlTd1dTWndMNHJXOGxrLTNDYVNZTm16ZUJZaXk5bTRxUmdJTjNYUUFhNE1FY3BLbHVEZ3V0d1Bkd19NemFrQVdxX3VDTTk4TTJ4Z1Fad1hhakx4NlFpcDBV0gGsAUFVX3lxTE1LVk80LWZJVjNXWHgyMWVKSlcxc2ZkajY3bk1mWFBJelRPQjJpaW5xQjlmb2tNMHRhUi1lNGRrX2ZyTHBYQmZER0pDTzczT0lPTW5FeVN3V1Nad0w0clc4bGstM0NhU1lObXplQllpeTltNHFSZ0lOM1hRQWE0TUVjcEtsdURndXR3UGR3X016YWtBV3FfdUNNOThNMnhnUVp3WGFqTHg2UWlwMFU?oc=5",
+   "fecha": "Thu, 19 Nov 2026 00:32:43 GMT",
+   "fuente": "Mendoza Post"
+  },
+  {
+   "titulo": "El desesperado pedido de Práxedes Candelmo, víctima del Bambino Veira, por la salud de su madre: “Estoy gritando por ayuda”",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFNnUjdVOVhGMkVaZS1qeVNIYjhBdFNxb3lwazItRV9IVmE4SGRrbU1nYUJZRW9mbUgyZTRYS2VPVkhFVTRSbXcwOXZwTjhiMjNfSjVuaDVYNUcyQ1ZLRVRCWnRIRnBPblFmN1BjZ3lSdklBeWZwZnFUWjhrX2xIMzJvMm96Rl9LODVzR1N0OG8yUGpla3dDS0ZkSkdvVEZrVkZMcmZJaDNUQ0hlU0hqaUpxcmVQampxTWFVdnF5UllrclN2dWUwMkdfWdIB0AFBVV95cUxOaU5MRXFXRWsxQWxqR3RaRnJ0ZGFWcERYZUluYW9XYmQtd2NsMlV4TzdtXzdLRE1ydmFMVDV0aVBSd1NJU0g5WDhWbWFla01HcWRsMXJHUmppVzZuVVg0a0dWeGNCNDN0Z3FaRk1WVnJtOTV6UDlzbGFBQW5CVjEtbUlTZEJURG1NTnluY1hVNnlnSGJ3dFpSVFI1TlZRbUc1SXh2NW00ZDJIT2ZvT3M3R0tUdGlKSm9YVXUzOGhXWlBENXcxLUpnb1ljcEh6R1I5?oc=5",
+   "fecha": "Fri, 20 Nov 2026 01:40:26 GMT",
+   "fuente": "Clarin.com"
   }
  ],
  "finanzas_argy": [
