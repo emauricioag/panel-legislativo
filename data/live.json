@@ -7,23 +7,23 @@
   },
   {
    "casa": "Blue",
-   "compra": 1645,
-   "venta": 1665
+   "compra": 1650,
+   "venta": 1670
   },
   {
    "casa": "Bolsa",
-   "compra": 1669.7,
-   "venta": 1671.9
+   "compra": 1678.7,
+   "venta": 1681.6
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1776.3,
-   "venta": 1777.6
+   "compra": 1785.6,
+   "venta": 1786.5
   },
   {
    "casa": "Mayorista",
-   "compra": 1567,
-   "venta": 1576
+   "compra": 1571,
+   "venta": 1580
   }
  ],
  "riesgo_pais": {
@@ -915,6 +915,12 @@
    "fuente": "Cadena de Radios"
   },
   {
+   "titulo": "Alerta meteorológica por tormentas: a qué provincias afecta y cómo rige este viernes",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPY2V3QXUwenlQMkY4Q0pSQ0pyVnJwMnlTVW1OOUxBV1dUOGNMXzZiQWV5elR5eUI1NmtvVHRfZWJQZ1g4MTRZMmh0SnFtNHBuQVZfSGI3R18teHQtejFNQWhLNDd0d3lqZE5TeHUtRjlKYjdsTkl0cFVyYXZxT2lVdGxjUzNCM0lYdTZoTTl4bG9Xa2xHcFZ1UTBnLTI2dnkzQ1NmbmVFM1BpeXl0ZnVWY1JPenZscGxILUt6SjFOQjBxenFhYjVGOTJWVjRSaTRBdGV5ZTkxejBYRUlZLVpJSnVnU3NvSmpRSFBUczZTZl9FS1Y2ZTUtLWMzTjNDMVdQRXpOVkZHRUJHSm0wQjhNWDBrNGp1UUQ3eVI0?oc=5",
+   "fecha": "Fri, 20 Nov 2026 10:30:00 GMT",
+   "fuente": "El Litoral"
+  },
+  {
    "titulo": "Saladas celebró sus 294 años con inauguraciones y anuncios del Gobernador",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFYwb3hmR1BCa1VvU2plRHZiV3hnaDdQd0ZKdFNyYTZxWkhzZEJpc2Z5aVVLaVNxWGtCUmdIODExV2NYSkJqMWtfcktNd2VGQWFpWmItNWMxb1BjNnc2cUtTSU85eWlGRm5GZ2FrM1pZT3I4d2dwd01CV24tZDdkbUdiTUZKQ1d5M1o4ZFVVM2tDUlhtU2c5T2JIUTFvMzNDYS1YdEdQR2t4S01rYXVQdmRXZzc?oc=5",
    "fecha": "Fri, 20 Nov 2026 13:06:02 GMT",
@@ -925,6 +931,12 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcjZrbXVTa25tcFN5eHhkSXIydnpSdDlPMkNfNW4yS1hnRE1LZnRtakhPN3UxZ2Q5MGVOOWp5a2N0dUl0OWdneUNMemRHSE5wc1FtYkxFQlMxb2xRMk94cjNyOWpJVGo2VVlCU050LVQzb1h0VGFGNWVzcUg2a2VDNDBvLUtaQmdIRTQ5aGtVZzdhbl90enVQamdJdDlOQ0JlZU01M2hLU3p1V1pvTTdpVEtITkswTDdkU3UydEFUWTVMTExYWkQ5SE5NX3AtRXZf?oc=5",
    "fecha": "Fri, 20 Nov 2026 11:09:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Se acercan fuertes tormentas este viernes 20 de noviembre y anticipan ráfagas de viento de 90 km/h, granizo y actividad eléctrica en Misiones y Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOU0FQT3ZUN0lNRk5TOWZGbTlqZU1ZMDJiUWxmUm43VnRzV1BGb0Fza0Y0U2FLeUNTa1RhSzgtNnItcVFybDFZWWJrMDlWbDBjY3pqYjh2VWlobHZsaEJxYmZ5ZjF6SXlsTWJrR1hVaEQ2TjFhOTZuMkJ1bGFENVdnZzJTbGVFQy1Ha05DOUhCNUttR3FFTDVLWmRCT0h2bkphX3N4eEJSblNEVFhaeGk1ZVF5bkNpUWdEaXNSeldDSlZRQ0lJRk5lYlBKa0djU3FPemVycWJaMlpWcnN2cDQ0SWxCM1V0RE9SZEx3eUUyUF81VG9nSlhuclNIQmZKTDZGcTJZQ3RVS05wUC1BaUVwcVAzS2daNUROWnNRWmRGMWt1U2tqeTgtSG5xU3JlMW9SLXRQUVdtR2pjYlnSAbsCQVVfeXFMTlNBUE92VDdJTUZOUzlmRm05amVNWTAyYlFsZlJuN1Z0c1dQRm9Bc2tGNFNhS3lDU2tUYUs4LTZyLXFRcmwxWVliazA5VmwwY2N6amI4dlVpaGx2bGhCcWJmeWYxekl5bE1ia0dYVWhENk4xYTk2bjJCdWxhRDVXZ2cyU2xlRUMtR2tOQzlIQjVLbUdxRUw1S1pkQk9Idm5KYV9zeHhCUm5TRFRYWnhpNWVReW5DaVFnRGlzUnpXQ0pWUUNJSUZOZWJQSmtHY1NxT3plcnFiWjJaVnJzdnA0NElsQjNVdERPUmRMd3lFMlBfNVRvZ0pYbnJTSEJmSkw2RnEyWUN0VUtOcFAtQWlFcHFQM0tnWjVETlpzUVpkRjFrdVNrank4LUhucVNyZTFvUi10UFFXbUdqY2JZ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 12:35:58 GMT",
+   "fuente": "El Cronista"
   },
   {
    "titulo": "CORRIENTES: Diego Gutiérrez Llevará El Chamamé Al Escenario Del Mastai Fiesta De La Cerveza",
@@ -939,28 +951,10 @@
    "fuente": "Ruralnet"
   },
   {
-   "titulo": "Comenzó el Educa Emprende 2026, que reúne a estudiantes de toda la Provincia",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXFpV3JvdnVETS0zRXljdWFIdTRnVUxKLU56MVZIUm14cmVTX3NjdFFmeXFsSk0ydFkyZGNQZ2tPRGt5Vi1VMTM5TlFLMnptd2l1dFY3OFNEb1JSNXh5UHFfdlpwU0hQaEVrZzBkdkVLc01qd1ZYN2pvS0MwamJSSFQyMGxwMTlRYjZoRnpic21Zb05LSk5nUVR3REZGMU5valpBdlB1ZlJwZzFMX0Vr?oc=5",
-   "fecha": "Fri, 20 Nov 2026 10:43:36 GMT",
-   "fuente": "Radio Dos Corrientes"
-  },
-  {
-   "titulo": "Las principales producciones de Corrientes entre las ocho economías regionales en \"rojo\"",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX1R4SHlSYVNjMmt6Z3N0YWF4ZGhLYnJsTm1zWngtOXRYRVJRMEJfSS1nLUJKU2xMODNwM3FzbnhJWFJwOXQwZ1RGRWx3RTVxUV9YQnVIbmNFQmF4c2RjLWFXcVdQcmdnc2dZMlNSNHdjZnotMlFXczNlSHA1M3lxa0pOU2wySFlnaXNVLWg0aFh0b0d5akRIRVg4TXVtWmc5MllZVVZ2S3hqWkxsMXF3QmJHZDNmaFJUeUhKX0JoaFdFRFVkVXdZNGt6dWp0MV8yLWc?oc=5",
-   "fecha": "Fri, 20 Nov 2026 03:54:07 GMT",
-   "fuente": "Momarandu Corrientes"
-  },
-  {
    "titulo": "Alerta por tormentas en Corrientes: anticipan lluvias intensas y temperaturas de hasta 30 grados",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaks5VWpPWkVBc0hrd3VOVUVpblo5WnlRcFo2WGRsLUpvRVJTb0dOaGtLMFJMcnZBMS1zc2huWE54c3RwRV9GZmV1ZThSRkVBSGE3LXgxRVZxN08tYVpOV3VpWHBUeUpIUHJsR3VmU3BiUU95M0doaFo0OVdsR1FiQ3FIZWM2c1NhTHVhc0hFa0JaaFdDUllSYVJib281TVNHb0ZTT05pUzVWZ0h0dF9nNVE3YVRiVzJEeWF6Y05GSng2MFpVSjlENHp1Tm45NG4yak5wWGVTRWo?oc=5",
    "fecha": "Fri, 20 Nov 2026 10:02:58 GMT",
    "fuente": "La Red Corrientes"
-  },
-  {
-   "titulo": "CORRIENTES: Juan Pablo Valdés Encabezó El Aniversario De Saladas: Inauguraciones Y Anuncios De Obras",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQejlEckZqTk5KM3hsbGc2R3MwSENKMHU3ekdVenVNVzlteU9HWWE2NkdNRUprMEpjaTQwRnBsUllUX1pWSHhPci1VeUZHZUZCMWlETWJDTWRvY0lBUFJRVGFOTFMwaWwta2xQUFNBZjlQaTlzX0RlTEw2N1BLVUMxMTI3d0JUbTQwWWFBU0p4cE1FYVZUQXJTTGQ5Y0hKOXRJckpGSlMzUnZfSkJBM29jNmlxWnk0a1RaWks0OWdGa3hkQWFPOWxyRFZiODdpRWtqUWY0dkp1aEt6RU16Q0JCLTRSbHhyNERZT3ZaSHRnLUU?oc=5",
-   "fecha": "Fri, 20 Nov 2026 12:45:09 GMT",
-   "fuente": "Noticias del paraná"
   },
   {
    "titulo": "Valdés propuso a Horacio Ortega para el STJ y la Red Mujeres para la Justicia anticipó impugnaciones",
@@ -973,6 +967,12 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmU5MzJOSXBXNTRxQ2RXM1BIbDFYZGxFdlJmOUpNV2ZaTnJ0Q0tSX3FrX3Y3N09wTy15U0h6YVdFejFsQlVJU2p0Ul9OcXBXdVYtWG1DblgtNU1LQkJjVFNCWVhrTWpJRDItejJ2Q3VrX3IyU0FuQm1nZUNEeUE0MmlxM1p6XzZaSnRUdDFuZHg4WjZDMXg0alRtZkZjcnBuVDZrcFlITklaLVliWjhabGc3Rng?oc=5",
    "fecha": "Fri, 20 Nov 2026 04:03:25 GMT",
    "fuente": "Corrientes en el aire"
+  },
+  {
+   "titulo": "Juan Pablo Valdés encabezó el aniversario de Saladas: inauguraciones y anuncios de obras",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbVNzS0hQZXlza21vUE1CUEZNM0JaalAxQVpJV2hHa3l6U1NpRlpuVVpqeFdMZGIyZkg1dlNTSVAxTWVDeURVbXFiZTh2dHRRQ2JjZmk1VFdOUVZJdjlmU0t5bDB0ZGZoeVo3NUU2Nk5nMTFvTXR3V0lsZUNnLVI4bFBQV0JGeXhvZnNRRFdLOGZoV21jay1VTzQzblJzNnFmdTZMaDVoYm5FRmlDeEJaaEkzSXh2Q1JoNzBrRnlidGVxZzFZQ3otTUJRWGNMN0dGWUJTMXZNcmxTc3RwN3c?oc=5",
+   "fecha": "Fri, 20 Nov 2026 10:40:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "JP Valdés propuso a Horacio Ortega para integrar el Superior Tribunal",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-20T14:46-03:00",
+ "actualizado": "2026-11-20T15:12-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1278,21 +1278,27 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "El detrás de escena del encuentro que encabezó Milei con personajes políticos de alto perfil en Puerto Madero",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXhrRGM4aGJsOGxEajh1NERLVFBnWkRjVFRYcE9sV2NSc2pWMjFUYnExUVplc2NNbG51WE9Dak9fMVZCTm1jWkVneU91ajRkbWw5c2JRM2VBR1J4bHFqN2RlNEZ0WEJuRUh2c0NoN1BvTmlXUE9oRmJ5SlZ6aDREaFNiQXdVaTVpSlJyVkEtdVVwRzhGYnpjMnFFTnB0QTFtT1hzT21keVlzS01KeEdaRzhrcjJEa193UGJyc1EzZVplRTNHLWg0RnhHbFB4WWE4bVF2ZndOOU85aC1PSHc?oc=5",
-   "fecha": "Fri, 20 Nov 2026 00:20:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "60 fotos: la primera cena anual del Foro Argentino contra el Antisemitismo (FACA)",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZTJFT0JwRzVULUpTc2xRY2xsNUYxRy1uUGdzRGZHcFFnQ3JvbTF5MkpTQWs4eERYZzZQM3MzNWloNUlzY2pLOTMtMHlhN1IwUzQ4c2d6LVpUYUh1RXB5bTlGbmVfdklqcnkxV2s2b1VjeFROSjNmWU9HbVFFRWVrWnRHOWpDMEVMa0M2N2laNi1BRU9BWHZvQkNTWTZram85UHNtaFd4Y2tvOEtITlJIenMzVlJuRzFMckVKTdIB1wFBVV95cUxOa0RTTWFGT3A5WHY5bEtILUxnQWtfaWpFOVVmT3pMTklvRU1MOG9pbXZsZTFEMWtpTlFmZ3NzcUJkMVV4alJxSlpadGdfOWktbEE0QS11cndZTzhPR0M5eGt4clcyd1FkTVNIZS1SQjd1YUg4RjhrRy0tZElpNmI1bHJwN2hpWHRNdUd6OGd2QkVIWVAzTkk1Rlo3dDY2clBsVUQ3LVJ3VGtkeE5uMUVXMk5kTnRoVkdRbHFmX3k1VlZ0X2hZdS0xOVJsTWFWaWJvMDJySzNRbw?oc=5",
+   "fecha": "Fri, 20 Nov 2026 16:10:00 GMT",
+   "fuente": "Infobae"
   },
   {
-   "titulo": "Nadia Márquez busca ser la candidata a gobernadora de Milei en Neuquén, pero la ley de ficha limpia le impediría competir",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMnJHUF82V1BQWHJjQmJ6YWhjcHAwM2QzZXJ5Yy1tNVAwNUxIb1JnMlRweGcwU09kcFJUc0huN2J4VThEeTBtcHhlRG14N0pqRUxyaE5wRnVKbHd1N1NRTS1wZHNZV2I1dlpEM2FLMk8tUUlSUXpNby1LZHUzZ0RCbG1FODN0WS1OWUhCZ0FQOXdVMi1qU2ZNN3lnRjFEalctWFVJYjNxeXNZWHFSanhkWFpRYnJRMEwtVk1zX1ZfbXJNeDIyTHBmeGR2Sk1wN3VQVndiWmxMOV9GYlZ1YmF3bXpB?oc=5",
-   "fecha": "Fri, 20 Nov 2026 14:45:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Corrupción en el fútbol: Mahiques acelera el pliego de Rafecas para sacarlo de la causa de la mansión de Pilar",
+   "titulo": "El juez Rafecas toma la causa de la mansión de Pilar y avanzará en la investigación, aunque su pliego ya entró al Senado",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHYtM2ljaTE1eHlSSVNIdEtpSVRuMHdlR2Q1UFlRY1lMcHNvQ1htWm5sV1ZBSVV3YUFncjNIMndEYWt1cDc1TVBpdlM4X0FtdDFRdFBLQkVsYkNad2FfYTNZUE9wN0JadW1YR0lNa0lHVHFZYjFzcXpRcUJuN044aDFOaGVNV2NsUy1mTUxualI4cmEyV1lUelhvX01wSU9LYUMyWklfR012UklucU12VEVpVkQyeWpuU201aEJITlZMSnY5Umc?oc=5",
    "fecha": "Fri, 20 Nov 2026 13:25:42 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Las últimas palabras de Pity Álvarez en el juicio por el crimen de su vecino: “Me pareció excesivo el alegato del fiscal”",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaW1UUWZ5Q0EwQ3N1QkVKZGN4S2RUYmpWbXdwc3FxUVVOQ0lYZ19Mb3FIY1FqOUlkcWVJYmNPRGVMQ0FLYzZtT1g0QXhOcUEwOGdDQTFwUFVJVUxlOGpQRUJpV3NDUFdhenZZM2pNTUVfRzJleC1zRVJfMHFXMjQ0aVJLcFdMU2dja3FaeUFMUDA3SklHZzhGdlJlR282M0huNGt3OENjMHd5RW40ekQ2TXVyS0lUX1k1SUxXbDB3dUZSRGE5ZTg3dHo3cVFYTURNM0FvN1ZpNzM2S1FIeUlZMUpGYUpqQzhTcFNyajdyeVFLaFJwa3NpTDByZkE2UQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 15:23:42 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "Petróleo y gas alrededor de Malvinas: qué se encontró y dónde buscan nuevos yacimientos",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmo3N0J0Tl9Rd3dRWG9tV205dUxQZUxrYWkzUmMwSWlwczdKNkdSTzBRUjV2OW4yS3hjOHQyWE9GMndWQUNjc3JKci1zcHJVZG5mak52NklyNUhnY0hTVFVDczM3ejgzNTVhTVVzbW55NlRKdlpYMHNEdEVGWkZfOHNVSmkyN3BSZWRIbm9tanBjOVNkOHJoZGRuN3Zsb3hBQ0FzcWpjcnBNc3A4RTlGN3JURGQ1d3RVb1A1SVdUeXBNQzDSAcgBQVVfeXFMUDRkd0hPLS1UWVI3RmNvX1F4X3NwSFF0Vlhza1FOVDN1SzVwaFZmRjlYZFZEOXZsYzd0Tk4tZXVuLXBoRTRfVmxIb1pjaThYaDZoUVllS2tOUXI1bmI4ZTczMkZ5bkZCQ0c5WEhGaUdNVTJEdTdaZG9PMDdVM3FBS0FwWFZNVWtIeTljSWw2amtJRDJ4UXBCcDY5Z1Itb1R1YUI0UGN0ZG1PYmxIN0cyZG9VTFc5MjVYUGU1Mk54MjlGMG16dlZnSUk?oc=5",
+   "fecha": "Thu, 19 Nov 2026 17:59:41 GMT",
    "fuente": "Clarin.com"
   },
   {
@@ -1300,18 +1306,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX25lX3NNVVZMNkctT1JCQXZGTXFXYzN6WmpLQXJES0JqaExMT0V4UWNodDdhWUs3eHZrM2VGekszaU9jdWgxR01Zd01DeDNlOVBnaG9zTEhIZ3hwTU1Wc2t3Y3Y1Z3FGSFBqRllSMWotbDFnbDA0cExKbXBud1JDYjBZUF9vS1BYZ2VoZ19QRnlEQUp6TDl5OW9WcmJDbWZfelo0ZUdWN0tudUNN?oc=5",
    "fecha": "Thu, 19 Nov 2026 19:00:00 GMT",
    "fuente": "Diario El Sol Mendoza"
-  },
-  {
-   "titulo": "Juicio a “Pity” Álvarez: luego de tres meses, se conoce el veredicto",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWlsaW5tR29ZcDR5bldWMFJRYVgtR29Nd2d2V1lmVlNITndzSWtFOEVwd0dOMTUzQ1NmUnZvQy1PYi1wU080dHo4U2NPSlhuZkNKa2lveFdRclA1T0NJM3h2M1UzZjhNS3EyMzRWWmQ0OHZXTnQzTk5jUW5xYXYtSDhWNElJNGphejVFbXlhbkEzNmRMQ1NsQTQxeVpjdnd1aWgtM0tpOA?oc=5",
-   "fecha": "Fri, 20 Nov 2026 12:45:13 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "Designaron a la sobrina de Insfrán como ministra del Superior Tribunal de Justicia de Formosa",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFVnWnJEN1pjT05IdGQycVNncFRjYkw2ckdpRXVrekluZ05uaDJFSEZiclptek8xVGVIWGw3bHN1SXc1Q1NPel9wOFhZWmFUektzUVNpZENXaXZyZ0lyb3B5cjdLVDFFbXJlM0JRd2ZtaXplZjczRWpmUGRNaXZyQWZOM29rUkFmSWpXcjhLdndEOFcwUWxJYk5qbzE4b0hhem56TVBNMk1tMzl3R0ZYc1RyLWVTVV8tRHlxemcwUHl2SGFObDd0T3Nn?oc=5",
-   "fecha": "Thu, 19 Nov 2026 22:48:49 GMT",
-   "fuente": "El Comercial"
   },
   {
    "titulo": "Alerta amarilla por tormentas en Salta: posible caída de granizo",
@@ -1326,16 +1320,16 @@
    "fuente": "Clarin.com"
   },
   {
+   "titulo": "FNS FORUM: proveedores mineros marcaron la agenda, apoyo al asociativismo y fuerte presencia de empresas nacionales",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYkxwQ2pzWXJCQkNCVUs1Y24xeEFxY3oyTWlmSmtvaGc1emVrdlBWQTlMcmlUa25ZY09TNXpWQ1VuX1NyRFN3czB3OFVpN04zYmdKNTQyV0hQQ1g1dzRpb0Y3c3picU9wNS13SHJoa0tqenFfWU1ZSHlneF9ZNGVGalE5aFhTbXcyRHZCeGNia19JWTVpeTh3OVVJdHNPTnZSSmF0Wm9SSWxidERwSkhHbEUwWFZwUlNQbTQ4eDRfMUtwSEhfLWdta0VhRzlyZG5SMlNKeUo0emFtWFZrNnNWUGtoNURMQjNsSzdpRVJjUmpRUHltSkE?oc=5",
+   "fecha": "Thu, 19 Nov 2026 17:33:00 GMT",
+   "fuente": "Diario de Cuyo"
+  },
+  {
    "titulo": "Entre Ríos presentó \"Friendly por naturaleza\", su propuesta turística para el verano 2027",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmdCVTRuWVgxT1JaM09UakdDejRJanpKVmxINjBCcV9fRHBSUkFBa3NRMEJfb3Q4TWgxSVplRWhvRFdwOUZDclFScUhFMlpWbFc5SmtmTk1IbzNTczZ4b1RzOGxzSEN5TVFSTVBQVF8zZXUwbnRVdHRPRG0ybFFucmdpZEtRZE1NQzJObk1NczFoNkRJdE1tWkxVTzkxVWpVNDBoVG00aE5Eb0dmbWNBTEsxTjhIRWtrTXZ5Y002WdIBuAFBVV95cUxQZGRTM29Ja05Ha0lCTFRycHF6QzlPT0tyejFtMmNHNVc0Zm1XSG9SalNBZnJfRjBzWmtiYnE1WW5hemhSc2lQNTFBRDN4THVJekZhZGFxOXVQOXpXbUI4Tjd6SG4wYWJjU2M1QUJtaTVZSFBIaGhESEhVZmF4NVFGdEY4RVN3VDFsbmlWZnlpQm9vLVBmR1UxRUVaMDBxbTQwTnJ6M3AzYlRFY0ZtOGtQV3lGTkpFS3ds?oc=5",
    "fecha": "Thu, 19 Nov 2026 17:21:28 GMT",
    "fuente": "Elonce.com"
-  },
-  {
-   "titulo": "Se aprobó en el Senado la reforma del régimen de propiedad privada que reestablece la Ley de Tierras: quiénes votaron a favor y quiénes en contra",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYW5BRHRJTWRBSlNWVnBEb0RzMl9iVGhpX1NlbTJYckZHNzJpYlN3MDA3a19vdF9zNzdxSGxfSXljWVpIVjJSMmR5MlNJam95aGZ5V3FPRnRtTlV0RGFKQnBCbnd6NDJwdzkwRDlrd1k4UzRHZ1JvRWNYMVZhX20tVG05bVV4QlNLNmY4cFNVOFJnZXl5ZTdtME9ZdUtOdDdfMjdUM2ZWS1FNX29LR3NxS0pXVG5rSlU3STdnMzBEbE8wWG8wVmphYUROUUZabVJxcXVDWlRUSGNocXlZdWhIeThlN3RuM3lJNmJ5QjJZX0pYeHhTRUpKN2RDY2lwcFA1a1I3WDVaSjh5ZHo5RUU0ZnpiamJSN01F?oc=5",
-   "fecha": "Fri, 20 Nov 2026 06:33:43 GMT",
-   "fuente": "Perfil"
   },
   {
    "titulo": "Uno de los detenidos por el asesinato de Claudio Garavaglia es el padre del joven que denunció el abuso y su hijastro",
@@ -1344,16 +1338,10 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "FNS FORUM: proveedores mineros marcaron la agenda, apoyo al asociativismo y fuerte presencia de empresas nacionales",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYkxwQ2pzWXJCQkNCVUs1Y24xeEFxY3oyTWlmSmtvaGc1emVrdlBWQTlMcmlUa25ZY09TNXpWQ1VuX1NyRFN3czB3OFVpN04zYmdKNTQyV0hQQ1g1dzRpb0Y3c3picU9wNS13SHJoa0tqenFfWU1ZSHlneF9ZNGVGalE5aFhTbXcyRHZCeGNia19JWTVpeTh3OVVJdHNPTnZSSmF0Wm9SSWxidERwSkhHbEUwWFZwUlNQbTQ4eDRfMUtwSEhfLWdta0VhRzlyZG5SMlNKeUo0emFtWFZrNnNWUGtoNURMQjNsSzdpRVJjUmpRUHltSkE?oc=5",
-   "fecha": "Thu, 19 Nov 2026 17:33:00 GMT",
-   "fuente": "Diario de Cuyo"
-  },
-  {
-   "titulo": "Detienen a un hombre con drogas, dinero y balas en un control",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmkxcVVMU1BPeXpRVUNIRkJkdTNvV1Q4b0NJQ2Jad2EyMUtmMWNScjAtTE5XZTdNOUpYTjBmSjJncU40ZTJ6M0JBTlV5bkhyM0VJVUFiTzZoSjBXX2NKeXBjUWxnajRHN0R0Sm1XcXVJT1dscUNaczZsdUx2OXlXLXVoaEliS3hILW9wQVB3RmR1dFJsclJ5blFQVTUxbjVhS0Etdkk5d1FNX3ViczE0cU42bGQtZmtiVHEwYU1aMVJfRjV3bHfSAdQBQVVfeXFMUHBGSUIzVzhvU2E4VGRDYTVLVWZsNXFWY0Y1Q0dGbGtBYzVLNUUwdjNEUEh0YzZlSmtHX3R4Q2V4MTNVdzBNeVdnSkZaS3B2SFhMVkNHcVFkM1JweDNrdzNCWWdCQVR5cWZKWC1vTjhkakZ6dGxQS0Y5V0U3dHFmTDJsbXprMDZtaFVlZ3ZtZUxvQVpaMkNDSUhNbE4tTFB0eFh6c1ZaVkV3M1RpWHBqY2tOUXdTcEY1Zmcxb1RrRnh0UzVLQ19uZk1pU2w0LU9BZUFFaTM?oc=5",
-   "fecha": "Thu, 19 Nov 2026 13:22:40 GMT",
-   "fuente": "El Periódico - San Francisco"
+   "titulo": "Qué cambia con el restablecimiento de la Ley de Tierras y la adhesión al Tratado de Patentes",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSVZDMnE1RHZUNW1LTnd0RGtRN252ZjJtY2IzYWRGdW9UUzJGTWV6S21FSk5qR0pzQzI1S016NDRkbUtHRGRmN3NLNXB3Y2FOTkhhOFpaT2ppRUpQSTh6cU8tVjBCQXc2aXdFRjdTRVFzSXJUYVZxcV8tMGdybDZPTkpMRk1yVjZkY3BGRUJFV3M1SHV4SDFxVkxfblB0bXM1R0tJeEEybFJVcVU1YXNQMERPT1Zhd1Q4bGRTVWNpbGhGQVNld1JpbDhiUjF5Z0dNNkdUS002c3ZyTnpnSmpTbktWOWpWYklXTkEteHpWaFVoUmtEa2Z2WHhJVEQzbGxfLU9BLU44RTBtLTFySEZQNEpn?oc=5",
+   "fecha": "Fri, 20 Nov 2026 11:32:00 GMT",
+   "fuente": "Diario El Día de La Plata"
   },
   {
    "titulo": "Fuertes destrozos en San Francisco por las intensas ráfagas de viento",
@@ -1362,10 +1350,22 @@
    "fuente": "Radiocanal"
   },
   {
-   "titulo": "El Zonda golpeó con fuerza a Jáchal: derribó postes, dañó techos y provocó cortes de luz e internet",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZl9KbWxGV09PTG50ZjI2QzNSTDZFMjNNcEUzQ3ZxUkNISm15RWVOVFRobU5UcnpBNXJuVjVSeXBIeVNUOHRkZmZDSkpvcklfMW8tVThhMTdNZmtvbHR4R2M5cGpJTFh5dFRUOXg5Q2VrOXZZb0YydFN3VHNWQ3BxeXJUVldZOE94YkdiNk4zWHBYdDJicHV0ZENVTEdWbTh0WFcwZm41dUdZcHVpMzBZWFYtX0MxN3hzV24yWWs1V0lhZHN4cm5Pbks4Vjh6X1RDU2dqMQ?oc=5",
-   "fecha": "Thu, 19 Nov 2026 23:55:25 GMT",
-   "fuente": "Diario de Cuyo"
+   "titulo": "Detienen a un hombre con drogas, dinero y balas en un control",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmkxcVVMU1BPeXpRVUNIRkJkdTNvV1Q4b0NJQ2Jad2EyMUtmMWNScjAtTE5XZTdNOUpYTjBmSjJncU40ZTJ6M0JBTlV5bkhyM0VJVUFiTzZoSjBXX2NKeXBjUWxnajRHN0R0Sm1XcXVJT1dscUNaczZsdUx2OXlXLXVoaEliS3hILW9wQVB3RmR1dFJsclJ5blFQVTUxbjVhS0Etdkk5d1FNX3ViczE0cU42bGQtZmtiVHEwYU1aMVJfRjV3bHfSAdQBQVVfeXFMUHBGSUIzVzhvU2E4VGRDYTVLVWZsNXFWY0Y1Q0dGbGtBYzVLNUUwdjNEUEh0YzZlSmtHX3R4Q2V4MTNVdzBNeVdnSkZaS3B2SFhMVkNHcVFkM1JweDNrdzNCWWdCQVR5cWZKWC1vTjhkakZ6dGxQS0Y5V0U3dHFmTDJsbXprMDZtaFVlZ3ZtZUxvQVpaMkNDSUhNbE4tTFB0eFh6c1ZaVkV3M1RpWHBqY2tOUXdTcEY1Zmcxb1RrRnh0UzVLQ19uZk1pU2w0LU9BZUFFaTM?oc=5",
+   "fecha": "Thu, 19 Nov 2026 13:22:40 GMT",
+   "fuente": "El Periódico - San Francisco"
+  },
+  {
+   "titulo": "Viento Zonda en San Juan: a qué hora llegará y soplará con más fuerza",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkwwLURvZ3FoMzBUQi0xbENVN05kZm9DVFFRMVNSaEFGNnN0MmhWLWlEczNhWHZ2VERLYlRPSnpRWTRiMjh6ajV3VTdNR2ZTWW9aSExnMTVPU1RaZ2R1WEVQU181Wm5VM2M4ZEg1UnJqMXJXb1luWVZxOFROUVpyaXRaTnhQMUU5cHVjZUd2U0l3azhGRzRTVVAxUDlNMHpjMzhGalh4a0g5VUJxSkpBTXNfVQ?oc=5",
+   "fecha": "Thu, 19 Nov 2026 15:11:28 GMT",
+   "fuente": "Diario Huarpe"
+  },
+  {
+   "titulo": "La lluvia y el granizo se hicieron sentir otra vez en San Luis; calles convertidas en ríos",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFNDRUktX01STnROcFZOWTF4YWNTX040VzBhYTFER3BtSjk3OUNXNmt6YTJJUTBnWnlORVZiakoyTjV3dVYyMGVNdjdmckNWSzNvNm5MOGhkckJVeFdabElOMTJJRHF1aVAxS2MtbllhT2ZLc0hUeFVRQ2w3cmV0bVBVckxXT3dSTVV5b2tZSU5YUGZ3QVRmTk5SS3ZLMS1UTFM4UTN5UkRJTU1CcW02VmtTU2N5MDVSVGsyU3ZWa3NjeTJqbGVsODBZOV9hczZmM2FfQmR6ZTB1dURSV2w2NmxncTdLUQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 01:11:55 GMT",
+   "fuente": "El Diario de la República"
   }
  ],
  "finanzas_argy": [
