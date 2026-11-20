@@ -1215,9 +1215,10 @@
   }
  },
  "errores": {
+  "nacionales": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-20T12:35-03:00",
+ "actualizado": "2026-11-20T13:01-03:00",
  "medios": {
   "derecha_diario": [
    {
