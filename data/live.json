@@ -867,6 +867,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Corrientes bajo alerta amarilla y naranja por tormentas severas",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlljSnRJMzkwZDN6NW1wbXFZc0htR0dtYTNlcVpTQkk0dXU4Y2V5OW1ETFlsYXlRY2VrMzhwQkRRWlJBdF9UNjJaV05lV1IzT2lfZ1J5M1BhMGRYNnp4c29nNC01Uk1BeUdQZFJ4VlhsTTh4NHN5bEItU3BfUUFWVVFBSENYSXhidTlocWtVa042cFdBZ09hRExtN2pic3ZqclUwZ09KNm1qV01GNVYwZHk0UVlsZkEwYVlRbw?oc=5",
+   "fecha": "Fri, 20 Nov 2026 15:07:21 GMT",
+   "fuente": "Identidad Correntina"
+  },
+  {
    "titulo": "Mariel Gabur: “Queremos reactivar el comercio correntino y generar oportunidades para los consumidores”",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkVIYWEyVjlkWG4wRTVlOE5ubGFyWk93RlV3SDZfRUZhdHdkM0dKZ3ppV3BmbWJIdktJN3RJWDIwWldfUzVva2JHbmhEdWUyMGFrU2JIYmphSTZ2UHFpZVVERWNKeUI3RXZpcmtEVUFlM2tXRUdwWWZudjg4Y1pnTWNRUzlsODJvRmZ6Mkk0VzUwMVI5eWpRTFBIMjJfMExpNGhDSG9xTU1oMVJ1S2MzWnRNTFYxVG4wdDl2c2swYmhqT2l3RXg2LUU0WlhqRXVyZ0dBUEVWU2hkNkFCeV9v?oc=5",
    "fecha": "Fri, 20 Nov 2026 12:38:47 GMT",
@@ -877,12 +883,6 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObzJSaXM4YzZxTXhiMTBUODRvcHU1dXo4d3hqVUxxa2ZpeXJzY3BEdnVOTHp3S0JHQ2l2TWN6RnpqRVh2a3BoeXdLX3FPR1ZEdG9wb1M3TnhBTlJMWjNJelpUOUwzSnJTT1FxY3JJYl9HaUlzT0hfOF81LXFMYndrMWZDcWJORjZHLTdhaENEYVJYQ2FFZVVPZGdRVjY4UFBoRDZPMjhHeWFBUUlnWUNHbmptaUxqaHlRNXA4V1E4bEdPZHU1aEJEbWF0NkFld9IB4gFBVV95cUxOOE5MRW5LOV9mOWlwakRJUkc3U2xfb0k1RjJILWhRR2w1Y21qQUFFQWx6X3ZLTTZZU0pRcVZVc3BoTHVtdHFvUjhkSzlLdEdrdkRqZkZIZVBVWlBvTndhbkNHS2paLXpVSlFtZ3drbFhVTjI0LV9PWC1XU0JKNVVCRGZodE8wbFd1ZXVtYkFzSk1DUTMzYjFuajNsbWhaMF9OWEliX3Nna3pfRDFaX1JneC1ST2ZlWEw0dkFQcUtLZ0w1a0o0ZWFQeXhCU1dVWXB3aXdHNGRTR3U1VFpqWmJlaUdR?oc=5",
    "fecha": "Fri, 20 Nov 2026 12:00:39 GMT",
    "fuente": "TN"
-  },
-  {
-   "titulo": "Corrientes bajo alerta amarilla y naranja por tormentas severas",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlljSnRJMzkwZDN6NW1wbXFZc0htR0dtYTNlcVpTQkk0dXU4Y2V5OW1ETFlsYXlRY2VrMzhwQkRRWlJBdF9UNjJaV05lV1IzT2lfZ1J5M1BhMGRYNnp4c29nNC01Uk1BeUdQZFJ4VlhsTTh4NHN5bEItU3BfUUFWVVFBSENYSXhidTlocWtVa042cFdBZ09hRExtN2pic3ZqclUwZ09KNm1qV01GNVYwZHk0UVlsZkEwYVlRbw?oc=5",
-   "fecha": "Fri, 20 Nov 2026 15:07:21 GMT",
-   "fuente": "Identidad Correntina"
   },
   {
    "titulo": "Argentina avanza con nuevas privatizaciones de rutas nacionales en Corrientes",
@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-20T12:08-03:00",
+ "actualizado": "2026-11-20T12:35-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Gestión Milei: abrió Tesla Argentina y ya se pueden adquirir sus autos online",
+    "link": "https://derechadiario.com.ar/politica/gestion-milei-abrio-tesla-argentina-pueden-adquirir-autos-online",
+    "fecha": "Fri, 20 Nov 2026 15:32:45 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Condenaron por estafa al padre del kirchnerista Nicolás Ramírez: despojó de sus bienes a una jubilada de 83 años",
     "link": "https://derechadiario.com.ar/politica/condenaron-por-estafa-padre-kirchnerista-nicolas-ramirez-despojo-bienes-jubilada-83-anos",
@@ -1261,12 +1267,6 @@
     "link": "https://derechadiario.com.ar/politica/efecto-milei-exportaciones-alcanzaron-nuevo-record-historico-en-octubre",
     "fecha": "Thu, 19 Nov 2026 19:58:11 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "El peronismo se quejó porque los presos no tienen aire acondicionado en las cárceles de Corrientes",
-    "link": "https://derechadiario.com.ar/politica/peronismo-quejo-porque-presos-no-tienen-aire-acondicionado-en-carceles-corrientes",
-    "fecha": "Thu, 19 Nov 2026 18:22:09 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -1284,12 +1284,6 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "El Senado aprobó la adhesión al Tratado global de Patentes y blindó la ley de Tierras",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHI1V2ZWNU5HS1ZERjNUYm9HMFY3RFlwZHMzNi1wQmZZbmhyUUFRa2pjOE85c1BublQ2MWRuWHgzMGh4ck5pcHZMckFCcER1LWVQZ3NEbVpUUmN0YnBwMlB3SGU4Tjd2Z1VGVzVUbk5lcmo1aEo5Zy1ISjcyU1R5NE5CX2N6MEt4OXdOeXpqQVJ1Y1lGV1RHQnpkWkdRaWhOX05NVUFlTlVFbW1CcGwydEd4NUtkUzh5VHp4Q2lrRWLSAcYBQVVfeXFMUEFxUnFBVTBTSHNnaXhqaUJ5VF8xZXk1MDV3LUhzVFZqc1ZXekhldzU4U3NFRGVTWWFxeUE1dE1kM0tiMERONHFHcjNSallQc0JjOFdYR2VjcWhHNkhIVTdHSm4wM19fZzBxVEVwVlQ0V2t6UHhQQ19LZVkzb1RpODMxMGNwa0hZTm1ZMi1xb3hpZmJ1VFdMN3R3SmFWMDcyUXZMNjlvYWV3LTdpVHl4UFd2UW9xUEljdVFkb2N2cnZoQVZWNnFn?oc=5",
-   "fecha": "Fri, 20 Nov 2026 01:57:58 GMT",
-   "fuente": "Ambito"
-  },
-  {
    "titulo": "Corrupción en el fútbol: Mahiques acelera el pliego de Rafecas para sacarlo de la causa de la mansión de Pilar",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHYtM2ljaTE1eHlSSVNIdEtpSVRuMHdlR2Q1UFlRY1lMcHNvQ1htWm5sV1ZBSVV3YUFncjNIMndEYWt1cDc1TVBpdlM4X0FtdDFRdFBLQkVsYkNad2FfYTNZUE9wN0JadW1YR0lNa0lHVHFZYjFzcXpRcUJuN044aDFOaGVNV2NsUy1mTUxualI4cmEyV1lUelhvX01wSU9LYUMyWklfR012UklucU12VEVpVkQyeWpuU201aEJITlZMSnY5Umc?oc=5",
    "fecha": "Fri, 20 Nov 2026 13:25:42 GMT",
@@ -1302,10 +1296,10 @@
    "fuente": "El Comercial"
   },
   {
-   "titulo": "Argentina negocia con Italia la compra de tres fragatas y la incorporación de otros buques militares para modernizar la Armada",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeDFQM1dfQlFQX3V4OVl2THhZdy11c2hKaGFwcHFwck1pMWdqVW92aTNiZWxWTEhBWUYtWFFMR2huRlJsVTY3RkJreFdpY3Nza2tSMEk2YkxJNnNzWGtHUTN3Uk9xMjZzREsydHl4V3RGVHJ5WGFWZE1Mbk5SVUF3ejk4UklibGlkQmNIZmxuc3M2bGtHWlZ2Nl9LWlhNSEJXRHJoNHI2ZmxoYjU0LVR5WWNEX2hOX2E2WmRhRDhMeHdrajhYcEc5b3hHZ3pYSllDOXZxRkFON1YtczRsUy1VRjVJR3hTZEhfV19Vb0JWLVRCeVNGTHpnMHRkbzZsd1ZZ0gGbAkFVX3lxTE0yQW9kRWx0YkpJU3JXUkdWdzYydlhkc0N2dXA0VkcyZzhLbFI0Vnh0alc2Q0d4TWZCY2FTclBXbmNQQVhCNmtYWHR1ZEpCVFEtS2lRV2VMZVBEak4xdEt5MWJSQ2NYS0RMZ1hyLXpwTGVaSVdHMFcycEtpcDh5ZGpGNGttd1BMM3NoUEpTUjdNaEpfUm9SMjVtbVcwQ00xMVJtZEoybDhXNWt1TVpZaERRY0RVbk5MYnE5b2tNNWwyN2k5OGNicGVucXBuODMtazROTGxHNDZpQkdmeThYZFZESFE5UE96THJLdmhiNmVMd2IwYWdzLU42Q25sU21ZUk5sa0JMUWpiLUh1N2xNTnZiWHpGNGtsVkg2Z00?oc=5",
-   "fecha": "Thu, 19 Nov 2026 15:09:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Pese a las tensiones, el Senado aprobó tres leyes clave: discapacidad, propiedad privada y tratado de patentes",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONVo4eVRmVFNlZ3pzWXBSVDNKejBBVVR5N1RKYmZqSUQydlZMU1NMOFl6RFlxZC1sbDlIQm1UZkFIaUM0YWxtemJxWFIxNGNVejNEaU1ZWElGUGNtOUc4dnN0c1RhNU10TmFOV3k3R2dYcnNvaFFxSDZYOVg1MXpPc295RmZvcFB3aWhBZ0JZOUpiTjR1QURrVGN0ZUVRRVRyWXdIQ3JjbWpyS2VoeGxreGtfTXhNMkxwb0otRS1IU1lhZDhjOTItaVMwSFJVSVdqamxnSk52TnNtRVhrNUtr0gHzAUFVX3lxTE9XcHRUMHRCX0dSTTZQQkZqNlBacDlDSUZ5VloxUTVTMUM1XzFkNzRVOEppN0JPb0NjelhNTHI3T3pKaXZkU3BnelFHZE5OTGZxd00tb2ZnSl9DNzljZDFGSFJRb0pTUzBSU2hKLW9BTVoyd1UtODd6LU5wQ1ZtYjdTSnA1SWp5aHJuSXNKNXFFVnN5X2h6TE01ODV3YTY0ZzNYOG1mcmhYcmdoSVFZN095TG1rcU1ZdE5ZaTVnQzJZZHZjYTRBVjRuZzFMeFpOdnBYNE1DLVBRTFVUZm8taVJ0X3czNnhGWnJXZ0s1T21zSXJRWQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 03:01:13 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Lo que no se vio de la cumbre minera: ausencias, demoras y una reunión clave",
@@ -1314,22 +1308,16 @@
    "fuente": "Diario El Sol Mendoza"
   },
   {
-   "titulo": "Todo lo que dejó el temporal en Córdoba: fuertes ráfagas, evacuados, rutas cortadas y copiosas lluvias",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkN5SW5TczVvVUt4WDdSNE16VUg4OW1pTnNqU001TTdIRHJ6Z0xmNThDMDBBbkFGalZ2VThmdE44RWpIajEwYlV4LXl4UTZMb0sxeTRFb0hjV2hNcTJVY0pvOENWQloyUHItWXN6emUzUXBjNFNCUjhhbVFCZkdWQ3JSQ0JfSHVwWTU2dEFQZGFGaEQ3M3JKWWtIMUt3eHR1RUpsWjZfN056RFRxcDNxVFZyaWRueVBfYVNMVTJHdWYwYlJlWXhYLUlUXzdLQQ?oc=5",
-   "fecha": "Fri, 20 Nov 2026 12:42:00 GMT",
-   "fuente": "La Voz del Interior"
-  },
-  {
    "titulo": "Juicio a “Pity” Álvarez: luego de tres meses, se conoce el veredicto",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWlsaW5tR29ZcDR5bldWMFJRYVgtR29Nd2d2V1lmVlNITndzSWtFOEVwd0dOMTUzQ1NmUnZvQy1PYi1wU080dHo4U2NPSlhuZkNKa2lveFdRclA1T0NJM3h2M1UzZjhNS3EyMzRWWmQ0OHZXTnQzTk5jUW5xYXYtSDhWNElJNGphejVFbXlhbkEzNmRMQ1NsQTQxeVpjdnd1aWgtM0tpOA?oc=5",
    "fecha": "Fri, 20 Nov 2026 12:45:13 GMT",
    "fuente": "Página|12"
   },
   {
-   "titulo": "Encontraron a un hombre apuñalado y calcinado dentro de su camioneta en Córdoba: estaba acusado de abuso sexual",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdG1LeEp2ZXZ0bE9ONFFpa1F6YThBbUY1ejg4ZG5hVEF6NGxaS05TdTI3RVA3MkpZMFVMeWhFcDdmQWZDdHFDNmZJZVJ1NGN0NEhGSzFXci1KeXBtYVZFYkczaWZla2staUw4aTh2TkFDWmJabnhyZmoxM0NFSTJhZXlCUmIwNHJrS2ZYcDVZMnNNc2RtN2pQQTY2bGhqSjRzd1BVYS0zc2p2ZG9ZemFZWDRFZG91M1RJZTRQdnNpNGlwYV9qN2NaOHhZMWY2cVU5eXfSAdcBQVVfeXFMTUc3ZXpreDl0bmcyRWtGWlZoWWl1U21CM2tSMzdYeDFjaWFjejhjdXBqWFFTZ2VORTFyTC1RUnJydHg5UHhTbVBPZEQwTTBhOW1yVjBGa2FCRjdyMlJrekszbm1LNHI2d2w4WjJERWFTNjlhR0ZHVjdKYlNLb3JXcFNYT2diSHI2eXpTY1h6UElKNk5EZHhrLUR0ZWd2YVVTRzNGMlY3X0pUZ0Q5ZzRZdTVMaUhUYjF4N3hNOVdINVYwMHVXZHhIZVFuZDUyVTBQWVJSYkVkZU0?oc=5",
-   "fecha": "Thu, 19 Nov 2026 20:26:17 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Uno de los detenidos por el asesinato de Claudio Garavaglia es el padre del joven que denunció el abuso y su hijastro",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWJsNkRlYzJhT184YlpKWnlIVlFWZmFvMXRzNnlXN3YyQ0tJN2wxcnRFMGlHc0RYS0hIR3phYWJ1WkdHMHFlUFZKYlVSd09HR0M3TlBTN2JfZnQ1RGhyUU5kZmdRLUF6YXlSRmtkV19GUVpvaTUzdEtvUFJQLXZHYjJsWDZ3MF9NcnBvc0tKcjZXRlVUSFMtZXUtNVhSdw?oc=5",
+   "fecha": "Fri, 20 Nov 2026 14:26:00 GMT",
+   "fuente": "La Voz del Interior"
   },
   {
    "titulo": "Newmont en Santa Cruz: “El empleo local no se decreta, se construye”",
@@ -1338,22 +1326,28 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Se conoció qué vino a hacer Bill Gates a la Argentina y cuánto tiempo planea quedarse",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTm9TS2FyVmlwdjlvbFM1ZFNtOHo4MjVEV0ZGeHlva0VuWjBJYUF1VVZaM1JDeF9mcDV6VGt5OWsyQUFNMlZEa2xLek5MT21Gb1o2VUpBS2l3bjN6V3NPR1RWSlVyTVktTHNUNkdqTWFGN185RUFYc1Vqak5VVV9IR1NPTXJSMl8zVWg5TENWbXVJMHJJTkQtNW1QRkMzNHp0OURRUklFcUpzVmtHSEV0OGRnSm0tODR1STFmTFhCOFBua3JuZ1VwXzlrQm05ZkJt?oc=5",
-   "fecha": "Fri, 20 Nov 2026 13:00:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Fuertes destrozos en San Francisco por las intensas ráfagas de viento",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHpxdjJEYjdoc2hzRW9CTFlSUTliWWQ0ajdBZkV6NXNIUWp4akR1REFlQVR5VHdYV29uX0tqMlBJMTRKbmlLYW01N1dlaFV6TXJsSlJGRkpRbi1KeEh0bFlCcjZfNDNxMkpuc0FPYnhCaFV1cS1fd2JhMkR5M0txd0VPU2JvVGJSR3g2ZWZJYlhHdkdGUWJNTjEyWWFXeDY5cTFQYjhOWVFDaXcweklHUE9UMWw?oc=5",
+   "fecha": "Fri, 20 Nov 2026 08:18:19 GMT",
+   "fuente": "Radiocanal"
   },
   {
-   "titulo": "La lluvia y el granizo se hicieron sentir otra vez en San Luis; calles convertidas en ríos",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFNDRUktX01STnROcFZOWTF4YWNTX040VzBhYTFER3BtSjk3OUNXNmt6YTJJUTBnWnlORVZiakoyTjV3dVYyMGVNdjdmckNWSzNvNm5MOGhkckJVeFdabElOMTJJRHF1aVAxS2MtbllhT2ZLc0hUeFVRQ2w3cmV0bVBVckxXT3dSTVV5b2tZSU5YUGZ3QVRmTk5SS3ZLMS1UTFM4UTN5UkRJTU1CcW02VmtTU2N5MDVSVGsyU3ZWa3NjeTJqbGVsODBZOV9hczZmM2FfQmR6ZTB1dURSV2w2NmxncTdLUQ?oc=5",
-   "fecha": "Fri, 20 Nov 2026 01:07:48 GMT",
-   "fuente": "El Diario de la República"
+   "titulo": "Femicidio en Salta: un policía mató a su expareja durante una mediación en un edificio municipal y después se quitó la vida",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUVlHenFPdzhyUnZnVjRpYzVlSVY0NUt3SDdlOE5aazhZSFdQaFQzbGg2Z3BIMHY5UlYyOUNOdV9DZVZPWlQ4U1ZKU2JjOGtMR3dOT3BlZDVnR0VqaXI4bXU3RURyRmVBSkxHUzU5WVo5TVVtMFlEUHA0TF9SU29PUGxRNzNPa1oxZGRzRjdRVE5GYUpOQmkxQWN2aVJuSmI2VENMUl9XYm14dTJnWlpUbDJXdzlLZ1hWdlRDTGJMNm9lZWJPVXl3MHFGSFlPbGU1aERXV2trYlRoWFd6Uk5qR05PeDFYM24yVVFRSDZRQkZKQ1NjX1HSAYoCQVVfeXFMTTZCempKdVZVUjhSNGFZZi1ZWklnN0hSbnhHZjdCTnBDODNNVnVSTDJhbm5mdEt0ZXVoeUV5WGVPNjlGT2o0aG5EWkdfWXZOM0xVR1NlYWxzaEF5RTVMOWQxRE1MY3oyR2R0QmJSLTR4eFdfeTRjcnp5X1hWZlFad0NuZDVaRFJ5QklUeEpKZHBzb1VXYjRPTmlFSEZMN00wNzRtV0pwOWNvQW5pbktPWFRwM0dRN0FiZmRkMjdyXy1LTVpweWZpX2w2TDFNbTJMMFItQy12d2hOcmpHNFJDX3plOGI2RS16enVqOG5xYl9JZ2NzaU4ybjN0QnRFSlI4VXplb1ZRS1BnZ2c?oc=5",
+   "fecha": "Fri, 20 Nov 2026 10:26:34 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Rondas de inversiones: asociativismo como clave de éxito y gestiones en mira al crecimiento minero local",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1pEdFhnMDl0QjRWeTI2b1JiaXRiWUpRWm5jNTNWeGU2Tm9MbHo1NTQwMEVBS0g0QTFxYkhaSy1naXZqRGtGQ005UnNpZHVJa2pPMEYxTTBCT19RSWFzejBVTTdOMXpEYjJkYkJVMlNrQlRWMFktU3N5aEJRN0UtQ1NyeGUxaFZiakx1RkdRLTBBaHc5MUhSMnN6WkRPekFVVG9fUTZsOUJfU0V3dlgzTk1mSjMwODZ6c2hUZjNwbmVOS0tSTlptVWxmM2JHYTVmRnhGWEpWNTBXaFpC?oc=5",
    "fecha": "Thu, 19 Nov 2026 21:04:00 GMT",
    "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "La lluvia y el granizo se hicieron sentir otra vez en San Luis; calles convertidas en ríos",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFNDRUktX01STnROcFZOWTF4YWNTX040VzBhYTFER3BtSjk3OUNXNmt6YTJJUTBnWnlORVZiakoyTjV3dVYyMGVNdjdmckNWSzNvNm5MOGhkckJVeFdabElOMTJJRHF1aVAxS2MtbllhT2ZLc0hUeFVRQ2w3cmV0bVBVckxXT3dSTVV5b2tZSU5YUGZ3QVRmTk5SS3ZLMS1UTFM4UTN5UkRJTU1CcW02VmtTU2N5MDVSVGsyU3ZWa3NjeTJqbGVsODBZOV9hczZmM2FfQmR6ZTB1dURSV2w2NmxncTdLUQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 01:11:55 GMT",
+   "fuente": "El Diario de la República"
   },
   {
    "titulo": "Entre Ríos presentó \"Friendly por naturaleza\", su propuesta turística para el verano 2027",
@@ -1366,6 +1360,12 @@
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZmkxcVVMU1BPeXpRVUNIRkJkdTNvV1Q4b0NJQ2Jad2EyMUtmMWNScjAtTE5XZTdNOUpYTjBmSjJncU40ZTJ6M0JBTlV5bkhyM0VJVUFiTzZoSjBXX2NKeXBjUWxnajRHN0R0Sm1XcXVJT1dscUNaczZsdUx2OXlXLXVoaEliS3hILW9wQVB3RmR1dFJsclJ5blFQVTUxbjVhS0Etdkk5d1FNX3ViczE0cU42bGQtZmtiVHEwYU1aMVJfRjV3bHfSAdQBQVVfeXFMUHBGSUIzVzhvU2E4VGRDYTVLVWZsNXFWY0Y1Q0dGbGtBYzVLNUUwdjNEUEh0YzZlSmtHX3R4Q2V4MTNVdzBNeVdnSkZaS3B2SFhMVkNHcVFkM1JweDNrdzNCWWdCQVR5cWZKWC1vTjhkakZ6dGxQS0Y5V0U3dHFmTDJsbXprMDZtaFVlZ3ZtZUxvQVpaMkNDSUhNbE4tTFB0eFh6c1ZaVkV3M1RpWHBqY2tOUXdTcEY1Zmcxb1RrRnh0UzVLQ19uZk1pU2w0LU9BZUFFaTM?oc=5",
    "fecha": "Thu, 19 Nov 2026 13:22:40 GMT",
    "fuente": "El Periódico - San Francisco"
+  },
+  {
+   "titulo": "El Gobierno avanza con la compra de tres fragatas a Italia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkpyS3JabTVwU2dkdW5EeEYtZDVaTVkxNkN2Y2NxSU90aF9RLXVjNTFLYk5kWnphT1VhLWhhckY2VDc0UFZLOHozemxvNU51VW85Y25mSVVBSGdCY01paE5DWDhOYk4wUXFZVjhQX1VrV3VDMlJMZDhhVW0yS241Sl9wVlR2cDlkVURvZXdoOWQ4WnI0T2U3dTVOR1JwYTgyS0R2bmFPMER1NHVf?oc=5",
+   "fecha": "Thu, 19 Nov 2026 16:13:00 GMT",
+   "fuente": "La Nación"
   }
  ],
  "finanzas_argy": [
