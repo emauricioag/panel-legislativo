@@ -7,18 +7,18 @@
   },
   {
    "casa": "Blue",
-   "compra": 1650,
-   "venta": 1670
+   "compra": 1655,
+   "venta": 1675
   },
   {
    "casa": "Bolsa",
-   "compra": 1678.7,
-   "venta": 1681.6
+   "compra": 1683.3,
+   "venta": 1684.7
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1785.6,
-   "venta": 1786.5
+   "compra": 1788.8,
+   "venta": 1790.5
   },
   {
    "casa": "Mayorista",
@@ -1215,9 +1215,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-20T15:40-03:00",
+ "actualizado": "2026-11-20T16:06-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,28 +1273,28 @@
  },
  "nacionales": [
   {
+   "titulo": "Javier Milei y sus medidas, en vivo: “Los responsables van a ser juzgados”, dijo el Presidente sobre el atentado a la AMIA",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTmoxRlhxa0huTEkxWWpobE1aQjRSalhXR0FGa3FGZGdWRGQ2ZGFFUUdrcUJHamFJSHM0MlMtMjAwOEpDOTZqYXpGTU1VQXE1UTdyelBqbGtyVk5GajNWOUdoWFQxTVRoWnJ0cTNSNVVaME5zMGZabk5kaXVILXNFZmNTWWtsbjl3akVydWdFQ1FzQWNWa3pOSDVCb0REUGU3S3hfdEVyTUl2TGw1Z2VyWUZxV29xckZacGl2bl9aaHdrUVVkcUlmYktoV2pfRmd2UXlFcDdHTURFVW4xYUE1OA?oc=5",
+   "fecha": "Fri, 20 Nov 2026 18:45:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
    "titulo": "Efemérides de hoy: qué pasó un 20 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmtvOVEtU3E2TXRJOGYyS0ZsdHMwVUwwbnJpQU5Cem9kUWlZUGdmQjJ4bkJxa2RvaVhuWnBlYTdZQURybW9NNDFac1Y0VmwxNDRxRV9VdzhjdHFRd2R5WGF3aXlYajhVT2hPV2pVbEV0MEpsV05DZDFXdFFTRDgtSkExQThid0FCMi1XOGl3?oc=5",
    "fecha": "Fri, 20 Nov 2026 07:05:11 GMT",
    "fuente": "Página|12"
   },
   {
-   "titulo": "Luego de una maratónica sesión, el Senado aprobó el Régimen de cabotaje y marina mercante",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaURGaTdHRmF3TVhKZ29odmwtaWZUNnVZMjNMdllqbnUyVVJra2FRcHFhMmJ2aVhJdHNfR0hkLWh5dG91eUFYWXB5aWRtQzVPN3d3V1pOQ0dYdmo3TTdBMktmMTJDb1pHaVNwbDVaYzd3dUYtMkFZQVlRVmowWFlpZ3pRWlcyUzAzd0tSbA?oc=5",
-   "fecha": "Fri, 20 Nov 2026 04:41:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Corrupción en el fútbol: Mahiques acelera el pliego de Rafecas para sacarlo de la causa de la mansión de Pilar",
+   "titulo": "El juez Rafecas toma la causa de la mansión de Pilar y avanzará en la investigación, aunque su pliego ya entró al Senado",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHYtM2ljaTE1eHlSSVNIdEtpSVRuMHdlR2Q1UFlRY1lMcHNvQ1htWm5sV1ZBSVV3YUFncjNIMndEYWt1cDc1TVBpdlM4X0FtdDFRdFBLQkVsYkNad2FfYTNZUE9wN0JadW1YR0lNa0lHVHFZYjFzcXpRcUJuN044aDFOaGVNV2NsUy1mTUxualI4cmEyV1lUelhvX01wSU9LYUMyWklfR012UklucU12VEVpVkQyeWpuU201aEJITlZMSnY5Umc?oc=5",
    "fecha": "Fri, 20 Nov 2026 13:25:42 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "El “Pity” Álvarez fue condenado a 12 años de prisión por el homicidio de Cristian Díaz",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWlsaW5tR29ZcDR5bldWMFJRYVgtR29Nd2d2V1lmVlNITndzSWtFOEVwd0dOMTUzQ1NmUnZvQy1PYi1wU080dHo4U2NPSlhuZkNKa2lveFdRclA1T0NJM3h2M1UzZjhNS3EyMzRWWmQ0OHZXTnQzTk5jUW5xYXYtSDhWNElJNGphejVFbXlhbkEzNmRMQ1NsQTQxeVpjdnd1aWgtM0tpOA?oc=5",
-   "fecha": "Fri, 20 Nov 2026 12:45:13 GMT",
-   "fuente": "Página|12"
+   "titulo": "Las últimas palabras de Pity Álvarez en el juicio por el crimen de su vecino: “Me pareció excesivo el alegato del fiscal”",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaW1UUWZ5Q0EwQ3N1QkVKZGN4S2RUYmpWbXdwc3FxUVVOQ0lYZ19Mb3FIY1FqOUlkcWVJYmNPRGVMQ0FLYzZtT1g0QXhOcUEwOGdDQTFwUFVJVUxlOGpQRUJpV3NDUFdhenZZM2pNTUVfRzJleC1zRVJfMHFXMjQ0aVJLcFdMU2dja3FaeUFMUDA3SklHZzhGdlJlR282M0huNGt3OENjMHd5RW40ekQ2TXVyS0lUX1k1SUxXbDB3dUZSRGE5ZTg3dHo3cVFYTURNM0FvN1ZpNzM2S1FIeUlZMUpGYUpqQzhTcFNyajdyeVFLaFJwa3NpTDByZkE2UQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 17:07:27 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Con anuncios en infraestructura, empleo y educación, comenzó la 2° Cumbre de Minería Sostenible en Mendoza",
@@ -1302,28 +1303,34 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Alerta amarilla por tormentas en Salta: posible caída de granizo",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTG41eTM3VXo5YW5vR051YmVWd0hiVFBmWjFaa0xqRTRmdWVEbDdQT3AzYTdRN3ZBRVBkb2NMTWl6WEFPZXlIeVVJZzdxNWFXY0t2U2tuQnEyQ1pyYUVTRlozQnRnVklycV9KLXM2QmhER0NTSC1zZlh5SDYzb1lWRXB6akF3XzZLTVNlQU1WS0IzZ3ptLU5jS3h1ZEdlMmtnczhaV2RPWUNMeTJpd0JCWnc2WdIBuAFBVV95cUxQT1pXMkMxX2hNcE50eFB3clA4MW0zUTZYMlNtU1FqaVlfclRUNktRMEJkc3lqUnJmcnhfODdUWUgwekVFREc3dkl4SzNIZV8wY2hfU3c0cVpRMmZrTXphT0hGUjR5RUhoOHFPT25XUUxNelRNTm5jT1BnZDF2Znp1Q3VtWGZqMnpKZEkzOTE4MW1vWV9nNXU1Q284UktSN3ZyTFdLWjl0QUxPcXpnU0U4dWMzYUxnWG9R?oc=5",
-   "fecha": "Fri, 20 Nov 2026 12:32:00 GMT",
-   "fuente": "El Tribuno"
-  },
-  {
    "titulo": "Newmont en Santa Cruz: “El empleo local no se decreta, se construye”",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkRnR1RTUTBMN3VvQ3RpOFF3bzFFUHR6MXpvNTZmSmJMbFZSOHl2cnYwLThxSHVXaXIyWmZnenpQX1V4Y0xXenJzci1iUEZWZW1tVXZhQTVfZ1NhTHRxbnhWSkM1TmszamxhbmxSOFhEeVg0V0tVZVhTX1NaVnljbUFaQVF6bE1nVy1LUWQ4RVZiS280OVI4NW45bmYtUGZfbXcxTFF3N0dvWTE2?oc=5",
    "fecha": "Thu, 19 Nov 2026 09:00:12 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Sin PASO a la vista, el Frente Renovador anticipa acuerdo de unidad en el peronismo",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkVad25uTkpqWlBRODFvWjV1YnJYc216M193QkUyTmxKOUZ5ZnZpT1VqMGZCQ3dCRDhpWU90X3o5MjhMUGNGOEo1TzJjcks0ZWtZaXcwYTNOdnBlakFUYXlqaDk3dEZ2N1NLVHBzM3kwYjBldlFTZ0RSMGlKN1oxc2VZWjdZNGxsczFpejBSYlRLT0dacm5KdlMwV0NiMFhOMlY0UDN3aTc1QjlyQjJ0YWJhX1BFVjVJQ2JOYnRzb9IBxAFBVV95cUxPaFlQVkM3a1J1YS1UU0ZwZE0tOHZZVEJTT0JuMUYxODM4TVZfRnF6LVBad21lUXFNOFRadldwYkZaTHczV2ZiNzM1WENLdXlMV3J0ZkJxSllqSi16NFJqVjFkVjlha1BzNGNKQ2ZjMXRoLVVTZGxfZ09yU2dhRHd4REZkM1pnWmFDbTZLQVZuVHR4czZmTjFKLWxudjhONERGMkNqTTJGN0VKUXdCUXdZb2VmZDZrcEphekdaTmV2U0dyalI2?oc=5",
-   "fecha": "Fri, 20 Nov 2026 13:57:00 GMT",
-   "fuente": "Ambito"
+   "titulo": "Alerta amarilla por tormentas en Salta: posible caída de granizo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTG41eTM3VXo5YW5vR051YmVWd0hiVFBmWjFaa0xqRTRmdWVEbDdQT3AzYTdRN3ZBRVBkb2NMTWl6WEFPZXlIeVVJZzdxNWFXY0t2U2tuQnEyQ1pyYUVTRlozQnRnVklycV9KLXM2QmhER0NTSC1zZlh5SDYzb1lWRXB6akF3XzZLTVNlQU1WS0IzZ3ptLU5jS3h1ZEdlMmtnczhaV2RPWUNMeTJpd0JCWnc2WdIBuAFBVV95cUxQT1pXMkMxX2hNcE50eFB3clA4MW0zUTZYMlNtU1FqaVlfclRUNktRMEJkc3lqUnJmcnhfODdUWUgwekVFREc3dkl4SzNIZV8wY2hfU3c0cVpRMmZrTXphT0hGUjR5RUhoOHFPT25XUUxNelRNTm5jT1BnZDF2Znp1Q3VtWGZqMnpKZEkzOTE4MW1vWV9nNXU1Q284UktSN3ZyTFdLWjl0QUxPcXpnU0U4dWMzYUxnWG9R?oc=5",
+   "fecha": "Fri, 20 Nov 2026 12:32:00 GMT",
+   "fuente": "El Tribuno"
+  },
+  {
+   "titulo": "Fuertes destrozos en San Francisco por las intensas ráfagas de viento",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHpxdjJEYjdoc2hzRW9CTFlSUTliWWQ0ajdBZkV6NXNIUWp4akR1REFlQVR5VHdYV29uX0tqMlBJMTRKbmlLYW01N1dlaFV6TXJsSlJGRkpRbi1KeEh0bFlCcjZfNDNxMkpuc0FPYnhCaFV1cS1fd2JhMkR5M0txd0VPU2JvVGJSR3g2ZWZJYlhHdkdGUWJNTjEyWWFXeDY5cTFQYjhOWVFDaXcweklHUE9UMWw?oc=5",
+   "fecha": "Fri, 20 Nov 2026 08:18:19 GMT",
+   "fuente": "Radiocanal"
   },
   {
    "titulo": "Entre Ríos presentó \"Friendly por naturaleza\", su propuesta turística para el verano 2027",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmdCVTRuWVgxT1JaM09UakdDejRJanpKVmxINjBCcV9fRHBSUkFBa3NRMEJfb3Q4TWgxSVplRWhvRFdwOUZDclFScUhFMlpWbFc5SmtmTk1IbzNTczZ4b1RzOGxzSEN5TVFSTVBQVF8zZXUwbnRVdHRPRG0ybFFucmdpZEtRZE1NQzJObk1NczFoNkRJdE1tWkxVTzkxVWpVNDBoVG00aE5Eb0dmbWNBTEsxTjhIRWtrTXZ5Y002WdIBuAFBVV95cUxQZGRTM29Ja05Ha0lCTFRycHF6QzlPT0tyejFtMmNHNVc0Zm1XSG9SalNBZnJfRjBzWmtiYnE1WW5hemhSc2lQNTFBRDN4THVJekZhZGFxOXVQOXpXbUI4Tjd6SG4wYWJjU2M1QUJtaTVZSFBIaGhESEhVZmF4NVFGdEY4RVN3VDFsbmlWZnlpQm9vLVBmR1UxRUVaMDBxbTQwTnJ6M3AzYlRFY0ZtOGtQV3lGTkpFS3ds?oc=5",
    "fecha": "Thu, 19 Nov 2026 17:21:28 GMT",
    "fuente": "Elonce.com"
+  },
+  {
+   "titulo": "El oficialismo aprobó la adhesión al tratado sobre patentes, un proyecto clave en la alianza de Milei con Estados Unidos",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmdBTmJfOURneDZTNHZIVFRyaVliZ2hpU2VtbG9udFRFbDdHWUpYdlNvb3hHLXpiSWdGS1FqcVVJVGJfMFNFdGZxVV8yZ21Nck90WUVNdGFyeUswMERkLXk2b0pzcnFDQURBZ3RSVnhCT2dTTnRQZHFra1hjbDdvMXRDMW5OTzAzU2xXU2tuY0tDZkw5dkNhdk9fLW0yMmhfQnNWUVJZSk9Xa3I1UkJNYmF3NFVfZDRBclZta1pBQWtrS3pfUXh4c1JqYU9UUzk2ZnBj?oc=5",
+   "fecha": "Fri, 20 Nov 2026 00:58:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Uno de los detenidos por el asesinato de Claudio Garavaglia es el padre del joven que denunció el abuso y su hijastro",
@@ -1336,12 +1343,6 @@
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYkxwQ2pzWXJCQkNCVUs1Y24xeEFxY3oyTWlmSmtvaGc1emVrdlBWQTlMcmlUa25ZY09TNXpWQ1VuX1NyRFN3czB3OFVpN04zYmdKNTQyV0hQQ1g1dzRpb0Y3c3picU9wNS13SHJoa0tqenFfWU1ZSHlneF9ZNGVGalE5aFhTbXcyRHZCeGNia19JWTVpeTh3OVVJdHNPTnZSSmF0Wm9SSWxidERwSkhHbEUwWFZwUlNQbTQ4eDRfMUtwSEhfLWdta0VhRzlyZG5SMlNKeUo0emFtWFZrNnNWUGtoNURMQjNsSzdpRVJjUmpRUHltSkE?oc=5",
    "fecha": "Thu, 19 Nov 2026 17:33:00 GMT",
    "fuente": "Diario de Cuyo"
-  },
-  {
-   "titulo": "El oficialismo aprobó la adhesión al tratado sobre patentes, un proyecto clave en la alianza de Milei con Estados Unidos",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmdBTmJfOURneDZTNHZIVFRyaVliZ2hpU2VtbG9udFRFbDdHWUpYdlNvb3hHLXpiSWdGS1FqcVVJVGJfMFNFdGZxVV8yZ21Nck90WUVNdGFyeUswMERkLXk2b0pzcnFDQURBZ3RSVnhCT2dTTnRQZHFra1hjbDdvMXRDMW5OTzAzU2xXU2tuY0tDZkw5dkNhdk9fLW0yMmhfQnNWUVJZSk9Xa3I1UkJNYmF3NFVfZDRBclZta1pBQWtrS3pfUXh4c1JqYU9UUzk2ZnBj?oc=5",
-   "fecha": "Fri, 20 Nov 2026 00:58:00 GMT",
-   "fuente": "La Nación"
   },
   {
    "titulo": "Detienen a un hombre con drogas, dinero y balas en un control",
@@ -1362,10 +1363,10 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "Fuertes destrozos en San Francisco por las intensas ráfagas de viento",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHpxdjJEYjdoc2hzRW9CTFlSUTliWWQ0ajdBZkV6NXNIUWp4akR1REFlQVR5VHdYV29uX0tqMlBJMTRKbmlLYW01N1dlaFV6TXJsSlJGRkpRbi1KeEh0bFlCcjZfNDNxMkpuc0FPYnhCaFV1cS1fd2JhMkR5M0txd0VPU2JvVGJSR3g2ZWZJYlhHdkdGUWJNTjEyWWFXeDY5cTFQYjhOWVFDaXcweklHUE9UMWw?oc=5",
-   "fecha": "Fri, 20 Nov 2026 08:18:19 GMT",
-   "fuente": "Radiocanal"
+   "titulo": "La lluvia y el granizo se hicieron sentir otra vez en San Luis; calles convertidas en ríos",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFNDRUktX01STnROcFZOWTF4YWNTX040VzBhYTFER3BtSjk3OUNXNmt6YTJJUTBnWnlORVZiakoyTjV3dVYyMGVNdjdmckNWSzNvNm5MOGhkckJVeFdabElOMTJJRHF1aVAxS2MtbllhT2ZLc0hUeFVRQ2w3cmV0bVBVckxXT3dSTVV5b2tZSU5YUGZ3QVRmTk5SS3ZLMS1UTFM4UTN5UkRJTU1CcW02VmtTU2N5MDVSVGsyU3ZWa3NjeTJqbGVsODBZOV9hczZmM2FfQmR6ZTB1dURSV2w2NmxncTdLUQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 01:11:55 GMT",
+   "fuente": "El Diario de la República"
   }
  ],
  "finanzas_argy": [
