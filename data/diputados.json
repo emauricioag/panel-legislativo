@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T16:58-03:00",
+ "actualizado": "2026-11-20T05:49-03:00",
  "desde": "2025-12-10",
  "sesiones": 21,
  "ultima_sesion": "2026-10-28",
@@ -1249,6 +1249,12 @@
    },
    "ultimos": [
     {
+     "expte": "19690",
+     "tipo": "Resolución",
+     "asunto": "Solicita al Superior Tribunal de Justicia aplique en carácter de urgente la ley 5893, con el objeto de proceder al remate judicial de los animales secuestrados y en custodia en la Sociedad Rural de La Cruz.",
+     "aprobado": false
+    },
+    {
      "expte": "20653",
      "tipo": "Ley",
      "asunto": "Declara Ciudadano Ilustre de la Provincia de Corrientes post mortem al profesor Dr. Mamerto Acuña.",
@@ -1264,12 +1270,6 @@
      "expte": "20651",
      "tipo": "Resolución",
      "asunto": "Solicita al Poder Ejecutivo un informe sobre las regalías de Salto Grande, su administración, distribución y efectiva utilización de dichos fondos en la provincia de Corrientes.",
-     "aprobado": false
-    },
-    {
-     "expte": "20650",
-     "tipo": "Resolución",
-     "asunto": "Solicita al Ministerio de Educación informe sobre el cierre de carreras del nivel superior del Instituto de Servicio Social y del Instituto Josefina Contte.",
      "aprobado": false
     }
    ]
