@@ -873,6 +873,12 @@
    "fuente": "Momarandu Corrientes"
   },
   {
+   "titulo": "Advierten por tormentas fuertes en Corrientes: hay alerta amarilla para este fin de semana",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNclVvb3k0M2RlbnVxV2dycFdael82ellVTUR2SHA1My1nVXZDU0JPX2JHNFBmbmt5SklXZEFxR3FTTjFUMG1CVGNMU2h3TmtzZGlRZlNLd2FTYjJyT2hjVWpXWkVxQ2pjS210OTdFTk9kcHdlSmN0THIxUElscThTekd6MV9YUWlpaERQbzYyRUZSaWJndXZ4ZE04NjNRWXRvYkx1ODdCX0Z1TVBrSWpjTlc5dzduVVh2dnZWTVUyZDFnZlR4bU9WanFSdTRGVDJ2UHpOMnJsV0MteUR3bXo0?oc=5",
+   "fecha": "Sat, 21 Nov 2026 17:48:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
    "titulo": "Tragedia en Corrientes: un muerto y dos heridos por un choque frontal entre un automóvil y un camión en la Ruta 12",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSzhvbm1Sb2x2YWRSVnZJdkh2R3poQVpMMzROcVk2QW5peXhJNmIxWUhRWWZYMWVnS0x5eHQzbm1YWXF1STlKbjFjTTVWS3ZxY2pza2R5d1VxbUdLN1R3a3pUbWxvVU1QZ0I3MUtOUGVkUE4zTFB4V1dEVDY4bHUzVU1QRHM3b1NYUXJocm9WalFybWU1V0VYWGs2QllCWW1NS2llRUpMcElJaEFTUlVvV1JWdmN6UXFYZnBiOHBwNUMzZHQ5TkRFZ1ZkTUZ0YlBCaFpPSjFKcHFMZC1ZQmVsT1B1ZUVvZWpTVVhYYlZ2emdFMkJrYV8tcjNBM1JtUdIBmAJBVV95cUxQTF8yNjYyalFzQzFPaGNoa1JoQ0R3SHBxSDU1a0hQSGppZUVoOEJCMXVDTUljWEhQNTFxLVE1WUJEc1ktVXFpVDB2QV9GcTVHR2NLVGtYU1dXT2hEOEdLSDdBTzh0VkxPdzBLTGI1N2dQMGZ1cktKUU44UGlXd296dngySGFfQjJpQjdkY3Y1WHBVSFY4cmVSX2UySW5mNHFPbHN1dVJWWU1FdUhPeW42S0pJbHVRM0JaOTh3ZGtCdjBfWDZWdHk1MHc0eEhFQi1pdmNUOEVTdnhYS3JZVi1UY2txb0w2UnlVZlhBU0t3ZzliVUJxNTkxTkxmODk5TG1rM1prYnd4MjdBZ0NNWDVqdHF0SmQwSFZR?oc=5",
    "fecha": "Sat, 21 Nov 2026 11:30:00 GMT",
@@ -883,12 +889,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVGFsQ19CclE5Mmp6enRrczdsZVZrcWxSZHlqYnRFQnRmTk1GTkY3QUR4NDFyUWY2eFVoZjNaUGVlTURONkd3a2pjR1lmQWItUnRoSkYzTE9yanFodkEzOUN3WlFrNDB0RnBWWVI3RFoyNExtRTlqWWZyMWloX044MTJyckowOUZOb3l1MnZOV2hvTTFXSHhSN2o0QkhLZFQ1bkplcU9TWElYUXR3ZFFJXzJrTzBuV0loaTZrbE4xaFhQTFY2ckZuc2d4OXNQQnRob25OSEE3YnVxdmtvN1p5OA?oc=5",
    "fecha": "Sat, 21 Nov 2026 16:20:46 GMT",
    "fuente": "El Diario de la Región"
-  },
-  {
-   "titulo": "Advierten por tormentas fuertes en Corrientes: hay alerta amarilla para este fin de semana",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNclVvb3k0M2RlbnVxV2dycFdael82ellVTUR2SHA1My1nVXZDU0JPX2JHNFBmbmt5SklXZEFxR3FTTjFUMG1CVGNMU2h3TmtzZGlRZlNLd2FTYjJyT2hjVWpXWkVxQ2pjS210OTdFTk9kcHdlSmN0THIxUElscThTekd6MV9YUWlpaERQbzYyRUZSaWJndXZ4ZE04NjNRWXRvYkx1ODdCX0Z1TVBrSWpjTlc5dzduVVh2dnZWTVUyZDFnZlR4bU9WanFSdTRGVDJ2UHpOMnJsV0MteUR3bXo0?oc=5",
-   "fecha": "Sat, 21 Nov 2026 17:48:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Retorno a los hogares: ya no hay evacuados en la Escuela 293",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-21T15:08-03:00",
+ "actualizado": "2026-11-21T15:34-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1273,14 +1273,14 @@
  "nacionales": [
   {
    "titulo": "La Cámpora y Kicillof cerraron un acuerdo en medio de la interna: Máximo Kirchner asumió al frente del Congreso del PJ bonaerense",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVkl2cW4tc3R5MkZrQnhjRFdBX3JLY1RtLW1aN1NKZFRfTENQZjJQYVBTdy1vSkJPektIU25VNlN5LVMzWkUySzRpVTNack02UDdVckU3djhoQnI5dDlyenZXOGZjSnJOemtMNlMwR3ZqRkFhcFVCbGdES2RDVXVtZEo1ZGJObUV3M0gtTDFGMUFyVGRMSzkwdVlnQVlHVkpxaE9aemJHOV9fQXI1NE9XQ3B6R1lCa3pJaWRmdzN1SFc5dFBiRWY5UlVHTzdHaXBTUVlkdVBYSlNOYWZLUzFzb19IM3U4ZzQwVDAxX1VfOFB2RWxRSmEwOS01ZnhuNjcwNTNV?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVkl2cW4tc3R5MkZrQnhjRFdBX3JLY1RtLW1aN1NKZFRfTENQZjJQYVBTdy1vSkJPektIU25VNlN5LVMzWkUySzRpVTNack02UDdVckU3djhoQnI5dDlyenZXOGZjSnJOemtMNlMwR3ZqRkFhcFVCbGdES2RDVXVtZEo1ZGJObUV3M0gtTDFGMUFyVGRMSzkwdVlnQVlHVkpxaE9aemJHOV9fQXI1NE9XQ3B6R1lCa3pJaWRmdzN1SFc5dFBiRWY5UlVHTzdHaXBTUVlkdVBYSlNOYWZLUzFzb19IM3U4ZzQwVDAxX1VfOFB2RWxRSmEwOS01ZnhuNjcwNTNV0gGeAkFVX3lxTE5FVEIzRFVHQ3daWXFVTklMaXFtTHdHT1Q5bDc3RGVfdXpUVDdNcjhuSzdpUElVeVFFRzI2U2ZicnlGdG5rbEJwenhqOUJEdlhvUXZrcHlqQjNwaWRZNTVTdDBJZFJMV3pnRk1sWWdhVU5FZGltanVDeGZCbktQcV9xX1JuQkhFckQ2WXNTejRjSzNjTzhiOVBsSkhORTNOSUZtN0FjME5MZlFyRUxTQWZ4Y1U4aDZ3VlRod0Y3TGNlSzNxOFNkMmlRWmt4RnFnczNNYmtzOGhlZ1cxcjl3VVd3aVRYdXZhMHl4LWpIZmdubGxLWktuS3VuM0xLV1EtV0wxZ00xXzZIcTFtdExyT2tJRTk5anN0b1d0VFA0OUE?oc=5",
    "fecha": "Sat, 21 Nov 2026 17:03:00 GMT",
    "fuente": "Infobae"
   },
   {
    "titulo": "Javier Milei, EN VIVO: el Gobierno confía en aprobar la suspensión de las PASO y últimas noticias este 21 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGdrN3E2aGpqQXNieE1VcnY5ZEE2R2Z0enlKTmROLTRRd0J3dWhWblNKdW5GUEdicFJpTHN1UTNYcnJ6UEJSaWVMem9PbzZHV2hSU1ZoQm1vNEFvQzZsVlVsaE5DNTdSZHBWdGNDR05vQ1pNbXhPZHpHb290MkF4YVNJWFkzZkc1REV4RFN6UmwyN0NIbHliVl9fTERZckVwYVkwZmhPZ19sNnpzbVVDR2MzMzV0b2RmdUZYZHllV0c4WVpfb0JjZWNuZ2UxcDlLRlNR?oc=5",
-   "fecha": "Sat, 21 Nov 2026 17:46:02 GMT",
+   "fecha": "Sat, 21 Nov 2026 18:10:42 GMT",
    "fuente": "Clarin.com"
   },
   {
@@ -1290,16 +1290,16 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Operativo centralidad: el despliegue de Javier y Karina Milei para recuperar la agenda tras la estadía de León XIV",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLVlfbmk0X25PRmZjWXlUUXZxd2tKUkJYNVJJeHRqMmhLbHBxWFlXRjIwN0x1VVZVZEJOYThhS3hHSmt1YUN3bXE4TFg3MXpOTnJHcHo2U2hNcGhLV3c1Q0d1TThjSTFVRkxySFMtMzdEQV9EVHZvUGk5aXlrYy1oR2RRcGJQaGM2cW1DeDdyd1FsQVFGbk1BQ0cwZGdOSWdoOHJ1ejJrUlZrbnFNVXhONFUtWm1VMWx4ZFhqSUxUcGhWOGp1OC1vYjVBRDd6em9CWk9kVdIB2gFBVV95cUxOajlYTkNhdU50V1l6UVlranFIcHJvbldFNmktUU9IX21BYW1DOGphbHNRSTNGM3NxV1RuZmxiTzdXc3VySG5UMTlYcUhRSE5oQW55TlFDSWxVN05jZU91TGpObUYyaDFzZEQyME9YTl85ck45VjZJX3dvbnRPWVJ0QTZIaFZkbEtNQmJFQ0ZJOWlIOGdUQ043dEVQR3A4TmFaMWFrSnhSRmduVTVLRldlcWxoYW1KbDZiaFZacVY1Z1VGNGpjVmx2YUNZSVVGQkRiNHp3VlV1UGY1QQ?oc=5",
-   "fecha": "Fri, 20 Nov 2026 14:03:00 GMT",
-   "fuente": "Ambito"
+   "titulo": "Los lugares que el Gobierno pactó con las provincias para 2027 y el pedido desesperado que asoma",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN2tnRXFFRDRNRm9EM1p0UGpnRWhZLWNnc1FGM0h0Skw1ZWQ2Nm8xQjFzWGxyVjZTMURBQ3RjTkJCT3FyNUJJcTJHVXpJRU5KSTVrTHQ4RjRpYlRUU3VuQ3ZpdDE4OWo2cERJX1phMHlkNlBZZkY4Uk05N3NZWWFxUzZ4dGJEVlViSDNiWkloMWZDZFpiV1VfRjRObVFhRFF2UUNwUTRlbjVYcXJzV01iekZPRmZKTDdOcml3T0tIVlFUOXoxa2dwMmltWHRMa2Q0U1NVRkhFYnnSAfMBQVVfeXFMTlRjZGdPRDF1MGE5UkVQZGRMcFlvYTlkQU85RUZCLXlfZnY0enltXzE1dEdkN01RbWdRc3Via3ZDajBzZ3FZXzZicnlVdTJDWkZYSmg2WDlfTFRhZ0tMV0syd2QybWNUazVQTjh4RWVKVFVYYm5fS3VBWmZ3TURjeE9Qeks2ekdDa00tUnlLT25OT0dnVEc0djd0RFpBRnB2cjZMUGg5d2xSV3JSOVV6NXk4YmoxRUN2WGF2NmdUZVdCWkx5SlJ1RjRyTXJ5QktPWWx0Ynd2ZU8yVHEyWm82R3ZkS2dQdE1qclRVMmxoaVB0eDlV?oc=5",
+   "fecha": "Fri, 20 Nov 2026 04:36:00 GMT",
+   "fuente": "Infobae"
   },
   {
-   "titulo": "Video: un hombre mató a tiros a un vecino en Santa Fe tras una discusión por el volumen de la música",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUFo4V0c0WkJaLTU4aTQ1eE9zZVJaM3c5V0JNb3N2dzFBUTg0UkR2VG4wa2V1OTB1NkxlMUdhdm5yZjk2MFpMZWQ0TlZDUVJZVWRmOU1HcnUwRVVWdzFXOGcyV0RUdnZDeFowdnYzWmhoelR1Y0toQTJDRTFFc0NncnJEdGI2SmFRNERiZ1hKamRfOC1Ib3JLQUtheGtzRXJzX1dnRG9PQllmZ2paTkIxSFRpcGZhaXVuaDMzQVp0MndUTzFQRnRQTVFnbUc0Tk1SVHJwdk1idUxvZGZoQWJBRzlxX1o?oc=5",
-   "fecha": "Sat, 21 Nov 2026 14:57:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Alerta amarilla por viento Zonda en San Juan: ráfagas de más de 65 km/h para este sábado",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUdHZU1oNk1SRl9WTERORFAxRUdxOGdHTDdsVjcxdFgzaDdJWWlWQ2J5em9WRXN6YU9SRXY4ZEh3TUgtTGVmSGtZM2E5cElkcFY1U0NIcWdmWml4Wm42UnRDdXFSLW5uZ0Fna3JPTXpYaFFTTlhJV1ZldDlKZTBfN2lJNVZrTUxCbEdvVmwxSzl1VzNRTEJ5MGZQMk9aZWNpQ0pkbXBBbUhoSXJrc0x2OHBiT3oybndpVWc?oc=5",
+   "fecha": "Sat, 21 Nov 2026 16:52:00 GMT",
+   "fuente": "Diario de Cuyo"
   },
   {
    "titulo": "Milei puso en marcha su estrategia electoral para evitar una interna con Bullrich y complicar los planes de Kicillof",
@@ -1308,10 +1308,16 @@
    "fuente": "TN"
   },
   {
-   "titulo": "Tres personas murieron calcinadas al chocar un auto y un colectivo en la autopista Panamericana",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOXd3RjJjNGhnV3RHSWZ2ekhWYWZVX18zbDY4MTl3R3VSdGxUbTBJWHFuNFd5RG5jaFdueHQ3RFR0UWNscDZBSlAzWjVSaVBtV1NqSUlfQXR1RE12c2JydjdWckdJeVVXRVZWZ0NpeEVwMUNzeTJjRWZwa28tY2J4cm1VSmlLc1o3Um4wQmpjenp2QTlKcTFubTdRbnIzMllkZ1BkQjR6ZEZVN2QwQTQxWS1CNFVwb3dQdjRwbU1GYjAxTGcwOVlkd1hyNG1sbm8td1ZXWkd5UdIB8gFBVV95cUxOODB6a1NLOUhnb1BCbzdNVUVocmlXNzJaeU40bHYtT291aUYwRUloY3FsZEw5MXpCejV5Uk5pVG9CaXRVTWRqYWs3aTMtZVY2dmRZZ0llT0JVWXhLT0wyNDhBamtEa0lTU3JVajVrM3BNZnkwaUNsSmJCSXV6MVVsVHZ5MUR6dzNZdFdwZFBldFVXN2VaM2JIRmE0ZkhWaDZ0SnQ3S0llNmlpMURySU1XVVRKOG1SWlBwQnJEYlRLU01CRkEyLUtvcHNkU19DUGlJWVdSQlRGRy1RYWdWbFRzeUpLNGdHY2FTeVNJWmlicFBDZw?oc=5",
-   "fecha": "Sat, 21 Nov 2026 13:44:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Relato salvaje: detuvieron a un hombre por el carnicero asesinado en Villa Guillermina",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWhWRTZESjhMSU5zWk52dVN5Skw1SHlna25zVVpxUklhMF9xYTc4UDdnb2drVEQ5WTZ2NVhCTDAxRFRqQml6WGhkcl9LbWQ5bnJpREplMVRqeHpxdjY0TW5DdHZwNF9mbmtHZElqRHF6SEtERlhnc0t6bXNDNXdKQncxcU9jNjdpUUhKU0VzekpQZmpGRlM4TFR6WmdicE1hZEVjTkN1MHNBcjZubWxJbHhuS21sQzRDZzFFUjhQQQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 22:54:03 GMT",
+   "fuente": "El Litoral"
+  },
+  {
+   "titulo": "Murieron tres personas por un brutal choque en Panamericana en el comienzo del fin de semana largo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkd1SVBIVGpwZU9FZFpza2I4dHZJRUVUM0JJYjNhbHFwQ3Q3N2k5ZFpEbmpUOW9vbFNjcjY0Z2Z1UkhiajNOMjIwWDR0MzFrUUJxY2FaUmJQR0VaLUVUSjhXQ3BTdkRSc1p1M0QwMkxVeWJjUFlqVnhkSWVZN09TRVkwWVNZQzFXb0NGYkt1cElic3pYanJfek1lMWZaOS1ocklpbWF4MklXME5neHF2Ulk0eXd1NUJiU0JmNWdSUWJFenNiamQ0QWJUZHA3TzFPZTFJMQ?oc=5",
+   "fecha": "Sat, 21 Nov 2026 13:29:24 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Rondas de inversiones: asociativismo como clave de éxito y gestiones en mira al crecimiento minero local",
@@ -1326,12 +1332,6 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Tiempo en Entre Ríos: alerta amarilla por tormentas este sábado y mejoras para el fin de semana largo",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZDhoeUpDamNCMGpOWHlGaXpFUnpCWDItaWFxb3dRM2dLeTdmMTBOQVBBRkU4UG1OWW1UMXlFWVZaUElvcVJIbldGal9jZXM1RHBEVDRvMnBHSzlEbjdCdVM5eDVZWmlzTmpzdFNKYWNZdkhIblVnVzg3UExYSERBeU05VHdkc2xfYWdIRnlDbUl1UGpOSkJsWGxEQ2gzazRUblJXdk9hZFN4X2NzT1RkT0Rhb3lXTlNka2gzQVJ4aTF4MHEtZ3VhUS1xTU1HNDkxS1HSAcsBQVVfeXFMTTNWakxDMjlGS0VNSkprZWo5Z3FwUVh6b3p3ZlVzNjQwQU56WWpUV0VOMElVR1pGOUpxeU5acGFQc2dVSmtIOXFyU19yZEJTZUhGRjJTV1hHdDV4Qjl5QWo3RlJiZnNpUG51VkdFaWtIckRRNnBmUVZlSGxMUG16c1A5b1RVcTJGMUdZS1F0WVloNzg1cGJCT2hONkMyWXFGZ0FJUUo1YzY5QW1SZHZJeTc4Mm5yTVhYa0xWUjY0UkdNRGh5enJTZHlMX1U?oc=5",
-   "fecha": "Sat, 21 Nov 2026 10:11:27 GMT",
-   "fuente": "Elonce.com"
-  },
-  {
    "titulo": "Bariloche ya vive el UTMB con miles de corredores y las primeras llegadas al Centro Cívico",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGxITGxMak45cW93X1lRc2lKdEtTVUVCZ3dZNmJFb1pZU284M1gyVHk2Z0lEcm1nUFZxcDc4QTBtbHhIX1R6Z2UxNGNiV25GcE00ZHd5a1ZNOS16R3BydEhqaXNqVC1TY0FaeWxXaXA1MHJKU2FIOHV3OG45NThzRmJZVVlMWDhFajRCazRnMmY4b3RZZTBjTUVLYU9KaW54ck94TEZfVWhfUWtBTERDbWd5Z3NJcWpwZTJxakdpZVJPS1ZvcVlCZDlzb1Iyci01ZGRfbzNzVlVGTVhTbkxCMDFoM1diZ9IB6wFBVV95cUxOb2JmTHdTcnVMMUlEU3NsYkFYdzhTUnlOQTlPdnJiaGczV0dxXzVBQzNMWTdtRE9LbUVYS3FrWFhNbTdaNlZrcXRINDAzcmwyQ2FtNGVQVTV0eXFNR0Z3UHpGSmxYcG85SzJUT25iX1FhSEVVSkpMN2xlZV9NMHk5MnV4dzQtZW9PUE1MT0NoX3cxYm1ZaklydlFXcFgtTkJlQkJtbjBHZ25ZVk9zRmx0SWUxT3FwT0xBR2FCTjgtSVgwSW1wTndnNkJhcTZ4cDUwZzdGaXhfMEJXTmRlaEZnbHMyeWZQRTh4emd3?oc=5",
    "fecha": "Fri, 20 Nov 2026 13:24:22 GMT",
@@ -1344,10 +1344,16 @@
    "fuente": "MDZ Online"
   },
   {
-   "titulo": "Explosión en Lanús: murieron otras dos personas y ya son cuatro las víctimas",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWRUTVNnREM5UnFIbzI4QlpzZTBKbmt3dmRVdHAtVk9wWHJ2emJLNkZfTmMwa0k2bDdLS2Noc21MOEttTk94TDFqYWNYMm1wTWx0MVN5ZUJyRVhmdDlFclp5OHRTbGxWTzRkR3M2LUltWjFrc3Fyek9rSkF5bHVfRGJXRmpOVVdyYzhzc29UdWhoNEJOWVI1d3ZzcjNVZU1BWkdIVVl1Ukp4SGFDUE5GekFUajHSAcgBQVVfeXFMUExkbDRIbDl4NkZsek90UFNwbXQ2UmdoTGVXU2ZsdnpFTnJUUl9CaDRFWFFCWGpOTEJSSGZfY25xTHRrZnk5ZTl5S3IydTZvSF9fa043NjdrS3FMb1E4endRWmxyNDVJdzRRN29jZUxFeGhqSV9uNmhuVi1qUE1VcldoM0NxaDQ1YVlWOTV1cno1UlRaR2lNZHpzQ3JUXzVPRWd2QzFzUnFhNFBIY2N4aEJlZmpJdjNYUzItSTdEMDZCdGNXc1dtUEU?oc=5",
-   "fecha": "Sat, 21 Nov 2026 13:07:58 GMT",
-   "fuente": "TN"
+   "titulo": "Explosión en Remedios de Escalada: confirmaron la muerte de otras dos personas",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMnBYeE1fMlNsdVkwQndNVWFCZ1ZVbWF0U0NKWFhoNGxRWXlGZ0J1X3dwb3p2Mm9zMGlHMFRUajVfSjZKTFM5cXpROHFZZWVXUHhnX0lvRGdKZlM1MEJDZVNuTFNzUXZWcHUtVTdsaURkbjdRWVhLdXh0TmV4SjVneERPSVBiQm9hcEJUREwtYnF5bGJUS052cm9iTVU2eURTNTBhNFZ3enZ4aDlZVzU5YWNiTGRrQWtv?oc=5",
+   "fecha": "Sat, 21 Nov 2026 14:04:20 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Tiempo en Entre Ríos: alerta amarilla por tormentas este sábado y mejoras para el fin de semana largo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZDhoeUpDamNCMGpOWHlGaXpFUnpCWDItaWFxb3dRM2dLeTdmMTBOQVBBRkU4UG1OWW1UMXlFWVZaUElvcVJIbldGal9jZXM1RHBEVDRvMnBHSzlEbjdCdVM5eDVZWmlzTmpzdFNKYWNZdkhIblVnVzg3UExYSERBeU05VHdkc2xfYWdIRnlDbUl1UGpOSkJsWGxEQ2gzazRUblJXdk9hZFN4X2NzT1RkT0Rhb3lXTlNka2gzQVJ4aTF4MHEtZ3VhUS1xTU1HNDkxS1HSAcsBQVVfeXFMTTNWakxDMjlGS0VNSkprZWo5Z3FwUVh6b3p3ZlVzNjQwQU56WWpUV0VOMElVR1pGOUpxeU5acGFQc2dVSmtIOXFyU19yZEJTZUhGRjJTV1hHdDV4Qjl5QWo3RlJiZnNpUG51VkdFaWtIckRRNnBmUVZlSGxMUG16c1A5b1RVcTJGMUdZS1F0WVloNzg1cGJCT2hONkMyWXFGZ0FJUUo1YzY5QW1SZHZJeTc4Mm5yTVhYa0xWUjY0UkdNRGh5enJTZHlMX1U?oc=5",
+   "fecha": "Sat, 21 Nov 2026 10:11:27 GMT",
+   "fuente": "Elonce.com"
   },
   {
    "titulo": "Fin de semana largo en San Luis: lluvias, tormentas y cambios de temperatura",
@@ -1360,12 +1366,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmZGbkZjRFdxZlBROEx5eXh5TFBoQU83bTB1bTlIOUFPeU10LU01SGNnVkU4c08zUEd0cW5BRTNzR2s0VEJ3bVJZVFExZWVySlYwLWtobXdCOTZjYmZjRzhLRXJnTklwcW9HaWM5ZjJfRktWQkpoQ0liQnhtYnFFVTRrU09aTWl6OFpRWkNBTUdwaTVpdjRpclBnbEdmV29ldDNvM1I5YVBDOXk3ZVVuMUdUSFJta3NJNkhqY0VxN1hTSkpXMHpqaXlVNVNuUWZqRExUOXo1ZkR4QQ?oc=5",
    "fecha": "Fri, 20 Nov 2026 10:15:00 GMT",
    "fuente": "Agrofy News"
-  },
-  {
-   "titulo": "Ante el freno de la actividad, el Gobierno descarta un cambio de rumbo, se ata a la ortodoxia y profundiza el ajuste",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVh1XzFTbUVpSWxMOXc4clhmQ0FRSHJjVkdFQUpmWk5RN1Rwci00ZmdsZWZRNkg2cXNsbWYzMzN2X3NQZ0VlVGtCYUl5S2tPdkJGck1mZ3lSSnkyVC16bU5qOEVHMkRlVU92NTRfZGU1eFdWYVdxUXR5Q0tKblc1N1RmQ2swRGE4dUx0LXFCQVpuTnFPWklmV0xyMExvRnc4cmM5N2xOVUtNR044eGstN01qRk9GRmpoektUcDNNR0hOMDU1YU16Y0FiLWdTR3dVbXRVMnhsb2xwbTdRelZKNmxTUnhGdk5WdDVaeDc1SDU?oc=5",
-   "fecha": "Sat, 21 Nov 2026 05:08:00 GMT",
-   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
