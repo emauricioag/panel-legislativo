@@ -867,16 +867,16 @@
  ],
  "noticias": [
   {
-   "titulo": "Corrientes: cómo estará el clima durante el fin de semana largo",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSE1TaW5CUm85TmwxZjZtSWYwbENISTRTUlA3SVFMUElYRHByQkVJY2l3d0YxTUFSRS1IRmhRaDVxS3IydWh1elJqMTN0MjB4ZzhySzlPWXhPd3E0NzR2eW9oaUJrbTlRUDNhdU1iRmt6V2gydnVJcVJKVDcwM1NBQXE5eDBUWUhhYmZqcTZaSURROGpDWWNqSU5mcVBOeWNYaEJWZEdqVXdZSWxiaWQyTTQ1bjB0NVZjOExjVHdn0gG-AUFVX3lxTE1ITVNpbkJSbzlObDFmNm1JZjBsQ0hJNFNSUDdJUUxQSVhEcHJCRUljaXd3RjFNQVJFLUhGaFFoNXFLcjJ1aHV6UmoxM3QyMHhnOHJLOU9ZeE93cTQ3NHZ5b2hpQmttOVFQM2F1TWJGa3pXaDJ2dUlxUkpUNzAzU0FBcTl4MFRZSGFiZmpxNlpJRFE4akNZY2pJTmZxUE55Y1hoQlZkR2pVd1lJbGJpZDJNNDVuMHQ1VmM4TGNUd2c?oc=5",
-   "fecha": "Sat, 21 Nov 2026 12:47:36 GMT",
-   "fuente": "Radio Sudamericana"
-  },
-  {
    "titulo": "Tragedia en Corrientes: un muerto y dos heridos por un choque frontal entre un automóvil y un camión en la Ruta 12",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSzhvbm1Sb2x2YWRSVnZJdkh2R3poQVpMMzROcVk2QW5peXhJNmIxWUhRWWZYMWVnS0x5eHQzbm1YWXF1STlKbjFjTTVWS3ZxY2pza2R5d1VxbUdLN1R3a3pUbWxvVU1QZ0I3MUtOUGVkUE4zTFB4V1dEVDY4bHUzVU1QRHM3b1NYUXJocm9WalFybWU1V0VYWGs2QllCWW1NS2llRUpMcElJaEFTUlVvV1JWdmN6UXFYZnBiOHBwNUMzZHQ5TkRFZ1ZkTUZ0YlBCaFpPSjFKcHFMZC1ZQmVsT1B1ZUVvZWpTVVhYYlZ2emdFMkJrYV8tcjNBM1JtUdIBmAJBVV95cUxQTF8yNjYyalFzQzFPaGNoa1JoQ0R3SHBxSDU1a0hQSGppZUVoOEJCMXVDTUljWEhQNTFxLVE1WUJEc1ktVXFpVDB2QV9GcTVHR2NLVGtYU1dXT2hEOEdLSDdBTzh0VkxPdzBLTGI1N2dQMGZ1cktKUU44UGlXd296dngySGFfQjJpQjdkY3Y1WHBVSFY4cmVSX2UySW5mNHFPbHN1dVJWWU1FdUhPeW42S0pJbHVRM0JaOTh3ZGtCdjBfWDZWdHk1MHc0eEhFQi1pdmNUOEVTdnhYS3JZVi1UY2txb0w2UnlVZlhBU0t3ZzliVUJxNTkxTkxmODk5TG1rM1prYnd4MjdBZ0NNWDVqdHF0SmQwSFZR?oc=5",
    "fecha": "Sat, 21 Nov 2026 11:30:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Corrientes: cómo estará el clima durante el fin de semana largo",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSE1TaW5CUm85TmwxZjZtSWYwbENISTRTUlA3SVFMUElYRHByQkVJY2l3d0YxTUFSRS1IRmhRaDVxS3IydWh1elJqMTN0MjB4ZzhySzlPWXhPd3E0NzR2eW9oaUJrbTlRUDNhdU1iRmt6V2gydnVJcVJKVDcwM1NBQXE5eDBUWUhhYmZqcTZaSURROGpDWWNqSU5mcVBOeWNYaEJWZEdqVXdZSWxiaWQyTTQ1bjB0NVZjOExjVHdn0gG-AUFVX3lxTE1ITVNpbkJSbzlObDFmNm1JZjBsQ0hJNFNSUDdJUUxQSVhEcHJCRUljaXd3RjFNQVJFLUhGaFFoNXFLcjJ1aHV6UmoxM3QyMHhnOHJLOU9ZeE93cTQ3NHZ5b2hpQmttOVFQM2F1TWJGa3pXaDJ2dUlxUkpUNzAzU0FBcTl4MFRZSGFiZmpxNlpJRFE4akNZY2pJTmZxUE55Y1hoQlZkR2pVd1lJbGJpZDJNNDVuMHQ1VmM4TGNUd2c?oc=5",
+   "fecha": "Sat, 21 Nov 2026 12:47:36 GMT",
+   "fuente": "Radio Sudamericana"
   },
   {
    "titulo": "Retorno a los hogares: ya no hay evacuados en la Escuela 293",
@@ -889,12 +889,6 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaHBTZnZQMVJkaERtZ2p0Nm50aEFsRmRPYlB5QXpDRmFiRFNoeTktbEtvd2xuaXJqeTd3QUo5aC1mLWd1cU9ib19uOVBlT1pJMmVlbktmdFlndy1qRENISEVrYWVwY3RvTWlXSHRJdGExTm9tazFHTVFsdkhqam4wSVoydlVIakRYNDEzMnVCZlBDU0p6Wk4yeDdMM3BudGRxcm1kTjRKYWpOalZzMEY1WF9JSVBUVk1oak9uRVZkci1SbEwyMkZrcFhsRnU5YVFLcHc?oc=5",
    "fecha": "Sat, 21 Nov 2026 11:52:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
-  },
-  {
-   "titulo": "Argentina Fashion Week Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52QzFTenBaUWMyMzgwV3psNXdTRjRQN3czbkpxbVB4ckRXX1VQZ3hnMmU3UVVuMEx5VGFvQ0s5YkRYN2E2d1Jocm9kNFh1WWY4amg5b2V6RUdjOGN4RlRseHFnZE55U2llUXdsWnB6alM2RjJ4SnJN?oc=5",
-   "fecha": "Sat, 21 Nov 2026 07:04:43 GMT",
-   "fuente": "Diario Norte"
   },
   {
    "titulo": "Corrientes Anime una nueva jornada e Cultura Pop",
@@ -915,16 +909,16 @@
    "fuente": "Diario Época Corrientes"
   },
   {
-   "titulo": "No quedan evacuados en la Escuela 293 de Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdno3c3E5WkV5aTdPWUdKRHhTTkhqUE9jb19KenBPOFdUVTJIcnR5QVdDekVKUzRHZ1ZCUTlDRFo0ZFVrcUZPZGtDYl9kMWgzRVdSZ2Z5TnBtUDdJUk9VSV9YOVNCY1pDSUNCUEl6NFIwT0hVcXF2czBBc204U29WN2E2enU0VEVsMnhNTDBIUWlJZUpxUzVXNDctRGpvUk91elh1c2xn?oc=5",
-   "fecha": "Sat, 21 Nov 2026 03:18:24 GMT",
-   "fuente": "Momarandu Corrientes"
-  },
-  {
    "titulo": "Inscripciones 2027 a los CDI: fechas, requisitos y paso a paso",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjFBdUpXRmlNQWVnTlcwSTkzWDQ0YVdLX3lSZ1NDemttMXJucE1VTmhhbTJZMUtJUU5mcWtEVWtMZk95YUFqZmMtWXRQV2Z1Q2lKdTNYTExfWlRNM241T3U4a3gyTVhQRS1QOU51QVJ0TDdsYmFKMjZseDdwMzBpdW1DekVsSGVaaWVKM3REV1luZ0xN?oc=5",
    "fecha": "Sat, 21 Nov 2026 13:23:34 GMT",
    "fuente": "Diario El Libertador de Corrientes"
+  },
+  {
+   "titulo": "No quedan evacuados en la Escuela 293 de Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdno3c3E5WkV5aTdPWUdKRHhTTkhqUE9jb19KenBPOFdUVTJIcnR5QVdDekVKUzRHZ1ZCUTlDRFo0ZFVrcUZPZGtDYl9kMWgzRVdSZ2Z5TnBtUDdJUk9VSV9YOVNCY1pDSUNCUEl6NFIwT0hVcXF2czBBc204U29WN2E2enU0VEVsMnhNTDBIUWlJZUpxUzVXNDctRGpvUk91elh1c2xn?oc=5",
+   "fecha": "Sat, 21 Nov 2026 03:18:24 GMT",
+   "fuente": "Momarandu Corrientes"
   },
   {
    "titulo": "CORRIENTES: Murió Un Hombre Tras Un Choque Entre Dos Camiones En La Ruta 119",
@@ -945,6 +939,12 @@
    "fuente": "Diario Época Corrientes"
   },
   {
+   "titulo": "Lanzan la cuarta edición del certamen nacional de fotografía",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmxhUEp0TTI5aHVJaTlyV1ljbFJ3QXdGdHU4MkNYazhVMFoxWl9lbDRqZEVTNGJvSVNzY3paQzlVZXg4QmdCWWJzai15NlNqS1didDFIOWVWUWNGSlhJOG8yNXFmVG1Fa1VZanFzdlRIUjRWOWNzMEFzZU9oeEFsSXBuNGhjaG1NWmJCZmk0TjlDeHpXOEliYU56dkZtVmx1YUFLS2pleTFhbU1jVndoWQ?oc=5",
+   "fecha": "Sat, 21 Nov 2026 13:21:20 GMT",
+   "fuente": "Cadena de Radios"
+  },
+  {
    "titulo": "Presentaron el libro \"Antología: Cuento con Derechos\", escrito por alumnos de 40 escuelas de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT0UyZkVyMUZwQmNRRUE3YW83cUVvbHRDalNZdW5XNVA5OU9ibmphNUJsNWdkRXphRWZSMm5qWTZwQnotbGluWFZYZURqQm1lZExxaDd4TUFMVHFERFR1ZXhtbHRRbGxJLTJrMHpfODZnNENQWFRjcWdVdlNuWTNXS0FNX01Dd2RKdXQ4d3dhdXRQOUpMUjdiOHNfX3JzRkNTWTRacnd0VEt0LWZzb3FPTDVOeHJfT0FOSG9VYXBRQzVZUURFM2FadkpKU1dVUy0wck9tNmk5czVVQlBVS1JNTUdrVTFPMW1pZklwSw?oc=5",
    "fecha": "Fri, 20 Nov 2026 19:45:00 GMT",
@@ -963,6 +963,12 @@
    "fuente": "Radio Bella Vista 92.1"
   },
   {
+   "titulo": "Diputados reconoció a Jaime Meza por su histórico premio nacional de Adepa con El Libertador",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdFhMck9GbUt2MTZFNjFCUy01V0VvR0JCbkdKMVIwbDVUcnVuZjNqejJfbFFHeGZLRjdTN0VmMUdFc1hJcHJCMXpPVDl4cGZqZDZWTHM2ck51Yi1FZVVYQjJ3aWlDY0p5UE9IdlZvTkY4S3ZrOHJVZHkyaWxENW1JcDNENlVaem5iV1A4?oc=5",
+   "fecha": "Sat, 21 Nov 2026 02:07:08 GMT",
+   "fuente": "Diario El Libertador de Corrientes"
+  },
+  {
    "titulo": "JP Valdés anunció inversiones en infraestructura cultural y deportiva",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGdHXzFWeF9FVUJsY0FUTS1QbHRZaVRmYjZBeFhlMDhXTlQ4aURnTG00TDZSWk90d0V6WE1LY0hrOHhEVjB1OEhkN0tGUUNOUFZ6dGc0aGtnRVE1RWR4VFNSaHNPNEdZLW03cEpUQUhSNWl3N2VzWVZIV1ZpWmhMMTgwc25VVDRNalNSSDlwU3l0UzdWUUpJdTcwN3NyYkVRLTFKNkl4WHA?oc=5",
    "fecha": "Sat, 21 Nov 2026 03:02:50 GMT",
@@ -979,12 +985,6 @@
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEZpV3hQMHBOektnaktlS0FjVTBDazJxT3VLb2M4TXRhYzIyZmNBU3N3YkFyb0xrTS1zSnNaOXZaa1BqY2VCMnd1UEQzUmpsX2dBc3NfT0V2ZGxEdmxYTGdFdUNuZHROQW9TbEFnQ2EzZ2VPb0k1dUtXZzduZXRBbDhCX2NiMndXU3hXZFM2VXpHWGs1NGpRTmU0WFlfWjJKdi1hUEFwNGhCTXNVdzdFTW40WGhkNDhPVlpHVzdzUmJKOXZyaWFSSUFCTmp2Zw?oc=5",
    "fecha": "Thu, 19 Nov 2026 14:36:50 GMT",
    "fuente": "Corrientes al Día"
-  },
-  {
-   "titulo": "Juan Pablo Valdés confirmó créditos, alivio fiscal y obras para Paso de la Patria",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2RNYlNFMllWbWE2c1lRdzA0N0dkRDE0YWxha1JaU1NPb0h3RHRMa0xJaFFhcVBpbXNlclA5eTN1Z0Y4Nkd2M0IwdzU3d0prZWlCNkNYeV94QlYxUWJnN1JsVzVlcmZjZ3NkTXZIM3Jhc3hlRExETl9SWmQwTUg4ZmlVRFRUWmJWRVlhOEszeGdLTkxVWjk2NXhoekFDZE1GaGMzTkE0WUpSTkFmZ0ZGb3JmcWd1c25fSnFGZl9CYktxVmhXQ1ZFTW1JZlJlSUZqMDZCQW9n?oc=5",
-   "fecha": "Thu, 19 Nov 2026 19:26:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
   }
  ],
  "expedientes": {
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-21T10:44-03:00",
+ "actualizado": "2026-11-21T11:11-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1310,14 +1310,14 @@
   {
    "titulo": "Chocaron dos autos y un colectivo en Panamericana en el comienzo del fin de semana largo: tres muertos",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMDdjNU01WmdsejZYeGxCekhwNERHU1YwVXBnWjNiWWxERm45WnF0aGdOQWhyVnhod1I0M0s3azdoY3lPaVdJR1pLNlF0STFEMU1RZ1RQelBLVDNSUHNvS1picVhBTjN6dXJXRVZYRmRLLXVjbmc2SmhhWjBaLUlCSVlmeHBSV09mSGhZNVozUFpFYnY1TkZ4b1hDR0QzWUFXT1dQZFo1VlhZSWJJLUFWODM5V1dPVFVpLWlEbU1HQnpON3M5blBlMXJHSzN4ZXhsR051RFdHM0JTb1E?oc=5",
-   "fecha": "Sat, 21 Nov 2026 12:48:00 GMT",
+   "fecha": "Sat, 21 Nov 2026 13:32:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Rondas de inversiones: asociativismo como clave de éxito y gestiones en mira al crecimiento minero local",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1pEdFhnMDl0QjRWeTI2b1JiaXRiWUpRWm5jNTNWeGU2Tm9MbHo1NTQwMEVBS0g0QTFxYkhaSy1naXZqRGtGQ005UnNpZHVJa2pPMEYxTTBCT19RSWFzejBVTTdOMXpEYjJkYkJVMlNrQlRWMFktU3N5aEJRN0UtQ1NyeGUxaFZiakx1RkdRLTBBaHc5MUhSMnN6WkRPekFVVG9fUTZsOUJfU0V3dlgzTk1mSjMwODZ6c2hUZjNwbmVOS0tSTlptVWxmM2JHYTVmRnhGWEpWNTBXaFpC?oc=5",
-   "fecha": "Thu, 19 Nov 2026 21:04:00 GMT",
-   "fuente": "Diario de Cuyo"
+   "titulo": "Bariloche ya vive el UTMB con miles de corredores y las primeras llegadas al Centro Cívico",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGxITGxMak45cW93X1lRc2lKdEtTVUVCZ3dZNmJFb1pZU284M1gyVHk2Z0lEcm1nUFZxcDc4QTBtbHhIX1R6Z2UxNGNiV25GcE00ZHd5a1ZNOS16R3BydEhqaXNqVC1TY0FaeWxXaXA1MHJKU2FIOHV3OG45NThzRmJZVVlMWDhFajRCazRnMmY4b3RZZTBjTUVLYU9KaW54ck94TEZfVWhfUWtBTERDbWd5Z3NJcWpwZTJxakdpZVJPS1ZvcVlCZDlzb1Iyci01ZGRfbzNzVlVGTVhTbkxCMDFoM1diZ9IB6wFBVV95cUxOb2JmTHdTcnVMMUlEU3NsYkFYdzhTUnlOQTlPdnJiaGczV0dxXzVBQzNMWTdtRE9LbUVYS3FrWFhNbTdaNlZrcXRINDAzcmwyQ2FtNGVQVTV0eXFNR0Z3UHpGSmxYcG85SzJUT25iX1FhSEVVSkpMN2xlZV9NMHk5MnV4dzQtZW9PUE1MT0NoX3cxYm1ZaklydlFXcFgtTkJlQkJtbjBHZ25ZVk9zRmx0SWUxT3FwT0xBR2FCTjgtSVgwSW1wTndnNkJhcTZ4cDUwZzdGaXhfMEJXTmRlaEZnbHMyeWZQRTh4emd3?oc=5",
+   "fecha": "Fri, 20 Nov 2026 13:24:22 GMT",
+   "fuente": "Diario El Cordillerano"
   },
   {
    "titulo": "Todas las fotos de un after especial: política, negocios y minería en Mendoza",
@@ -1326,10 +1326,10 @@
    "fuente": "MDZ Online"
   },
   {
-   "titulo": "Bariloche ya vive el UTMB con miles de corredores y las primeras llegadas al Centro Cívico",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGxITGxMak45cW93X1lRc2lKdEtTVUVCZ3dZNmJFb1pZU284M1gyVHk2Z0lEcm1nUFZxcDc4QTBtbHhIX1R6Z2UxNGNiV25GcE00ZHd5a1ZNOS16R3BydEhqaXNqVC1TY0FaeWxXaXA1MHJKU2FIOHV3OG45NThzRmJZVVlMWDhFajRCazRnMmY4b3RZZTBjTUVLYU9KaW54ck94TEZfVWhfUWtBTERDbWd5Z3NJcWpwZTJxakdpZVJPS1ZvcVlCZDlzb1Iyci01ZGRfbzNzVlVGTVhTbkxCMDFoM1diZ9IB6wFBVV95cUxOb2JmTHdTcnVMMUlEU3NsYkFYdzhTUnlOQTlPdnJiaGczV0dxXzVBQzNMWTdtRE9LbUVYS3FrWFhNbTdaNlZrcXRINDAzcmwyQ2FtNGVQVTV0eXFNR0Z3UHpGSmxYcG85SzJUT25iX1FhSEVVSkpMN2xlZV9NMHk5MnV4dzQtZW9PUE1MT0NoX3cxYm1ZaklydlFXcFgtTkJlQkJtbjBHZ25ZVk9zRmx0SWUxT3FwT0xBR2FCTjgtSVgwSW1wTndnNkJhcTZ4cDUwZzdGaXhfMEJXTmRlaEZnbHMyeWZQRTh4emd3?oc=5",
-   "fecha": "Fri, 20 Nov 2026 13:24:22 GMT",
-   "fuente": "Diario El Cordillerano"
+   "titulo": "Rondas de inversiones: asociativismo como clave de éxito y gestiones en mira al crecimiento minero local",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1pEdFhnMDl0QjRWeTI2b1JiaXRiWUpRWm5jNTNWeGU2Tm9MbHo1NTQwMEVBS0g0QTFxYkhaSy1naXZqRGtGQ005UnNpZHVJa2pPMEYxTTBCT19RSWFzejBVTTdOMXpEYjJkYkJVMlNrQlRWMFktU3N5aEJRN0UtQ1NyeGUxaFZiakx1RkdRLTBBaHc5MUhSMnN6WkRPekFVVG9fUTZsOUJfU0V3dlgzTk1mSjMwODZ6c2hUZjNwbmVOS0tSTlptVWxmM2JHYTVmRnhGWEpWNTBXaFpC?oc=5",
+   "fecha": "Thu, 19 Nov 2026 21:04:00 GMT",
+   "fuente": "Diario de Cuyo"
   },
   {
    "titulo": "Tiempo en Entre Ríos: alerta amarilla por tormentas este sábado y mejoras para el fin de semana largo",
@@ -1344,10 +1344,10 @@
    "fuente": "Radiofonica 100.7"
   },
   {
-   "titulo": "Alerta amarilla por tormentas en Salta: posible caída de granizo",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTG41eTM3VXo5YW5vR051YmVWd0hiVFBmWjFaa0xqRTRmdWVEbDdQT3AzYTdRN3ZBRVBkb2NMTWl6WEFPZXlIeVVJZzdxNWFXY0t2U2tuQnEyQ1pyYUVTRlozQnRnVklycV9KLXM2QmhER0NTSC1zZlh5SDYzb1lWRXB6akF3XzZLTVNlQU1WS0IzZ3ptLU5jS3h1ZEdlMmtnczhaV2RPWUNMeTJpd0JCWnc2WdIBuAFBVV95cUxQT1pXMkMxX2hNcE50eFB3clA4MW0zUTZYMlNtU1FqaVlfclRUNktRMEJkc3lqUnJmcnhfODdUWUgwekVFREc3dkl4SzNIZV8wY2hfU3c0cVpRMmZrTXphT0hGUjR5RUhoOHFPT25XUUxNelRNTm5jT1BnZDF2Znp1Q3VtWGZqMnpKZEkzOTE4MW1vWV9nNXU1Q284UktSN3ZyTFdLWjl0QUxPcXpnU0U4dWMzYUxnWG9R?oc=5",
-   "fecha": "Fri, 20 Nov 2026 12:32:00 GMT",
-   "fuente": "El Tribuno"
+   "titulo": "La lluvia y el granizo se hicieron sentir otra vez en San Luis; calles convertidas en ríos",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFNDRUktX01STnROcFZOWTF4YWNTX040VzBhYTFER3BtSjk3OUNXNmt6YTJJUTBnWnlORVZiakoyTjV3dVYyMGVNdjdmckNWSzNvNm5MOGhkckJVeFdabElOMTJJRHF1aVAxS2MtbllhT2ZLc0hUeFVRQ2w3cmV0bVBVckxXT3dSTVV5b2tZSU5YUGZ3QVRmTk5SS3ZLMS1UTFM4UTN5UkRJTU1CcW02VmtTU2N5MDVSVGsyU3ZWa3NjeTJqbGVsODBZOV9hczZmM2FfQmR6ZTB1dURSV2w2NmxncTdLUQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 01:20:20 GMT",
+   "fuente": "El Diario de la República"
   },
   {
    "titulo": "Crecida del río Paraná en Santa Fe: cuántos evacuados hay y cuál es la altura en el puerto",
@@ -1356,16 +1356,16 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "18° Fiesta del Chivito: cuánto sale comer chivo y qué otras opciones podés encontrar",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTXJHWGtxbE1tZ3NmeWh0ZGhSdjMzS2RoZHM5MmpQa3hTX2JNbDF3QUJqTW5LOEhiRVFSNUFmb3hsQUVpdTRWTVJ1dlN2NVh2NXpaMXc2eE1GYko2d2Z5Zi03aGZmX3BhejdidHd3ZWdBT3BxOW9VZk9GdzRpbXZnd2RWcDRGXzlSZjNmTnNydVc3WFY3UmFUd1NVclpBWUdtU2ZicEdjX0FMV3JFRmZORVBnSU1xVVN5bGNCRHZkU05YM0nSAcgBQVVfeXFMUHRET3RaZXpKVldKS3lncndtRkFKWmNwZlVmMkN3QXIySUcwYnhiVl9VaGVlMm5FY1ZubHNCZzhvSUR4QXNUVEZodDVzTER5NjlBMWhMV2FnOGtnVk1QVDNZWmZQSHFEcTcxTlpxNXBzMG5aSnBkT2h3NlhCY2xObEp1WnNIbDNmQzJ1Rm9UbEdSMGVsX3VUUUV6SkNudjhVYWp3MjlhYjVyd1VQLWJUQ3ZOSUs4aW9tREg5RUVOOTIyY25yejM3Sy0?oc=5",
-   "fecha": "Fri, 20 Nov 2026 23:36:00 GMT",
-   "fuente": "Lmneuquen.com"
+   "titulo": "Esperaban cosechar 60 quintales de trigo, pero el granizo borró los lotes: el temporal golpeó 90.000 hectáreas de la zona núcleo",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmZGbkZjRFdxZlBROEx5eXh5TFBoQU83bTB1bTlIOUFPeU10LU01SGNnVkU4c08zUEd0cW5BRTNzR2s0VEJ3bVJZVFExZWVySlYwLWtobXdCOTZjYmZjRzhLRXJnTklwcW9HaWM5ZjJfRktWQkpoQ0liQnhtYnFFVTRrU09aTWl6OFpRWkNBTUdwaTVpdjRpclBnbEdmV29ldDNvM1I5YVBDOXk3ZVVuMUdUSFJta3NJNkhqY0VxN1hTSkpXMHpqaXlVNVNuUWZqRExUOXo1ZkR4QQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 10:15:00 GMT",
+   "fuente": "Agrofy News"
   },
   {
-   "titulo": "La lluvia y el granizo se hicieron sentir otra vez en San Luis; calles convertidas en ríos",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRFNDRUktX01STnROcFZOWTF4YWNTX040VzBhYTFER3BtSjk3OUNXNmt6YTJJUTBnWnlORVZiakoyTjV3dVYyMGVNdjdmckNWSzNvNm5MOGhkckJVeFdabElOMTJJRHF1aVAxS2MtbllhT2ZLc0hUeFVRQ2w3cmV0bVBVckxXT3dSTVV5b2tZSU5YUGZ3QVRmTk5SS3ZLMS1UTFM4UTN5UkRJTU1CcW02VmtTU2N5MDVSVGsyU3ZWa3NjeTJqbGVsODBZOV9hczZmM2FfQmR6ZTB1dURSV2w2NmxncTdLUQ?oc=5",
-   "fecha": "Fri, 20 Nov 2026 01:20:20 GMT",
-   "fuente": "El Diario de la República"
+   "titulo": "Alerta amarilla por tormentas en Salta: posible caída de granizo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTG41eTM3VXo5YW5vR051YmVWd0hiVFBmWjFaa0xqRTRmdWVEbDdQT3AzYTdRN3ZBRVBkb2NMTWl6WEFPZXlIeVVJZzdxNWFXY0t2U2tuQnEyQ1pyYUVTRlozQnRnVklycV9KLXM2QmhER0NTSC1zZlh5SDYzb1lWRXB6akF3XzZLTVNlQU1WS0IzZ3ptLU5jS3h1ZEdlMmtnczhaV2RPWUNMeTJpd0JCWnc2WdIBuAFBVV95cUxQT1pXMkMxX2hNcE50eFB3clA4MW0zUTZYMlNtU1FqaVlfclRUNktRMEJkc3lqUnJmcnhfODdUWUgwekVFREc3dkl4SzNIZV8wY2hfU3c0cVpRMmZrTXphT0hGUjR5RUhoOHFPT25XUUxNelRNTm5jT1BnZDF2Znp1Q3VtWGZqMnpKZEkzOTE4MW1vWV9nNXU1Q284UktSN3ZyTFdLWjl0QUxPcXpnU0U4dWMzYUxnWG9R?oc=5",
+   "fecha": "Fri, 20 Nov 2026 12:32:00 GMT",
+   "fuente": "El Tribuno"
   }
  ],
  "finanzas_argy": [
