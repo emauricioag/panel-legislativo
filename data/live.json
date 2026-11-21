@@ -891,16 +891,16 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Conmoción en Corrientes: murió una nena que andaba en bicicleta tras ser atropellada por un camión",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUpMT19MbTFjWC0ydnIyYjJkaFdmRTB3WlJ5T3hhSHY1bUhkQV9pZk9UZ3pfLXBfdTNXbU5nVi1oWWtqc0V5Qnc3TXotRVBuVEhES2xPd1RPTGM0bzNkVWJWTE00anpFcUVmWm9Md1ZSMU9QVThWSlJ3T0FIR0dNMWhRWHFpUVpza2lwWV9YbjZTNVFuMXVxc0l4ODA0dmVfUzVxTjFpWEpSWGxBbEl6Z21sVFdYdGUzbFVrX2VtMWRucF9BZmJGY3ZvckIteGZsOUE?oc=5",
-   "fecha": "Fri, 20 Nov 2026 22:55:53 GMT",
-   "fuente": "La 100"
-  },
-  {
    "titulo": "Corrientes bajo alerta amarilla y naranja por tormentas severas",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlljSnRJMzkwZDN6NW1wbXFZc0htR0dtYTNlcVpTQkk0dXU4Y2V5OW1ETFlsYXlRY2VrMzhwQkRRWlJBdF9UNjJaV05lV1IzT2lfZ1J5M1BhMGRYNnp4c29nNC01Uk1BeUdQZFJ4VlhsTTh4NHN5bEItU3BfUUFWVVFBSENYSXhidTlocWtVa042cFdBZ09hRExtN2pic3ZqclUwZ09KNm1qV01GNVYwZHk0UVlsZkEwYVlRbw?oc=5",
    "fecha": "Fri, 20 Nov 2026 15:08:24 GMT",
    "fuente": "Identidad Correntina"
+  },
+  {
+   "titulo": "Conmoción en Corrientes: murió una nena que andaba en bicicleta tras ser atropellada por un camión",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUpMT19MbTFjWC0ydnIyYjJkaFdmRTB3WlJ5T3hhSHY1bUhkQV9pZk9UZ3pfLXBfdTNXbU5nVi1oWWtqc0V5Qnc3TXotRVBuVEhES2xPd1RPTGM0bzNkVWJWTE00anpFcUVmWm9Md1ZSMU9QVThWSlJ3T0FIR0dNMWhRWHFpUVpza2lwWV9YbjZTNVFuMXVxc0l4ODA0dmVfUzVxTjFpWEpSWGxBbEl6Z21sVFdYdGUzbFVrX2VtMWRucF9BZmJGY3ZvckIteGZsOUE?oc=5",
+   "fecha": "Fri, 20 Nov 2026 22:55:53 GMT",
+   "fuente": "La 100"
   },
   {
    "titulo": "En una medida inédita, la ATM bajará el IPA en 2027 y lanza un perdón fiscal para “repatriar” autos registrados en Corrientes",
@@ -921,12 +921,6 @@
    "fuente": "VirasoroVirtual"
   },
   {
-   "titulo": "Paro provincial: ATE llevó a cabo una Jornada de lucha para reclamar urgente mejora salarial",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BTWFhMnd2RlpBdkVUWGRxUFpaMUh4WFpUTWoyZjJqYUhtY3F5MEdTVGwtZzJPVUxoSFgyUXh3SVhPOGFRaHpRaXhOSzRMdTFZczctTA?oc=5",
-   "fecha": "Fri, 20 Nov 2026 15:05:37 GMT",
-   "fuente": "ATE"
-  },
-  {
    "titulo": "Corrientes invita a fotógrafos de todo el país a retratar el Iberá en un nuevo certamen",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkhoSG9obGM2SDluUVJSOVF0VFJTSElwV1puXy1uNHBTaEtkVEJ6YmM4bTBnUjRvR2NvdkU5OS1tbVFiNXp3U2MxTlNTaHU5ZkhNT3NSajJ0cXl0OEpHNDVIOFNRRG1SNXFXZDFHdWtEb0F6OVgwdlZvS3JmM0RQcENoTUtfUDlDUTNDSzJIQzM3MHd5ejU3d0pXNUlHOVhaU2FxeDR4aWI2QktIdWtHaEpjdUtmUW85M2FUa2VLZzNuNmZpaWhnbndJNEh0bXJETEc1eUZnNnIzeE5yOEljTEt0dnVma3JEOGtYNWFGMURBUWc?oc=5",
    "fecha": "Fri, 20 Nov 2026 16:03:22 GMT",
@@ -939,16 +933,22 @@
    "fuente": "La Red Corrientes"
   },
   {
-   "titulo": "Tras persecución, secuestraron dos camionetas cargadas de cigarrillos ilegales en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb0ZVTFVFU1BxY2l2VTA0c3hIWmUxS3lRR3VOLWlocHJBWV83Y2puU21ha1RjM2dGWWdCUGNUNHNVaGdsR2t1WU1TdUs1TWJsNUw0M2hyUFoydXVNNlhtcWdyQ2xtQWtDVHdYUXNnN0c1Sl9aamJmcFd2QVdXZElDNUc4V2dpNjdMaVliMTdkdzhsOEpBaFlFYnZ5SkhXMUFkS05lcUQxcFhDQWc3aFlTOTdxWXVueEloTkJMTDZsSDl5VnZsUlJCbUduYWM?oc=5",
-   "fecha": "Fri, 20 Nov 2026 22:18:34 GMT",
-   "fuente": "Corrientes al Día"
+   "titulo": "El Tren Solidario viajará a Chaco y Corrientes para asistir a los damnificados por las inundaciones",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZGg3b0w1TFh4TGk2UGpRZkhqcXNPQVFQQS1WRW1SWXo2LWl4UDZHSGxSSlp1R2VWMVhMZkJ6TUZsUTB3Qy1lb0xpZWtxbS1VcWtIVmF2Q3BGLXBBSDQxNm1xREw4YVM5TjNGckFSMUNuemlIdFhHekx6M1loV29OUWxwTFlwUkhicFNtRFQyNzFOTEhXUmpqZlJtX1hTU2ltRTlDNTVGdnFjYW5tb19nZjI4QzRvaDNOeXoxaHdjSG4yWU9FTG9NT1ItQzJrRkJQbTdPZW0zdw?oc=5",
+   "fecha": "Fri, 20 Nov 2026 15:09:57 GMT",
+   "fuente": "www.libertaddigital.com.ar"
   },
   {
    "titulo": "Alerta naranja por tormentas para este viernes 20 de noviembre en la ciudad de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObzJSaXM4YzZxTXhiMTBUODRvcHU1dXo4d3hqVUxxa2ZpeXJzY3BEdnVOTHp3S0JHQ2l2TWN6RnpqRVh2a3BoeXdLX3FPR1ZEdG9wb1M3TnhBTlJMWjNJelpUOUwzSnJTT1FxY3JJYl9HaUlzT0hfOF81LXFMYndrMWZDcWJORjZHLTdhaENEYVJYQ2FFZVVPZGdRVjY4UFBoRDZPMjhHeWFBUUlnWUNHbmptaUxqaHlRNXA4V1E4bEdPZHU1aEJEbWF0NkFld9IB4gFBVV95cUxOOE5MRW5LOV9mOWlwakRJUkc3U2xfb0k1RjJILWhRR2w1Y21qQUFFQWx6X3ZLTTZZU0pRcVZVc3BoTHVtdHFvUjhkSzlLdEdrdkRqZkZIZVBVWlBvTndhbkNHS2paLXpVSlFtZ3drbFhVTjI0LV9PWC1XU0JKNVVCRGZodE8wbFd1ZXVtYkFzSk1DUTMzYjFuajNsbWhaMF9OWEliX3Nna3pfRDFaX1JneC1ST2ZlWEw0dkFQcUtLZ0w1a0o0ZWFQeXhCU1dVWXB3aXdHNGRTR3U1VFpqWmJlaUdR?oc=5",
    "fecha": "Fri, 20 Nov 2026 12:00:39 GMT",
    "fuente": "TN"
+  },
+  {
+   "titulo": "Tras persecución, secuestraron dos camionetas cargadas de cigarrillos ilegales en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb0ZVTFVFU1BxY2l2VTA0c3hIWmUxS3lRR3VOLWlocHJBWV83Y2puU21ha1RjM2dGWWdCUGNUNHNVaGdsR2t1WU1TdUs1TWJsNUw0M2hyUFoydXVNNlhtcWdyQ2xtQWtDVHdYUXNnN0c1Sl9aamJmcFd2QVdXZElDNUc4V2dpNjdMaVliMTdkdzhsOEpBaFlFYnZ5SkhXMUFkS05lcUQxcFhDQWc3aFlTOTdxWXVueEloTkJMTDZsSDl5VnZsUlJCbUduYWM?oc=5",
+   "fecha": "Fri, 20 Nov 2026 22:18:34 GMT",
+   "fuente": "Corrientes al Día"
   },
   {
    "titulo": "Corrientes: una niña de 11 años murió tras ser embestida por un camión",
@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-20T21:52-03:00",
+ "actualizado": "2026-11-20T22:19-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "La CGT hará un paro de dos horas en diciembre en protesta contra el Gobierno de Milei",
+    "link": "https://derechadiario.com.ar/politica/cgt-hara-paro-dos-horas-en-diciembre-en-protesta-gobierno-milei",
+    "fecha": "Sat, 21 Nov 2026 01:12:46 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Elon Musk sorprendió a Milei con una videollamada durante el lanzamiento de Tesla en Argentina",
     "link": "https://derechadiario.com.ar/politica/elon-musk-sorprendio-milei-videollamada-lanzamiento-tesla-en-argentina",
@@ -1261,12 +1267,6 @@
     "link": "https://derechadiario.com.ar/economia/gobierno-milei-propuso-eliminar-impuesto-sellos-compensar-provincias-que-adhieran",
     "fecha": "Fri, 20 Nov 2026 21:42:46 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Riesgo Kuka: Máximo Kirchner amenazó con \"armar quilombo\" contra el RIGI si gana el peronismo",
-    "link": "https://derechadiario.com.ar/economia/riesgo-kuka-maximo-kirchner-amenazo-armar-quilombo-rigi-gana-peronismo",
-    "fecha": "Fri, 20 Nov 2026 20:54:05 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -1290,28 +1290,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Cuatro gobernadores debatieron federalismo y dejaron definiciones sobre las PASO, Milei y la interna peronista",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNjV2UktTYkV4QVlKUmhIS1p6UUpNeTc5Y2I4NG1RZl9mTWRTdWJaZEQtZkd3MkQwc3VEZnllYnhvM1ZkWXpaNHZKWEYtR0VBalhjUnVYT0ljeW4zTktjMi1MbTh2U183My0tNjdHaFVQQWJLMS1MU3dTVlo3VHBtcUhWS3hBWWpKNWVsM25BdWVWWUxPNm8tVTlvWjIxTDFxenpnZkFnSEpIZWRuUnZxWFFubzFyZTFRREwxTGVVcjY5WllNMkpQaWJERlRvd25WLU9zT3NRZFVGdlEtal9vMXRVSnhmdlVkZnfSAYQCQVVfeXFMT0xrT3NjZmZ3aGJFMk4yUjc0WUI4bFg2V1BsY1J1Uy1ySDlsMXRjSEhBSnBLQnNiNi1aN1d6em1aelBoTm5BdGREZUs4c1Z2UlBUdFdidlRiaGcwNTFqTkUyaWJFZDlxMG5yeHpfTTBuODhDRkNOZTFuYzRENHpwZzdpQTExcXRGcF9nd19JTGtSWHZvMnpBWkpkUDFETGNYMk5CYm42Ym9rWXFRQjBfVG52c200RXI2N2h1MzBDVHBIOFNObTJCcURjSDZBU0hPbkpLWFZWLXEyZ3RKOG1fVWZQWWh6SzhBYXhaSWl6QmVpc0wwN3hoLThPcDZVVlM1U0RUSl8?oc=5",
-   "fecha": "Fri, 20 Nov 2026 16:17:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Javier Milei y sus medidas, en vivo: “Los responsables van a ser juzgados”, dijo el Presidente sobre el atentado a la AMIA",
+   "titulo": "Javier Milei y sus medidas, en vivo: “Nos cerramos al mundo y vimos pasar el progreso desde afuera”, dijo el Presidente en el lanzamiento de Tesla",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTmoxRlhxa0huTEkxWWpobE1aQjRSalhXR0FGa3FGZGdWRGQ2ZGFFUUdrcUJHamFJSHM0MlMtMjAwOEpDOTZqYXpGTU1VQXE1UTdyelBqbGtyVk5GajNWOUdoWFQxTVRoWnJ0cTNSNVVaME5zMGZabk5kaXVILXNFZmNTWWtsbjl3akVydWdFQ1FzQWNWa3pOSDVCb0REUGU3S3hfdEVyTUl2TGw1Z2VyWUZxV29xckZacGl2bl9aaHdrUVVkcUlmYktoV2pfRmd2UXlFcDdHTURFVW4xYUE1OA?oc=5",
-   "fecha": "Fri, 20 Nov 2026 22:14:00 GMT",
+   "fecha": "Fri, 20 Nov 2026 22:45:00 GMT",
    "fuente": "La Nación"
-  },
-  {
-   "titulo": "Habló Fernando Burlando tras la condena a Pity Álvarez por matar a un vecino: “Estaba en su sano juicio y asesinó”",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTN6SElUZUQ4RnRIZHF0U1phWk53d3dIVm45eENEaHEtYjVpeWQzV0NTUWRUWGE4cGZweXZHeTNMLV9RNXZ5eGZ1cDFKQkRfZms3N29OT21LbzdlWWZhZkpINmJXR0oxMlJkbWg4dElReF91M0kzLXg2ajhnMTdLRS1RVEZEMXJpTzdlWm5zU0Y0TUVnWU5yY1hRYnlOYmZGajJYbU5FQVZpb2ZmUnVsUHQ5MFI4TnhrTkhRYUxjd092M0haNkZzZ2ZJTllXdzVfOVFhc1ZyaXJmS01iX3ZMSTh5Q0tiQjTSAfsBQVVfeXFMTkoyeGFJWEZvSndqa0lrbzMzN29CaHJ5YUF3dnVJSWhsQ2F5anR6R1hyc0lEVktPY0k3VFRLSkdwci1SN2J4dDJ6T244OU1mcjhERW5qU0FOMVk0OTh5a2NwU25QRWtaa3ZnVGVUcjRfWnNKdVR0cjJCNm9qTnY0Tjc0THJzeE1Pa3FSWEdoS2xmcEhPMUZUNEpwZ3lhZ21kc0R3a29jeGR3OG9YME11b3JTdGsyaGR0QzZsajMzUjFNbmFYdWZxRGpzRzRnOGNGN0NpN290SVZ1WEZXUFcyenFPby1lUDBXM1UyNUo5OV9kQVFfOGRwZkFOanc?oc=5",
-   "fecha": "Fri, 20 Nov 2026 17:58:13 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "La Justicia realizó cuatro allanamientos simultáneos en bancos en busca de información sobre las operaciones de Ariel Vallejo, el financista ligado a Chiqui Tapia",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQODRXZDgwdm80bHRqbEV1bkJ5Y0hiazB3bUNaMXVjQ1l3M21Uc2xoOW1EWkUzRmdIVkEtT1FtS3BTWFhPU0s1aXVCelNlZ0NGZWRfSmpYXzB4WkVEd1ROTHo3U0VJMTR5d1pndkVnbERSOE55NG5ELXhYZkZac2ZxNWFWLTdSVjl1WjloNk54V2phbEU4WXd2cDVRMFJMaXBESDdjcTdaSUUwOFhPUVVGWTZ0NGlEZXlLeW8xeGJGQUJJMlNpZUtTWFZ0XzlXclpMSkJKZ3dodlpmMm44ZW9QVWpDNnFlX1BIanprcHZ0VmNEbDdpbnFV0gGLAkFVX3lxTE02VVdWczZpWGgxSERBb1A3N0tSUjZhbUQ5cjdPYWtyOVlDa2FtM011UTJaZl9hdEp4bGRPbGl5bGJ1WkZHY3BUMjB5a05GYlNsc2ZQUHNQWlA0VUtkYzFlWmRUZDI2NGp3UVZxZjFEeG0zWGY4cVhueWJPWHRKM0dDc2l1SGpISTJKeHg4QnpDRC1jMTF6OGlTN0pzNjdCd3FYejdEaFcwRU5tYnJyQXRPRlk1RlR1YW1jTW9ESXU5VlpCSDVCUHlNVmtBZU1vZkFMaDhQMXVSeGV1U0t2dUUwalpHelFsNGdlWVBlR05Gb1FsNThyU1JMRFRpcUJDRFJ3dUxnUDdjbmp0SQ?oc=5",
-   "fecha": "Fri, 20 Nov 2026 22:33:07 GMT",
-   "fuente": "TN"
   },
   {
    "titulo": "Cómo comprar y pagar en la Fiesta Nacional del Sol: todas las opciones habilitadas en el predio",
@@ -1320,40 +1302,34 @@
    "fuente": "Si San Juan"
   },
   {
-   "titulo": "El juez Rafecas toma la causa de la mansión de Pilar y avanzará en la investigación, aunque su pliego ya entró al Senado",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHYtM2ljaTE1eHlSSVNIdEtpSVRuMHdlR2Q1UFlRY1lMcHNvQ1htWm5sV1ZBSVV3YUFncjNIMndEYWt1cDc1TVBpdlM4X0FtdDFRdFBLQkVsYkNad2FfYTNZUE9wN0JadW1YR0lNa0lHVHFZYjFzcXpRcUJuN044aDFOaGVNV2NsUy1mTUxualI4cmEyV1lUelhvX01wSU9LYUMyWklfR012UklucU12VEVpVkQyeWpuU201aEJITlZMSnY5Umc?oc=5",
-   "fecha": "Fri, 20 Nov 2026 13:25:42 GMT",
+   "titulo": "El “Pity” Álvarez fue condenado a 12 años de prisión por el homicidio de Cristian Díaz",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWlsaW5tR29ZcDR5bldWMFJRYVgtR29Nd2d2V1lmVlNITndzSWtFOEVwd0dOMTUzQ1NmUnZvQy1PYi1wU080dHo4U2NPSlhuZkNKa2lveFdRclA1T0NJM3h2M1UzZjhNS3EyMzRWWmQ0OHZXTnQzTk5jUW5xYXYtSDhWNElJNGphejVFbXlhbkEzNmRMQ1NsQTQxeVpjdnd1aWgtM0tpOA?oc=5",
+   "fecha": "Fri, 20 Nov 2026 12:45:13 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Mientras el Gobierno festeja la ley de patentes, los laboratorios alertan por una fuerte suba de medicamentos",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY3FMaHM3Y1h0azlXcUdkNHczeVpFRkpldlpsSXBMYVZCRU1iN2E2ZUtrMlpib3R6U3AzNVYxM1N4TlFVMzZvSTZ6OXdOMjZjelFfQ1RkNXNhd1ozVE9iVmQ1N1JpUU85YlpEWjhJeGZlUHp0X3hxc2ItZzl5eVJNNzd0cGdqbWZWUWsyVUdhRWZhYlRObmg2UHZyVERzSDRTUUxISlc4T3l1UlRwcFlhRjY4R2wyMmtmRHJ4ajR2RFFCMGlYWHkxbVZVNlRHZUxRVXlUaVRqbnpCby1LMThqclZ3?oc=5",
+   "fecha": "Fri, 20 Nov 2026 21:30:29 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Super Niño en Argentina, EN VIVO: el río Paraná sigue creciendo, está en niveles críticos y pronostican más tormentas",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPODVmbFRnbnVDUlBKYzJ1UXl6UHN6T3Zrc29ubV9yRmlVZ2thLUNFN2d5dkh3RXIyV0hVaElXNnRnUjh4Uk9aeHB5T1poeEhEUGdKcEFSaG95MjZXdUo1S01xM2Vxa2VEQTcxRDBtMVI2STlzQmN6TS01QVFSM2gzUmw0eGFOeGZMRmVhczVQQlZlODY5bXAxd2dMUkF5R0lza0J6c25fRFRZZk1Jd1QxMHY0bEQ4eGphczF5TDRUOTV1a2FpVDM1RHB2RGg4eWE4UG5NWFpCQWs?oc=5",
+   "fecha": "Sat, 21 Nov 2026 00:09:06 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "El Niño: las fuertes lluvias en el sur de Brasil anticipan un nuevo pico de crecida desde el sábado",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd0FFZHFQRV96UGtDcEVXYU5tWjgwS2FjMkg2RUlxZmM0SkgwcTkwX1k4X1ZORGRzcllQbklBZ2pMZXhsbkpfWGJGbklFQjhGU2J2UzFWQzhsb1A3ajRDMG5ZbVU5UG4tckxpMTA1TzAyaEhCbTJ4M2lOVkV3V050QUxzWERUUFQ5NF8xV0U5Z3BtSDQ0Rld0UTdUQlJKMHZpb3hGLW1SZ3h4aXFwRWlwWWVNaURIY2E5dTZPLXowb1BsU1lFTUIwRVNXeUJ6Uzk1MWtncFU1YURxRXfSAfYBQVVfeXFMUFZzMFZDV0Z1cFJhSmhsckhMa25FdHd2OG9QYkhCYVY1emE0Ujg2Z0R1aFlCQXhVMFNSQkFsOWZ0QVFVeFRtWnZWYVpMVUNXV29jaE9rYWlfSXN1dGNDM2E4alNONEdIaFNYWFdyZG9TMERIa0U3aTMyQS1Odk5NSGZFR2F0VXZhSXluM0gtcGU2ckd6TEtIRHBiTXZaR2xOa1RqYTNod2Jvb3BIZWo2cGNRaXFUNW80YVNZMzkyRF9rTW1zSHpmM05kT05lM1F5X2xOdXdsNml1Q29hTW9sdnl5SE42UWM5THQ3TlAzTnRubjVxTVZR?oc=5",
-   "fecha": "Fri, 20 Nov 2026 15:51:00 GMT",
+   "titulo": "Con anuncios en infraestructura, empleo y educación, comenzó la 2° Cumbre de Minería Sostenible en Mendoza",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONXRPd3V2M3RjWldEa3B5a0t0eVc5aVhReWpwRVNuY2RsazBXaDlYR2FnZ2YzSE5RbU9GcnFXMXhya2ZTZlRPejlSMmdkelFVTXpsbmxwVE5BdlIyNkw2cFBJaFRHNk9WOERybkd4Vzk2TjJ5ZlZoY19UOTk5eWVQQ09lc2l6YUYtUVJPQ1NjX0VVb2FGTVQ4d2UwMzJSRmFUZy1saS1aR3VGMXVIUWlRNGU5c2tiMXBNVlBxQUNMeE9lNDJNMTNmS2laYVQtMlU5eGNsVGN5eHlOSFVfS0NRYlRJc9IB_gFBVV95cUxQT0hPMjljYU1zZTJORWwtaTBFVHNiX1pLdHc4MmdVWDhSXy1mVVF6eU5OcEhLZEFMQUNhUnc1c0N6TUJsZHRUbHJNcVVVZE9zNXdTODFoZzVuMlRuNnhuMXlvTE1VNXVkMUdfZEU0a1dxLWI5VTY5VnZIU1NmRHQwRFM1bFAtaUFaTEowcVVsZmc4UGpvdmx4SnBfYU93RlFLRE1rZ1Nkd0pLMGtnYkREUEdaZjFpaHhzWkdWOXFKWEd6TU51ZVpMMnBoZ2dQRi0wRVFUalA0TlFLX1FVLXNPUkR0VmZSb3Vuc3phdWN1Mm9KTzVPY3BPMUVKQWl6dw?oc=5",
+   "fecha": "Thu, 19 Nov 2026 17:57:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "Demanda de la Iglesia. Al filo del plazo, la oposición forzó el tratamiento de la ley de ludopatía en el Senado",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUdDbGtma3JXNmpqYzdDZ1EwVzh5alVQcVp3dnI4dnhMbG9VR1ptWFc5ZGRwWGZTbEc5SVZkbGpJQ0hRZXlxYXBORWpfQmE5QjNyYWxqaHJUUGJqVE5WbUR3bGo5MGx4SXgxdkoxV01lNnAyOUI3ZWJXTndkbnBKUk50N1FoSUVMSnpxVUY4dW1od1RhTW1EajVDSlc0WFVfaVJPblRiYUdpUmF1N3NXQg?oc=5",
-   "fecha": "Thu, 19 Nov 2026 17:42:41 GMT",
+   "titulo": "Temporal en el sur de Córdoba: granizo, calles anegadas, evacuados, clases suspendidas y más de 100 milímetros de lluvia",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0lnV0FGZkpXREIwUFJSOGZUTm1xMjVfakVIN29SaE1lZVJRRXZPWUFET2J2ekVobndacjhJb1ZQRUpGTnh6clplcENIakdwLXN2OGlaOXNDbTBUb090Mkl3RmRCdkx2bkV2dVZKWXVJMk5zNFRUQmlzdWhZOHY1NlVLdHRHaEdxdEFTbzVxemh0ckhveWNyZUFDdVY4c0N0S2lLOUh0M1JQdjNuV05Na2s4aUo3UE9idDBCcWV1bUZwZGhqRzBoeUVXNU5CN01MWlJPN01PSVJXTmNGRzdBOG93?oc=5",
+   "fecha": "Fri, 20 Nov 2026 12:19:08 GMT",
    "fuente": "La Voz del Interior"
-  },
-  {
-   "titulo": "Lo que no se vio de la cumbre minera: ausencias, demoras y una reunión clave",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX25lX3NNVVZMNkctT1JCQXZGTXFXYzN6WmpLQXJES0JqaExMT0V4UWNodDdhWUs3eHZrM2VGekszaU9jdWgxR01Zd01DeDNlOVBnaG9zTEhIZ3hwTU1Wc2t3Y3Y1Z3FGSFBqRllSMWotbDFnbDA0cExKbXBud1JDYjBZUF9vS1BYZ2VoZ19QRnlEQUp6TDl5OW9WcmJDbWZfelo0ZUdWN0tudUNN?oc=5",
-   "fecha": "Thu, 19 Nov 2026 19:00:00 GMT",
-   "fuente": "Diario El Sol Mendoza"
-  },
-  {
-   "titulo": "Desalojos exprés: qué cambia para inquilinos y propietarios la nueva ley de Propiedad Privada",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0NHcUFhMnZ6eVRCeWt3eXd0dm1VTzd4ZmZ0bUhYTmFaYmtSMlJMbnU5Y29FYXphVl9xaUZ4R0l6VUh4MW1VUmduQVRfdmx4X1dCLUxJazctNkdFRU5pcUhnVXB4emFTMlZmYklxX3dkeXo2YlhPRVJ4NEV0RDlYQTFtX2t1UmNUUVZXaXFaVTJuV1JHNlRyblY4aHlabVlHazlfNFktclhCVUc5c1JZN0p4aUJiN3dOQUlFYmwxUzRmWFFPaEtz0gHMAUFVX3lxTE92TlU5Mm44ekowdUVnNjVXUm1WMnFsZmExZmdIQ1UxVjd3RXZ0Y19tUmRqV2MtbG5xQnVuQXlqdWRpVUdFMk94ck0ybXJTQld0Y0FvdE5fM0VzcEVYWF9wd081SnF3X0NMZ2FrSzZXUFo3S0U2bTFXU0x6alhZOTF2NjFLSVYtbnlNQ3BsZ1dKRUJSOVJkUzl2YXl6dmVlenBPU1JmWkpINnJweHVHdVBabEJsWUp5UmlzVFZOR283Xzh0empGaVkyRG5ldw?oc=5",
-   "fecha": "Fri, 20 Nov 2026 17:57:00 GMT",
-   "fuente": "Ambito"
-  },
-  {
-   "titulo": "Fuerte tormenta en Córdoba: ráfagas de 90 km/h, lluvias de más de 110 milímetros, evacuados y cortes de luz",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZHJ6YnNaeHBjVXRXa2swa0ZWNUo0dG1QYlA2dXVuOWpyRUtzX201cHdTSXhrZkNodkxucHZxWFlUSkpZZkVwb3o5U2pjLVZ0cFlwaFhWbm5GaWhrTF9XS0dVeHhJbDdZQ3VSZ3p1SGgxTzNydnNSWXhuNnZYRnIzLVV1U0MwT2o4cHpPVU1mU2prbmwtZS0tSEF4aE5wVE9RRnpOaENMUl95NDZaQW9sSjNaWGlYenRtT19nSmlRRGtNcmsweGk0RU13aXJNVVItd1d5THlMUDhvVk0?oc=5",
-   "fecha": "Fri, 20 Nov 2026 14:43:03 GMT",
-   "fuente": "Página|12"
   },
   {
    "titulo": "Bariloche ya vive el UTMB con miles de corredores y las primeras llegadas al Centro Cívico",
@@ -1362,10 +1338,34 @@
    "fuente": "Diario El Cordillerano"
   },
   {
-   "titulo": "Murió Noemí Geminiani, legisladora porteña y dirigente sindical del SUTERH",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczdETng5c1RYTEhQdG92YUZLd1hQOFRaMDRIR0IxRUh3N3hSVmZ6YnVFTk1SaVBFUzFXRDNEN1pGakxCdjdaQ05aZDFBbHZKVmJGaTJXZERrM2N3cE9hWVcwaDZMSWhZLTNwZ1htRnNZbXhOSjVGY29TcnZoY2FMNXVMZ0J2b3pNZ1VzVzc3TVlmd2tXcU5jQ0lsMTNlYVFjckJKZVNRZmp3bk1xVG10VFRTWQ?oc=5",
-   "fecha": "Fri, 20 Nov 2026 19:50:52 GMT",
-   "fuente": "Página|12"
+   "titulo": "Renovaron la alerta por tormentas para gran parte de Entre Ríos: cuándo llegarán las lluvias",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNC1nS2lOdWh0REpsc1hmN2JhVjBFSS00TjNjeFZTZHdweEx4NUY5Y1VhYUVhWWtIYjFKN3hiVHR4LThsaFFFQjhCRXBEVU9waElJd0JTQnBwVEhITF9FNXVqM1pPY1g5dFV2NjU2eU0taWlYVDZfYjQtaHRGQ1lLLVlhUHJiaVNIdWtFQTN3Z00tOF9md3dYZzdWZXhSTWMxazRNU0dLQ051a0ZRTS15TjdHV3V2VEdMUkdta25FZHpwcE5lMkHSAb8BQVVfeXFMTXdzUW1lbzJpWWVFejNXS0FTT1ZFcTh1Z3dJN1FKeGNCTEtkYzJlTzdmenN4NzBKd2ZfRWZWeGtETlZjZE9ZeURqNzNBRGhMLWRYZFI4LUJYeGJlMl9fNUNFNmgtODJnWWRWUHQweTFNaXZZR3FHeDloMWtnVzdPc3dUYlM4aTVwdkduTkczSDhtN3o0NjBXWV9UZnNaMjFKTTRDNXdQZG8wNmlOeVM5WUhPcWJwVDNkUGVDN2QtblE?oc=5",
+   "fecha": "Fri, 20 Nov 2026 21:25:33 GMT",
+   "fuente": "Elonce.com"
+  },
+  {
+   "titulo": "Atención vecinos de Reconquista y Avellaneda: te contamos aquí, cómo será el servicio de recolección de residuos el lunes 23 de noviembre",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS3VNZ0dQdWN6MEVIQjNDT19zeG1KVUZUTW9qVHJKdUhHS3VjOUdXajRHWWl2Z1FhV3RWcy1NVEJNUHR6dy1hYzM2TUFGbm0xNkppLWI4ZURoOVpqMHF3dmp1TkpNS0tXN05oMTFIVmkteHFrU2VCdDhJd0stYnBCYW1VajBXMzdlRmlDWDJ0Nld4cjhqU0ppLUtOTWVDdGt5Z2taNTlvdUpfaVRjaTdyNlVJWlVQLTdFRnBFaHNwcVJnc2RzVVdwOGpwQU8zQ2dHX2tpR29UaTkyNWVxMmFRXzFPai01by01SENVem1SZnI4TVJITURieTJuNGpJZWlXTmc?oc=5",
+   "fecha": "Fri, 20 Nov 2026 11:56:41 GMT",
+   "fuente": "ReconquistaHOY"
+  },
+  {
+   "titulo": "FNS FORUM: proveedores mineros marcaron la agenda, apoyo al asociativismo y fuerte presencia de empresas nacionales",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYkxwQ2pzWXJCQkNCVUs1Y24xeEFxY3oyTWlmSmtvaGc1emVrdlBWQTlMcmlUa25ZY09TNXpWQ1VuX1NyRFN3czB3OFVpN04zYmdKNTQyV0hQQ1g1dzRpb0Y3c3picU9wNS13SHJoa0tqenFfWU1ZSHlneF9ZNGVGalE5aFhTbXcyRHZCeGNia19JWTVpeTh3OVVJdHNPTnZSSmF0Wm9SSWxidERwSkhHbEUwWFZwUlNQbTQ4eDRfMUtwSEhfLWdta0VhRzlyZG5SMlNKeUo0emFtWFZrNnNWUGtoNURMQjNsSzdpRVJjUmpRUHltSkE?oc=5",
+   "fecha": "Thu, 19 Nov 2026 17:33:00 GMT",
+   "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "Cuatro gobernadores debatieron federalismo y dejaron definiciones sobre las PASO, Milei y la interna peronista",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNjV2UktTYkV4QVlKUmhIS1p6UUpNeTc5Y2I4NG1RZl9mTWRTdWJaZEQtZkd3MkQwc3VEZnllYnhvM1ZkWXpaNHZKWEYtR0VBalhjUnVYT0ljeW4zTktjMi1MbTh2U183My0tNjdHaFVQQWJLMS1MU3dTVlo3VHBtcUhWS3hBWWpKNWVsM25BdWVWWUxPNm8tVTlvWjIxTDFxenpnZkFnSEpIZWRuUnZxWFFubzFyZTFRREwxTGVVcjY5WllNMkpQaWJERlRvd25WLU9zT3NRZFVGdlEtal9vMXRVSnhmdlVkZnfSAYQCQVVfeXFMT0xrT3NjZmZ3aGJFMk4yUjc0WUI4bFg2V1BsY1J1Uy1ySDlsMXRjSEhBSnBLQnNiNi1aN1d6em1aelBoTm5BdGREZUs4c1Z2UlBUdFdidlRiaGcwNTFqTkUyaWJFZDlxMG5yeHpfTTBuODhDRkNOZTFuYzRENHpwZzdpQTExcXRGcF9nd19JTGtSWHZvMnpBWkpkUDFETGNYMk5CYm42Ym9rWXFRQjBfVG52c200RXI2N2h1MzBDVHBIOFNObTJCcURjSDZBU0hPbkpLWFZWLXEyZ3RKOG1fVWZQWWh6SzhBYXhaSWl6QmVpc0wwN3hoLThPcDZVVlM1U0RUSl8?oc=5",
+   "fecha": "Fri, 20 Nov 2026 16:17:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Antonio Aracre explicó su frase sobre la clase media y el aire acondicionado que generó polémica",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWGR0NnRGeXZCUDZ5S1hfMjB0eTBrVWtzaTZuM0F6c0FXTTZMSjVDWWZOb3c4VTRWSVlPck1qYWNqRFJtaVdoM1pNM21JT3AyRG96bUstUGlQaTRZZURlZ3dfOGYtMngzQUJGb1dXaWl2T3FWOG9aUms1cFJTMjBUbnB4SnRhcDBDaGN6LVlvX2F2MDFsRmgzSUlFdTI5eUZoT2VNaVhaUzZTYkxTMjVGZzNvVUtISlNoS0MzRi1LNVlJRC1GWm9PdUN3TW44OTdCTl9ycFByN24ybXdHNzlBWFdHQ3RJWWEyLXlUUlo3NC1jVWJZazJ2cWpsVDZEeTVIbUkyZjdWWdIBogJBVV95cUxOOHRfQm0zTlVUOUV1YWpYd21mWjFpM3Qyakw3azBnZzVHcTVVeG13cVdGckZ1REhkUFNjbWUtdFBWR0duMllwbkNucG5wQm9qdWJfOFNrU1hjZWczeGFnTEhoY2JaamxpRVo2aG1UOHptZDJsUFd4QmJBV3Nid3gzVmJBZDBoN25nTkppVjg5RXBXX25LNVU2dHc0SmJXWk41UThsY1V0STN5aklKUTBlLXlnYWtzVWkxVG1vbUZXcktWY3BFbEJaWWdOZTJPV2NEWGNST0wyR1JHakVCNHdzb0xRQ2gwa2JONWNoTHpkemd2c1MwLVZsNllHd2lFYzkyUDdrYzNJcWdNcno2TGdvR3ZjbnplOVUzaXNzWEhXYXdxUQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 22:36:00 GMT",
+   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
