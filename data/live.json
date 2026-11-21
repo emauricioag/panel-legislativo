@@ -879,6 +879,18 @@
    "fuente": "Infobae"
   },
   {
+   "titulo": "Corrientes se prepara para la Marcha del Orgullo con la consigna “Desde el norte y con furia”",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVGFsQ19CclE5Mmp6enRrczdsZVZrcWxSZHlqYnRFQnRmTk1GTkY3QUR4NDFyUWY2eFVoZjNaUGVlTURONkd3a2pjR1lmQWItUnRoSkYzTE9yanFodkEzOUN3WlFrNDB0RnBWWVI3RFoyNExtRTlqWWZyMWloX044MTJyckowOUZOb3l1MnZOV2hvTTFXSHhSN2o0QkhLZFQ1bkplcU9TWElYUXR3ZFFJXzJrTzBuV0loaTZrbE4xaFhQTFY2ckZuc2d4OXNQQnRob25OSEE3YnVxdmtvN1p5OA?oc=5",
+   "fecha": "Sat, 21 Nov 2026 16:20:46 GMT",
+   "fuente": "El Diario de la Región"
+  },
+  {
+   "titulo": "Proyectan una nueva crecida de los ríos en Corrientes: cómo serán los niveles en diciembre",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM3ltbGtCY2d3TjBmcGxRUENJMkVYazZvNkxXdHI4cHdXbURfUzh1NkFwWjZVSHlNR01ocnFUTEN1cnVhOE5HVmktclNOdzFzRGgxU3dlSWVEZWFHdGtZQUtETjl0MlBFaEtsSkpXaEttQXpHaUZ6Vm8zcTZORE81eFZJdE9KU3BlYndNVUpESnFpTEtzTGotdDFwejVLb1BiUkc5WEF0R1NzYVN3aTRCMy1LRXFCVV9pc0JiUGVoZ3JueGV0ZWptRDZxRWdCSjZ1d1ZuRWdyY0ZHN1U4dnU0?oc=5",
+   "fecha": "Sat, 21 Nov 2026 17:29:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
    "titulo": "Retorno a los hogares: ya no hay evacuados en la Escuela 293",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVgwVWNIbkxMRDZIVy1rUlQweE1EZXNHREwybTFUbU1VZGs5RjJNdjluaURGanhVYmhROGp2QXRIMDNsbklmMzgwQ1NzNldCTnpvdzFSMDE1RUZ3b0xCeExFQUdURFl1YmdQMzU1TG83WFlpNkpfODd0WWxZN3RMSG9sZWtBMFcyMkQwQnBFMGNoWkFSLXAyN3RQck1uT25zT1BBLTlR?oc=5",
    "fecha": "Sat, 21 Nov 2026 12:53:33 GMT",
@@ -943,18 +955,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdno3c3E5WkV5aTdPWUdKRHhTTkhqUE9jb19KenBPOFdUVTJIcnR5QVdDekVKUzRHZ1ZCUTlDRFo0ZFVrcUZPZGtDYl9kMWgzRVdSZ2Z5TnBtUDdJUk9VSV9YOVNCY1pDSUNCUEl6NFIwT0hVcXF2czBBc204U29WN2E2enU0VEVsMnhNTDBIUWlJZUpxUzVXNDctRGpvUk91elh1c2xn?oc=5",
    "fecha": "Sat, 21 Nov 2026 03:18:24 GMT",
    "fuente": "Momarandu Corrientes"
-  },
-  {
-   "titulo": "educa emprende 2026",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VakptVFhzeDBiUHZKYmo1TXM0SkNjWldXOV8taGZTSTJ3UENSTnozaE1jYmNFYWluM0M0OWxtSi1uMHIxZVdReUFDazdpeHdFR3hRMm9DenV2RUhLVXc3Q0lZdUo?oc=5",
-   "fecha": "Sat, 21 Nov 2026 11:16:12 GMT",
-   "fuente": "Diario Época Corrientes"
-  },
-  {
-   "titulo": "Qué hacer el fin de semana largo en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWI4aTJlb0hLQlRZSHlHS3ZfNl9vQ1ZNLTZPYnpKZGVhWWI5dFlpcmxyMm41T0VvZ085RVk2MFN6UkdpbXJHLXVRbnZ3V3k4bEwtSW9nVkpkNE9WTVdjbjNyang5Zm9RdVVoQWlMYmR6LWN4eWVJRTRPeXNNLUk2T1JadmRDcC1mWnUxcjhOVTg?oc=5",
-   "fecha": "Sat, 21 Nov 2026 15:21:03 GMT",
-   "fuente": "Corrientes al Día"
   },
   {
    "titulo": "Corrientes: Diputados dio media sanción al proyecto que prohíbe celulares en las cárceles",
@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-21T14:15-03:00",
+ "actualizado": "2026-11-21T14:42-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El consumo masivo creció fuerte en octubre, con una suba del 6,2% respecto a septiembre",
+    "link": "https://derechadiario.com.ar/economia/consumo-masivo-crecio-fuerte-en-octubre-suba-6-2-respecto-septiembre",
+    "fecha": "Sat, 21 Nov 2026 17:25:21 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Escándalo en la UBA: la Facultad de Ciencias Sociales homenajeará al terrorista Mario Roberto Santucho con una escultura",
     "link": "https://derechadiario.com.ar/politica/escandalo-en-uba-facultad-ciencias-sociales-homenajeara-terrorista-mario-roberto-santucho-escultura",
@@ -1261,12 +1267,6 @@
     "link": "https://derechadiario.com.ar/economia/harbour-energy-aleja-proyecto-sea-lion-refuerza-apuesta-por-vaca-muerta",
     "fecha": "Fri, 20 Nov 2026 22:43:07 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "La Justicia avanza con el desalojo de una organización mapuche en Neuquén tras 15 años de usurpación",
-    "link": "https://derechadiario.com.ar/politica/justicia-avanza-desalojo-organizacion-mapuche-en-neuquen-tras-15-anos-usurpacion",
-    "fecha": "Fri, 20 Nov 2026 21:56:27 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -1274,8 +1274,14 @@
   {
    "titulo": "Javier Milei, EN VIVO: el Gobierno confía en aprobar la suspensión de las PASO y últimas noticias este 21 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGdrN3E2aGpqQXNieE1VcnY5ZEE2R2Z0enlKTmROLTRRd0J3dWhWblNKdW5GUEdicFJpTHN1UTNYcnJ6UEJSaWVMem9PbzZHV2hSU1ZoQm1vNEFvQzZsVlVsaE5DNTdSZHBWdGNDR05vQ1pNbXhPZHpHb290MkF4YVNJWFkzZkc1REV4RFN6UmwyN0NIbHliVl9fTERZckVwYVkwZmhPZ19sNnpzbVVDR2MzMzV0b2RmdUZYZHllV0c4WVpfb0JjZWNuZ2UxcDlLRlNR?oc=5",
-   "fecha": "Sat, 21 Nov 2026 16:52:34 GMT",
+   "fecha": "Sat, 21 Nov 2026 17:38:01 GMT",
    "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Máximo Kirchner asumirá al frente del Congreso del PJ en una reunión de baja intensidad para calmar la interna",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUS1oQTNJbzdkNGFra2hXcG5WU2lsbGlYdllMaGpzb2NoTGJzdXl4d3BYSjl1RTJuSDJ5MG1CMzF5Y3ktbkNGQi1SWFZVb0xHUU8wUzIxeWIyYUJOdnk1dXhXV0w4b3ZoeU41WTFPMWpTbnpLb09OMUhQMnN1MU14R2cyY3dJdnNOUGNlY3lRMGUxSDYwMFltZ21hSFdEekFOaTcxTHI3RjhydVNGc3dxWjRZay1Hejd1Zk9qNHFLWS0ycTJ1SnNkY2ZiMllhZ2NvWFBDZDY3aTc3cmhUd1FubFF3Nm9TWHZJNFVR0gGGAkFVX3lxTE42ZUZaV2JnajE3bDY3VUxySVFZWHh0bVlTU2tmYTlCOFZFcTVkS1NBMVd2dTVOTDFGaEpDNmtGdGZaOW1NbzRIeWF1b3d4djktMW45V2g4OFhYLTNxMmpMSm5XUjVWN2xpUFZDWHhwa2JhVkxSX1ZvNXhDRUpvWlFzQ3BaTE1uaWswTWs4XzdXdjZPOTh0ME1QUmlhSDk3Y1JBcVE3UlFhQ0RzUnoxYW4wY29YYmNMbjJjcmJvYUtZRW1DbFp2VnBqV3dNeVg4bWhWSXN1UFdJQXF0SVlvVzZzWTM4TmxLUnloeEgwVEo4SG5qUXlMN3ZLZmpYbUxVZW83ZWhDLWc?oc=5",
+   "fecha": "Sat, 21 Nov 2026 04:52:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Argentina GNL: el Gobierno aprobó el ingreso al RIGI del megaproyecto de YPF por US$51.000 millones",
@@ -1284,10 +1290,10 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Murieron tres personas por un brutal choque en Panamericana en el comienzo del fin de semana largo",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkd1SVBIVGpwZU9FZFpza2I4dHZJRUVUM0JJYjNhbHFwQ3Q3N2k5ZFpEbmpUOW9vbFNjcjY0Z2Z1UkhiajNOMjIwWDR0MzFrUUJxY2FaUmJQR0VaLUVUSjhXQ3BTdkRSc1p1M0QwMkxVeWJjUFlqVnhkSWVZN09TRVkwWVNZQzFXb0NGYkt1cElic3pYanJfek1lMWZaOS1ocklpbWF4MklXME5neHF2Ulk0eXd1NUJiU0JmNWdSUWJFenNiamQ0QWJUZHA3TzFPZTFJMQ?oc=5",
-   "fecha": "Sat, 21 Nov 2026 13:29:24 GMT",
-   "fuente": "Página|12"
+   "titulo": "Operativo centralidad: el despliegue de Javier y Karina Milei para recuperar la agenda tras la estadía de León XIV",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLVlfbmk0X25PRmZjWXlUUXZxd2tKUkJYNVJJeHRqMmhLbHBxWFlXRjIwN0x1VVZVZEJOYThhS3hHSmt1YUN3bXE4TFg3MXpOTnJHcHo2U2hNcGhLV3c1Q0d1TThjSTFVRkxySFMtMzdEQV9EVHZvUGk5aXlrYy1oR2RRcGJQaGM2cW1DeDdyd1FsQVFGbk1BQ0cwZGdOSWdoOHJ1ejJrUlZrbnFNVXhONFUtWm1VMWx4ZFhqSUxUcGhWOGp1OC1vYjVBRDd6em9CWk9kVdIB2gFBVV95cUxOajlYTkNhdU50V1l6UVlranFIcHJvbldFNmktUU9IX21BYW1DOGphbHNRSTNGM3NxV1RuZmxiTzdXc3VySG5UMTlYcUhRSE5oQW55TlFDSWxVN05jZU91TGpObUYyaDFzZEQyME9YTl85ck45VjZJX3dvbnRPWVJ0QTZIaFZkbEtNQmJFQ0ZJOWlIOGdUQ043dEVQR3A4TmFaMWFrSnhSRmduVTVLRldlcWxoYW1KbDZiaFZacVY1Z1VGNGpjVmx2YUNZSVVGQkRiNHp3VlV1UGY1QQ?oc=5",
+   "fecha": "Fri, 20 Nov 2026 14:03:00 GMT",
+   "fuente": "Ambito"
   },
   {
    "titulo": "Relato salvaje: detuvieron a un hombre por el carnicero asesinado en Villa Guillermina",
@@ -1296,16 +1302,22 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "Vuelta de Obligado: la defensa con gruesas cadenas, siete horas de combate y heroísmo de hombres y mujeres a orillas del Paraná",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTmlHUUpxX29rc3p2TlMwMXV5QndCUHJqMVBGVEp5WEFEYkJIZ1FPUm45WEdTTWNhcFdMZVl5XzVvRDM3UU9TZklrMXUyTkU4UWhRWVI5SkdXN0w5SngwQTdPcVdwZ3Q4SkNXekp0RnZhTWlyeE1tMmo1UzNpTFBHaWhXay0zVjZxY3YtaTRTVVBqVkNSR1dXb25SN3ZmUUIxYVJfaS02dVkzU3R1RV9jbS13UGdyLThaNWo1V09HWlpiYUlEVTdfRzBIYkRlWjNQTjBSMHZIMlhnQ3dtYVpBdGxUWEh5YXFXUjA4VTkwN0ZCcnp6V0dnNmtyMnZkUHfSAZoCQVVfeXFMT0JrWmFUZEhVTDhmaVNfcWs4VkFOUUVTNVZ2M3RVcGhhMlpJNS1oNGpXUXotQzhiaTR3ZmZCNHhlV3pfN2MzWWhPVGJoUjAwbjdYNlJkT2VvcUdWdnJna0tOYnZ2VE1sZmtEWFdiMGJHX0VrcS1NZnVZVnVYaDVZWWtIbXlvMWsxNk9rd21ybnhpTms4T0lNbHVUWUpseW9GOUo5c1lwT0FfYl9fUkR0RTJhRFZFZFJaQ3FfRWlHdlhsY09oYUl4SmdxODlQMkg0c0FNVy1nRUFweDRhRzljSUxaZlNocGdLMmdDWE1heWtaTGI1MVdqTE94TElDM2g0akUwc1VyWjZ5UWlLaFNPOHg3ZmdfTWJfUGpn?oc=5",
-   "fecha": "Fri, 20 Nov 2026 03:38:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Murieron tres personas por un brutal choque en Panamericana en el comienzo del fin de semana largo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkd1SVBIVGpwZU9FZFpza2I4dHZJRUVUM0JJYjNhbHFwQ3Q3N2k5ZFpEbmpUOW9vbFNjcjY0Z2Z1UkhiajNOMjIwWDR0MzFrUUJxY2FaUmJQR0VaLUVUSjhXQ3BTdkRSc1p1M0QwMkxVeWJjUFlqVnhkSWVZN09TRVkwWVNZQzFXb0NGYkt1cElic3pYanJfek1lMWZaOS1ocklpbWF4MklXME5neHF2Ulk0eXd1NUJiU0JmNWdSUWJFenNiamQ0QWJUZHA3TzFPZTFJMQ?oc=5",
+   "fecha": "Sat, 21 Nov 2026 13:29:24 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Rondas de inversiones: asociativismo como clave de éxito y gestiones en mira al crecimiento minero local",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR1pEdFhnMDl0QjRWeTI2b1JiaXRiWUpRWm5jNTNWeGU2Tm9MbHo1NTQwMEVBS0g0QTFxYkhaSy1naXZqRGtGQ005UnNpZHVJa2pPMEYxTTBCT19RSWFzejBVTTdOMXpEYjJkYkJVMlNrQlRWMFktU3N5aEJRN0UtQ1NyeGUxaFZiakx1RkdRLTBBaHc5MUhSMnN6WkRPekFVVG9fUTZsOUJfU0V3dlgzTk1mSjMwODZ6c2hUZjNwbmVOS0tSTlptVWxmM2JHYTVmRnhGWEpWNTBXaFpC?oc=5",
    "fecha": "Thu, 19 Nov 2026 21:04:00 GMT",
    "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "Día de la Soberanía Nacional: la historia de las tres cadenas con las que la Argentina enfrentó a Inglaterra y Francia en la Vuelta de Obligado",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3JFXzBvTzVWMWRCRVN0RldKQVNOOVdVM3pIRTN4QmNsRkI2UXBwU09xUFhGS3FtUVgzQXpROXhra0xaNWV0eGx1Tm5TY2dPVzU5aXRIazZNMnN3amp3NV9nMTc0bUVnRE5UXy1TY3pDNVNYa2N5bWlLc2VneXI4VHVrWW45VGhmV0VmaVFSdnIxOGZjUG5qRGt5RzdKSjlVT1ZEX0w2Z2g4MVpqMDJWR3FtRGw1b2diZGJTeC1xWm1LbjF4czNaYXlXLXgxMW5ZcjZlc2tROVhFRUFPam1v?oc=5",
+   "fecha": "Fri, 20 Nov 2026 09:00:30 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Tiempo en Entre Ríos: alerta amarilla por tormentas este sábado y mejoras para el fin de semana largo",
@@ -1338,21 +1350,15 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "Con una amplia convocatoria, inició oficialmente la 18° Fiesta del Chivito",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzJXdHI3ektyMDNsWS1nVktIMU1MdHF2ajllSVZCcU5nbVV1MGVTdGtaMTBYQUJxZUFNWU5obUFLRTBXdURoN3hVUHBua1REQmFiSzY1b0p3NWZkNUlDdDlVNjQ3Wmw5Sjk3dTNfclM5LWpzRmlmUnBKdjlyLW5vVGJyNk1vcE5mNEQxZHcyYkZ3ZlBtcFR6c0d2SHg2ODB1WFNlSXBaSl9RVm5WNGJIODR4b3FtUdIBuwFBVV95cUxPNDEwOUl5MjI5dDZReGFITkJlTlpXRGZ2UUpONTdLdGVlbEs1eVNpQmdkYno1YUJXcVNBcUdaeVN3Uzl4c1ozMVJHS3VTTWRKV09HS1FDNWk3OHpmLVFyWEVOOEdSMDROWDVidWFoSzFONkt4aGpSZndrcVVYdW9QcGhEUDQwQ3BRMjBiUXRDd01lS2VZb0xFbDhlcVBqdWZpLWdYdnZfdndxRldhcTJMR0QzUm1NWGwzdmtN?oc=5",
-   "fecha": "Sat, 21 Nov 2026 04:19:00 GMT",
-   "fuente": "Lmneuquen.com"
-  },
-  {
    "titulo": "Esperaban cosechar 60 quintales de trigo, pero el granizo borró los lotes: el temporal golpeó 90.000 hectáreas de la zona núcleo",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmZGbkZjRFdxZlBROEx5eXh5TFBoQU83bTB1bTlIOUFPeU10LU01SGNnVkU4c08zUEd0cW5BRTNzR2s0VEJ3bVJZVFExZWVySlYwLWtobXdCOTZjYmZjRzhLRXJnTklwcW9HaWM5ZjJfRktWQkpoQ0liQnhtYnFFVTRrU09aTWl6OFpRWkNBTUdwaTVpdjRpclBnbEdmV29ldDNvM1I5YVBDOXk3ZVVuMUdUSFJta3NJNkhqY0VxN1hTSkpXMHpqaXlVNVNuUWZqRExUOXo1ZkR4QQ?oc=5",
    "fecha": "Fri, 20 Nov 2026 10:15:00 GMT",
    "fuente": "Agrofy News"
   },
   {
-   "titulo": "“Fuera de lugar”: el gobierno de Kicillof exigirá todos los meses información salarial y laboral de los empleados y la Rural pidió su revisión",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWXhsRExvVk9lWjdvMnQ4Z2dsamxXdXZYb2tLS3BhUVBzNGxDZER3azFDTjk3WEp3VDhIOTlmV2tvZGZJeHdySkIxWU5rU1hIUmFOZFdqakRuZmpuWXNXZEE1QU1TUkFFNklWQV9IU1J0ZUJRdXhFbXdwLVhHaTdobDJaLWRLWmFHZ1NieGxDbTVveGEtR01kUExwdlU1akZwTHJ2aXpSTThfVDR5TGRvLWZJdUhUdXotbVRVY3diWFBoWk9LaFRDVjZsbEhGMWkwZF9wV2g5NFRuMkRhZFZEOEd1QlBoV1V5Tm96UQ?oc=5",
-   "fecha": "Sat, 21 Nov 2026 15:25:00 GMT",
+   "titulo": "Una sobrina del gobernador Gildo Insfrán fue designada en el Superior Tribunal de Formosa",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3BUTERRRUlDSGZ0SjNVVUVzV2NicmVoRWhzZFFJZm9lVzd2Q1dTTjltdUhMcFU5NFZVMnJ5Wld3VHVkVUtrX192QUNZTEJnY3h2YWZSdTVwTVJqanRCQXRyQXRnRjR4YTcxTFJISlktbE9EbDViakdRREdLN21BRzhMbndLOHhNZ0pXMHphQzIzcDMzQ2tXbGptZEVYTmo4MTZsd3JZUG0wdm9KYzZYSEhQT011QkpVV2lxcDllNC1KNzlHV2NwS1dhTm5YM2tZMVBzRDFB?oc=5",
+   "fecha": "Fri, 20 Nov 2026 13:35:00 GMT",
    "fuente": "La Nación"
   },
   {
@@ -1360,12 +1366,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMnBYeE1fMlNsdVkwQndNVWFCZ1ZVbWF0U0NKWFhoNGxRWXlGZ0J1X3dwb3p2Mm9zMGlHMFRUajVfSjZKTFM5cXpROHFZZWVXUHhnX0lvRGdKZlM1MEJDZVNuTFNzUXZWcHUtVTdsaURkbjdRWVhLdXh0TmV4SjVneERPSVBiQm9hcEJUREwtYnF5bGJUS052cm9iTVU2eURTNTBhNFZ3enZ4aDlZVzU5YWNiTGRrQWtv?oc=5",
    "fecha": "Sat, 21 Nov 2026 14:04:20 GMT",
    "fuente": "Página|12"
-  },
-  {
-   "titulo": "Volvieron los foodtrucks al Parque Lineal",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT25xT2VCdjBnZEwtdC1hQ2hHY0RENl8wdENJU3diWkVtelFoS1BZTU1Jd2c0aUcwc1dJUUlMRHZyZDRaVFItSE5pdkdNWV9MTVJUQl9ubmxQSWtkNVdHSkpvQlo5ejZzQ1ZWOWkzV0ZPZHhmTW9sTTB2dDZzaXZucDV1UjFJZFZUc1k3ZGdGRFBDZHM?oc=5",
-   "fecha": "Sat, 21 Nov 2026 03:06:27 GMT",
-   "fuente": "La Arena"
   }
  ],
  "finanzas_argy": [
