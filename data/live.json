@@ -867,10 +867,22 @@
  ],
  "noticias": [
   {
+   "titulo": "CORRIENTES: La Provincia Ya No Tiene Más Evacuados. De La Escuela A Sus Casas",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWFfUkNXZm80TnJMQ24ya2gzTU9IVHVMSU45VDl6cjR1T0NzWVFvN0ptdTdJSmV0ZWJ5S2VKeEEtT3Fmemw0bDVvNFozc2REQ1ZnZGpHeURLc0ZoNm5HaFRMbkFRa1ZxUkoyaldqNWZMOUdHU3FLTmdWWVQyVU5HWHhRZ0I4QmhUU0g3ZlV5SEVtQ0JNUEVrM0NlWTRFZE15d1hRRFpkUHpfdkMtVkJfUzVfTWFxbDVUZVdqVFpvaDVLNHVhbVJ6ZnVVbG1pOWFidGc?oc=5",
+   "fecha": "Sun, 22 Nov 2026 12:56:08 GMT",
+   "fuente": "Noticias del paraná"
+  },
+  {
    "titulo": "Corrientes abrirá las preinscripciones online para los CDI del ciclo 2027",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEt6SHNIckdWMVZ4d3BWVUZ3WUcwR1BBNDQ4TTU0ZTY2SmQwUk1ETkRFRnBkTjBlUzY2WHFqeUV4anFhbFFDY2Fia215V1ZCRllDMy04WTZ5TlBtRVFyZjFaVUctb3BDM1JXWVliekdmdmN5cDV3YnJtcXM4WFlLWXBFaXY5THdnU2hjUWJhZmM1Y0NCV3NHc3ljZG9OQTFYZGx5Mmh3OTFTMFVjb09QVFdfXzI4U3JMTGQ1b0ctd1A5SGxpcHhjTk1B?oc=5",
    "fecha": "Sun, 22 Nov 2026 14:57:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Detalles del accidente fatal sobre Ruta Nacional 12 Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVNIdmpEQzloQ2tqdk5HejVaUkR3Z1haYVRCUHhTRnUyNDVhUUN0V0hiY1paX1UxRWdkZDZyRTJvaDlVN2k4MEVKRU9zdHNjaU1OTHg3a2ZJRHRNdk9QS3JBdnBJU2xveVBaeDRtVnRua3hSTi1UeDBFV3NwM0xPQWNqQTFPSlA3OTJ6LWFGZGd5NTNvbm1YZGNSLXlzc3J3MXZjX01lS29BcHZXeHc?oc=5",
+   "fecha": "Sun, 22 Nov 2026 21:02:39 GMT",
+   "fuente": "Corrientes Hoy"
   },
   {
    "titulo": "Corrientes abrirá las preinscripciones para los Centros de Desarrollo Infantil del ciclo 2027",
@@ -885,10 +897,10 @@
    "fuente": "Radio Sudamericana"
   },
   {
-   "titulo": "Calendario escolar 2026 en Corrientes: qué día terminan las clases",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnJUWTZIaVU0enRUS2IzLXVVcWMta3FKNURERnI0LWptYV9PaFVyOXhDc09yRGE2QWRRUU95bGgyOUp4cmpQMWQ3Z3dEMHB2czlrdnNqbVBORExwQVI1VF9JdkhxMnNFQy1ZWGJZM0MxSkhWS3d1NWtmMkg3cmdKTkltdFJMZS1ubGRRSURlUU1xc3ZlT0Z5c3REZ2JFVW1BUVAwaFBEc1FMTjhURXc?oc=5",
-   "fecha": "Sun, 22 Nov 2026 19:50:37 GMT",
-   "fuente": "Corrientes Hoy"
+   "titulo": "Proyectan una nueva crecida del río Paraná en Goya",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHEwTXJmS0NDWjlBeVRjT3VTZjc4RVJTbUJwVy1CTkhwb1ZNQm84ZUdrRE1LSklwREFiVTZoM3JpZmNfS2Ixa1FrWG8tQTBWMlUyZjlkOW9XSzBHVFhEYTZJMnVBR0t6RTZqQlRtSXNjd08wMkVpLXBESnNQNUZtdWRsdE5jZngwTjJ6aWtMUlNublNobW9pSGRB?oc=5",
+   "fecha": "Sun, 22 Nov 2026 18:22:05 GMT",
+   "fuente": "República de Corrientes"
   },
   {
    "titulo": "Violento choque en Corrientes entre camiones deja un chofer muerto",
@@ -909,12 +921,6 @@
    "fuente": "Momarandu Corrientes"
   },
   {
-   "titulo": "CORRIENTES: Valdés Encabezó El Aniversario De Saladas Con Inauguraciones Y Anuncios De Obras",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObjAxMnh4SC15ZkU0WUJnbkdQQzMzYWVtQndxMU9tV0VlUUlyN1NHdHBkSG5TaW02Tmo3TGpEclZ2VVZnWFkxVURwVm5JLVl4N29iLWtPeFAxdVRKdVd5YjlsdFNkcHg3WGtNelh0dzFoWVphbWpvTGpWdGJCYVhaSWw3TXVHbExtNVBHSC1RRk8zb3RjNDlSNmZaUjFWak54cXZFNzNoMGVRSVotbTdlUTZVODhDdlhMRlFIMkllbWk0dnRiY0s1eEZ4MVUwXzVNMnJvX1RBdFAxRlRwUzZYd09fd19rRnM?oc=5",
-   "fecha": "Sun, 22 Nov 2026 15:30:41 GMT",
-   "fuente": "Noticias del paraná"
-  },
-  {
    "titulo": "Hay alerta amarilla por tormentas para este domingo 22 de noviembre en Corrientes: las zonas afectadas",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdWlOcWh6bXNGdnlJaDdwal9fOXlIVDkzVTlxal9Rd3ExUnUxd293bmFYUElOYWY4VzItaWJqeTZzUkVUNldtd09WYmZwQVdQQ1FMWFg5aUxrWTIydktYX0xFVUtiRnJXYmN5SFdpMHJ2RHU0T2FGNmdsYTVHbTdlZVNNVThscUYwTDFndURFUERUbEdCQ2ZodHhoekxEOUhQRklMNVhWd1R1ZEdsRVpGSldaS1pSQnZGNjZBa2kwUGs1dF81WHhxTkg5cEYxbm5RU1RPcE1YT0R0M05pWFHSAfIBQVVfeXFMUDVxM2RzWktacUpRVHdhaU9hckIzNlVFUlhhSXh4d3lUQTB0aXJ0Mmw0dGxiaE1YanNISTlwNWFlX1hQT2tHbkZ1V0RSMWZHM3Fkb3FSdHJBaF9rUkVJa1YyRlVqWTk3UHBUMHJiM2pFN0ktUXMzeDAwdElPRUxsMkJNdlJsN0NYRUxPZWtQMnFmeEEyTmlrSWQxNGZWaVNvTEgwSHJCQzZyTkpQajFlZEoyQ21VV0VQeVN5UHBqYWFucHlzcHY4WWNjejNQZElUTEJTdHFURFdsdnV4SmZCQWdwTG5MZVZ1QmVLaWQyWlhnQ2c?oc=5",
    "fecha": "Sun, 22 Nov 2026 03:01:25 GMT",
@@ -933,16 +939,16 @@
    "fuente": "DIAUNO"
   },
   {
-   "titulo": "Corrientes suma una planta maderera que proyecta exportar 100 contenedores mensuales",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUo0bnBIeC1PdVdXSnNab1c1dEhuSWs0X3g4MVV1VnMyY1VpRGwzYzdFZ0ZfQkgycllPNWlaTjMzS1p5OHlpZUlPYzdtZmhLVDQtbzExQUpDRkFFcUY1Q3JxdFM2U2ZQTjRRblBHVlA1T0s2ZUJYNXphNnY3Q1NBelo2aXVoUVBWbUdNcTF4eUR0Vjc0b2ZmYVJrN0lKVDI3UEJBVVFib2xpUTh2ZlE?oc=5",
-   "fecha": "Sun, 22 Nov 2026 01:10:37 GMT",
-   "fuente": "Economis"
-  },
-  {
    "titulo": "Máximo Kirchner fue elegido presidente del Congreso del PJ en un acuerdo entre las distintas corrientes",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEpvbmRZUUNva1FmUFVuM1J2RVB6SFRHTlRaeExPX2owbHhZWm9tcVhsTkZNeElUSi1LeDhxOXJYVWs5RGJHLWlkZHY4SlhqN0puUVZNSTYxSm1Ta0dwRXBUcTFJUTNoUjA1dUtFZ1BJZ2U5ZnVNY3RHOHdyb283cDBMY2dpRzdzOHdUTEJKazV4SUd1ekViVWZrTW43aHRjanZ3RmltXzAxQmFmRmFOVExhem50YVVsVk5WbEoyM3JsMDczS3ZSWlZ0dG1ZSlhtQmgxSXFUMjVDYzct?oc=5",
    "fecha": "Sun, 22 Nov 2026 16:46:23 GMT",
    "fuente": "DameNoticias"
+  },
+  {
+   "titulo": "Corrientes suma una planta maderera que proyecta exportar 100 contenedores mensuales",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUo0bnBIeC1PdVdXSnNab1c1dEhuSWs0X3g4MVV1VnMyY1VpRGwzYzdFZ0ZfQkgycllPNWlaTjMzS1p5OHlpZUlPYzdtZmhLVDQtbzExQUpDRkFFcUY1Q3JxdFM2U2ZQTjRRblBHVlA1T0s2ZUJYNXphNnY3Q1NBelo2aXVoUVBWbUdNcTF4eUR0Vjc0b2ZmYVJrN0lKVDI3UEJBVVFib2xpUTh2ZlE?oc=5",
+   "fecha": "Sun, 22 Nov 2026 01:10:37 GMT",
+   "fuente": "Economis"
   },
   {
    "titulo": "El Colegio de Profesionales de Enfermería tuvo su jornada fundacional",
@@ -951,10 +957,10 @@
    "fuente": "Norte Corrientes"
   },
   {
-   "titulo": "Enfermeros tuvieron su jornada fundacional",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkd5QWlaeTVMYkptTWJzdW01S055czdMcDdnSVp6aURjc1ZYT1RnNThZSkkwLUZsRmZidzdXNjBCbnZvU01CZ1hlWjNlVjBGa3duSDAwWHFMTnpKLVJfa0NILWNIVW0yRGItdkVUUGpmT3daR25lVEdWaGRseGpEX1VwbDY?oc=5",
-   "fecha": "Sun, 22 Nov 2026 03:03:16 GMT",
-   "fuente": "Diario Época Corrientes"
+   "titulo": "CORRIENTES: Valdés Encabezó El Aniversario De Saladas Con Inauguraciones Y Anuncios De Obras",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObjAxMnh4SC15ZkU0WUJnbkdQQzMzYWVtQndxMU9tV0VlUUlyN1NHdHBkSG5TaW02Tmo3TGpEclZ2VVZnWFkxVURwVm5JLVl4N29iLWtPeFAxdVRKdVd5YjlsdFNkcHg3WGtNelh0dzFoWVphbWpvTGpWdGJCYVhaSWw3TXVHbExtNVBHSC1RRk8zb3RjNDlSNmZaUjFWak54cXZFNzNoMGVRSVotbTdlUTZVODhDdlhMRlFIMkllbWk0dnRiY0s1eEZ4MVUwXzVNMnJvX1RBdFAxRlRwUzZYd09fd19rRnM?oc=5",
+   "fecha": "Sun, 22 Nov 2026 15:30:41 GMT",
+   "fuente": "Noticias del paraná"
   },
   {
    "titulo": "Presupuesto 2027. ¿Qué se juega Corrientes en Diputados?",
@@ -963,28 +969,22 @@
    "fuente": "Identidad Correntina"
   },
   {
+   "titulo": "Semana inestable en Corrientes: cuándo se esperan lluvias y tormentas",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjAzNnlDZVdfY1l0NUFjc0MxR09iN1hTTk5hRmxxaWd4cHJoWTFxOWdrZUM1Z0hlVzRVWHAzX3UxaTN3TW5pZ3Jia1dSd3J4dnhYbThheDFFMU1xdlpDNy1TSTNxVDNaWjRjd3I1U29EMjh5d2dMM1NuZjNJa0RZT3RZN3FlMVY2blpNTFRkOWgzeklWeTlWU3NzNndFWVBFMEFtX09jUHpKSlhRejUtS3hhUy1YZVd1Zmo3bmFiLU95dTg?oc=5",
+   "fecha": "Sun, 22 Nov 2026 18:17:05 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
    "titulo": "Coparticipación, bono y obras: los temas centrales en el cierre de año",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1U0NW1MQ0FaNTV6XzNlSVhMdkF6a0V5djJIV1B4QUY5c3F3bk9HbWY5aHczZWMyVDFjU21xUGtnenBQU0tHdWROWlY5WjFWTVU4SUxEc2dDbGUwVG5tUkhNYW5oQkh1Y3U5R3o3TFNlU0M2YmVEU012M2lHbUJMekNrRnFHU0VNaWFDSzJQcXJUaU9kSFhJQThPOVBvNUtRRjFrY00tZw?oc=5",
    "fecha": "Sun, 22 Nov 2026 03:02:48 GMT",
    "fuente": "Diario Época Corrientes"
   },
   {
-   "titulo": "CORRIENTES: Secuestraron Vehículos, Televisores Y Electrodomésticos En Allanamientos",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdE51eGN0RmFNTldxOGVMQXlZeUR0NGpsSUhtV000dENqeWN4MEJRUU5PbnVCRjRWYTlCR29MY2ZPQk9hN1JUdHNBeWZsTHc1SFlaSVZCQzZaWDhkX2NyTVcxVkxOUlVRbXI5MGV4OWo3NXoxdjVfV2FTQm1PQjFRc0UySlNOVmw1aHRUUldPVGtzR1lvZUo3eVZsRW9xZ2sxbFEwS2NpeHdLb3FpWHQwQ1pGMVVUZnMybHdfUkFoU3ZmeGZjT2JINjdWbjFpdnVtSDBEQXJlS05kYWM?oc=5",
-   "fecha": "Sun, 22 Nov 2026 15:34:33 GMT",
+   "titulo": "CORRIENTES: Vieron A La Policía, Huyeron Y Abandonaron 43 Dosis De Marihuana En Itatí",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVXU3M2lsNU51cmNyMk1TY2lQcWN1MHBNYlJGbVp2ODJ3T3JCMjdtUFRzZnRmNlZBaDFONnFBUzRJRmVPTGZ3NzRvSHF6MFBzTTg2MWhPLW5Gd3R2REE0RDV3ZTJTQjZSamZzdktTbUxYNUNGanBmaGRZZGJCcFRaSDJ1VDJxcXVqSjVBclR6MUFuMTZRSXZsNmZWalh3RFFoUExwVHMyODZpa21JVlNIWHZEemVMeUtTdkpJdXByVkNacFhlbU42R0ZLeHF3RWw0eFNrZU9vb21uU3V3?oc=5",
+   "fecha": "Sun, 22 Nov 2026 15:25:06 GMT",
    "fuente": "Noticias del paraná"
-  },
-  {
-   "titulo": "Sin primarias, LLA no tiene cómo ordenar a sus candidatos y la Casa Rosada negocia con los gobernadores",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnc3Qkc5QlExNnRhcEFOYWo1SHpJSTVZcDVlUGsyUUVpNUZDOGVHd3A0b0gxS3h4bld2MVktbnhYcjhDNGlyLVFxZUlxNUVNcmk4aG5tM2VkUEh6RDNyS3Q5aXkwaXpBUHdpX1ZiX2pKY2ZrVTZ3V1hyXzBPMEMyQlVsQkN4RTNqRGRCalRhNTBuZzB2ejZfQ0ozQW9OYVJ1YXZJSTFjYlZZSHZTQ05FbkItdV82emg3bDJUdU9EY25RWEtYMGNEOXBaeGprVFJhazFkX29KY3o5OHltdlotOQ?oc=5",
-   "fecha": "Sat, 21 Nov 2026 16:04:56 GMT",
-   "fuente": "Perfil"
-  },
-  {
-   "titulo": "Semana inestable en Corrientes: cuándo se esperan lluvias y tormentas",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjAzNnlDZVdfY1l0NUFjc0MxR09iN1hTTk5hRmxxaWd4cHJoWTFxOWdrZUM1Z0hlVzRVWHAzX3UxaTN3TW5pZ3Jia1dSd3J4dnhYbThheDFFMU1xdlpDNy1TSTNxVDNaWjRjd3I1U29EMjh5d2dMM1NuZjNJa0RZT3RZN3FlMVY2blpNTFRkOWgzeklWeTlWU3NzNndFWVBFMEFtX09jUHpKSlhRejUtS3hhUy1YZVd1Zmo3bmFiLU95dTg?oc=5",
-   "fecha": "Sun, 22 Nov 2026 18:17:05 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
   }
  ],
  "expedientes": {
@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-22T18:06-03:00",
+ "actualizado": "2026-11-22T18:32-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El musulmán Loay Alshareef se fue del país y afirmó que los argentinos \"odian a todos los musulmanes\"",
+    "link": "https://derechadiario.com.ar/politica/musulman-loay-alshareef-pais-afirmo-que-argentinos-odian-musulmanes",
+    "fecha": "Sun, 22 Nov 2026 21:16:14 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Gracias a Milei, dos contratistas se retiraron y un astillero evalúa cancelar su contrato con Sea Lion",
     "link": "https://derechadiario.com.ar/economia/gracias-milei-dos-contratistas-retiraron-astillero-evalua-cancelar-contrato-sea-lion",
@@ -1261,12 +1267,6 @@
     "link": "https://derechadiario.com.ar/politica/libertad-avanza-milei-presentara-proyecto-prohibir-ley-sharia-en-pba",
     "fecha": "Sat, 21 Nov 2026 20:20:36 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "El consumo masivo creció fuerte en octubre, con una suba del 6,2% respecto a septiembre",
-    "link": "https://derechadiario.com.ar/economia/consumo-masivo-crecio-fuerte-en-octubre-suba-6-2-respecto-septiembre",
-    "fecha": "Sat, 21 Nov 2026 17:25:21 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -1274,7 +1274,7 @@
   {
    "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWEzR0pqM3podVQxUzJyV0F1cC1HNVlFaEo2V01ac1VaZjNLdk1DS0NxRlotZUViX3dsZHpFYW1nN013VktwOEZvM1NxUE14NWVkMU01WnNUdlM2OC1YaV9NeGZEaE1mUno1RThVTUJPRFcwYUVKLUNZOVBLdERHTXpSTFhqM3lNRFlCM2labTMtT0dQVTU5bUMyWVY1dGdqSURDWnNVT2dFNURBTVFlcVZHSzFBNW04eW9zN1Rn?oc=5",
-   "fecha": "Sun, 22 Nov 2026 20:50:26 GMT",
+   "fecha": "Sun, 22 Nov 2026 21:30:10 GMT",
    "fuente": "Clarin.com"
   },
   {
@@ -1284,10 +1284,10 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "A una semana del fallo del Tribunal del Mar, Quirno volvió a reclamar que se frene el proyecto Sea Lion en Malvinas",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZDlmeTZCYXhRN2FfaU1oZGg1ZU91WjNNcm5ZSDFUcDN5YXJ2N0N5QlFVcWFfUVZMR29JTGZDQngzclZZYk9jUnpwT2lVSmp5LWs1ejBkRFRyOFJFUnVvUjdJX1ZmUU9sa2xoOUxvWEJadmFSOVd3WHRudVlwaWZqaDRyR0lWWTJSNzcxVFJDX0ZYdXhncVdCSGprTVZkdVFrekp5VjR1bWRaMTlBSWdzRkdTbHdyVFBhSy0xYU9GYnpkYnBqZ1cwSW5HbFV5NDE4ZGhpaUZQRzQyQkllRkRDUC1YOWwwYUFkR3BkSmluNzXSAYsCQVVfeXFMT1BMSVM4Z0xwUWVVTlpmejJqRHpfZXVNUTFuNVVhWEJoYkdHeGtzSnp5THBUR1JHQUFIRmdEdGltUk1jU2Q0THZMM2lya0FWcDZmWGt3d0dUNzlYQzlsZjRVNlJ4UjRUcGI2aVFqQmwwSV9UdmJiQmtPMmhwRDd6VFFNTFY5Rmx3LUVicUkxelhqYkZ6X3NZV3VtTzZLNUV3ZndCQlpDc3FnQTlNcERPQ0tkMF9BNENfSHc1WTRfaDZ5SGNlRGlVVDhKbXItX3hnUXNBcFlwVlJWU1BLVjVGX05wWFc4N0JwanEteW5EZlcxMVM3b1FDcm91VzkyN2RiSFloQnlJWVlPbWZn?oc=5",
-   "fecha": "Sun, 22 Nov 2026 04:02:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Peronismo: Massa y Cristina Kirchner consolidan su alianza interna y vuelcan la presión sobre Kicillof",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE4zUWtpa0xIU1FHOFE4aWNqYXFzMG1HTndWekFGd3YyVzA5Yk82RGFTajV1alN4NjNLUmNBMHduaF85c1hwamhJdEItcXZueEdrcFA0NlBzVmVubk5tbUoxTGNGWmRwRmlkUWFobjN6N25KLWZlUjV1MzFjOWRJYWJTT1ljRjRVd2NyeDBJakdWendmdk9aRnd5X25sSE9BY0xTYnpNcTY1NW5rM3ZieEZDNFlXNzg3dnZWQ2swZVlxNHVraXBNQmF4RXp2VkhoVC0xTGsxNjdiN1l5R3QtZA?oc=5",
+   "fecha": "Sun, 22 Nov 2026 19:20:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Así es el megaproyecto para exportar gas que será la mayor inversión de la historia argentina",
@@ -1314,16 +1314,16 @@
    "fuente": "El Chorrillero"
   },
   {
-   "titulo": "Atropelló a un ciclista, arrastró la bicicleta y todo quedó filmado en La Plata",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2hDTzBYNTBFMUNUaWk3YkY2RFI1RVBjTlY0M0FySmpNYVF6Ni0tUEFkUzR3aHBZamU0NTF3cHU3UzVya3hLQXZvUmlfRE9VWklfVE91UjVELXVpaXBEMFVUZUZvbDIwbTIzcVRpSGQxaFJxXzBJWms1a3JZVXNqaC01TkxNTnpKR0J1ZW5BMzgyTlprWno4VnNvVjkzVk5FMFpsYnU0bm5SZzIyaG9Nb183NWJXYl8zczhwakVCeTJfRTBpV1BmTzgtcXBqdw?oc=5",
-   "fecha": "Sun, 22 Nov 2026 14:50:00 GMT",
-   "fuente": "Diario El Día de La Plata"
-  },
-  {
    "titulo": "Tres delincuentes escapaban en un auto robado con un caniche en el asiento de atrás, volcaron en la ruta y dos de ellos murieron",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORVg0WHdIVENickdfTWFPVTVCRndSZ29LV2tOeGhBWm5hX3lJUDdERVdHclRmQlBwMFVxVko2Zi16QXgzcUtOM2tMZ29NS1VteGk4MXc2R0pFNUo2a0p5aEdZVnVyRmhMcW5RY0tSSVNfbkhseVdPZVViX2xuTEVLVDFTaGJHVWc5Mmg2MWRXeVlWWDJHbTNGTjNxSVlpZEIyN2c3UmJNY1Nudk9LM1ZpUFZvTWFfQS0zM0VHVzNaSkpsS1dIUmh4Zy1SZFVfQkp5eXlwNFNxM0YyX0tKd1U5VU96cmN3a2ZhTE9YWGk2MXpyQUR6WUIxd1RNUjXSAZACQVVfeXFMT25ocFN4dDYtaWJQbE82ZHNKUUFfMUVYV1FDRHJLQWhlTlpSclkwbUMyUlh3cGpTRmx2eUd0cnZYMFcyVjhXNHpFa0tRMTFIa2RuWDdSSHVaVjVRWjZBeGpGLWZnSk01NllSTlpfdktkeDhwNkVEU0JlUV9Nc1NsWlRtZTl4Tloxc2NEdkVWOVVrVEZuWDFQeTdEVlNlUXhkY3BpZHF6MEljM3ROVmswNTNva1pLekZJZG5acTNMRFdsbFFrMTNiVGY2STZNaUNpbGE0UGVaNmxJcllWOTlFcGUtVlhmSGpMME5NNnBZdElZWWhGaFNybVBVUVdsaEtpRFhaRkdlaWtFZnNpTEkzMjA?oc=5",
    "fecha": "Sun, 22 Nov 2026 18:40:26 GMT",
    "fuente": "TN"
+  },
+  {
+   "titulo": "Atropelló a un ciclista, arrastró la bicicleta y todo quedó filmado en La Plata",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2hDTzBYNTBFMUNUaWk3YkY2RFI1RVBjTlY0M0FySmpNYVF6Ni0tUEFkUzR3aHBZamU0NTF3cHU3UzVya3hLQXZvUmlfRE9VWklfVE91UjVELXVpaXBEMFVUZUZvbDIwbTIzcVRpSGQxaFJxXzBJWms1a3JZVXNqaC01TkxNTnpKR0J1ZW5BMzgyTlprWno4VnNvVjkzVk5FMFpsYnU0bm5SZzIyaG9Nb183NWJXYl8zczhwakVCeTJfRTBpV1BmTzgtcXBqdw?oc=5",
+   "fecha": "Sun, 22 Nov 2026 14:50:00 GMT",
+   "fuente": "Diario El Día de La Plata"
   },
   {
    "titulo": "Cómo funcionarán los servicios públicos durante el feriado del lunes: trenes limitados y subtes hasta las 22",
@@ -1332,28 +1332,16 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Super Niño en Argentina, EN VIVO: el río Paraná sigue creciendo, está en niveles críticos y pronostican más tormentas",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd1o2VnUyYVdCbnBPcl8tTW1VdW9NdTd3QUpxY2tZYnZuTUNLMTFCTVpkaWY0RVlrd2hJZko3a0l0aXBEeGhaWVlsZjJkQ0hLbEpLVjU5TjNMWFVDdnMtWGs5VkFvS0lzdE12QU85OUhhOE9qb2YzdmZTZmFoV2dVWl9vWWpSV0pvSXYxRVVfOG1zTURPT29ScUVlNy0yVHdUZUxmZHFwWG1heFNSa3RYYWVIM0JNaFFWRGpFSTBvVzZQeDNCU2dhdzIxQzFycnk1OUZfbE5BYVQ?oc=5",
-   "fecha": "Sun, 22 Nov 2026 12:46:14 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Discusión por música alta y ráfaga de balazos en Villa Guillermina: así mató el farmacéutico al carnicero",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOThtMFNQT2lsMDdMLW9pLV9CU041WFBUc1F3SS0zMzQxU0djZWh0ak9MLW9za1RSQTVxV3RHc2l0dWJnR0xCYzBRQVpETmowMHVJWDFGc3l3bkhUTHFZMzMydi14UmNTZHFWV1k4d2p3SUVROVd6MExhYWlwV29OSUJ1djZranJRV1RnaTZsa0ZaUjdxMVI3Um9BS3RwUmVfRW1McXNjejFZTHpMRk1wZUxsejRiSXhlZ1dIV1FMNHBKRkN1Sng2Rkx3dWxSMUnSAdQBQVVfeXFMUEVSYW5aRVlSVVhvUDUxZkc2OFg0S1lqTFlFMmo1TWNJempqWVZ1eFNMN1hXMXA2UFZxNGU1ZnktQmNGNkRiUjJGcDd3WXVrSnlwY29QVk1vME9Ec1BOWjJ6d1pYOUhiX3hLdEoxelZKb1BCZE4zRzJPc3MxMUtIQllMZHpMTEtja1JXVGlQSkZ2cmxldGMzVml6YzJkdFFWTkZ4MmU3VGtFNUJzVk9RMmxpYXprZnNHcGVDdU1ZRzRCd2pTZmlaQWNaSjBaOF9Xd3h4QXg?oc=5",
    "fecha": "Sun, 22 Nov 2026 18:46:45 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Investigan la muerte de una estudiante, de 21 años, en un departamento de zona Norte",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW5VUmdiX283LWxWcmdubXBxcFJ5dUx3Rm50RExwMHFLdnpoWTZTMy1LUzVhdUJrQUNzaUFweXliNHRHNTZnLU41VDE4Q3hQelVZa1lxRTdPeHlxY1E2VGxJTG5RSHY3WUpBY3BoOEw4eFNBS285a3hrdm9aV0JzZDZSd2owb0dQTU5KUWkwM0lTbjZhSDhwOWhtUFN0UmFIdHpjWl9RVkotbFN0VHlSWG5WS3AycVnSAbwBQVVfeXFMT0x0dGRPWVdNcW5VTmktanNUTWhra2ItV041T3NtOW45YVNTR08yWERWaEFsTXUwUVdLV3N5UE1uSk1Wbm11eG1GcjQyU1R6eWlsX3RodE1ManFsc3BrdlNyVDMtbmZ5ZTZvcUhRWUh2cmhOMnFJTkZNRlNuQ29zckFsX245blNxX3hPd2RTeEsyUWgwZVhzRU5kYXdPVEFFa3poN1JQaHhPeEZBZ1lnSkhsZ2xOby1UWGU3NDc?oc=5",
-   "fecha": "Sun, 22 Nov 2026 15:24:24 GMT",
-   "fuente": "La Gaceta"
-  },
-  {
-   "titulo": "Hoy domingo, hay fiesta popular en barrio Belgrano",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUS1jZ2FidXdqOFFvalRVM2ZNR0RzdFRHcmlWcXhXaGsyUjBCMjJ0djdSbEcyX21UMzhiMElRLWgxRHNwOUxvM3hZMnF1LXEzcUlLWW9VbWhoM3lucGxBTzJ5Z1Vldm90NW92bHdGZ3JXX25OZFBvaVdsWUR6NWRkenFva3BDemtmUzhKMUNGdU4yZ00?oc=5",
-   "fecha": "Sun, 22 Nov 2026 12:42:01 GMT",
-   "fuente": "Página|12"
+   "titulo": "Super Niño en Argentina, EN VIVO: el río Paraná sigue creciendo, está en niveles críticos y pronostican más tormentas",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd1o2VnUyYVdCbnBPcl8tTW1VdW9NdTd3QUpxY2tZYnZuTUNLMTFCTVpkaWY0RVlrd2hJZko3a0l0aXBEeGhaWVlsZjJkQ0hLbEpLVjU5TjNMWFVDdnMtWGs5VkFvS0lzdE12QU85OUhhOE9qb2YzdmZTZmFoV2dVWl9vWWpSV0pvSXYxRVVfOG1zTURPT29ScUVlNy0yVHdUZUxmZHFwWG1heFNSa3RYYWVIM0JNaFFWRGpFSTBvVzZQeDNCU2dhdzIxQzFycnk1OUZfbE5BYVQ?oc=5",
+   "fecha": "Sun, 22 Nov 2026 12:46:14 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Javier Milei inicia este martes una nueva etapa: vivir en recesión",
@@ -1362,10 +1350,22 @@
    "fuente": "Perfil"
   },
   {
+   "titulo": "Hoy domingo, hay fiesta popular en barrio Belgrano",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUS1jZ2FidXdqOFFvalRVM2ZNR0RzdFRHcmlWcXhXaGsyUjBCMjJ0djdSbEcyX21UMzhiMElRLWgxRHNwOUxvM3hZMnF1LXEzcUlLWW9VbWhoM3lucGxBTzJ5Z1Vldm90NW92bHdGZ3JXX25OZFBvaVdsWUR6NWRkenFva3BDemtmUzhKMUNGdU4yZ00?oc=5",
+   "fecha": "Sun, 22 Nov 2026 12:42:01 GMT",
+   "fuente": "Página|12"
+  },
+  {
    "titulo": "El Ejército ayudará en la obra del arroyo Carranza tras las gestiones del gobernador neuquino",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPanZBQl9VVHhCa1V3Q0ZCV0NGWU13d0oyZGRrSjZIRXJ2TFBXTHFQTHJZaVdmUW1FLWIwbGZvTEFjZkYzOUY0bktrcC1pTDItMHhaZXpXRm42V0lqYXdPOENTSEZPSE5zRGY0eWFPQ2hqa29UWEFTRzBRa1o4RWRaSi05eFpBR3hRWl9NU3B4SVV1UjdOUkI1bXpiMGlZempsa1J2M1FVVFZTMXJoa3diQXdmbk51UlNMYlNWVldnQV93QU44UnRr0gHMAUFVX3lxTE1aMVNqUlFianY5aTNqaGU5bFVwSjg0cFV3cWlXVDZfdGRfWXBCMF93T290eU1VbWtLczAwUHhkdVppRWpqUmhVSTVVa0dfWDBET2FJTFUtNE1YcHBWR1NwS0Rla045S1hDY01IamVhVnlxWVp4TFUyYnJBYU5yUHc3dk5GV0dtWFNZb0I4aHhXSS1zR1JXNlktaE1DTDl0SWFLLWFYM2hlMnVuS3djU0JOTkptUk9IZTQwdHJxd0N1TmJzdXo3dXIydU9NZg?oc=5",
    "fecha": "Sun, 22 Nov 2026 00:37:00 GMT",
    "fuente": "Lmneuquen.com"
+  },
+  {
+   "titulo": "Investigan la muerte de una estudiante, de 21 años, en un departamento de zona Norte",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW5VUmdiX283LWxWcmdubXBxcFJ5dUx3Rm50RExwMHFLdnpoWTZTMy1LUzVhdUJrQUNzaUFweXliNHRHNTZnLU41VDE4Q3hQelVZa1lxRTdPeHlxY1E2VGxJTG5RSHY3WUpBY3BoOEw4eFNBS285a3hrdm9aV0JzZDZSd2owb0dQTU5KUWkwM0lTbjZhSDhwOWhtUFN0UmFIdHpjWl9RVkotbFN0VHlSWG5WS3AycVnSAbwBQVVfeXFMT0x0dGRPWVdNcW5VTmktanNUTWhra2ItV041T3NtOW45YVNTR08yWERWaEFsTXUwUVdLV3N5UE1uSk1Wbm11eG1GcjQyU1R6eWlsX3RodE1ManFsc3BrdlNyVDMtbmZ5ZTZvcUhRWUh2cmhOMnFJTkZNRlNuQ29zckFsX245blNxX3hPd2RTeEsyUWgwZVhzRU5kYXdPVEFFa3poN1JQaHhPeEZBZ1lnSkhsZ2xOby1UWGU3NDc?oc=5",
+   "fecha": "Sun, 22 Nov 2026 15:24:24 GMT",
+   "fuente": "La Gaceta"
   }
  ],
  "finanzas_argy": [
