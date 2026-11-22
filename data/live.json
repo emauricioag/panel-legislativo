@@ -927,16 +927,16 @@
    "fuente": "Cadena de Radios"
   },
   {
-   "titulo": "Corrientes: una niña de casi dos años lucha por su vida tras caer a un bañadero de ganado",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGNWYzRBN1NwMWZKeGtEY0pGeHh0OWhtSTlkUmhYOVg3WFI5MXF4cW9mMXg1RXROMWZ3LXI0cGlNOXN0Z0VXQlZKaHBYMFpOMGxuS1J2RWRibVh4OVR3SlFZRjY1YWxxdkZ2cFlQdU1aa2VoeFlRcWNwbkJ0SWNmS3N6RXRWbGJ4OUNaZEVhVDl2aDBhSkVPRHlWNHlFTW5QMVhQZHlQeUkzeEVfckNQSVlfV1RjNDZKemFfc2ktR1dEQdIBuwFBVV95cUxOZ0lIQktEYklyUHB4QlQ4VWdqVjFwWXpySlhVZGZTNE02bDFVVnF6UWwzQm5hdzhuV3hBbUpkS1VZaEk3cDZBYkJDTHhla0RYTDBoakhQTkFUajNMakFWSGhBbC1hSEk1VVZmcE1LUi1DRTVqNkk1VkdVQzRjNDlRbkFRY3BaR21LOV8xUlNTemVfMUlSckFHVHJGMWxwYjBmLWluYjAzb1J4bVV2blJYZVBUR2FoNWo2REo0?oc=5",
-   "fecha": "Sat, 21 Nov 2026 23:42:57 GMT",
-   "fuente": "Elonce.com"
-  },
-  {
    "titulo": "El Tren Solidario viaja hacia Chaco y Corrientes con 400 toneladas de ayuda",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUJyRUpFWDJRaHA0bG9JTHloS25qa1dmMVdKc2NwZVo5eUVRMklIVEoyWnZJMUM4QTJrUmExZXpWcWZoR2ZiVW85cl93UmdEZExtVWlOQVowUGIwQmduWW9DYmJQaEUycGF3N3o2WVdXQWJtWmw4WF90ZDVYVTNlVG8tOEllWWFXSWRkSXdFUmZ4c0Z5ak1qbFR5VE5RWkVKby1TSjljcnllMFFaYnZSUVdLaks?oc=5",
    "fecha": "Sat, 21 Nov 2026 15:16:00 GMT",
    "fuente": "LV16.com.ar"
+  },
+  {
+   "titulo": "Argentina Fashion Week Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52QzFTenBaUWMyMzgwV3psNXdTRjRQN3czbkpxbVB4ckRXX1VQZ3hnMmU3UVVuMEx5VGFvQ0s5YkRYN2E2d1Jocm9kNFh1WWY4amg5b2V6RUdjOGN4RlRseHFnZE55U2llUXdsWnB6alM2RjJ4SnJN?oc=5",
+   "fecha": "Sat, 21 Nov 2026 07:04:43 GMT",
+   "fuente": "Diario Norte"
   },
   {
    "titulo": "Crimen en Corrientes: los hijos de Nancy Godoy cuestionan la investigación y piden justicia",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-21T22:13-03:00",
+ "actualizado": "2026-11-21T22:39-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1278,12 +1278,6 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "Javier Milei, EN VIVO: el Gobierno confía en aprobar la suspensión de las PASO y últimas noticias este 21 de noviembre",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGdrN3E2aGpqQXNieE1VcnY5ZEE2R2Z0enlKTmROLTRRd0J3dWhWblNKdW5GUEdicFJpTHN1UTNYcnJ6UEJSaWVMem9PbzZHV2hSU1ZoQm1vNEFvQzZsVlVsaE5DNTdSZHBWdGNDR05vQ1pNbXhPZHpHb290MkF4YVNJWFkzZkc1REV4RFN6UmwyN0NIbHliVl9fTERZckVwYVkwZmhPZ19sNnpzbVVDR2MzMzV0b2RmdUZYZHllV0c4WVpfb0JjZWNuZ2UxcDlLRlNR?oc=5",
-   "fecha": "Sat, 21 Nov 2026 22:32:54 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Juez y Bornoroni invitan a De Loredo a subir al Fiat 600 y unificar la oposición",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDdkd0ZhbDlXa2pVMUdwNnJjM1JVNWFtbUkxM0VVdzZ2RWNhTHNJYTA0cC05RGdoN0Y5Um00UnhBbGJuUUFYU3gzd3JzUFg0NVJNX1FZQmY3WXpaajltbWc1LUtFaGNIM0NBdlhTMUlYcUJMVUMxbmZ3OUtsNlRJamZYQ01pOFhtTHRpMHROVlBqVFNnU1dTQThXQ251eUc4emhjWGo0ZVBMUDRUNnZvcEt1UVZJQlRScDlpMjFDZVh3bGtONXdQUktPRG1Bb3Zub1lRSExDSFg?oc=5",
    "fecha": "Sat, 21 Nov 2026 13:16:24 GMT",
@@ -1294,6 +1288,12 @@
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE4zUWtpa0xIU1FHOFE4aWNqYXFzMG1HTndWekFGd3YyVzA5Yk82RGFTajV1alN4NjNLUmNBMHduaF85c1hwamhJdEItcXZueEdrcFA0NlBzVmVubk5tbUoxTGNGWmRwRmlkUWFobjN6N25KLWZlUjV1MzFjOWRJYWJTT1ljRjRVd2NyeDBJakdWendmdk9aRnd5X25sSE9BY0xTYnpNcTY1NW5rM3ZieEZDNFlXNzg3dnZWQ2swZVlxNHVraXBNQmF4RXp2VkhoVC0xTGsxNjdiN1l5R3QtZA?oc=5",
    "fecha": "Sat, 21 Nov 2026 21:48:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Javier Milei, EN VIVO: el Gobierno confía en aprobar la suspensión de las PASO y últimas noticias este 21 de noviembre",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGdrN3E2aGpqQXNieE1VcnY5ZEE2R2Z0enlKTmROLTRRd0J3dWhWblNKdW5GUEdicFJpTHN1UTNYcnJ6UEJSaWVMem9PbzZHV2hSU1ZoQm1vNEFvQzZsVlVsaE5DNTdSZHBWdGNDR05vQ1pNbXhPZHpHb290MkF4YVNJWFkzZkc1REV4RFN6UmwyN0NIbHliVl9fTERZckVwYVkwZmhPZ19sNnpzbVVDR2MzMzV0b2RmdUZYZHllV0c4WVpfb0JjZWNuZ2UxcDlLRlNR?oc=5",
+   "fecha": "Sat, 21 Nov 2026 22:32:54 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "De ciudad fantasma a boom petrolero: el renacer de Sierra Grande, entre el pleno empleo y el miedo a repetir su peor historia",
@@ -1308,22 +1308,28 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Quién era el carnicero asesinado a balazos tras una discusión por el volumen de la música en Santa Fe",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRlJEWFdDaFJSWlp5Mm81Xzk2aWc3YlFObUxySENwdGlYUmJtaFIwVkwtVVUzMkVBRmpjVGJYSFBvTkQ1OG9WclItUzZXbFhUeHhtbDU0WURPT0FadlhhSmo5M0hGSFo1cjFsdVJ0QWMxamVqYW95V0hmOEV1MDYxN1hkNlhCbndIT2QzcFlyM3ZxM21IQWFYamhlZTFyNDlwZjZtc0Q1bG1iZ2FaSEpjTXJkNmhzTmxwX2pLSkRvMUhDYmN0MFZoUXdEYTVvV2FzRERXS2VrYmZ4WkV5WFpfUkhB?oc=5",
-   "fecha": "Sat, 21 Nov 2026 20:57:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Orrego inauguró la Fiesta Nacional del Sol 2026 y destacó el encuentro de las familias sanjuaninas",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZmtXMTA1eTJCR0pNdFZ3V1oxQTNIdzhjY1l3TXB3RlhhSEM4d1pYX0k4RzBKRUROd0M0WC1IWmxONHVpTXlhZnBUaVhORkRxNTVmNVl3ZHAyT2ZycjBTMGFkbzhLZmdXUDZTWjBXM01iQldyb3hzOFp4YXhsTkVYR0NpN2s4a210QmwxTWxrQ2tna2RtQmdESFRGa2x6LTI2cXJldEpoeFU4QVNaaWZNSzdOczM5azRvVUtibk5UQWdxaGtDMkxBRFl2MXpwMHhUaXFmSndKSFZkdGoxeEE?oc=5",
    "fecha": "Sat, 21 Nov 2026 00:30:43 GMT",
    "fuente": "Diario de Cuyo"
   },
   {
+   "titulo": "Quién era el carnicero asesinado a balazos tras una discusión por el volumen de la música en Santa Fe",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRlJEWFdDaFJSWlp5Mm81Xzk2aWc3YlFObUxySENwdGlYUmJtaFIwVkwtVVUzMkVBRmpjVGJYSFBvTkQ1OG9WclItUzZXbFhUeHhtbDU0WURPT0FadlhhSmo5M0hGSFo1cjFsdVJ0QWMxamVqYW95V0hmOEV1MDYxN1hkNlhCbndIT2QzcFlyM3ZxM21IQWFYamhlZTFyNDlwZjZtc0Q1bG1iZ2FaSEpjTXJkNmhzTmxwX2pLSkRvMUhDYmN0MFZoUXdEYTVvV2FzRERXS2VrYmZ4WkV5WFpfUkhB?oc=5",
+   "fecha": "Sat, 21 Nov 2026 20:57:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
    "titulo": "Murieron tres personas por un brutal choque en Panamericana en el comienzo del fin de semana largo",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkd1SVBIVGpwZU9FZFpza2I4dHZJRUVUM0JJYjNhbHFwQ3Q3N2k5ZFpEbmpUOW9vbFNjcjY0Z2Z1UkhiajNOMjIwWDR0MzFrUUJxY2FaUmJQR0VaLUVUSjhXQ3BTdkRSc1p1M0QwMkxVeWJjUFlqVnhkSWVZN09TRVkwWVNZQzFXb0NGYkt1cElic3pYanJfek1lMWZaOS1ocklpbWF4MklXME5neHF2Ulk0eXd1NUJiU0JmNWdSUWJFenNiamQ0QWJUZHA3TzFPZTFJMQ?oc=5",
    "fecha": "Sat, 21 Nov 2026 13:29:24 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "Regularización dominial: aprueban cambio en ley para facilitar el acceso a la escritura de miles de familias",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG9ZemF5dlkzLTBrOWZiZnVYcmVsRGgtTUZic3IweFExYmZhN25KT25rY09EYTVPNGZXVnlMcFgzQVNNN0d6R1hLcjNwcl9JUEdiY051eEl0dVVKUUdCR2M2RDhiQ0lIdERxcUEwVFc1b2J1YTVTaGVEUFROeTNySTZFcDVzTUQ0NTY4ZmhhUnhOcEZJUVE4N3NJSm9tcEJvVXMyVmkzTkdtX2dWX1g1NlBsSUFvT2FqTVFzUmdOWmxpbmNFc1NEZUtGbVrSAdIBQVVfeXFMUGpnaFNtWVdIZTVZc2hjWTA3RE4xMTIycUc1ZzE0OVFUM21Pd211S2NsSmdDNE1RTUlubWx4QUpQWUZJNWlqUENlYVc5MnJRamxGZWppZng2aDNRWUtNd0Y0cjRtRUlkZko0UHBlUHdrMDA4RW1ZT25VN1ZXalV2QzZCVnFoZFp0c0RlUzd3NDR1TFlQN3J2Y2tJSzZBRU9URmt3aUZKSkdkaURydThRQUt4eVhHaDRTVXNlRTR3UFhKbDBhYzdmUWNLcGxKV2E5dzRR?oc=5",
+   "fecha": "Sat, 21 Nov 2026 03:00:00 GMT",
+   "fuente": "Ambito"
   },
   {
    "titulo": "Alerta amarilla por viento Zonda en San Juan: anticipan ráfagas que podrían superar los 65 km/h",
@@ -1338,34 +1344,28 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Bariloche ya vive el UTMB con miles de corredores y las primeras llegadas al Centro Cívico",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGxITGxMak45cW93X1lRc2lKdEtTVUVCZ3dZNmJFb1pZU284M1gyVHk2Z0lEcm1nUFZxcDc4QTBtbHhIX1R6Z2UxNGNiV25GcE00ZHd5a1ZNOS16R3BydEhqaXNqVC1TY0FaeWxXaXA1MHJKU2FIOHV3OG45NThzRmJZVVlMWDhFajRCazRnMmY4b3RZZTBjTUVLYU9KaW54ck94TEZfVWhfUWtBTERDbWd5Z3NJcWpwZTJxakdpZVJPS1ZvcVlCZDlzb1Iyci01ZGRfbzNzVlVGTVhTbkxCMDFoM1diZ9IB6wFBVV95cUxOb2JmTHdTcnVMMUlEU3NsYkFYdzhTUnlOQTlPdnJiaGczV0dxXzVBQzNMWTdtRE9LbUVYS3FrWFhNbTdaNlZrcXRINDAzcmwyQ2FtNGVQVTV0eXFNR0Z3UHpGSmxYcG85SzJUT25iX1FhSEVVSkpMN2xlZV9NMHk5MnV4dzQtZW9PUE1MT0NoX3cxYm1ZaklydlFXcFgtTkJlQkJtbjBHZ25ZVk9zRmx0SWUxT3FwT0xBR2FCTjgtSVgwSW1wTndnNkJhcTZ4cDUwZzdGaXhfMEJXTmRlaEZnbHMyeWZQRTh4emd3?oc=5",
-   "fecha": "Fri, 20 Nov 2026 13:24:22 GMT",
-   "fuente": "Diario El Cordillerano"
-  },
-  {
-   "titulo": "El fiscal Luciani pidió que se aparte a un perito tasador que designó Cristina Kirchner por sus vínculos con Lázaro Báez",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmctaWFRRmtrMjJiaHhWTFZLTTVHUnR4aDFwWDhNVWVZcXpXeVhKLVJXQ3k2YWladlU4SUhkQVdTSDEzQThUMlVNU0l0VzNEalljbklkSnEzeV80d1JuWlRZS21OVTRGOS1GVzJ0dXFWYnd5NkVSRDhYU0ZMMWxxTWR2UUhHck12U2l2MDNMVGplQzhoRkE0NnY2RGhXQXhKMFdwa2VObnNMVGZHS1Rtb0l2TDBCX0dxazN6SXY0eXZfeUduOUdYejNSX2d4eVNnYm1kc1Bn?oc=5",
-   "fecha": "Sat, 21 Nov 2026 11:00:49 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "Regularización dominial: aprueban cambio en ley para facilitar el acceso a la escritura de miles de familias",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG9ZemF5dlkzLTBrOWZiZnVYcmVsRGgtTUZic3IweFExYmZhN25KT25rY09EYTVPNGZXVnlMcFgzQVNNN0d6R1hLcjNwcl9JUEdiY051eEl0dVVKUUdCR2M2RDhiQ0lIdERxcUEwVFc1b2J1YTVTaGVEUFROeTNySTZFcDVzTUQ0NTY4ZmhhUnhOcEZJUVE4N3NJSm9tcEJvVXMyVmkzTkdtX2dWX1g1NlBsSUFvT2FqTVFzUmdOWmxpbmNFc1NEZUtGbVrSAdIBQVVfeXFMUGpnaFNtWVdIZTVZc2hjWTA3RE4xMTIycUc1ZzE0OVFUM21Pd211S2NsSmdDNE1RTUlubWx4QUpQWUZJNWlqUENlYVc5MnJRamxGZWppZng2aDNRWUtNd0Y0cjRtRUlkZko0UHBlUHdrMDA4RW1ZT25VN1ZXalV2QzZCVnFoZFp0c0RlUzd3NDR1TFlQN3J2Y2tJSzZBRU9URmt3aUZKSkdkaURydThRQUt4eVhHaDRTVXNlRTR3UFhKbDBhYzdmUWNLcGxKV2E5dzRR?oc=5",
-   "fecha": "Sat, 21 Nov 2026 03:00:00 GMT",
-   "fuente": "Ambito"
-  },
-  {
    "titulo": "Día de la Soberanía Nacional: la historia de las tres cadenas con las que la Argentina enfrentó a Inglaterra y Francia en la Vuelta de Obligado",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3JFXzBvTzVWMWRCRVN0RldKQVNOOVdVM3pIRTN4QmNsRkI2UXBwU09xUFhGS3FtUVgzQXpROXhra0xaNWV0eGx1Tm5TY2dPVzU5aXRIazZNMnN3amp3NV9nMTc0bUVnRE5UXy1TY3pDNVNYa2N5bWlLc2VneXI4VHVrWW45VGhmV0VmaVFSdnIxOGZjUG5qRGt5RzdKSjlVT1ZEX0w2Z2g4MVpqMDJWR3FtRGw1b2diZGJTeC1xWm1LbjF4czNaYXlXLXgxMW5ZcjZlc2tROVhFRUFPam1v?oc=5",
    "fecha": "Fri, 20 Nov 2026 09:00:30 GMT",
    "fuente": "Clarin.com"
   },
   {
+   "titulo": "Bariloche ya vive el UTMB con miles de corredores y las primeras llegadas al Centro Cívico",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGxITGxMak45cW93X1lRc2lKdEtTVUVCZ3dZNmJFb1pZU284M1gyVHk2Z0lEcm1nUFZxcDc4QTBtbHhIX1R6Z2UxNGNiV25GcE00ZHd5a1ZNOS16R3BydEhqaXNqVC1TY0FaeWxXaXA1MHJKU2FIOHV3OG45NThzRmJZVVlMWDhFajRCazRnMmY4b3RZZTBjTUVLYU9KaW54ck94TEZfVWhfUWtBTERDbWd5Z3NJcWpwZTJxakdpZVJPS1ZvcVlCZDlzb1Iyci01ZGRfbzNzVlVGTVhTbkxCMDFoM1diZ9IB6wFBVV95cUxOb2JmTHdTcnVMMUlEU3NsYkFYdzhTUnlOQTlPdnJiaGczV0dxXzVBQzNMWTdtRE9LbUVYS3FrWFhNbTdaNlZrcXRINDAzcmwyQ2FtNGVQVTV0eXFNR0Z3UHpGSmxYcG85SzJUT25iX1FhSEVVSkpMN2xlZV9NMHk5MnV4dzQtZW9PUE1MT0NoX3cxYm1ZaklydlFXcFgtTkJlQkJtbjBHZ25ZVk9zRmx0SWUxT3FwT0xBR2FCTjgtSVgwSW1wTndnNkJhcTZ4cDUwZzdGaXhfMEJXTmRlaEZnbHMyeWZQRTh4emd3?oc=5",
+   "fecha": "Fri, 20 Nov 2026 13:24:22 GMT",
+   "fuente": "Diario El Cordillerano"
+  },
+  {
    "titulo": "Cómo hacer un buen chivito al asador: los secretos de dos asadores en la Fiesta del Chivito en Chos Malal",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQkk2VDI4dXg3S2N2dGdWcTIyS1k2VkhjZHBqUXR5TUdnM0s2cEVud2V2cGdMRl9oOVhTNWJNVlhRcmRTbEtHdXRDbGNHeU9MYktFTkxDQUxXVFRqZnppbGRGbTBieXNlYlczMTlfbTV5YmFWTl9NVkVWUkZfT1otNk5QbTNIWEk4ZU4zUWZ6bE5QWXoybjRjdHE3bEcxME53ajltc0djWC15SzJrWTA4eEp4cmlyeFJva0gxMTBxMmhQTllqRW5WaFprNkpJNnA5bnJCYXVlaHkwNnRvLWt2Qkp3NnLSAewBQVVfeXFMTUl0RzY1OXJCRHAtNEhma0pGUE5EWXZCQWtSLTNCUTRIbnZXRHcyNzViZFhtdk13UGFwTmlLLVN2bU42YWNXNkRwRWZPb3Uxek0xTWhkOXFUYWJvcGJHMkl5UDRBQW1NeVczUDhVeElPS29hLWV1Zk1PM0tOVndickUyRi1JX2tOYzFGN2tya1NHa0Z2Y19vZzllejN5UXlsekNzbG9hcFA0UWZWWjdkZWk1a2FnOHBEbmZoNUhXSlZ4WDB6ZURyV2xJb2ZIQmdBQk1CclN4N1RIbkN6cFlfbjU1MUQ0ZktLUG9SOHI?oc=5",
    "fecha": "Sat, 21 Nov 2026 14:28:42 GMT",
    "fuente": "Diario Río Negro"
+  },
+  {
+   "titulo": "Alerta por tormentas fuertes: qué zonas de Entre Ríos se verán afectadas el fin de semana largo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnk5VDJlTmxPSzk2aERWT2h3eUFfd2VOb2dIVnFoTHF5ZEJxdXFBNjlVejJsUWUxQnB4REFqXzBQSFk3Ny1nbVczNDVremNjX1pSazNPa3FOeEhnSTI3SzFTVU01enVVQzNNdmZmTVVoSlZnbFBlWmdpSTlYSnNYVWMtTUhJVW9ZaU80QXRSUzJydVhTWTYxcVdGNTNIUjQwODVja1F0YXROZDRiaVMxeS0ydjRESEpwaUxxQlNtWmtxbDJMTE00YtIBwgFBVV95cUxPMW5YSnU4LWJNdW9rREJmeEdwRDgwaVo3YUtKOVl2cnlaekVQbzNkQmp4aVFsWmREX3ByNjk5SDQtZndiQm5fX2xXOEgxUncxTDFkcHpFa255Tk9nRmcxR1NEc0FwRnRuZUVYOURfNVBkMy1SM3VpVXhxVjlwNUlkMm9zUDMtSDZZNUlpNFpjbzVtZXkyUUwtNFkteDZEN1NacUMxSU9YSy1ZT1A1TFZ4VEFLbU5IaHg1cHpJZ2lWbWFqdw?oc=5",
+   "fecha": "Sat, 21 Nov 2026 19:10:06 GMT",
+   "fuente": "Elonce.com"
   }
  ],
  "finanzas_argy": [
