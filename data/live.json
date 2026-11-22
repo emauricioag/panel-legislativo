@@ -963,9 +963,9 @@
    "fuente": "Identidad Correntina"
   },
   {
-   "titulo": "Semana inestable en Corrientes: cuándo se esperan lluvias y tormentas",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjAzNnlDZVdfY1l0NUFjc0MxR09iN1hTTk5hRmxxaWd4cHJoWTFxOWdrZUM1Z0hlVzRVWHAzX3UxaTN3TW5pZ3Jia1dSd3J4dnhYbThheDFFMU1xdlpDNy1TSTNxVDNaWjRjd3I1U29EMjh5d2dMM1NuZjNJa0RZT3RZN3FlMVY2blpNTFRkOWgzeklWeTlWU3NzNndFWVBFMEFtX09jUHpKSlhRejUtS3hhUy1YZVd1Zmo3bmFiLU95dTg?oc=5",
-   "fecha": "Sun, 22 Nov 2026 18:17:05 GMT",
+   "titulo": "El Congreso iniciará una semana de intensa actividad",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEFoMzlHcUpCZ0lvU29VVWZGWHBHNEljOGlQbllpZy00dTlJWndPNmFDSGg3RS1FNmdodnJCUURHRnE4bFBZNjh1MlNiMWNvZnQzanFQZG01b3hQaXdBdng5a2QzTkVoUjI4S3hsNW5Od1hfZWVxSjQ5U3dVOEZxQ3JGUGxpUW1ReEdRaGgxRHdmZXJwUGFzRm9WQ0RkbW56U2hOQ3NFQzA5MWs?oc=5",
+   "fecha": "Sun, 22 Nov 2026 11:05:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
@@ -981,10 +981,10 @@
    "fuente": "Noticias del paraná"
   },
   {
-   "titulo": "Corrientes suma una planta maderera que proyecta exportar 100 contenedores mensuales",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUo0bnBIeC1PdVdXSnNab1c1dEhuSWs0X3g4MVV1VnMyY1VpRGwzYzdFZ0ZfQkgycllPNWlaTjMzS1p5OHlpZUlPYzdtZmhLVDQtbzExQUpDRkFFcUY1Q3JxdFM2U2ZQTjRRblBHVlA1T0s2ZUJYNXphNnY3Q1NBelo2aXVoUVBWbUdNcTF4eUR0Vjc0b2ZmYVJrN0lKVDI3UEJBVVFib2xpUTh2ZlE?oc=5",
-   "fecha": "Sun, 22 Nov 2026 01:10:37 GMT",
-   "fuente": "Economis"
+   "titulo": "Sin primarias, LLA no tiene cómo ordenar a sus candidatos y la Casa Rosada negocia con los gobernadores",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnc3Qkc5QlExNnRhcEFOYWo1SHpJSTVZcDVlUGsyUUVpNUZDOGVHd3A0b0gxS3h4bld2MVktbnhYcjhDNGlyLVFxZUlxNUVNcmk4aG5tM2VkUEh6RDNyS3Q5aXkwaXpBUHdpX1ZiX2pKY2ZrVTZ3V1hyXzBPMEMyQlVsQkN4RTNqRGRCalRhNTBuZzB2ejZfQ0ozQW9OYVJ1YXZJSTFjYlZZSHZTQ05FbkItdV82emg3bDJUdU9EY25RWEtYMGNEOXBaeGprVFJhazFkX29KY3o5OHltdlotOQ?oc=5",
+   "fecha": "Sat, 21 Nov 2026 16:04:56 GMT",
+   "fuente": "Perfil"
   }
  ],
  "expedientes": {
@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-22T15:53-03:00",
+ "actualizado": "2026-11-22T16:20-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Gracias a Milei, dos contratistas se retiraron y un astillero evalúa cancelar su contrato con Sea Lion",
+    "link": "https://derechadiario.com.ar/economia/gracias-milei-dos-contratistas-retiraron-astillero-evalua-cancelar-contrato-sea-lion",
+    "fecha": "Sun, 22 Nov 2026 18:55:59 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "La morosidad de los créditos volvió a bajar en septiembre, según el BCRA",
     "link": "https://derechadiario.com.ar/economia/morosidad-creditos-volvio-bajar-en-septiembre-segun-bcra",
@@ -1261,12 +1267,6 @@
     "link": "https://derechadiario.com.ar/economia/consumo-masivo-crecio-fuerte-en-octubre-suba-6-2-respecto-septiembre",
     "fecha": "Sat, 21 Nov 2026 17:25:21 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Escándalo en la UBA: la Facultad de Ciencias Sociales homenajeará al terrorista Mario Roberto Santucho con una escultura",
-    "link": "https://derechadiario.com.ar/politica/escandalo-en-uba-facultad-ciencias-sociales-homenajeara-terrorista-mario-roberto-santucho-escultura",
-    "fecha": "Sat, 21 Nov 2026 02:14:17 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -1274,14 +1274,8 @@
   {
    "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWEzR0pqM3podVQxUzJyV0F1cC1HNVlFaEo2V01ac1VaZjNLdk1DS0NxRlotZUViX3dsZHpFYW1nN013VktwOEZvM1NxUE14NWVkMU01WnNUdlM2OC1YaV9NeGZEaE1mUno1RThVTUJPRFcwYUVKLUNZOVBLdERHTXpSTFhqM3lNRFlCM2labTMtT0dQVTU5bUMyWVY1dGdqSURDWnNVT2dFNURBTVFlcVZHSzFBNW04eW9zN1Rn?oc=5",
-   "fecha": "Sun, 22 Nov 2026 18:50:45 GMT",
+   "fecha": "Sun, 22 Nov 2026 18:56:50 GMT",
    "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "A una semana del fallo del Tribunal del Mar, Quirno volvió a reclamar que se frene el proyecto Sea Lion en Malvinas",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZDlmeTZCYXhRN2FfaU1oZGg1ZU91WjNNcm5ZSDFUcDN5YXJ2N0N5QlFVcWFfUVZMR29JTGZDQngzclZZYk9jUnpwT2lVSmp5LWs1ejBkRFRyOFJFUnVvUjdJX1ZmUU9sa2xoOUxvWEJadmFSOVd3WHRudVlwaWZqaDRyR0lWWTJSNzcxVFJDX0ZYdXhncVdCSGprTVZkdVFrekp5VjR1bWRaMTlBSWdzRkdTbHdyVFBhSy0xYU9GYnpkYnBqZ1cwSW5HbFV5NDE4ZGhpaUZQRzQyQkllRkRDUC1YOWwwYUFkR3BkSmluNzXSAYsCQVVfeXFMT1BMSVM4Z0xwUWVVTlpmejJqRHpfZXVNUTFuNVVhWEJoYkdHeGtzSnp5THBUR1JHQUFIRmdEdGltUk1jU2Q0THZMM2lya0FWcDZmWGt3d0dUNzlYQzlsZjRVNlJ4UjRUcGI2aVFqQmwwSV9UdmJiQmtPMmhwRDd6VFFNTFY5Rmx3LUVicUkxelhqYkZ6X3NZV3VtTzZLNUV3ZndCQlpDc3FnQTlNcERPQ0tkMF9BNENfSHc1WTRfaDZ5SGNlRGlVVDhKbXItX3hnUXNBcFlwVlJWU1BLVjVGX05wWFc4N0JwanEteW5EZlcxMVM3b1FDcm91VzkyN2RiSFloQnlJWVlPbWZn?oc=5",
-   "fecha": "Sun, 22 Nov 2026 04:02:00 GMT",
-   "fuente": "Infobae"
   },
   {
    "titulo": "Macri se acerca, pero no firma",
@@ -1290,10 +1284,10 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "El cálculo político de Milei detrás de la suspensión de las PASO: reelección, divisiones del PJ y control de las listas",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU25mak9iUlV6NnZKZUIzQU1VUHh1UGo2M0xiaUxNWS1CX2pJLTkxeXFBUUZpSVl4Q3RkOERLSGdfYlNKS3p3ZmhsWnAyUEtKeTBpRlJsUmRkLXBHajVjcjFWMldNbjljd2lUV1drSzhxRVgyRTltcTJpclRXYXVfdUxkMk5HdFJUbk5hMWoyYy1iME10cC1EQWdlamNZQ21BSWp4aW5hNHNOQnR5ajBVY25CNzNnSWw0WEJUUG5LOXVNNThxWml3dVdTdll2QTRNbjBDREZsVVFKdzJxMHJ4aXBZVWdZUGw2OC1LQ9IBgAJBVV95cUxOazRuVEpVMklMZ2xnNGtnVzBQbzVELS1LNHpVZW5ZUlV6X1ZCc0ZqVXlGZ1VaZnlvQ0F2ZUNzOTBQcW1iN25tREd3TTl1cWNlOWJFWXBRZk5GRDBVRXltaG1FWC1rNWZySmRNZ1BLYWZnTWUySGI2dHJzV2lWQzBoazQ2Q1JET1I1WmNmLVQydy1uOF9RZ1pNRkh4OElmNGlIdFd1SDNwNlpPVTBRV1piMS1Oa0hWakRmNTBfc3Z2cWlxYTZiSWtDaGswbnpiN0V6dXEyNXMxcnFCeGhRaENQRkJZb3FZNnEtTy1qbmF1RVRRdUhSZEhHY3dORUJfU0Nv?oc=5",
-   "fecha": "Sun, 22 Nov 2026 14:58:58 GMT",
-   "fuente": "TN"
+   "titulo": "A una semana del fallo del Tribunal del Mar, Quirno volvió a reclamar que se frene el proyecto Sea Lion en Malvinas",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZDlmeTZCYXhRN2FfaU1oZGg1ZU91WjNNcm5ZSDFUcDN5YXJ2N0N5QlFVcWFfUVZMR29JTGZDQngzclZZYk9jUnpwT2lVSmp5LWs1ejBkRFRyOFJFUnVvUjdJX1ZmUU9sa2xoOUxvWEJadmFSOVd3WHRudVlwaWZqaDRyR0lWWTJSNzcxVFJDX0ZYdXhncVdCSGprTVZkdVFrekp5VjR1bWRaMTlBSWdzRkdTbHdyVFBhSy0xYU9GYnpkYnBqZ1cwSW5HbFV5NDE4ZGhpaUZQRzQyQkllRkRDUC1YOWwwYUFkR3BkSmluNzXSAYsCQVVfeXFMT1BMSVM4Z0xwUWVVTlpmejJqRHpfZXVNUTFuNVVhWEJoYkdHeGtzSnp5THBUR1JHQUFIRmdEdGltUk1jU2Q0THZMM2lya0FWcDZmWGt3d0dUNzlYQzlsZjRVNlJ4UjRUcGI2aVFqQmwwSV9UdmJiQmtPMmhwRDd6VFFNTFY5Rmx3LUVicUkxelhqYkZ6X3NZV3VtTzZLNUV3ZndCQlpDc3FnQTlNcERPQ0tkMF9BNENfSHc1WTRfaDZ5SGNlRGlVVDhKbXItX3hnUXNBcFlwVlJWU1BLVjVGX05wWFc4N0JwanEteW5EZlcxMVM3b1FDcm91VzkyN2RiSFloQnlJWVlPbWZn?oc=5",
+   "fecha": "Sun, 22 Nov 2026 04:02:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Así es el megaproyecto para exportar gas que será la mayor inversión de la historia argentina",
@@ -1306,12 +1300,6 @@
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1MyQVN5eEJmV0swN0VkcHAzMXpObmNhVE53b215c092LTdiTmlfaE5fX3AybkducEJyNmtkaE1ITXlwS2ZtVl9ueGZUT0NNTWxuZTVNQklBcEp2NU5SWllmSEc5NF9tNHVVYXZvLWtra1pOQW5mNWxtaGZFY2pfYVZqYW4zMXE1S1VSRDBSVHhLd29kWW9CdWlMVUx4dUFWV2hpbkwzU2tWTm9ZWlhRR3NsaHd2Z0ZqMThjWTJ0WXRFZ0h2YlJ5cU9PYUJ6d28?oc=5",
    "fecha": "Sun, 22 Nov 2026 04:51:00 GMT",
    "fuente": "Diario de Cuyo"
-  },
-  {
-   "titulo": "En fotos: así se vivió la segunda noche de la 18° Fiesta del Chivito",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnBmNjVrZ2NfbjF0NDU4ck52dkNxZDh0d2M4aUlaeWxENThQUjFqcG1tclR1NHlfcF9vb1FQNG05VmFwOGoyQ1I2aU1VS3gwZ0JrNjJLZmg0bTY2WDN3TmItN09SOExwMUhSTUFsUWtXRHBieWsxbU15dFhLaXM2dkhVMk1mcmQ4WnNCdTFKOXJuWmhaS0JWYnNzQ0VkMXdleG5uelAxSlotQdIBrwFBVV95cUxQTmFOdmRFeDdkMHl1ZEY1bGNvNmdPNFFoSU9EeXU5M0FKVXNieGJ2ZWNlTTdzMkR4SzFmQ1BsVkdSSzEwVHQ4UVRwVG1BZHRvS056d2VURHhERFZDZTRBLVJrbHZPYUVaV3F0WkJmTGV2SThLM0JXemU5TU5qRGgyWmtYVFQ3Mzg1NHlpdWVIR015VlJVVVJ4cjUzLXdqZ1pZbUNLdTZkRXJQZGt1ci1J?oc=5",
-   "fecha": "Sun, 22 Nov 2026 11:49:17 GMT",
-   "fuente": "Lmneuquen.com"
   },
   {
    "titulo": "Navidad con casa propia: Poggi entregó 280 viviendas a familias de la ciudad de San Luis",
@@ -1344,16 +1332,22 @@
    "fuente": "La Gaceta"
   },
   {
-   "titulo": "Ante el freno de la actividad, el Gobierno descarta un cambio de rumbo, se ata a la ortodoxia y profundiza el ajuste",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVh1XzFTbUVpSWxMOXc4clhmQ0FRSHJjVkdFQUpmWk5RN1Rwci00ZmdsZWZRNkg2cXNsbWYzMzN2X3NQZ0VlVGtCYUl5S2tPdkJGck1mZ3lSSnkyVC16bU5qOEVHMkRlVU92NTRfZGU1eFdWYVdxUXR5Q0tKblc1N1RmQ2swRGE4dUx0LXFCQVpuTnFPWklmV0xyMExvRnc4cmM5N2xOVUtNR044eGstN01qRk9GRmpoektUcDNNR0hOMDU1YU16Y0FiLWdTR3dVbXRVMnhsb2xwbTdRelZKNmxTUnhGdk5WdDVaeDc1SDU?oc=5",
-   "fecha": "Sat, 21 Nov 2026 05:08:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "De Uruguay a La Fiesta del Chivito en Motorhome: la travesía de Silvana y Gerardo para llegar a Chos Malal",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQblJnZFJzNXJlVl9pUXNubTY0a3dHWTZaajN5MlFkOTd6OEEzY1Y2U2ZJQ2s2MkVwTGxreHpjd0s3b0d6eWdtR3MxRWFBYW95ZHoyMXFRbUFuc2drTmVrSmUwUHVfbUpSbWR1ampCbDNNNHdJVEN2X1BINFR2bnM4LXZhWk5oUzJ5UDExcmN6bXB4bDY0eGtCd2w3cmVUMmlBb2tVUUZMNDBDWEt3RWdhRmVCUXFBVWtqWkZyVnoxTU1ockxzTjRFSDV6TE9tLV96OWduZ3cxaVd6cWU2enFfR0NZZE1Ld9IB7gFBVV95cUxPd09sMl9qdGk4N012d0ZaSkpTT0dnb0pMQjNZaENjaV91UzFGU2x4dG1QdTV6bmVYZlo5WUVPQmV3VWJiVjJLUGlTZnE0djU0R1V4MlJlMVJIb21zdXVOOXBZWU0ybUk4STFma2NVVDU3aTZYUl9JcmJVZk0yeG8xa245THAtYldrTlJMYVpFanVoN3lSRV9IOS1XVEUwQTBMcHhiTTJHX2M4cXEyNWRYOEhYMmRmZmQxOUhPTFlqa0V6RnpmUWFoVHN2MEpLdkY2TExVdU13SnZWM2lTSzJfY011N3JpRk8yd0Z3djF3?oc=5",
+   "fecha": "Sat, 21 Nov 2026 20:06:33 GMT",
+   "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "Más de 130 kilómetros de montaña y un desafío que comenzó de noche en el Centro Cívico",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY2s1dWJGUnY2ay14b0pKaEo0STNtbkJ3b0ZZV3JXbEZrM2hxUTRaMFVfZ3MyS0JRODc2X2g5Rk9aMWFLTUxqN05GNlF3Q09CQUxodkcxaXZXSU5OZWVSRFFfMlVvMXlqd2tCWEtDZGNYZTRRS3BfcFZ6Q2ZQY1BiRGVIRW92RVJsODRiYmdPeVF0WjBzMVFCWVdOZjJiUW1CZUpITEtVWGNHZ05vS0VtMUxvT1AyTDlXcnFGRDczM1AxbTgwM2NDSnBwOEtlYXZlbkpBTEN4WTdWUG41cFNRN9IB5gFBVV95cUxOTkthdDBEZ0g3V28wNTZ2RjN4QWlzN3NCRmlwUVlBZ0FVNFNyakQwb1k3QTBIS0FUdWJiWGdIU1ptenZkZnY5RWdJQ0I5ZDJXU1NFUzdTc2I4VUd2QXNod2hOTEFrbHE5R2hsckV1RjZGNW1kQ1g4STV0MF9PaDJMTUY1NFdSNnJObkZsU3FwZFdJRDlJZjhobG5OYlJ4WmlGRmd1dDY4YVl4NTV3aHRSX3RHVnVUeUZXNEVSazd3eTVFdldwQXlJb0xOMlc0UVRhYlhQX1g0SWNfODhJQ1pVMXRNRnNWZw?oc=5",
-   "fecha": "Sat, 21 Nov 2026 17:19:25 GMT",
-   "fuente": "Diario El Cordillerano"
+   "titulo": "Javier Milei inicia este martes una nueva etapa: vivir en recesión",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUtZaUtiQ1ZGWmZQQXMtSVBZdVhuektWdVhMNG1uU251U2RLTDI0cEtPTHpOX19oYXBoZ1puWWNqQUdSaVMyWDVpMDNDSHNZdHZ0ZHBmaUVxX2pWWjBBNElXR0dfSEhCeXF6UXBqUjlCRUFPSXp6VzgwX2lhUGt1WmU2THI1ZmdBUEJwTkZQc04tSFNUS1U5MkQwaE1WQ2pqX3RvWGtSUmZNZTlQbFhET3M4UQ?oc=5",
+   "fecha": "Sat, 21 Nov 2026 03:27:50 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "Hallaron muerta a una mujer de 92 años en Cipolletti y demoraron a un nieto que convivía con ella",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNHpqTFNqdTU4WFhRRUltX3JLTjNFT0ZHOGpCSzNkc1FDd0tCRWdJRVVTci1pZGppRE9kSmFNczFLLUsyY3JyN0NjV3NmUlk5dXhJVzk4NFRXWFdqN29lc2pRQ0dnRnRBUzNoMGhmYlRDUFpDYzY1eXNxQ1g5Z0xCQU9WLWdvX1JWM3JrLUptV3FrQldpdEF3bXNoaU12OUNFY21MTXNDYzBCaTJUOGN4UlVXN3hORDh6b0Nxdy04TG9MaU1NN2c5TFctVVM3cE9oZGo1ckhEczM5elBKRmhpNHVWX210enRz0gGDAkFVX3lxTE9SX0xjUHE0emloS2dlNzdqdENLQUwzRkNLaGZsSGduaF9oRTQ3MFRTRHVxOEh2azlZcEVVSVdlYXczeUNXX2pnNTdWN3h0NFBzLVhYOXI3VDlZYkhadFZVSVVHSEx6eDU5TkZyTnZHVk9WakwxNko4S3RSTHh4NDIxb25kci1uWEdsOGdjYm91R3B2M2RNODJacDIzX0lLTVJHcGZIQVo4X0gtN0VfN19uWW50VmVjd1RGd2RQZVUyRENRZEZNRmVUcC1YWEthSUQxZXlnZE9sY2t0X1Z0d1VmY0VuNFZKNHVLQTdRZVQ4YnI1VWhKSnhySk9hWGJwQ3RaTW8?oc=5",
+   "fecha": "Sun, 22 Nov 2026 15:12:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "El Ejército ayudará en la obra del arroyo Carranza tras las gestiones del gobernador neuquino",
@@ -1366,6 +1360,12 @@
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2xBazFQZmtDV3BYMF95aXExNWFQYUtzeGpWSGNBYWxpSWVKcE51YmIwcDVYNUNFWmU4WWNxSDF0ajl4TUUtOEVCNWNjaklnMEl2NzlFSlluY3hZVzBFclZVQ25CeUR4WmpRQ3ZSZkxCSHhzTFVuME9hY1FNQkduN0FNRExZQzQtMkxQYW1xUzhBTzE3T1gyc3ZsNU5sSlRuaDRNNVRCNzJFbTl6QjlOSmhiOVhBVl8zd05fMGJ4MHdpZ3ZsLVNkeQ?oc=5",
    "fecha": "Sun, 22 Nov 2026 09:01:02 GMT",
    "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Más de 130 kilómetros de montaña y un desafío que comenzó de noche en el Centro Cívico",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY2s1dWJGUnY2ay14b0pKaEo0STNtbkJ3b0ZZV3JXbEZrM2hxUTRaMFVfZ3MyS0JRODc2X2g5Rk9aMWFLTUxqN05GNlF3Q09CQUxodkcxaXZXSU5OZWVSRFFfMlVvMXlqd2tCWEtDZGNYZTRRS3BfcFZ6Q2ZQY1BiRGVIRW92RVJsODRiYmdPeVF0WjBzMVFCWVdOZjJiUW1CZUpITEtVWGNHZ05vS0VtMUxvT1AyTDlXcnFGRDczM1AxbTgwM2NDSnBwOEtlYXZlbkpBTEN4WTdWUG41cFNRN9IB5gFBVV95cUxOTkthdDBEZ0g3V28wNTZ2RjN4QWlzN3NCRmlwUVlBZ0FVNFNyakQwb1k3QTBIS0FUdWJiWGdIU1ptenZkZnY5RWdJQ0I5ZDJXU1NFUzdTc2I4VUd2QXNod2hOTEFrbHE5R2hsckV1RjZGNW1kQ1g4STV0MF9PaDJMTUY1NFdSNnJObkZsU3FwZFdJRDlJZjhobG5OYlJ4WmlGRmd1dDY4YVl4NTV3aHRSX3RHVnVUeUZXNEVSazd3eTVFdldwQXlJb0xOMlc0UVRhYlhQX1g0SWNfODhJQ1pVMXRNRnNWZw?oc=5",
+   "fecha": "Sat, 21 Nov 2026 17:19:25 GMT",
+   "fuente": "Diario El Cordillerano"
   }
  ],
  "finanzas_argy": [
