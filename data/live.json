@@ -927,6 +927,12 @@
    "fuente": "Cadena de Radios"
   },
   {
+   "titulo": "Corrientes: una niña de casi dos años lucha por su vida tras caer a un bañadero de ganado",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGNWYzRBN1NwMWZKeGtEY0pGeHh0OWhtSTlkUmhYOVg3WFI5MXF4cW9mMXg1RXROMWZ3LXI0cGlNOXN0Z0VXQlZKaHBYMFpOMGxuS1J2RWRibVh4OVR3SlFZRjY1YWxxdkZ2cFlQdU1aa2VoeFlRcWNwbkJ0SWNmS3N6RXRWbGJ4OUNaZEVhVDl2aDBhSkVPRHlWNHlFTW5QMVhQZHlQeUkzeEVfckNQSVlfV1RjNDZKemFfc2ktR1dEQdIBuwFBVV95cUxOZ0lIQktEYklyUHB4QlQ4VWdqVjFwWXpySlhVZGZTNE02bDFVVnF6UWwzQm5hdzhuV3hBbUpkS1VZaEk3cDZBYkJDTHhla0RYTDBoakhQTkFUajNMakFWSGhBbC1hSEk1VVZmcE1LUi1DRTVqNkk1VkdVQzRjNDlRbkFRY3BaR21LOV8xUlNTemVfMUlSckFHVHJGMWxwYjBmLWluYjAzb1J4bVV2blJYZVBUR2FoNWo2REo0?oc=5",
+   "fecha": "Sat, 21 Nov 2026 23:42:57 GMT",
+   "fuente": "Elonce.com"
+  },
+  {
    "titulo": "El Tren Solidario viaja hacia Chaco y Corrientes con 400 toneladas de ayuda",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUJyRUpFWDJRaHA0bG9JTHloS25qa1dmMVdKc2NwZVo5eUVRMklIVEoyWnZJMUM4QTJrUmExZXpWcWZoR2ZiVW85cl93UmdEZExtVWlOQVowUGIwQmduWW9DYmJQaEUycGF3N3o2WVdXQWJtWmw4WF90ZDVYVTNlVG8tOEllWWFXSWRkSXdFUmZ4c0Z5ak1qbFR5VE5RWkVKby1TSjljcnllMFFaYnZSUVdLaks?oc=5",
    "fecha": "Sat, 21 Nov 2026 15:16:00 GMT",
@@ -949,12 +955,6 @@
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSzhvbm1Sb2x2YWRSVnZJdkh2R3poQVpMMzROcVk2QW5peXhJNmIxWUhRWWZYMWVnS0x5eHQzbm1YWXF1STlKbjFjTTVWS3ZxY2pza2R5d1VxbUdLN1R3a3pUbWxvVU1QZ0I3MUtOUGVkUE4zTFB4V1dEVDY4bHUzVU1QRHM3b1NYUXJocm9WalFybWU1V0VYWGs2QllCWW1NS2llRUpMcElJaEFTUlVvV1JWdmN6UXFYZnBiOHBwNUMzZHQ5TkRFZ1ZkTUZ0YlBCaFpPSjFKcHFMZC1ZQmVsT1B1ZUVvZWpTVVhYYlZ2emdFMkJrYV8tcjNBM1JtUdIBmAJBVV95cUxQTF8yNjYyalFzQzFPaGNoa1JoQ0R3SHBxSDU1a0hQSGppZUVoOEJCMXVDTUljWEhQNTFxLVE1WUJEc1ktVXFpVDB2QV9GcTVHR2NLVGtYU1dXT2hEOEdLSDdBTzh0VkxPdzBLTGI1N2dQMGZ1cktKUU44UGlXd296dngySGFfQjJpQjdkY3Y1WHBVSFY4cmVSX2UySW5mNHFPbHN1dVJWWU1FdUhPeW42S0pJbHVRM0JaOTh3ZGtCdjBfWDZWdHk1MHc0eEhFQi1pdmNUOEVTdnhYS3JZVi1UY2txb0w2UnlVZlhBU0t3ZzliVUJxNTkxTkxmODk5TG1rM1prYnd4MjdBZ0NNWDVqdHF0SmQwSFZR?oc=5",
    "fecha": "Sat, 21 Nov 2026 11:30:00 GMT",
    "fuente": "Infobae"
-  },
-  {
-   "titulo": "“MorryCream”, de Bella Vista obtiene primer premio en Educa Emprende 2026",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzRfRndxMFNWeVh1LUxrVkR0U19hOWNPemZkTlhmMXZsbVNFbEY4MUJSSFZMYjBOTVI0bGFCQmJWeXU4QVdNZGRGekMwbThxZGpTTlBsZ2REczhXNnpaWkNORE5CcGFiRDlpSW5GWWZ4VzY2anR6X01qWmVDc0lMQlpYNHltZENwdEVTUTBvN21sZDJ1UjRkSTRxalp5TllHY1VDRG90MTAzczRqOG9qbk9pSkM5bElTeVp2Nw?oc=5",
-   "fecha": "Sat, 21 Nov 2026 15:05:46 GMT",
-   "fuente": "Momarandu Corrientes"
   },
   {
    "titulo": "Presupuesto 2027. ¿Qué se juega Corrientes en Diputados?",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-21T21:46-03:00",
+ "actualizado": "2026-11-21T22:13-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,10 +1272,10 @@
  },
  "nacionales": [
   {
-   "titulo": "En una paz incipiente, el peronismo unido designó a Máximo como presidente del Congreso del PJ",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZHB3Zk5TWHpfb1ktRjkwbl9zMTVaTUlleGc0MkRNdFp3QTBDcXN4dmpNUGFYck5MV09sN29OdFhwTDJOQTA3MTBJZmxOUGh4ZlNFdk1JdzlLOEZ6TFNrNlcyeVBKdUdFc0tvQS1YLVRFMzBjY3FtY1NGZ0xEb0FQQ213c0NaMllVQWhUNUdONXlJcHNJNUVxb2tNVkpPcUZGZ1k1MFZxaHljOGYxdXpIYTZOVmVsV1VHYU95OE5WaVZzMkhUdFJDSXNGVnBlUQ?oc=5",
-   "fecha": "Sat, 21 Nov 2026 17:42:19 GMT",
-   "fuente": "Página|12"
+   "titulo": "Tras el acuerdo con Kicillof, Máximo Kirchner asumió como presidente del Congreso del PJ bonaerense",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEl2SkZpb1NodC1aR192Y0dGeVB1bDJ6RHhpX29tZjJxQkpiNzR6MTNTbFdqVVhxcVhoaDlLczV0LWVWckkxaVVfX3J3TWVkZ3VlYVBjZ1kxNnZaM1pWVWs0aHRkV2s5THgzcDJpMTI3d3hTZVpXMDdvQXFfVzFka0tHM1h3a2sySUNjN1Z6bzQtSU1fZ3loZlpUMmpFZ1pVTE9XdTdTRktuQnNfVnNralNucVFTeW5EaGJsZHNnZlRucEFiZGx6bGlKUnhldXdMME1OWnRBM2F5czg?oc=5",
+   "fecha": "Sat, 21 Nov 2026 17:54:59 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Javier Milei, EN VIVO: el Gobierno confía en aprobar la suspensión de las PASO y últimas noticias este 21 de noviembre",
@@ -1296,10 +1296,10 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Caputo anunció que entró al RIGI “la mayor inversión de la historia argentina”",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3NCZloyWjlvSlBZVmVKQ0EtYTBWNXk1cGRxLXI4cUJYRnNCOHNuc3UxZnpMeVZjS3p5UFlzMTJqVmJuazVFMUt4cEdnT3dBeHFhellTUGdBRmRYd3N5MzFpME1qNnZYMW54SkRnZF9QV0lWRl9rY25JRkg1amlzbG0zaUtGZVRVSld6YVpLOS1oUjMyT3lzNDBob21saUhVcGEzM0p5SXlCNTdTVkRwNnVqeWtTSnpFZkZWMXVn?oc=5",
-   "fecha": "Fri, 20 Nov 2026 21:02:00 GMT",
-   "fuente": "Perfil"
+   "titulo": "De ciudad fantasma a boom petrolero: el renacer de Sierra Grande, entre el pleno empleo y el miedo a repetir su peor historia",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMzYzZlRuR2FZU1ROaGFhZ19jV2lGRG1nQnA4OHVrTkNUNW90cnBMNmVCNjZMa0hNWU5LSkc5VHdyZ0cxdVZhdkNSTlFQeVJkb3lqbHhON0FLSFZLOG5KV0RmM0lOZXlOd0p6aTJsaEg3ZGhoZjRyX1BkUjNteGU5eUt6T283YXM1WXlTNVd2VVdwdnhxS3RrNzcxR3ZSRERiLWo3dWlRbHozMzNfaXJNQnRKdkpwWEw4dmdEV1lzMllud0YzMFNhS2hpVkFaYWx1SmM0ZnFnaFNqRVgtR0M3TTNYNF9DUkU?oc=5",
+   "fecha": "Sat, 21 Nov 2026 09:06:46 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Polémico homenaje de la Facultad de Ciencias Sociales de la UBA al exjefe guerrillero Mario Roberto Santucho",
@@ -1320,12 +1320,6 @@
    "fuente": "Diario de Cuyo"
   },
   {
-   "titulo": "El fiscal Luciani pidió que se aparte a un perito tasador que designó Cristina Kirchner por sus vínculos con Lázaro Báez",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmctaWFRRmtrMjJiaHhWTFZLTTVHUnR4aDFwWDhNVWVZcXpXeVhKLVJXQ3k2YWladlU4SUhkQVdTSDEzQThUMlVNU0l0VzNEalljbklkSnEzeV80d1JuWlRZS21OVTRGOS1GVzJ0dXFWYnd5NkVSRDhYU0ZMMWxxTWR2UUhHck12U2l2MDNMVGplQzhoRkE0NnY2RGhXQXhKMFdwa2VObnNMVGZHS1Rtb0l2TDBCX0dxazN6SXY0eXZfeUduOUdYejNSX2d4eVNnYm1kc1Bn?oc=5",
-   "fecha": "Sat, 21 Nov 2026 11:00:49 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Murieron tres personas por un brutal choque en Panamericana en el comienzo del fin de semana largo",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkd1SVBIVGpwZU9FZFpza2I4dHZJRUVUM0JJYjNhbHFwQ3Q3N2k5ZFpEbmpUOW9vbFNjcjY0Z2Z1UkhiajNOMjIwWDR0MzFrUUJxY2FaUmJQR0VaLUVUSjhXQ3BTdkRSc1p1M0QwMkxVeWJjUFlqVnhkSWVZN09TRVkwWVNZQzFXb0NGYkt1cElic3pYanJfek1lMWZaOS1ocklpbWF4MklXME5neHF2Ulk0eXd1NUJiU0JmNWdSUWJFenNiamQ0QWJUZHA3TzFPZTFJMQ?oc=5",
    "fecha": "Sat, 21 Nov 2026 13:29:24 GMT",
@@ -1336,12 +1330,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS21wQ29pUk1YbVVnaUlFMG85REhVQjFTTl9BLXQtNWpkRmx6Q040ajktVk45WnRseWlHRnhQRnpGQzdMYXR6dUh6eEZTZE9RTDNXdFdaaGE1SmlRWVdQOHBzNlk3c201ZTBfZkFmV0VqX3d0RnJoUmYzdFF4QW1OaXZVYWlFMjB5TVI1Q0d2X1IxTE4tcVpBSkNUSHBPb2NDdl9ETlpkQmlKLUpoRC1VTjdOczdCdWJLek9QdmhlUW52RWIxMmZiV3RIYlY3UTIxNTlpNUVzenJ0NS1fc2xF?oc=5",
    "fecha": "Sat, 21 Nov 2026 17:26:00 GMT",
    "fuente": "Tiempo de San Juan"
-  },
-  {
-   "titulo": "Regularización dominial: aprueban cambio en ley para facilitar el acceso a la escritura de miles de familias",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG9ZemF5dlkzLTBrOWZiZnVYcmVsRGgtTUZic3IweFExYmZhN25KT25rY09EYTVPNGZXVnlMcFgzQVNNN0d6R1hLcjNwcl9JUEdiY051eEl0dVVKUUdCR2M2RDhiQ0lIdERxcUEwVFc1b2J1YTVTaGVEUFROeTNySTZFcDVzTUQ0NTY4ZmhhUnhOcEZJUVE4N3NJSm9tcEJvVXMyVmkzTkdtX2dWX1g1NlBsSUFvT2FqTVFzUmdOWmxpbmNFc1NEZUtGbVrSAdIBQVVfeXFMUGpnaFNtWVdIZTVZc2hjWTA3RE4xMTIycUc1ZzE0OVFUM21Pd211S2NsSmdDNE1RTUlubWx4QUpQWUZJNWlqUENlYVc5MnJRamxGZWppZng2aDNRWUtNd0Y0cjRtRUlkZko0UHBlUHdrMDA4RW1ZT25VN1ZXalV2QzZCVnFoZFp0c0RlUzd3NDR1TFlQN3J2Y2tJSzZBRU9URmt3aUZKSkdkaURydThRQUt4eVhHaDRTVXNlRTR3UFhKbDBhYzdmUWNLcGxKV2E5dzRR?oc=5",
-   "fecha": "Sat, 21 Nov 2026 03:00:00 GMT",
-   "fuente": "Ambito"
   },
   {
    "titulo": "Super Niño en Argentina, EN VIVO: el río Paraná sigue creciendo, está en niveles críticos y pronostican más tormentas",
@@ -1356,10 +1344,22 @@
    "fuente": "Diario El Cordillerano"
   },
   {
-   "titulo": "La reflexión de Flor de la V contra la discriminación hacia la comunidad trans",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFJSS2JVRDhpYTB1ODhoaUZGWFJUYWN0TTFudVdzVjNRek44MkFPVGY1Qi1vLWhLMk1KWWF6cVIteEdTUDF6SUpkTG5Sb1laVDFtdkZ3WDQ2UjV1dG5hNHVMZHBRUzdLOGhxUkJQTXVyeWQwMzV3elg3eDBUdFkzakszaFNzc2ZBbVNIa3dfOURuc0lDN0pqWnltaTlEMk15TkhhWm5LU1dCY3ZMR2kyMU9aNA?oc=5",
-   "fecha": "Sat, 21 Nov 2026 18:39:02 GMT",
-   "fuente": "El Litoral"
+   "titulo": "El fiscal Luciani pidió que se aparte a un perito tasador que designó Cristina Kirchner por sus vínculos con Lázaro Báez",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmctaWFRRmtrMjJiaHhWTFZLTTVHUnR4aDFwWDhNVWVZcXpXeVhKLVJXQ3k2YWladlU4SUhkQVdTSDEzQThUMlVNU0l0VzNEalljbklkSnEzeV80d1JuWlRZS21OVTRGOS1GVzJ0dXFWYnd5NkVSRDhYU0ZMMWxxTWR2UUhHck12U2l2MDNMVGplQzhoRkE0NnY2RGhXQXhKMFdwa2VObnNMVGZHS1Rtb0l2TDBCX0dxazN6SXY0eXZfeUduOUdYejNSX2d4eVNnYm1kc1Bn?oc=5",
+   "fecha": "Sat, 21 Nov 2026 11:00:49 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Regularización dominial: aprueban cambio en ley para facilitar el acceso a la escritura de miles de familias",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVG9ZemF5dlkzLTBrOWZiZnVYcmVsRGgtTUZic3IweFExYmZhN25KT25rY09EYTVPNGZXVnlMcFgzQVNNN0d6R1hLcjNwcl9JUEdiY051eEl0dVVKUUdCR2M2RDhiQ0lIdERxcUEwVFc1b2J1YTVTaGVEUFROeTNySTZFcDVzTUQ0NTY4ZmhhUnhOcEZJUVE4N3NJSm9tcEJvVXMyVmkzTkdtX2dWX1g1NlBsSUFvT2FqTVFzUmdOWmxpbmNFc1NEZUtGbVrSAdIBQVVfeXFMUGpnaFNtWVdIZTVZc2hjWTA3RE4xMTIycUc1ZzE0OVFUM21Pd211S2NsSmdDNE1RTUlubWx4QUpQWUZJNWlqUENlYVc5MnJRamxGZWppZng2aDNRWUtNd0Y0cjRtRUlkZko0UHBlUHdrMDA4RW1ZT25VN1ZXalV2QzZCVnFoZFp0c0RlUzd3NDR1TFlQN3J2Y2tJSzZBRU9URmt3aUZKSkdkaURydThRQUt4eVhHaDRTVXNlRTR3UFhKbDBhYzdmUWNLcGxKV2E5dzRR?oc=5",
+   "fecha": "Sat, 21 Nov 2026 03:00:00 GMT",
+   "fuente": "Ambito"
+  },
+  {
+   "titulo": "Día de la Soberanía Nacional: la historia de las tres cadenas con las que la Argentina enfrentó a Inglaterra y Francia en la Vuelta de Obligado",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3JFXzBvTzVWMWRCRVN0RldKQVNOOVdVM3pIRTN4QmNsRkI2UXBwU09xUFhGS3FtUVgzQXpROXhra0xaNWV0eGx1Tm5TY2dPVzU5aXRIazZNMnN3amp3NV9nMTc0bUVnRE5UXy1TY3pDNVNYa2N5bWlLc2VneXI4VHVrWW45VGhmV0VmaVFSdnIxOGZjUG5qRGt5RzdKSjlVT1ZEX0w2Z2g4MVpqMDJWR3FtRGw1b2diZGJTeC1xWm1LbjF4czNaYXlXLXgxMW5ZcjZlc2tROVhFRUFPam1v?oc=5",
+   "fecha": "Fri, 20 Nov 2026 09:00:30 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Cómo hacer un buen chivito al asador: los secretos de dos asadores en la Fiesta del Chivito en Chos Malal",
