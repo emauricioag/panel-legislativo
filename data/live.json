@@ -1215,9 +1215,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-22T14:35-03:00",
+ "actualizado": "2026-11-22T15:01-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1274,7 +1275,7 @@
   {
    "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWEzR0pqM3podVQxUzJyV0F1cC1HNVlFaEo2V01ac1VaZjNLdk1DS0NxRlotZUViX3dsZHpFYW1nN013VktwOEZvM1NxUE14NWVkMU01WnNUdlM2OC1YaV9NeGZEaE1mUno1RThVTUJPRFcwYUVKLUNZOVBLdERHTXpSTFhqM3lNRFlCM2labTMtT0dQVTU5bUMyWVY1dGdqSURDWnNVT2dFNURBTVFlcVZHSzFBNW04eW9zN1Rn?oc=5",
-   "fecha": "Sun, 22 Nov 2026 17:28:28 GMT",
+   "fecha": "Sun, 22 Nov 2026 17:52:57 GMT",
    "fuente": "Clarin.com"
   },
   {
@@ -1290,12 +1291,6 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Se profundiza la interna macrista en la Capital: De Andreis desafía a Jorge Macri y Ritondo respalda al jefe de gobierno",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUm03NHFBeVpqdjVHbmFYUlBFTDViWERqQnFTM3V2cjVqTmtPcGg5dFk1UGtCTGN5WkFBLXZYbUtQczZQaFJRdlA3Ry1fRTFBVGdJT2FoRFpvLVJrSU9aOFEwZE0td1FsUDZDNnFjOUx1ZE5zTlAtaXJmbkpTcFNVLXp4aDRwV3lQUkowOGNfX1JDckhnNXNyOFcwZDNkdFNQaE1fY18yRTBfY0Y2U2Ffb3Y1dlY1M3lxaDctdFVxblI5VFZyREdSQzF0bjVPUldpQkFHaW94bmx6QzdzNkVzZGdmSQ?oc=5",
-   "fecha": "Sun, 22 Nov 2026 10:38:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Patagonia Bariloche by UTMB 2026: conocé a todos los ganadores de una edición multitudinaria",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNGdzRFdiZW10SXZyRjQ0UHl5RzB2TWdocDItckRJMVlLVFNTa1luWFRDUVpfZzBOLTYzTXJ2T2U4QmxuSGtOZW93X3RnNEttVXcyLXNDc2p0WGs0NzZIUEt2OHktcHZOOG1FSk0yWlZ1RUJhaDFYbTN0REdQM0tPY0RsR0RfQ0NMSm5Wemo2RXlWMUEzMTB4QkkxeU1HU1FBSnBUODc5bnhSN0hLX2NXRkhqcEJnMEJOOGpnSG1lTGw1Rm1JMURWX1p6WlY2QnpSYy1qZHJ4WkZpWE90TmtTQzBQbk96cHfSAewBQVVfeXFMT2s1WmxZQmY2VzRoQ2ZNN3IzdFgwNHFMeEotQXZnT2VxcVpScDRiS1o3Q2JoNERUbG9jRGRIXzBXYXY2ZEFwOC1VTTc3LVVnVE9wRk1TRXJESVQtSXR0Q2M3OW4zUXR0UHV3ZmswbnlpelBBeEJHMXo2ZkZzRUlFejRXRGVKNGxBVlJsb2FwTmZXcjhDZEk1VHpRUl9nX3NyZHA2UzVzU1U5cFdyUy0zTGt2WWFfZTRhSlRBSU1tOFpKSV84bDJtbXUxNXVWb0pGUGhnQnJUS0ZFNmlobnM1NS1wSlgydms1VzE1SmY?oc=5",
    "fecha": "Sun, 22 Nov 2026 13:14:25 GMT",
@@ -1308,16 +1303,16 @@
    "fuente": "Diario de Cuyo"
   },
   {
+   "titulo": "Se profundiza la interna macrista en la Capital: De Andreis desafía a Jorge Macri y Ritondo respalda al jefe de gobierno",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUm03NHFBeVpqdjVHbmFYUlBFTDViWERqQnFTM3V2cjVqTmtPcGg5dFk1UGtCTGN5WkFBLXZYbUtQczZQaFJRdlA3Ry1fRTFBVGdJT2FoRFpvLVJrSU9aOFEwZE0td1FsUDZDNnFjOUx1ZE5zTlAtaXJmbkpTcFNVLXp4aDRwV3lQUkowOGNfX1JDckhnNXNyOFcwZDNkdFNQaE1fY18yRTBfY0Y2U2Ffb3Y1dlY1M3lxaDctdFVxblI5VFZyREdSQzF0bjVPUldpQkFHaW94bmx6QzdzNkVzZGdmSQ?oc=5",
+   "fecha": "Sun, 22 Nov 2026 10:38:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
    "titulo": "Navidad con casa propia: Poggi entregó 280 viviendas a familias de la ciudad de San Luis",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFRnSWU2YTF2WFN5UTd6NGpiYlVSS1R1WlRWdlBac1ljQzdROW1ScFYxY04tOVJhZWtsaklUTlNHdzJSMkdLSXloTTdFcktvWW1NSlZxVFlPSG1jRTdUMnVtZVBxTXpVNUpLM1d5V0xEam1zRGpFOXpYSzRJd2FoRVE2c2kyZDk5T0szeUd5R2hKbDh6ZElEMDRBeURvM09ReXdGTkRZcU5FQ3QyRDRNX2pQMFkxM1ZiblJvRGRYcE1YTlE1Y2M4NmY2QnhZTVFFa0NtOElfTVPSAdgBQVVfeXFMUHRUZ0llNmExdlhTeVE3ejRqYmJVUktUdVpUVnZQWnNZY0M3UTltUnBWMWNOLTlSYWVrbGpJVE5TR3cyUjJHS0l5aE03RXJLb1ltTUpWcVRZT0htY0U3VDJ1bWVQcU16VTVKSzNXeVdMRGptc0RqRTl6WEs0SXdhaEVRNnNpMmQ5OU9LM3lHeUdoSmw4emRJRDA0QXlEbzNPUXl3Rk5EWXFORUN0MkQ0TV9qUDBZMTNWYm5Sb0RkWHBNWE5RNWNjODZmNkJ4WU1RRWtDbThJX01T?oc=5",
    "fecha": "Sat, 21 Nov 2026 18:04:46 GMT",
    "fuente": "El Chorrillero"
-  },
-  {
-   "titulo": "Javier Milei, EN VIVO: el Gobierno confía en aprobar la suspensión de las PASO y últimas noticias este 21 de noviembre",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGdrN3E2aGpqQXNieE1VcnY5ZEE2R2Z0enlKTmROLTRRd0J3dWhWblNKdW5GUEdicFJpTHN1UTNYcnJ6UEJSaWVMem9PbzZHV2hSU1ZoQm1vNEFvQzZsVlVsaE5DNTdSZHBWdGNDR05vQ1pNbXhPZHpHb290MkF4YVNJWFkzZkc1REV4RFN6UmwyN0NIbHliVl9fTERZckVwYVkwZmhPZ19sNnpzbVVDR2MzMzV0b2RmdUZYZHllV0c4WVpfb0JjZWNuZ2UxcDlLRlNR?oc=5",
-   "fecha": "Sun, 22 Nov 2026 02:25:39 GMT",
-   "fuente": "Clarin.com"
   },
   {
    "titulo": "Cómo funcionarán los servicios públicos durante el feriado del lunes: trenes limitados y subtes hasta las 22",
@@ -1332,16 +1327,22 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Otro accidente en la Panamericana: hubo un choque entre cuatro autos, cerca de donde ayer murieron tres personas",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcW8zbkpZeWlTQzlncS1WTlRqSm9JbS0zSGVWeE50X3dQaGMzXzQ1Z25haXJfSTh0VFdWTlhLalp1dUhjazBfOHFHd1B6UElqSkZpQlZ0d0swOUw2RnNtS3I1a1FuaDNZUHJWR0IyTnU2ZFZyS0xVNkhFSS1reUdXSGRONTBPMXhodHNWRDVfbXVHQ2hjTFhBb01paDRpVk9ZUTV6OHJCLThCQWlOcl9neFduOG1GMmtJZkZjQWJnMUpsdmpHUWxEelZJMzAxbWY5RWJhVlZLVWtpSG83NGV1Q2RB?oc=5",
-   "fecha": "Sun, 22 Nov 2026 11:03:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Investigan la muerte de una estudiante, de 21 años, en un departamento de zona Norte",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW5VUmdiX283LWxWcmdubXBxcFJ5dUx3Rm50RExwMHFLdnpoWTZTMy1LUzVhdUJrQUNzaUFweXliNHRHNTZnLU41VDE4Q3hQelVZa1lxRTdPeHlxY1E2VGxJTG5RSHY3WUpBY3BoOEw4eFNBS285a3hrdm9aV0JzZDZSd2owb0dQTU5KUWkwM0lTbjZhSDhwOWhtUFN0UmFIdHpjWl9RVkotbFN0VHlSWG5WS3AycVnSAbwBQVVfeXFMT0x0dGRPWVdNcW5VTmktanNUTWhra2ItV041T3NtOW45YVNTR08yWERWaEFsTXUwUVdLV3N5UE1uSk1Wbm11eG1GcjQyU1R6eWlsX3RodE1ManFsc3BrdlNyVDMtbmZ5ZTZvcUhRWUh2cmhOMnFJTkZNRlNuQ29zckFsX245blNxX3hPd2RTeEsyUWgwZVhzRU5kYXdPVEFFa3poN1JQaHhPeEZBZ1lnSkhsZ2xOby1UWGU3NDc?oc=5",
    "fecha": "Sun, 22 Nov 2026 15:24:20 GMT",
    "fuente": "La Gaceta"
+  },
+  {
+   "titulo": "Hoy domingo, hay fiesta popular en barrio Belgrano",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUS1jZ2FidXdqOFFvalRVM2ZNR0RzdFRHcmlWcXhXaGsyUjBCMjJ0djdSbEcyX21UMzhiMElRLWgxRHNwOUxvM3hZMnF1LXEzcUlLWW9VbWhoM3lucGxBTzJ5Z1Vldm90NW92bHdGZ3JXX25OZFBvaVdsWUR6NWRkenFva3BDemtmUzhKMUNGdU4yZ00?oc=5",
+   "fecha": "Sun, 22 Nov 2026 12:42:01 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Milei en su trampa: el desorden político y una economía en recesión apuntalan la desconfianza",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlgxSXBBVm5RVXN0cGpaMmxOZG9lM3kxQjRHeTJOWVJsNVEzY0Y4WGNnZ2xvYkswRmNpeU5UWWRVVFQxcWRwSFlacVJaTjR4N19qd1JENlgtZkFNeW9FTXlNUmR5M2VwQllmQ0V1aE5rcjVqdUQyY3dScDEyd2EtNmRXZlo5MkhwMkp3Nzd4V2FtVVVjTmNrRGM2SERocE5DRmV3QW8yOHlhUzlzcmF1OWtKSDluUnV4QkpEU1cyVENxOGRRbWlXdXRsOVhEZksyeUo00gHuAUFVX3lxTE1BVHdPZjFuaXRGSzdsVkN6QnFzQXR0OU1IN1BULWF5UkRqNGRqMk1ZRk9nT3BRQ1k3dS1Uam03REN2MXVFZHlpLWJWMHZ6NHduZ1R2YzNVWEhHTjc1VC1aTGtkZ3htWDNYZVpOd3RZMHkyNWtEanpjbjlyOWRwTWlJZUJjMDdUeXZJUXFBSzJxUWhlWUdBbFBfbFVTdHliSEoxSXVsYXJCeF9OTUh0aHJuVFRFendnWTY0VHJxeF9JNjZHZ0tuMElZc0lLYVNFakNFclFuMldhUXlJTkhNMUp0d1E1OTFnSElMeUl6OXc?oc=5",
+   "fecha": "Sun, 22 Nov 2026 06:54:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "El Ejército ayudará en la obra del arroyo Carranza tras las gestiones del gobernador neuquino",
@@ -1356,16 +1357,16 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "Otro accidente en los médanos de Pinamar: dos jóvenes volcaron con un UTV, iban sin casco y resultaron heridos",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNWJ6ZjlzWl83c29ZWUVQQ0EyenpDOHlCb3ZRS19WNWsyVl8zUnBNQkJ4WDk3ZXRPN2lhMVNBTjBITVlYejNzUXdsQUlZYUtlV1U3TmhvSVR2VlNUY1ZHX0hsN01LV2NZbzcycTF0dWlOd2hTakhVWmpGQ3psempyeVhla3dJRjlIdnEyZF9kMDVzbklvS0Eyc0tkaFFkTTlaMWZRX2psYnJjODVqZldpeHBCZ29scVQ0YmgxWS1rZXh0NzBPYVI3YS1FN24xaXFXdTgtU3RvcXBiSHNTOFl5VGVKZDRVdkd10gGDAkFVX3lxTFBEQzRobk56T1NoemtnSklDNTFkSFhGUzJ5eE9ZckFYQkIwV3gzdmp4b3JndkZnczZvbURlVWRiR0Vvc3RibUlnbHpodXNDR3JMUXpSZEpUZlh5d1c5Z0otaTZ3VEgydzBZSDBITHdiSWh2Y0xmcVM0elRjYzFiakF6bVhLTU9rOTh5YUNKLXRCNkFVYVBVYVd4b3hOLVk3bmtzV013OGhzUUoySTNOcXg2cXJMcGZTR3V0dlhGUUd6dUpRaUhnNkJlcUFJMnQyZHJSdE82QURuTnowQmtpem9WbFAyb3lSUG4xbWJaUFlOWjJYS2N0OHVhb3NjRHFhTWhxSUE?oc=5",
-   "fecha": "Sun, 22 Nov 2026 14:08:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Encontraron muerta a una mujer de 94 años en Río Negro y detuvieron a uno de sus nietos que vivía con ella",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcC1OT0Jyc21TQkRSb3k3LVhEeHNSNmV4OXJqdjhMZmRJMmV4NWRJQXdxaDJEVGphR0otSVJKVnN4QmsxSzd3TUo4Q2dzUTdvSnhNSnIwZEtXM1BrckJrRlBpZlBKS3BFbFVoWm9CeWRSQzhkdDJfNG9LdUppS25xdjFJLW9CWm55STZSc1p6cWljZEdjd3Z0eXFVUzNOODZHSWh0dG9uMy1wTHFRRzh0Q3J5SnN0NjZvdWRtREQwS1JPcmlBQndaLTRfX2ZQeWNBbElveXRtd2t3alBTc3JtatIB9AFBVV95cUxQYkk5dVh3QWFBb0VIM3VYVWwzWW04UFAyNlkzVlViYU1qd08xQ1hSS25xUWtCLW9FOW03NmtRQzRfai1FYmxxYkZsckJjeDJFcnN5aEx6bjJ2cjhESXp5SFkzYTJVcjBjSjdDN21pYU10VmotaFBldWdjbTZsb016RnFic2FkRlBoaHZDZWZ6YmgzT3puT2FDMHQxVm5DWjFUU0U1RHd4Y0kwTDdlNWd2cVRhTTdwTDVOcGQ2bklONGQwNTJoa2JGZ3VhdVhkVnRNRi1zNlRvVVhkRGZ1TUhxcHJwTFFrXzZyUG42SnBobGlrX3Qz?oc=5",
+   "fecha": "Sun, 22 Nov 2026 10:46:21 GMT",
+   "fuente": "TN"
   },
   {
-   "titulo": "Cipolletti: Otra muerte violenta de una histórica vecina reaviva el dolor en el mismo complejo habitacional",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNczJ6QVpLNjY0YU83aXJ5WUo3ektMRngtVFRrbEMwR3d3UXphdm1YT0VONVYwTkVjY254Sjh5bi1EbHNScHQtaUVhOURWQzJYdnZVLTlTNDBZcUp6c3JNWU5OX2UzaGRsRHhJai1aSHctSm5vRVpfRWFmek84UEpBYU1ycmhaYUNqVER0V1U4aFJCRmExbEtZT0o1dFE2SEozYWNZSGx1Yl9kTU5icWZwOTc1WnJsbC1qcFN3SFdIWXVDZ1lleGh1eGtBYm1QVXFCLUVUZ0pYZTZEYTVzLUJ1b2hR0gHnAUFVX3lxTE1xMW5rQXVxc0hMY05KeFRHeDJ3SjNjTEd1YVp6V1otTHBoTGVNMTlZckZUVndfb21pTEtwZ3lKc1VGNDA2LS1SSDNYMDVJb1lRNGRvc2tCdWlCZWdsdVRqMzNTNVVvOFkybUNQVEtyUFNWRGo0NFBkb29MSTNyTGhXdEw2ei15TDd1Y0otbzlkMHFoZGxJUjRVZ3l3ZFA1ZmQ0VnpIQmJhZTIybURKa3ZRc0JOTTUzbnpHYVlncU1UY21PdVN6elNOZEZGNDRXOXM4QTEycE5tQnQzeVdUaWdRZ2huWUxIQQ?oc=5",
-   "fecha": "Sun, 22 Nov 2026 13:22:00 GMT",
-   "fuente": "LM Cipolletti"
+   "titulo": "Otro accidente en la Panamericana: hubo un choque entre cuatro autos, cerca de donde ayer murieron tres personas",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcW8zbkpZeWlTQzlncS1WTlRqSm9JbS0zSGVWeE50X3dQaGMzXzQ1Z25haXJfSTh0VFdWTlhLalp1dUhjazBfOHFHd1B6UElqSkZpQlZ0d0swOUw2RnNtS3I1a1FuaDNZUHJWR0IyTnU2ZFZyS0xVNkhFSS1reUdXSGRONTBPMXhodHNWRDVfbXVHQ2hjTFhBb01paDRpVk9ZUTV6OHJCLThCQWlOcl9neFduOG1GMmtJZkZjQWJnMUpsdmpHUWxEelZJMzAxbWY5RWJhVlZLVWtpSG83NGV1Q2RB?oc=5",
+   "fecha": "Sun, 22 Nov 2026 11:03:00 GMT",
+   "fuente": "La Nación"
   }
  ],
  "finanzas_argy": [
