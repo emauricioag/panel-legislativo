@@ -867,6 +867,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Corrientes abrirá las preinscripciones para los Centros de Desarrollo Infantil del ciclo 2027",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdU9EMWlDSlBKUU0yRlNza19lTTVFZnl2VkF4a2paUHJGQVlYTS1YWkU0dXkxUTNoNy1FZmxpbmt1cm9rRVVsT2lEeHd0Z0lONWxjcTMzRmFjY2EwMUdqYXRCVlJHQXJ3X1lhbVJuU3djZG5mSDJJaXhSeVJJQWJlOWdRV0ptOVlSVHlhVVNISEw4TXhxZ2hLbW1DbTBqX3RNckliYlk2ckZETVY5cVgwNE94WXFIcWtiaWc0ZXJXcXdLaEE1b09n?oc=5",
+   "fecha": "Sun, 22 Nov 2026 14:49:13 GMT",
+   "fuente": "Radio Dos Corrientes"
+  },
+  {
    "titulo": "Preinscripciones a los CDI de Corrientes: cuándo abren y cómo hacer el trámite",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1YwOHFFUmk5LW4tRGVGX3RjX2o1RHJPT3k3VUtqd1VsRDJTNGo2MTI1dG5xdjVCMGZaQTFDM1daeS0tMHVaVXg1TTJ4UjVtU2FjRndFV3Y5Z3UtRU9PalFzcHFaX3UtN3F6R1FEVC1RMmtkUWpTTDZVZkJyVzdJOF9GQmFkRGcweVRfamVpd2NRYkNfNTR0emdpN1ZTWVk1dDQtd2JoUy1PQWlyNFJPeTYzUDRidy1wa2xFUktkZ3g?oc=5",
    "fecha": "Sun, 22 Nov 2026 14:16:14 GMT",
@@ -915,16 +921,16 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Tragedia en Corrientes: un camión invadió el carril contrario y provocó un choque fatal",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZkpWWHBrLUVLTTJ6QTMtXzJVSURFMmh5X3RpN2k2eGRQRndvcHlxaGhCbjlvMlVDaGVlU055SzdteE9zTG9PTG0yb3pRcHk5U3JxQmVmRU5EcnUwTEVxNGllQU5QZ3ljdXZNTXg4NHRzVVpuanBsdTJXbngwMVU5dTRubGRXMDF1NEctMTdrM0RUN21hcjhNU1VVb0YzUmdYVXU4ZjdSUURraWx1bjVKaVptVURCUFYyMk9uZ1cxb09DZ3M5ZVJqVkZTUmlDUklLekdxdUwtVVJwa2Rr0gHiAUFVX3lxTE8xNVZuQktZZmhxa0pGX0w1UDMyWFRQd3pKZUpZLTR0OGZvbTl3VWJCX1luY0dGX3NvanktSFRJUDA4OUVxUXFZZzBtUE1HbElPTlVRZm5zbWI4RE0yZDRPZEh3TUpMQ2RuZ0phSjh3RlpuWXRkZWNJV0NCZldFZEZuNWRBcXVwSDNCWU5ueHZYV2k3ZldtRDBSaVB6cTFEMm9HNzQyUjJhRzE2ZTJxNGNLaERzMW8xbEtUN2xMYWsxM2Rwb3FpVGZpRHhKWmxRMzZoUlVzUmRST3VxaUk0Vk1IR1E?oc=5",
-   "fecha": "Sun, 22 Nov 2026 12:40:09 GMT",
-   "fuente": "NoticiasNQN"
-  },
-  {
    "titulo": "Misiones lideró las exportaciones del NEA con US$ 473 millones",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFRxQWxCRGRKenE4OEtlV1Z3ZUEyTjJTT3NTRGlrNGk3eU84WHhpaXNTNndNcTlTenZsN3J0OTd5V1FNUjB3X2FXbzRGSzlrc1lvODN0Sml0TEpLbDFyeEpiTzlqU2I4OEQ1RERUc3NsbTdvbEk1X3B6WHlQWmUybS1EdjJZZHJrVWtMRkpZNG94Ym9NaTY3SlZZQmY2YkJ2dy1RMEFuYkg1VHdvdGZVR1h5RG5sVjFGS3gxcjNLMA?oc=5",
    "fecha": "Sun, 22 Nov 2026 10:23:52 GMT",
    "fuente": "Primera Edición"
+  },
+  {
+   "titulo": "Tragedia en Corrientes: un camión invadió el carril contrario y provocó un choque fatal",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZkpWWHBrLUVLTTJ6QTMtXzJVSURFMmh5X3RpN2k2eGRQRndvcHlxaGhCbjlvMlVDaGVlU055SzdteE9zTG9PTG0yb3pRcHk5U3JxQmVmRU5EcnUwTEVxNGllQU5QZ3ljdXZNTXg4NHRzVVpuanBsdTJXbngwMVU5dTRubGRXMDF1NEctMTdrM0RUN21hcjhNU1VVb0YzUmdYVXU4ZjdSUURraWx1bjVKaVptVURCUFYyMk9uZ1cxb09DZ3M5ZVJqVkZTUmlDUklLekdxdUwtVVJwa2Rr0gHiAUFVX3lxTE8xNVZuQktZZmhxa0pGX0w1UDMyWFRQd3pKZUpZLTR0OGZvbTl3VWJCX1luY0dGX3NvanktSFRJUDA4OUVxUXFZZzBtUE1HbElPTlVRZm5zbWI4RE0yZDRPZEh3TUpMQ2RuZ0phSjh3RlpuWXRkZWNJV0NCZldFZEZuNWRBcXVwSDNCWU5ueHZYV2k3ZldtRDBSaVB6cTFEMm9HNzQyUjJhRzE2ZTJxNGNLaERzMW8xbEtUN2xMYWsxM2Rwb3FpVGZpRHhKWmxRMzZoUlVzUmRST3VxaUk0Vk1IR1E?oc=5",
+   "fecha": "Sun, 22 Nov 2026 12:40:09 GMT",
+   "fuente": "NoticiasNQN"
   },
   {
    "titulo": "Clima hoy en Corrientes, el pronóstico del tiempo para este 22 noviembre 2026",
@@ -937,12 +943,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWV9DUmZDWXgzVWZ3MFgwRS1RbjdzQmF2bHd3VlNIVkZad1lDcmRVWjRTdEl1aTBVQVRkemdHeTRDY2JCTDNybnNRQ2VOMkhGTzZKN2t2eGRFQXJrYS1nM3pDNzdXMWxLaEY3NnhpcXozTHkwUUdkenNnMnViemhZYjNwRElieUhELTJlX01zZlFWT3BWYUkyZW5RUkJqQjZZSGhGOTQwRlJ0aE5STGYtbkNvcnh3bzVW?oc=5",
    "fecha": "Sun, 22 Nov 2026 01:18:03 GMT",
    "fuente": "DeGremiales.com"
-  },
-  {
-   "titulo": "Un camión con patente paraguaya se cruzó de carril y provocó un choque frontal en Corrientes: un muerto",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUVhUdzljczl5MDFVN3RhOGtrd1N3SUZjZmVZQ0s3eHFHc1prc1VyM3BuS2FmUC15X2pDbkdIS1NzMlB1NkRMbFQ4azZia2RVN0NUQzNUWkZSSU1iZ2xrN0hBSUh3ZV9aaTZydmdLbUVsLS01ZFRoU2FuV1U3dWtzWDdWX0ZqNm1pTjIzYUk5djdpeUVTTmNvc3VZY2xQY0ZpX0c1djFKcEZZMlc2ejlGZXJ6WG1mZlVlRXEyU1Z2NHBXbTg0UmJyT0J2RkJYUXYwMWtIeV9xbXhPVjdUZE9NTNIB-wFBVV95cUxQeE5IbmxBSmVpT0ZNbXhCTTZCVUYtc3dRSmxaUzRJR0tEVWU4YmJGcjJkYTBDODhNejNlN2xFNDdVdmZYSm5vSi1NMHFSVm4wZG5sUGxHMmQwVHFxT1RSeDJUUXlVbkVyN1hrMll5TFJZclZxUExydmdSRVRGZ1BIWGJNanl2ekxkLVFMN0VQMmd3RjVqZE5VMjIxNGtSbnl1cVlFeUJHNDJqWkZRR1BfemtNb1c2UzFTbUZvNkFGZEkyaEJQcWxUVW8tUFpoNmZYRUEyUzRULTZia1R5WEhzYXVNNGZzZE1fRU5FWVBoNUx4dmtjUS1JU1lOOA?oc=5",
-   "fecha": "Sat, 21 Nov 2026 19:16:00 GMT",
-   "fuente": "Infobae"
   },
   {
    "titulo": "Contrabando en Corrientes: secuestraron cigarrillos en encomiendas por $51 millones",
@@ -969,22 +969,22 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "El Gobierno llega al Senado con votos para suspender las PASO",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlRiaVYyVjMxbEZfSElLR0ZhTnY4NzNzVVNtWmp2WE9Sbkp0WVhFUmtqeTJLZWdXZHJNbUxDTHY0ZHdJTDVyVWMtcTQtSDU3aWY3bGtCWS0wOHE5Z0w4Qi1GWVd0RE1SdTJfWUl6RG1VcmNSbmhiek4xZWJEQkRyck1DUWdqZ0ZOdWdxYm8yR0E0U3R6eVE?oc=5",
-   "fecha": "Sun, 22 Nov 2026 12:03:37 GMT",
-   "fuente": "Diario El Norte - San Nicolás"
-  },
-  {
-   "titulo": "Corrientes suma una planta maderera que proyecta exportar 100 contenedores mensuales",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUo0bnBIeC1PdVdXSnNab1c1dEhuSWs0X3g4MVV1VnMyY1VpRGwzYzdFZ0ZfQkgycllPNWlaTjMzS1p5OHlpZUlPYzdtZmhLVDQtbzExQUpDRkFFcUY1Q3JxdFM2U2ZQTjRRblBHVlA1T0s2ZUJYNXphNnY3Q1NBelo2aXVoUVBWbUdNcTF4eUR0Vjc0b2ZmYVJrN0lKVDI3UEJBVVFib2xpUTh2ZlE?oc=5",
-   "fecha": "Sun, 22 Nov 2026 01:10:37 GMT",
-   "fuente": "Economis"
-  },
-  {
    "titulo": "Coparticipación, bono y obras: los temas centrales en el cierre de año",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1U0NW1MQ0FaNTV6XzNlSVhMdkF6a0V5djJIV1B4QUY5c3F3bk9HbWY5aHczZWMyVDFjU21xUGtnenBQU0tHdWROWlY5WjFWTVU4SUxEc2dDbGUwVG5tUkhNYW5oQkh1Y3U5R3o3TFNlU0M2YmVEU012M2lHbUJMekNrRnFHU0VNaWFDSzJQcXJUaU9kSFhJQThPOVBvNUtRRjFrY00tZw?oc=5",
    "fecha": "Sun, 22 Nov 2026 03:02:48 GMT",
    "fuente": "Diario Época Corrientes"
+  },
+  {
+   "titulo": "Paso de la Patria: Juan Pablo Valdés anunció prorrateo de luz, asistencia por $150 millones y obras de defensa",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHdCSHNSZVpqakVFYjVMNElzVHM1T2dONWVTY0NFNjZvTi1STTRKY1Nvb3hPRE1iSWhCQmxzWFFadWdlYUJRTFZzdGIwWmVwdXRQdUZQTE5CWDZLaUZDNk9MQ2ExbjZZcGtiRk9sTXg4aHg5dzhoOHA3WkhjQzBtbW1RaUE0TWFVbEZnNTRmd1VrOHFlc05JMFl2VEo1Zlg5dlBNY2hXUmY2X204UlBrZTZkMEJybjNseVdTZ3RjVzZPNmpDSXZrYVprbVVXdTQxcjFINjdrQnFXVklIVGd6Xw?oc=5",
+   "fecha": "Fri, 20 Nov 2026 15:39:59 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "La suspensión de las PASO va al recinto: quiénes votarán con el gobierno la reforma política",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWVySTMyOUFXTmFIVXd4VFBiaEZ5SUgwazM5MW5JVHl6cDFlemRrU2x1a2NHalhYVTluT0JZZkt0c0w2Zl9yVl9lOGZ0bnhWeUF3MVNkZFJiQXJ2a1lXc1RvR0ViMlQ2X3pTekp3Tm50dWlXQ0JEYzJUZnJ6cDZfSkxkTEg4a2oxRFhkTjl0MFJMX1F1R01ZVHVublU1Rk8yUkFidFJoVHVhYkl2cUJ2ZUhOUHc5S19LaS0yX0pqLXZWdDRrN2ZJ0gHMAUFVX3lxTE1FbThjNDR2UGxDVWpLX0E3eGZscXpNMVhUT1ByMXJTZkFZYkhuR2JyNGhVU2pseWRfZjNoeUZ4aW5fWlhISGJsREhLWFdCYmpCWG1yNTlKVWtrMVVfakdsVFA1WW5CdHFvbzJUWGdWOTlQSllGUTk2N3BzbUh4Rk95bXliQl9YNkFKMDZkcWtydDJzbTFoeFVuVkJNS3IxUHJJRlo1by1FVUVKOW5SN2VEclV4TERJWmxWZWlTR0V2bVdLc2lnekZ3bjhyNw?oc=5",
+   "fecha": "Sat, 21 Nov 2026 23:23:19 GMT",
+   "fuente": "Tiempo Argentino"
   }
  ],
  "expedientes": {
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-22T11:31-03:00",
+ "actualizado": "2026-11-22T11:57-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1278,34 +1278,34 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Se profundiza la interna macrista en la Capital: De Andreis desafía a Jorge Macri y Ritondo respalda al jefe de gobierno",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUm03NHFBeVpqdjVHbmFYUlBFTDViWERqQnFTM3V2cjVqTmtPcGg5dFk1UGtCTGN5WkFBLXZYbUtQczZQaFJRdlA3Ry1fRTFBVGdJT2FoRFpvLVJrSU9aOFEwZE0td1FsUDZDNnFjOUx1ZE5zTlAtaXJmbkpTcFNVLXp4aDRwV3lQUkowOGNfX1JDckhnNXNyOFcwZDNkdFNQaE1fY18yRTBfY0Y2U2Ffb3Y1dlY1M3lxaDctdFVxblI5VFZyREdSQzF0bjVPUldpQkFHaW94bmx6QzdzNkVzZGdmSQ?oc=5",
-   "fecha": "Sun, 22 Nov 2026 10:38:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "A una semana del fallo del Tribunal del Mar, Quirno volvió a reclamar que se frene el proyecto Sea Lion en Malvinas",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZDlmeTZCYXhRN2FfaU1oZGg1ZU91WjNNcm5ZSDFUcDN5YXJ2N0N5QlFVcWFfUVZMR29JTGZDQngzclZZYk9jUnpwT2lVSmp5LWs1ejBkRFRyOFJFUnVvUjdJX1ZmUU9sa2xoOUxvWEJadmFSOVd3WHRudVlwaWZqaDRyR0lWWTJSNzcxVFJDX0ZYdXhncVdCSGprTVZkdVFrekp5VjR1bWRaMTlBSWdzRkdTbHdyVFBhSy0xYU9GYnpkYnBqZ1cwSW5HbFV5NDE4ZGhpaUZQRzQyQkllRkRDUC1YOWwwYUFkR3BkSmluNzXSAYsCQVVfeXFMT1BMSVM4Z0xwUWVVTlpmejJqRHpfZXVNUTFuNVVhWEJoYkdHeGtzSnp5THBUR1JHQUFIRmdEdGltUk1jU2Q0THZMM2lya0FWcDZmWGt3d0dUNzlYQzlsZjRVNlJ4UjRUcGI2aVFqQmwwSV9UdmJiQmtPMmhwRDd6VFFNTFY5Rmx3LUVicUkxelhqYkZ6X3NZV3VtTzZLNUV3ZndCQlpDc3FnQTlNcERPQ0tkMF9BNENfSHc1WTRfaDZ5SGNlRGlVVDhKbXItX3hnUXNBcFlwVlJWU1BLVjVGX05wWFc4N0JwanEteW5EZlcxMVM3b1FDcm91VzkyN2RiSFloQnlJWVlPbWZn?oc=5",
    "fecha": "Sun, 22 Nov 2026 04:02:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "\"Estoy harta de que Axel camine sobre mi cadáver\": Cristina explotó contra Kicillof y apura su acuerdo con Massa",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0U5YmFjYzVCUW1UNzZqZjJLQ01RMzlFYU1DV2VoNzkwelRvbE11SmFqUGNSUGtrV2pVay1SRmF4VVlMYUd1Ry1YVlZTRWJjYndqamNONE9lWVYySG9EUmJXUS10TTAxT2RrUUo3TlNNQm84MHNDbUhUcTF1dTQwR0h0cDY3dGFYbFRlN281eDlUR3FRWHRhX1RvNW9oLVA1UmFhSGJ4WlQtWEl6cXkzeGp3MjZKck00aWlRdWtn?oc=5",
-   "fecha": "Sun, 22 Nov 2026 09:01:02 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "El proyecto Argentina LNG ingresó al Rigi con una inversión proyectada de USD 50.750 millones hasta 2050",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVjFMQUFWTVVoR25EOGQyS3hERmlUYl93d3ZMNTF5SUJhRUViS1BuZlFDbEMtaERlRV9Tb0xDQkxzMHoxUnlacGhMcE1hRUx0NDZrS2Z1MTU0cnEySmMwWFFzQUUyMUhDeDhuUFhRT3pEOTh2Q1VTWllYUlZwVmZ6Yl9abElWQlgydHh6am9vOEU1NzVnRnlZYVVBVFNQeXotRU9kUWdpX0FwYTY0MkQ1NjY2bUp4MkJsYVBMa0MzdnlYUS1nRkFOQ215VlhGTzZHMUZPc3ZaNmxkeHNWM3B1Vzg5bFdWWjlyMGc4U1NQcFNFejFQWndoWVNRU0ozbU00NWZv0gGDAkFVX3lxTFBWMUxBQVZNVWhHbkQ4ZDJLeERGaVRiX3d3dkw1MXlJQmFFRWJLUG5mUUNsQy1oRGVFX1NvTENCTHMwejFSeVpwaExwTWFFTHQ0NmtLZnUxNTRycTJKYzBYUXNBRTIxSEN4OG5QWFFPekQ5OHZDVVNaWVhSVnBWZnpiX1psSVZCWDJ0eHpqb284RTU3NWdGeVlhVUFUU1B5ei1FT2RRZ2lfQXBhNjQyRDU2NjZtSngyQmxhUExrQzN2eVhRLWdGQU5DbXlWWEZPNkcxRk9zdlo2bGR4c1YzcHVXODlsV1ZaOXIwZzhTU1BwU0V6MVBad2hZU1FTSjNtTTQ1Zm8?oc=5",
-   "fecha": "Sat, 21 Nov 2026 00:45:00 GMT",
-   "fuente": "Rosario3"
-  },
-  {
-   "titulo": "Beligoy amplió su patrimonio: compró una casa de más de 300 m2 en unos de los barrios privados más exclusivos de la zona sur",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTQ5SGswaFphdHNENmZQY2ZBN2dqVmlJeEkzaHV2OXhWS1VETHNfSlhpRXFCRlREbHFGSm1UalF0NXBoX1NCZEpiVnp3WHlnVDRjYWp0ZTg2NXFvbW1vVmhUZHZleFZUY1pXS200LVM4QThEV0lvMU8xbGpieU9iUEZJZllJbWwxMlpPOXJOQS1HY0RMUmhHZXpiX3B6TWFJZUphUFcwMG9jeW10dHFzQWVJeDh6ZkEtWlg0cDJDcTM3c0RPVGt1TlhBSmZOelJFdEcyQzhXVFU4QUYtbG5BVA?oc=5",
-   "fecha": "Sun, 22 Nov 2026 10:30:00 GMT",
+   "titulo": "La estrategia de evitar la confrontación se impone en el kicillofismo, luego de quedar afuera del acto de Massa",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR0ZUWVoxVWxBZEF2UGNYenEzUkczSWNPSk1ucEpYdlVfOGZybVFBNk5yOXo1d3hFLUtSV2MwWENHY3ZmZDBsM3FBZzdyUll0R19zdG9mVmZWUVNHU0VMVG1lMnBhaG9EdXZNbGlYbG9nalh0QXlLZjYyNFlOUkdVdExUZHBxMlY1RUtQenB5X0NRcjEyckY2WGZ1SW9PWVJhVTg1N1VvSTlMNmNONU01Vm5lc25OMWNESzlxY2lqUkxsb1BrWkN4T3RxUVF5dF9NMWxXU2o2X3o2R0hLdV93?oc=5",
+   "fecha": "Sun, 22 Nov 2026 10:36:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Se profundiza la interna macrista en la Capital: De Andreis desafía a Jorge Macri y Ritondo respalda al jefe de gobierno",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUm03NHFBeVpqdjVHbmFYUlBFTDViWERqQnFTM3V2cjVqTmtPcGg5dFk1UGtCTGN5WkFBLXZYbUtQczZQaFJRdlA3Ry1fRTFBVGdJT2FoRFpvLVJrSU9aOFEwZE0td1FsUDZDNnFjOUx1ZE5zTlAtaXJmbkpTcFNVLXp4aDRwV3lQUkowOGNfX1JDckhnNXNyOFcwZDNkdFNQaE1fY18yRTBfY0Y2U2Ffb3Y1dlY1M3lxaDctdFVxblI5VFZyREdSQzF0bjVPUldpQkFHaW94bmx6QzdzNkVzZGdmSQ?oc=5",
+   "fecha": "Sun, 22 Nov 2026 10:38:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Así es el megaproyecto para exportar gas que será la mayor inversión de la historia argentina",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdGw2N1J1SDBwbDU0T25JUUptaHlFWnJnVlZNNHZpTWh3akZ3bGRDeFVhdE1SSXhrclhaM3NJR1hSeUwwWVI3M2hnM0ludmF5U1p2UVA4T1JRVVZ6R1hPc3Q0aXVKbHRyaU1lSGdXa3A1blkyVEZySXZxUkhNMHV1R0h2TEl6cFJZaGJES0Ewank4a192SE1CZkhtUE5MRmZWQ2ZaT0JhSTN3U0RhN0JqbENCeW0yYWM2cmNWUmdMX2pJU1hTZEQ4WUg4WkYyUGRURmpkX9IB7wFBVV95cUxPLUhXY0c4NlVMM2VTcFJSOFBFVDl2blR4LWJxWEJDakRPU1hYb1dJcHdZWVlhaU5Eb2ptcG5keVNsWjVNZ3N2LUhOVHp6VjJNeVUwU19DeGxaUFVZTEhxRm5ZMElKNUdJQTBrOGl2Sk9Ud3VsaTBiOVU2TnBsN1hjUDhtRGk2Q29wQ2YyQnprQ1VOV1ZmUVFaY2ZKVXg4anhlTmRzM0c3OG9RTjdTMEQzUGxJcWc3bkRkZUVocGFVTmZRRGlQdEFsNkJYWG1jM0Jwc1dpLVFnTnRObERSeDlXWTFkdVFwdnpGbWx5Ty16NA?oc=5",
+   "fecha": "Sat, 21 Nov 2026 22:31:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Navidad con casa propia: Poggi entregó 280 viviendas a familias de la ciudad de San Luis",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFRnSWU2YTF2WFN5UTd6NGpiYlVSS1R1WlRWdlBac1ljQzdROW1ScFYxY04tOVJhZWtsaklUTlNHdzJSMkdLSXloTTdFcktvWW1NSlZxVFlPSG1jRTdUMnVtZVBxTXpVNUpLM1d5V0xEam1zRGpFOXpYSzRJd2FoRVE2c2kyZDk5T0szeUd5R2hKbDh6ZElEMDRBeURvM09ReXdGTkRZcU5FQ3QyRDRNX2pQMFkxM1ZiblJvRGRYcE1YTlE1Y2M4NmY2QnhZTVFFa0NtOElfTVPSAdgBQVVfeXFMUHRUZ0llNmExdlhTeVE3ejRqYmJVUktUdVpUVnZQWnNZY0M3UTltUnBWMWNOLTlSYWVrbGpJVE5TR3cyUjJHS0l5aE03RXJLb1ltTUpWcVRZT0htY0U3VDJ1bWVQcU16VTVKSzNXeVdMRGptc0RqRTl6WEs0SXdhaEVRNnNpMmQ5OU9LM3lHeUdoSmw4emRJRDA0QXlEbzNPUXl3Rk5EWXFORUN0MkQ0TV9qUDBZMTNWYm5Sb0RkWHBNWE5RNWNjODZmNkJ4WU1RRWtDbThJX01T?oc=5",
+   "fecha": "Sat, 21 Nov 2026 18:04:46 GMT",
+   "fuente": "El Chorrillero"
   },
   {
    "titulo": "Milei en su trampa: el desorden político y una economía en recesión apuntalan la desconfianza",
@@ -1326,34 +1326,22 @@
    "fuente": "TN"
   },
   {
-   "titulo": "Tormentas con granizo: las zonas de Salta que están bajo alerta esta madrugada",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHk1YzlFVGxlazJyTUM1d1ZkZDh3el9tRnhzMFdSZDBtQzZFT1FCYkpleFVrNXFBZ2dfMjhxVjZMN21tcUxiOG5uWGN0aDF6TmRVZzk0R2lzN2pUb2JFSzJwRHZLV181U3dTVTdrekFCQ0VBcGozWElvc3pvRXVkRTRCaTUtdjN5WjQwVU1nMjVLUGNf0gGUAUFVX3lxTE50eTVjOUVUbGVrMnJNQzV3VmRkOHd6X21GeHMwV1JkMG1DNkVPUUJiSmV4VWs1cUFnZ18yOHFWNkw3bW1xTGI4bm5YY3RoMXpOZFVnOTRHaXM3alRvYkVLMnBEdktXXzVTd1NVN2t6QUJDRUFwajNYSW9zem9FdWRFNEJpNS12M3laNDBVTWcyNUtQY18?oc=5",
-   "fecha": "Fri, 20 Nov 2026 17:44:12 GMT",
-   "fuente": "Que Pasa Salta"
-  },
-  {
    "titulo": "Una de las mayores empresas de containers del mundo denunció en Argentina a ex ejecutivos por un fraude de 70 millones de dólares",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMFUtUUNaSW52T3hSS2d3c1g0eHRQeUFXMVl5X05FX2Fid1Q3dElWZUt5RUhXR25HeFdjcndwdzk1dmxVVmxwb2ZTMDdYd1d3THlOSlc2Yk5HV3FIQ252VmxROGpLbVFNZjNqYXo3T3pPVHpvN0tfRWtZRnp0TEN5NWlLV2NYejBlM3ZJMmdwbjNpODdpZlkyZmdxTHRqSVJYZkhjSnRXSU81aEpwcTdLQU56YTdPdUN2S0JXWXR1UnQyYVNqWVBXZFJxWmsxcDY4Y3JaakF3QkI5ejJvMkh3OEo3TjNUdVJyRkZDNlhSV09RWk8yVWNpOUlyWlQyNURBc1F0SXNjRVBxdmtMQzlxZ1JkTdIBrgJBVV95cUxPMEZ5TTlmWkFVLXk5NUwwd3ZROWZ1by15Q1VvaUVQMzh1S2tJS2doblpTNVdYejhHSDJ0dk9sdmVQZFhnZVlFUW1sd3FYcFotLXk2U0lIM2lIOURrYjlrdVNDZmUybWFERC1yVVBhRWU2bDZ1ektlQTFBWi0yZVVyX3Vodk5OdlNpMTh6MFJpX253U1N0ZzdMaHlZMVBVMEFhXzQ3dXZ2dXE0a3BDTzd5azFUM09ZdWNXQk9vVlNFRG80emxIV3hlTUpDeHV4Q1FzWDdxRWdzWUlKM3dKWHpveWR3Z1F6WXpvaHlCejlJQTBTSnEyNDBnRlk1bm5pemVfcnhIa0dMQ1VaNXlsemVEa015WkJYXzB0Vl9VbWxlWnc3X3dxQlg2NzdVenB0Zw?oc=5",
    "fecha": "Sun, 22 Nov 2026 03:30:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "La Provincia tomó posesión de dos inmuebles en Rosario vinculados a una causa por estafas inmobiliarias",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa2VJOHRjd2hkNGI5UGMtZW1fTUNQcWh3eGdEci1IXzNoa1FPM2RuSHVnRXNCRFhIZ1c0QXEzQXFVQTBhRmF2SVNyMXB0UWFkdUhqd3R3M0lkbTlZTlUxanVmVkZVZXVEWGVlSkJZNjREaXh3cmEzN3F5QU9XSTdFRFZWbDI5czR4QUlQcVI5UDZBTDAtWDZaQmZBM0VoWlY2UXhQWE5EWmpHMFVucVRDTldPR2lPQ2tLQmFQaV9YTW9ZNFVHYW9RamN2cm9ORTBHZlNZclJLNjM4SEFtM0xreWpXaldFV0g0Z0hNOVpOSXdkbWlXVnJ2OVZR0gH6AUFVX3lxTE5rZUk4dGN3aGQ0YjlQYy1lbV9NQ1BxaHd4Z0RyLUhfM2hrUU8zZG5IdWdFc0JEWEhnVzRBcTNBcVVBMGFGYXZJU3IxcHRRYWR1SGp3dHczSWRtOVlOVTFqdWZWRlVldURYZWVKQlk2NERpeHdyYTM3cXlBT1dJN0VEVlZsMjlzNHhBSVBxUjlQNkFMMC1YNlpCZkEzRWhaVjZReFBYTkRaakcwVW5xVENOV09HaU9Da0tCYVBpX1hNb1k0VUdhb1FqY3Zyb05FMEdmU1lyUks2MzhIQW0zTGt5aldqV0VXSDRnSE05Wk5Jd2RtaVdWcnY5VlE?oc=5",
-   "fecha": "Sun, 22 Nov 2026 12:26:00 GMT",
-   "fuente": "Rosario3"
+   "titulo": "Decomisan un departamento y una cochera en Rosario por una causa de estafas inmobiliarias",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGxwRkI5VlphZEZOR2hxX0VRVWFicmotNEswdUlpNjhkR3Q1bWJZRXB5dTFHNWVBWFJLbUI1N3g1aFhXaTQ2WF9hSk8yWnU3VThqcU9oU2NEMXg1V0dhbDg2akZsR0hJSjNJOTd0X09SSHlaRG1GWXFjOFlIODR0ejBoT3BhR0RvV3YtcG1LQUVRY09rUllVVUc4cmM4TjlfVVVnTEVQVHFhRngwNXptN3dXSmJkZ3VnSWtwM3p5bGQ0SWVOZWVlVjhkb0JvQdIB0wFBVV95cUxObk90aXF0a2tiY2hqb0EtM0d6ajdZRVp2WEJnZnE4QjNaVjhsUzFsMktLSTIwWXpobUtsc2FwM1RFY08wZ2JxOFdJcTJsVzhPeXVObXgwdmlVWDhoaHEzYy1LRTMtZGxSd1otb1VrQUZDMHNnV2FoRFFfRm5PUWNkSmNYa0NhVjRqa2diSDI2MFNKR0thMnUyWEJYN2Vvd2JlcWhKSXJqZEhHdlFJYld5TmFOWEdrSzlTc3F0MHBzVXp1ZElQOHhWT0YzbWxYOWxDX0Fj?oc=5",
+   "fecha": "Sun, 22 Nov 2026 12:10:00 GMT",
+   "fuente": "La Capital"
   },
   {
-   "titulo": "Navidad con casa propia: Poggi entregó 280 viviendas a familias de la ciudad de San Luis",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFRnSWU2YTF2WFN5UTd6NGpiYlVSS1R1WlRWdlBac1ljQzdROW1ScFYxY04tOVJhZWtsaklUTlNHdzJSMkdLSXloTTdFcktvWW1NSlZxVFlPSG1jRTdUMnVtZVBxTXpVNUpLM1d5V0xEam1zRGpFOXpYSzRJd2FoRVE2c2kyZDk5T0szeUd5R2hKbDh6ZElEMDRBeURvM09ReXdGTkRZcU5FQ3QyRDRNX2pQMFkxM1ZiblJvRGRYcE1YTlE1Y2M4NmY2QnhZTVFFa0NtOElfTVPSAdgBQVVfeXFMUHRUZ0llNmExdlhTeVE3ejRqYmJVUktUdVpUVnZQWnNZY0M3UTltUnBWMWNOLTlSYWVrbGpJVE5TR3cyUjJHS0l5aE03RXJLb1ltTUpWcVRZT0htY0U3VDJ1bWVQcU16VTVKSzNXeVdMRGptc0RqRTl6WEs0SXdhaEVRNnNpMmQ5OU9LM3lHeUdoSmw4emRJRDA0QXlEbzNPUXl3Rk5EWXFORUN0MkQ0TV9qUDBZMTNWYm5Sb0RkWHBNWE5RNWNjODZmNkJ4WU1RRWtDbThJX01T?oc=5",
-   "fecha": "Sat, 21 Nov 2026 18:04:46 GMT",
-   "fuente": "El Chorrillero"
-  },
-  {
-   "titulo": "Música, baile y humo por las calles: el bus de la FNS convirtió el centro de San Juan en una fiesta",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRktSMHhSTlFCY3BHcXJlZm8wQ0FsSmdxNGI2UWtnbFVpMDFRME5xbGgxdjcyYk5rWDJtZGpBYURyUmxXbnMzdmNkcmZ5V3NVR05MZG90ZmdQQ3M1bUFRdGtubzRqVWVTRlpUcnktbDJscmM4Vmg5VVJydEczaWptcmp1WHRpNHhOQnNtMm9uY0RVMVQwOWozRlZQNVBaZWNTWktfMC1VQjViMkIxdnZKRzlzRUI1ZGZZS0sxcXhMZUtRWDh1SExwcWR4cWNVdkk?oc=5",
-   "fecha": "Fri, 20 Nov 2026 17:32:00 GMT",
-   "fuente": "Diario de Cuyo"
+   "titulo": "Subsidios e inflación: el plan al que apuesta el Gobierno para contener las subas y que le cuesta billones al Estado",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc2xBazFQZmtDV3BYMF95aXExNWFQYUtzeGpWSGNBYWxpSWVKcE51YmIwcDVYNUNFWmU4WWNxSDF0ajl4TUUtOEVCNWNjaklnMEl2NzlFSlluY3hZVzBFclZVQ25CeUR4WmpRQ3ZSZkxCSHhzTFVuME9hY1FNQkduN0FNRExZQzQtMkxQYW1xUzhBTzE3T1gyc3ZsNU5sSlRuaDRNNVRCNzJFbTl6QjlOSmhiOVhBVl8zd05fMGJ4MHdpZ3ZsLVNkeQ?oc=5",
+   "fecha": "Sun, 22 Nov 2026 09:01:02 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Super Niño en Argentina, EN VIVO: el río Paraná sigue creciendo, está en niveles críticos y pronostican más tormentas",
@@ -1362,10 +1350,22 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Quién era el carnicero asesinado a balazos tras una discusión por el volumen de la música en Santa Fe",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRlJEWFdDaFJSWlp5Mm81Xzk2aWc3YlFObUxySENwdGlYUmJtaFIwVkwtVVUzMkVBRmpjVGJYSFBvTkQ1OG9WclItUzZXbFhUeHhtbDU0WURPT0FadlhhSmo5M0hGSFo1cjFsdVJ0QWMxamVqYW95V0hmOEV1MDYxN1hkNlhCbndIT2QzcFlyM3ZxM21IQWFYamhlZTFyNDlwZjZtc0Q1bG1iZ2FaSEpjTXJkNmhzTmxwX2pLSkRvMUhDYmN0MFZoUXdEYTVvV2FzRERXS2VrYmZ4WkV5WFpfUkhB?oc=5",
-   "fecha": "Sat, 21 Nov 2026 20:57:00 GMT",
+   "titulo": "Música, baile y humo por las calles: el bus de la FNS convirtió el centro de San Juan en una fiesta",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRktSMHhSTlFCY3BHcXJlZm8wQ0FsSmdxNGI2UWtnbFVpMDFRME5xbGgxdjcyYk5rWDJtZGpBYURyUmxXbnMzdmNkcmZ5V3NVR05MZG90ZmdQQ3M1bUFRdGtubzRqVWVTRlpUcnktbDJscmM4Vmg5VVJydEczaWptcmp1WHRpNHhOQnNtMm9uY0RVMVQwOWozRlZQNVBaZWNTWktfMC1VQjViMkIxdnZKRzlzRUI1ZGZZS0sxcXhMZUtRWDh1SExwcWR4cWNVdkk?oc=5",
+   "fecha": "Fri, 20 Nov 2026 17:32:00 GMT",
+   "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "Beligoy amplió su patrimonio: compró una casa de más de 300 m2 en unos de los barrios privados más exclusivos de la zona sur",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTQ5SGswaFphdHNENmZQY2ZBN2dqVmlJeEkzaHV2OXhWS1VETHNfSlhpRXFCRlREbHFGSm1UalF0NXBoX1NCZEpiVnp3WHlnVDRjYWp0ZTg2NXFvbW1vVmhUZHZleFZUY1pXS200LVM4QThEV0lvMU8xbGpieU9iUEZJZllJbWwxMlpPOXJOQS1HY0RMUmhHZXpiX3B6TWFJZUphUFcwMG9jeW10dHFzQWVJeDh6ZkEtWlg0cDJDcTM3c0RPVGt1TlhBSmZOelJFdEcyQzhXVFU4QUYtbG5BVA?oc=5",
+   "fecha": "Sun, 22 Nov 2026 10:30:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Discutieron por el volumen de la música y terminó en tragedia: un farmacéutico mató a su vecino",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS29FMml0WWFKc1h1TV9veHlSb0pWTWREWWNNRmhZSzdMQ3RJSXMydDl0d1lmakVpZEJCM1NMUnE2T0FvSHFWbG1LLTdlcUp2RGRXMHVtYldpV0M4NTZPc0NnT1RVY3hmWFFLYTVDRHY2V1RzaTU3OVhHLUtka25JaVhVQk4tNUxiNVVNdk91aGJjaDE1LUdtTlRKRTV0S243WGQ0ZlFaTXNTelBXZzNaUnRHRU9RREhZa3Nr?oc=5",
+   "fecha": "Sat, 21 Nov 2026 20:56:39 GMT",
+   "fuente": "La Voz del Interior"
   }
  ],
  "finanzas_argy": [
