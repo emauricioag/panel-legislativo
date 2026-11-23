@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-23T09:14-03:00",
+ "actualizado": "2026-11-23T09:40-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,9 +1272,9 @@
  },
  "nacionales": [
   {
-   "titulo": "Clima en Córdoba: advierten por fuertes tormentas y granizo para este lunes 23 de noviembre",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXlXZ3gzYktZa19pUUVoTG5BSmpLa3dWRkgtcHctd3V0TWFOUmoweTVtMk4yTEpneXJvTzNuanlhdlo3UTc1VmJFbGtnZU43TEdnaWotbWpwUm44TWliYVlPeWJQTElTV3NWY1plSU9QbnVsZ0Z0bGowZ1BQZ3g3MFJCLWw5RmFsY09Hb3c1UWUzUjNlT05lRkh4Vm1rVWswYWhaSWFlRmd3YmZvZEJiNnNmalZWZU80VXM4b2lvYw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 05:40:37 GMT",
+   "titulo": "Córdoba se prepara ante el avance de un frente frío: ráfagas de hasta 90 km/h y alerta amarilla por tormentas",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlp5bk9wT0UtZDVLek9nMjhvbTg1RWFqSGNVNjFBRXdLS0JfM1RpU1RlaW5YbExWOWRPQlBqYnlYTHhmYl84WFBMazZYMVFqVWFSY2RRVjRlYkNQSjlSN1lPLWp2MmhoNFRuampreHZKT1JvQzh1dll0a1k0OTh4VU4wc0loNEJ2d3hUUUlFQm1wZkx5T2NONmsxMHZ5bjcwdml5YlUxbkhsdkJaLW11R09KTGdlUlMzMC0yd3FUdDhLQkJ6NTEw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 11:43:53 GMT",
    "fuente": "La Voz del Interior"
   },
   {
@@ -1284,28 +1284,22 @@
    "fuente": "Clarin.com"
   },
   {
+   "titulo": "Quini 6: los resultados de este domingo 22 de noviembre",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUZLVWNBOGpBYVJFaXRRbjR4dzVXdzRUREJPTk1aLVlzRXpsR0N5OHpYUzdVdHJWZFM4OHFZRVNndmJ3VWJRRURLVjR3VHYtRXMzUnpqWEwtMkNuM093cUdFYmtoSHVGMnNDSWRpVW1wV0xuYlkxOHZ0YzA2MTk2d2NjYkRoQjNuYUtnSHRqMnNfOTdPeE5SedIBrAFBVV95cUxOZXBiT2dXZVRQQThXLWFpM3BZZXF2NGl1andxaWt6WkRHSDNnSHdoME5wRFhST0lHbUtPTnllSFNtUjItN3pnUFlBbkNEaTZvTlhMMWRUWnFrNC1RZFZ3YkN2Yi1ldVlfbGlWMDBwcDlwZEFxYmZMN21wUXdiV09yeUJ5bFI5X1A4Wi16b2VPWVpIc1dwODM2RjVxc2tHamJ1em43VksteVRwQTZK?oc=5",
+   "fecha": "Mon, 23 Nov 2026 10:10:18 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "Con una frase del papa León XIV, la Iglesia reclamó al Senado que apruebe la ley contra la ludopatía: “No dejen morir este proyecto”",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWmpJQ25uODlEa0gzUVg1d29DVk00dFMyR19wRkhKUVB0NDZOWmU1Umc5TjJkT2VtblQxc19LdE9iWDF1ZEdpcGhHUzdMNUc2SUVreUR6XzAtbmlZcXRQa2RwQm8tUjhuLVh1ZVphRl9VZmZBOVJ2eEk2RXhTN0VDSFR6LThFcWdzTkVBWEFaVTFuVzVLRFQxY3lEdGc4RGNsalp2OHJ1eDhpelMtbldFcGNHdHJMTUVrMmxJVTV1bU50WTFfNDU2WElYV2RqSTZVZW5lSnd5MElxSEJDWHAwYjdVN3BMUVhXUVRJWEw2SnFUanhhTDVpaTZzUUh6QkhveGdJ?oc=5",
+   "fecha": "Mon, 23 Nov 2026 10:28:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
    "titulo": "Navidad con casa propia: Poggi entregó 280 viviendas a familias de la ciudad de San Luis",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdFRnSWU2YTF2WFN5UTd6NGpiYlVSS1R1WlRWdlBac1ljQzdROW1ScFYxY04tOVJhZWtsaklUTlNHdzJSMkdLSXloTTdFcktvWW1NSlZxVFlPSG1jRTdUMnVtZVBxTXpVNUpLM1d5V0xEam1zRGpFOXpYSzRJd2FoRVE2c2kyZDk5T0szeUd5R2hKbDh6ZElEMDRBeURvM09ReXdGTkRZcU5FQ3QyRDRNX2pQMFkxM1ZiblJvRGRYcE1YTlE1Y2M4NmY2QnhZTVFFa0NtOElfTVPSAdgBQVVfeXFMUHRUZ0llNmExdlhTeVE3ejRqYmJVUktUdVpUVnZQWnNZY0M3UTltUnBWMWNOLTlSYWVrbGpJVE5TR3cyUjJHS0l5aE03RXJLb1ltTUpWcVRZT0htY0U3VDJ1bWVQcU16VTVKSzNXeVdMRGptc0RqRTl6WEs0SXdhaEVRNnNpMmQ5OU9LM3lHeUdoSmw4emRJRDA0QXlEbzNPUXl3Rk5EWXFORUN0MkQ0TV9qUDBZMTNWYm5Sb0RkWHBNWE5RNWNjODZmNkJ4WU1RRWtDbThJX01T?oc=5",
    "fecha": "Sat, 21 Nov 2026 18:04:46 GMT",
    "fuente": "El Chorrillero"
-  },
-  {
-   "titulo": "Quini 6: estos son los números favorecidos",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRkpEdVFPM0owa29ac1JZSGxqd3FYWFFXazNyVVRNbWZ2UEtoLXdLcExjSWV3d3RIYS1PdUtLclRjb3Frdk0tamtPeUR6YzZDc2gzbnBVNVZmOVh2OEprOFVWbWdUWENnQ1htWHdSaWlOS19zRldhbGxPb3FBWmFha1RlOWk3ZHhNak0zRFZjbFlZMzVDNFhtdlItT2Vnc2I0NE1CZFVxd2pjYUt2QTc0dGozSndmQ2psTUp0endaV2ZqTi1hYVNNQ1JOZ2Y3aEk?oc=5",
-   "fecha": "Sun, 22 Nov 2026 23:59:16 GMT",
-   "fuente": "El Litoral"
-  },
-  {
-   "titulo": "Ley de ludopatía: la Iglesia de Rosario pidió a los tres senadores de Santa Fe que voten a favor",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlg3ZzdoUWZZbWRmeEhILW1pVFJHU01FelRqZ3ZyYmJ2cXNIMkVSVHhrYVA0XzZ6elptdC1uZXFqU2lPdFhBcko0aHFXVjFwNkRLMVhYbXUtQW9od2pGNXhpYWZFUmE3dmZFcGhOazhaMXV5ZE9aVW5YY2VyYVlKb0JZcDQzU25wa1kyOU5vUGhlS3RXUVhLellJSlBWQmEyN0FXVXBXVjhRUm1tNi0wbXVIX09TbDRFNFI2RmZET1dvQVg1TDdyNXc4TlhjMXJNUHfSAdcBQVVfeXFMUGFHOEY5UXNKMG1sVTZoUTlqMTVFVlFjRE12SUhvMXV2WjJWalAzbzF3NzdLaUVfNDBybkZ5Zmh3M05zcjVEeWRxVXBvYWllMnA5NGhFRlNnX2tWM0RuSGpEb3paNUR6NUI5VFRKNHJVbjJxNjE3YmZ5dV9OLWlEQ0JPUFNvRUlBdm5xV0haMDVNT29ValJhNFZlaHkxeTBteFF5R3Y3bGc5TWI2dU5ZTUIwNUpWZVQxRzNSSVNZa2ZuNHRHRUl3SDFfeFRxdkZzcktMQklMQm8?oc=5",
-   "fecha": "Sun, 22 Nov 2026 22:12:00 GMT",
-   "fuente": "La Capital"
-  },
-  {
-   "titulo": "Explosión en un local de comidas en Ezpeleta: hay siete heridos",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNend6SUtFM2lWNHpRUjdEMHZQcWtkTllLZC1SM2I3dkV5Z2xxTU45OVFXVXlJdFpLdjJ1QkRRaVUxVk9peWJ6emw3d1JKQVdOSFlkamxObnVhNWJ1WmhNWG8wQ3NBeUxGTUZ0WGo2MFRsQjVnY3pQRVFfelVScTFFZG5KLXRZRzFVZFhBYXpjaDJkemJSVDdDdzJUZnhtRjJXRUltMA?oc=5",
-   "fecha": "Mon, 23 Nov 2026 11:17:55 GMT",
-   "fuente": "Página|12"
   },
   {
    "titulo": "El Gobierno le pidió a la UBA que no se realice el homenaje a Mario Roberto Santucho",
@@ -1314,10 +1308,22 @@
    "fuente": "La Nación"
   },
   {
+   "titulo": "Explosión en un local de comidas en Ezpeleta: hay siete heridos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNend6SUtFM2lWNHpRUjdEMHZQcWtkTllLZC1SM2I3dkV5Z2xxTU45OVFXVXlJdFpLdjJ1QkRRaVUxVk9peWJ6emw3d1JKQVdOSFlkamxObnVhNWJ1WmhNWG8wQ3NBeUxGTUZ0WGo2MFRsQjVnY3pQRVFfelVScTFFZG5KLXRZRzFVZFhBYXpjaDJkemJSVDdDdzJUZnhtRjJXRUltMA?oc=5",
+   "fecha": "Mon, 23 Nov 2026 11:17:55 GMT",
+   "fuente": "Página|12"
+  },
+  {
    "titulo": "Alerta recesión: el Gobierno enfrenta el desafío de reactivar la economía antes de ir por la reelección",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdkJvN25tMGZDSy1sMGxEd2xtVlFIeW1vYWlDdE9MT2NBUlNOOGk0M3ZIdnl2MkFNYmt1ZGN5eUZIRkg0aTRVMEVBbFhyR2JNMzJOMjZEeDdYblJEWVkteEFlNEt3UC1OQ242NUEzcjI4b0lLQzB6UUZqS29heUY5cTc4U01nTEtpaWRmRVR5elozeGxGdXkwU1ZFQ2RSdno4MHNJLUVxMEtpTzRrbV9uNUsya0haWmRXZ1hPR2QxRHF0SGNFMHBoNzFPTVpUdG02ekswRVIwSU1OYjRFUWNTajZUdFY?oc=5",
    "fecha": "Mon, 23 Nov 2026 01:52:31 GMT",
    "fuente": "La Nueva Provincia"
+  },
+  {
+   "titulo": "Cuestionamiento empresarial a un control laboral de la Provincia",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRmYyRlFZbk9yc2lkTkJKYXJXR1JPMU5La2I0QVhPQXJFSjF6c2twc0pnWlFCQmt0Ym03bnNwR0JBUUV6NGVyOFNnRy1MWGl2aklDNFBzNy1RRXgwN2dPX2w0Q1YxZU5yOXEzWklCZ04tUGpjNnVMRF9oeGRZa2hjXzhJdC1fV2ZEX2pmZjJFSk9vUEY3R1l0UHJkNnZIeTNYX3U4R25jeTA0NjR2Q0p3MC03SDBTaklBbm1DVFFNU0s3bDFFUk14TG5pR3NyaDRZWlhJ?oc=5",
+   "fecha": "Mon, 23 Nov 2026 04:45:04 GMT",
+   "fuente": "Diario El Día de La Plata"
   },
   {
    "titulo": "Emprendedora del Sol 2026: DIARIO DE CUYO y Andesmar premiaron a María José Leiva Díaz",
@@ -1338,16 +1344,10 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Cuestionamiento empresarial a un control laboral de la Provincia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRmYyRlFZbk9yc2lkTkJKYXJXR1JPMU5La2I0QVhPQXJFSjF6c2twc0pnWlFCQmt0Ym03bnNwR0JBUUV6NGVyOFNnRy1MWGl2aklDNFBzNy1RRXgwN2dPX2w0Q1YxZU5yOXEzWklCZ04tUGpjNnVMRF9oeGRZa2hjXzhJdC1fV2ZEX2pmZjJFSk9vUEY3R1l0UHJkNnZIeTNYX3U4R25jeTA0NjR2Q0p3MC03SDBTaklBbm1DVFFNU0s3bDFFUk14TG5pR3NyaDRZWlhJ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 04:45:04 GMT",
-   "fuente": "Diario El Día de La Plata"
-  },
-  {
-   "titulo": "El tiempo en Mendoza: vuelven las tormentas y sigue el calor",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMW5DcklEMTN2Vnh4UUZJbGFXRFV6NzFaVmtkenVtQVJtU1BhUjg3Wk51aEM4QUxVUWRkb1c1Z1NoUE9ZaG5XYzF2ZW1za3Zob0w3M0M5cm5aTkN2cEgySmRFVUMzWDlGcmpiWDU2b0dKQm82RFJRdzh2UWxRcGZlaWg4SVVUR0MwSXQ2ZVhGV1U4WDh3RlVkVw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 09:28:35 GMT",
-   "fuente": "Diario El Sol Mendoza"
+   "titulo": "La “médica hippie” que se mudó del barrio de Palermo a un pueblo cordobés y cómo reconstruyó su vocación entre plantas y sierras",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY2JJZ3I3WF8zSHpMVTFIZWx6OGdwdjhrOWgtT0thNWtZNmJjUmdxZm1aRko2b3VYZ1IwRUFBczhLLWtxLUYydmFaY3pPRGNwWHE4Z0steUgzODZmaWhvZ21wWFdEVG5oVjRlcDJnTzR2Ti1CWklrNUhBMUhlOTAyMTV4dEpwc2pON2J5QlEtZ3BEbTBjNDF6eEo1U1NtSXFyQVA5ME1DNU52Ym1keVNDUGJpN2w0RDlhVEs2bWI2ZzJOalF2SUJvbHpTVHVaVzRyR09BWEhYRDRpYjUzUEt2SXg0OERsVHd5VXpQeVF2bWFueVR5TXc2akJtblZPS05D0gGbAkFVX3lxTE5ULUFzT2R5RnhsQkxNdHc2czM0V3BXNjlHeXpsOTZvQTMxeEc2MHBpLWFNVGpCZ1FoLXlrSG1NelNHNTBWVXQtaWZ4S0N5ZWd6clFKWF96cDlhUTY1Q2Q2MWllSks1UVFrT25PSVhSNXlUaW41cEJaZnVQNHVRY3JoQ2JkRzlsQTAwSzYyQUJ0NzdyNmkzTXZvMWZvS292cXQ2LVIyT21SN3BUcjlKejhDbXdYSk90Y2hIa1FsWkVRa3g5LWtvN1VSNmU2dHpQV0pVX3FaRjF6dVFZdTBCWS0xR3RLbFBWUHZVU2pWc01iWEEwZGgweVktUmVjZ285WHl5Y01FMjdpOFRzY1RSc0dLNVNtTzRqYk5yclE?oc=5",
+   "fecha": "Mon, 23 Nov 2026 05:31:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "Dirigentes del peronismo, del radicalismo, ex PRO y la Coalición Cívica debatirán estrategias para construir una alternativa a Milei en 2027",
@@ -1356,16 +1356,16 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Nuevo dueño: un grupo argentino se quedó con una fábrica de quesos de un gigante francés que iba a cerrarla",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ2o5d1MwNVRhcE1IYWx0STBPVkdvZ0xfWmVzNVhrVFltSTcyb1dnazdyanNRWGFnb2ZkQS1iNEEtQW1XTUlVZ1o4aFVtRmt5Mmxibi1sUHRVQWdWWExBclAzSXFZcjZ3WkU4cndQOExRLUNpRVd0cy1lOENyNFprSEpxV0FybThIWEw5TUtzcjNQRW1ZakZCT09GR0EwdXlPT2tKMHA3cXJjRUV4Y3lUWXVXZS05R2VCaGNHbVVFN2ZPY2JZRmZCekM1bVFCampybTJNanpfR2p4RkREMHdBVFA2Z2tqeGtq?oc=5",
-   "fecha": "Mon, 23 Nov 2026 11:14:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "El tiempo en Mendoza: vuelven las tormentas y sigue el calor",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMW5DcklEMTN2Vnh4UUZJbGFXRFV6NzFaVmtkenVtQVJtU1BhUjg3Wk51aEM4QUxVUWRkb1c1Z1NoUE9ZaG5XYzF2ZW1za3Zob0w3M0M5cm5aTkN2cEgySmRFVUMzWDlGcmpiWDU2b0dKQm82RFJRdzh2UWxRcGZlaWg4SVVUR0MwSXQ2ZVhGV1U4WDh3RlVkVw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 09:28:35 GMT",
+   "fuente": "Diario El Sol Mendoza"
   },
   {
-   "titulo": "Cristina Kirchner compartió un posteo que desmiente una supuesta frase suya publicada en Clarín",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLTZYMmtJRWJoOHVlaDNRSjgyR3E4cVluWWZTTUpWRTl4ZUJpM2FDUDNoenZ4V3l5dVhocFdEZndiTkpHU1RGbnJUajZTSU1NMFBONkVLZ29pTFUwSTUtUVZEY1NzT1R0RGg4VGNHX0F3ZDdHX1V6eG9OLUhJbXNIX0Y1UTRoRDROdGpvOXZpZWtfSHJmNHEzUko3SVlMZEEyV3dWMWdNMlVBZ25sMFAyVEtiY3RwNVl4dDdreVpPTUNKZ29YREJ2OEFOMWxvdy1B?oc=5",
-   "fecha": "Sun, 22 Nov 2026 23:54:41 GMT",
-   "fuente": "Página|12"
+   "titulo": "Pullaro, Poletti y Fernández reivindicaron el legado federal de Estanislao López en su 240° aniversario",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUk9xOGRRZWhGREhpRXBiYWg4NjlTMHRSVzhLclZWT2lRc2ZYRTl4Y2IyeHE4WW10UUc3YUVVRnRxNXZsOS0ya2tBX19CTGVERXdiQkpodjRUS2xublI1YVZSMW1hSjZjZDhGUEp0blM3bUh4dXJPeFVtSUc0MVo3TGJlVEFObmhEZlNLamZJaEMxaWVweWJyRld2a29SWDJJUEwwQWdCNGFYbjFLVUlDb0FucS1jdFVsWFRSbjAtZ2tneDV3dnRENWpPQzN6MmN2UUU0Z0xuOFNMaVRmSjZaWW1Uc0pPUm02?oc=5",
+   "fecha": "Sun, 22 Nov 2026 23:48:05 GMT",
+   "fuente": "El Litoral"
   }
  ],
  "finanzas_argy": [
