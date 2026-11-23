@@ -1215,9 +1215,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-23T04:05-03:00",
+ "actualizado": "2026-11-23T05:02-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,16 +1273,16 @@
  },
  "nacionales": [
   {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWEzR0pqM3podVQxUzJyV0F1cC1HNVlFaEo2V01ac1VaZjNLdk1DS0NxRlotZUViX3dsZHpFYW1nN013VktwOEZvM1NxUE14NWVkMU01WnNUdlM2OC1YaV9NeGZEaE1mUno1RThVTUJPRFcwYUVKLUNZOVBLdERHTXpSTFhqM3lNRFlCM2labTMtT0dQVTU5bUMyWVY1dGdqSURDWnNVT2dFNURBTVFlcVZHSzFBNW04eW9zN1Rn?oc=5",
-   "fecha": "Mon, 23 Nov 2026 02:48:40 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Jorge Fernández Díaz analizó el rol del Gobierno de cara a las próximas elecciones: “La magia de Milei está desgastada”",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFduOUE1MDdVTXhiR08tVDgxWF92aklqVlJxOWFfZHBlUzBFT2x1alc2bVhqc3BPRjVfWGVfOUZWa0VyX1FVU08yUzRpRUd0NnR0eXVvOVRwMEtxY3JLT2lOVXMwOEJEU25fcXF5X3ZtUXRINWxiNFF6Y3A3TkM1VnJvVTg2alJDdDFVZXpvSm1JaDdmdVlDSXpzNkYwakI5c2hCWTh2SHNBR0t4cjVEX25PQU1rNmZDVkFOdzlQUUhUbU0xa3I4NDJpazdfZDVxdXBKTUtuOGw2UHRUM2c4TkMtdzM?oc=5",
    "fecha": "Mon, 23 Nov 2026 03:38:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWEzR0pqM3podVQxUzJyV0F1cC1HNVlFaEo2V01ac1VaZjNLdk1DS0NxRlotZUViX3dsZHpFYW1nN013VktwOEZvM1NxUE14NWVkMU01WnNUdlM2OC1YaV9NeGZEaE1mUno1RThVTUJPRFcwYUVKLUNZOVBLdERHTXpSTFhqM3lNRFlCM2labTMtT0dQVTU5bUMyWVY1dGdqSURDWnNVT2dFNURBTVFlcVZHSzFBNW04eW9zN1Rn?oc=5",
+   "fecha": "Mon, 23 Nov 2026 02:48:40 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Navidad con casa propia: Poggi entregó 280 viviendas a familias de la ciudad de San Luis",
@@ -1296,16 +1297,16 @@
    "fuente": "Infoeme"
   },
   {
-   "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnlNdEVHRWJieWhXTkFWU1RoeVVPb0I2T3VVellxYTAwaThDZHJoMDFaZjU2N1N3NzRJQzdPX2xub1VYWnV0YTI0VmtLc3FVNE9XSGkzNTd2aWxXZVJQMmU0aDdqU1d4U1dmRVRTbUU5eXhzNWU1MXB0dDBRU1VMOXVwTTI5ZlhSZHFZbl9PZzNTVkMzSG9aT2k2OTJURmdOZm10cktkejJxT3dJNUQ4b2JOR283X3NKckhEVHRsNUdKa1RjVVR6ekM3ZUg0NUJGZzlyckxMU3N0UkM3Q203YUtRbjk?oc=5",
-   "fecha": "Sun, 22 Nov 2026 22:29:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Emprendedora del Sol 2026: DIARIO DE CUYO y Andesmar premiaron a María José Leiva Díaz",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1MyQVN5eEJmV0swN0VkcHAzMXpObmNhVE53b215c092LTdiTmlfaE5fX3AybkducEJyNmtkaE1ITXlwS2ZtVl9ueGZUT0NNTWxuZTVNQklBcEp2NU5SWllmSEc5NF9tNHVVYXZvLWtra1pOQW5mNWxtaGZFY2pfYVZqYW4zMXE1S1VSRDBSVHhLd29kWW9CdWlMVUx4dUFWV2hpbkwzU2tWTm9ZWlhRR3NsaHd2Z0ZqMThjWTJ0WXRFZ0h2YlJ5cU9PYUJ6d28?oc=5",
    "fecha": "Sun, 22 Nov 2026 04:51:00 GMT",
    "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnlNdEVHRWJieWhXTkFWU1RoeVVPb0I2T3VVellxYTAwaThDZHJoMDFaZjU2N1N3NzRJQzdPX2xub1VYWnV0YTI0VmtLc3FVNE9XSGkzNTd2aWxXZVJQMmU0aDdqU1d4U1dmRVRTbUU5eXhzNWU1MXB0dDBRU1VMOXVwTTI5ZlhSZHFZbl9PZzNTVkMzSG9aT2k2OTJURmdOZm10cktkejJxT3dJNUQ4b2JOR283X3NKckhEVHRsNUdKa1RjVVR6ekM3ZUg0NUJGZzlyckxMU3N0UkM3Q203YUtRbjk?oc=5",
+   "fecha": "Sun, 22 Nov 2026 22:29:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Quini 6: estos son los números favorecidos",
@@ -1326,16 +1327,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Financial Times sigue con las advertencias: habló del Riesgo País y las dudas sobre financiamiento y reelección",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRlk5Zm10Rmx2TjB2Vy1aOHZPVElkb3lqVjQ4cERIVkE4TzdBdlc1QV9sdHFPNmZPaXE4SzUxSVA5cmdlanA1eUlxNlljMTdVZm5nQVpuVVF1ajVnUGxHSnBQdUxueWtZRnFTVmRpNnJReGRtTGNScWNGTXB2bUY4Wi1keDFwMXJ4bGZkX1hmVFJSY0MyX3dBeWZ6WlJHX2tIWXdmX05Xc2V1dlI4cDZTTnYzd0xHNkwtMGVHaU5ObW1oQ0U5VTN1MW9FRW0xdWhyc3ZQcDBya3NNX05QNGRWdEd3VldyQQ?oc=5",
-   "fecha": "Sun, 22 Nov 2026 18:37:13 GMT",
-   "fuente": "Perfil"
-  },
-  {
    "titulo": "El Ejército ayudará en la obra del arroyo Carranza tras las gestiones del gobernador neuquino",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPanZBQl9VVHhCa1V3Q0ZCV0NGWU13d0oyZGRrSjZIRXJ2TFBXTHFQTHJZaVdmUW1FLWIwbGZvTEFjZkYzOUY0bktrcC1pTDItMHhaZXpXRm42V0lqYXdPOENTSEZPSE5zRGY0eWFPQ2hqa29UWEFTRzBRa1o4RWRaSi05eFpBR3hRWl9NU3B4SVV1UjdOUkI1bXpiMGlZempsa1J2M1FVVFZTMXJoa3diQXdmbk51UlNMYlNWVldnQV93QU44UnRr0gHMAUFVX3lxTE1aMVNqUlFianY5aTNqaGU5bFVwSjg0cFV3cWlXVDZfdGRfWXBCMF93T290eU1VbWtLczAwUHhkdVppRWpqUmhVSTVVa0dfWDBET2FJTFUtNE1YcHBWR1NwS0Rla045S1hDY01IamVhVnlxWVp4TFUyYnJBYU5yUHc3dk5GV0dtWFNZb0I4aHhXSS1zR1JXNlktaE1DTDl0SWFLLWFYM2hlMnVuS3djU0JOTkptUk9IZTQwdHJxd0N1TmJzdXo3dXIydU9NZg?oc=5",
    "fecha": "Sun, 22 Nov 2026 00:37:00 GMT",
    "fuente": "Lmneuquen.com"
+  },
+  {
+   "titulo": "“Se juntan muchos sentimientos porque volvemos a revivir lo que pasamos hace 44 años”",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMnVXbHF2cFZqT2tfTkpDaEJ2T21BdUpXU0N4eHBTTTNBRDNBbmFXYmNpSHdiV2dwTXRnckNYSGtDczU4ejY5RDhDWWFoVEc5LXJlWlFVS3R4T0t0czQ3NTVCREJUUl9BakpJY3hyNTVGdDBXYWFyWUt4UG5lc1R6THpOa09xRkVjdmcyR2NSN0ZCanpkaThMUkdtU285dFpIT2gtZElJcnBzMWJmbXk4cnRKNzJZNWlFY0FIMWpOaGtXMzd2M2MtV3ctS2xEaDRfWER0dDliNHhwd9IB3wFBVV95cUxObmNxc3JZQjFvMlpteTBOZEFhVkJrVFRnZkVqaDVSZWM3ZXU5QVowcDY0RDBTTlZtMklueTBHY1pmejhMVVpaZkFZbHBDa0x2VlloUGNWNjBOTjFRanRzYUlIa2NHZkc4RkhMWE9lQ0VGYnFFMy02aDFCZzhoU3BlYlJHb3JuQTVtckt2SlFyMjVwVlhnSk1IQWZVMmtWOGVKTkctS0Z1aTE3TkZoZ0FHc2JjRjJWLU8wMFFIYTZKY1VXZmVCRlpIT2FHaVJJT1lGaDVacHo5TnV5UHhOS0tZ?oc=5",
+   "fecha": "Sun, 22 Nov 2026 23:00:17 GMT",
+   "fuente": "El Territorio"
   },
   {
    "titulo": "El Gobierno le pidió a la UBA que no se realice el homenaje a Mario Roberto Santucho",
@@ -1344,16 +1345,16 @@
    "fuente": "La Nación"
   },
   {
+   "titulo": "El Financial Times advirtió que el riesgo argentino golpea sobre las chances electorales de Milei",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmN0YXdxUklFX21ldFQ3TmN4bWZYOHJWSG9ZQ3hwZExRX01fU0xHWm01TzJiS2Nxd3dLR2hVUmFfYUxrVWxGNm1pZjlZR01oNzVBMDhQRkxXdGNxeTl3TEZ6ZXc4aFE1YnMtY0dRSjFnalFhRXFEaGpZeDFDaktoaE16VF9mYWlqRnVLam9uZTNMN09WblVQTVJGT2ZNb2ItZnd1UFFvOVNLa2V3QWt5b2Rlc2VBNGF6aWxYb1RRLVRZMl9LUVMxbmp3eGU0dWd5WkFYS2wtRVBFaWNDY09sV256aW8ydw?oc=5",
+   "fecha": "Sun, 22 Nov 2026 17:49:40 GMT",
+   "fuente": "MDZ Online"
+  },
+  {
    "titulo": "El peor final: Robertito Funes quedó afuera de Telefe y le levantan su programa de LN+",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHJrbEhDTmNEQzNheENQeWlKTFVqUUxlZlkzTzlYNmxRQTg1Z3RIdFJ2S2dEbTk3R1kzb09wM0t1Xzl2clNhbDh0dF9NYWNoVWVOZWRmb0JCWlRpcjZqeVl1a2daRG1WeV9Sa2hlYUc5N1dVNWZHNzJlU2xMQlQtaVhwRDZPb2JmemdLUGNTaGFBOWFJeUFJaDdYRndtV3FQYUJGeW5NSUlFc0ZueEYySjhR?oc=5",
    "fecha": "Mon, 23 Nov 2026 00:54:19 GMT",
    "fuente": "entreriosya"
-  },
-  {
-   "titulo": "Murieron dos adolescentes tras robar un auto en San Pedro: habían escapado de una comunidad terapéutica y chocaron en la Autovía 8",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNWVXVFQ0R1puQnZCa2s4X08ta1VoSHowUFBidmJXSG9VVUVza1d1UmlucFNHa1JSeFNDcXZwQko5UGRIeEhhYTRZV0dnUWdtenFYMTZ3d2ZOT3RtWmJwR0tTM0dVazN3LTdqTzktTE5IdDRacHdUVXJGTWxqSlJVYWZjTkxqUjlTVHNkLVcxQ0hUeWtQcG41NkMzTXNqb0JVbEpoSGJfaGhkTF9xR3dFU3JNUUhWaUZPSkVXVWZaS0VsX3ktaUg5d3BCSlNhYXBiOFo4ZGxSaXV4a09RUUYydVRLeFJVMERWY1RENVpkcHExUEZIWVBfNXdSMi1yeEpkeGlBaU9LZUg2ZkNuY1QtZHJEZ9IBrgJBVV95cUxPcGozREdSRjNSZkFwcnNvcTEwa2xfcGxpeE82aHVvMjBuRFlzUDI0ajJDZ3pSRmdFcWkyZEtHY1BSazZaMEZ4eGZWaUlmMGFLejI1dTFENkI4ajQtMUo3UWtoQi1vVEx2UmhxU01HOGFlY1JmZ1R3eDRIUVFIUmE3WWdHSHI5aHI0amxva1VUNXVGRk5pR2lILTNseXJwZHF2R09vQmluM3c4c3lhWGhPd2NJWDhBVnFLWk0tUTRvQ2VlZmlDbWxPUkNJU1hqU3RiX3E0cm5uV0w2bHZWNWtrcjZteW9tRF9wMmtLc2RremVWZUJmR0FUYlRuRWpEaVRvQXZnYXBjOE5zQ2dSbkExVGFwN1VLMGVMbFR3X3o2RUIzdkpteUp4bVpsMnBJQQ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 00:43:00 GMT",
-   "fuente": "Infobae"
   },
   {
    "titulo": "Así es el megaproyecto para exportar gas que será la mayor inversión de la historia argentina",
@@ -1362,10 +1363,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Brinco, sorteo hoy domingo 22 de noviembre",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LQWJnMW1md1UxRk55UzlmdVdtazJDWXdJMkpTdHdseDZuLURDYVFEMG1LRzNkRGw0SzhMYk5Tc3NlLTMzSGk5UjF4TzBWeUk3TVNqY21mdVY2eERhaVdqWHRPMm93MzFUcG12eEdIWW1Ga2FudEZQdg?oc=5",
-   "fecha": "Sun, 22 Nov 2026 14:58:57 GMT",
-   "fuente": "entreriosya"
+   "titulo": "Tres delincuentes escapaban en un auto robado con un caniche en el asiento de atrás, volcaron en la ruta y dos de ellos murieron",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORVg0WHdIVENickdfTWFPVTVCRndSZ29LV2tOeGhBWm5hX3lJUDdERVdHclRmQlBwMFVxVko2Zi16QXgzcUtOM2tMZ29NS1VteGk4MXc2R0pFNUo2a0p5aEdZVnVyRmhMcW5RY0tSSVNfbkhseVdPZVViX2xuTEVLVDFTaGJHVWc5Mmg2MWRXeVlWWDJHbTNGTjNxSVlpZEIyN2c3UmJNY1Nudk9LM1ZpUFZvTWFfQS0zM0VHVzNaSkpsS1dIUmh4Zy1SZFVfQkp5eXlwNFNxM0YyX0tKd1U5VU96cmN3a2ZhTE9YWGk2MXpyQUR6WUIxd1RNUjXSAZACQVVfeXFMT25ocFN4dDYtaWJQbE82ZHNKUUFfMUVYV1FDRHJLQWhlTlpSclkwbUMyUlh3cGpTRmx2eUd0cnZYMFcyVjhXNHpFa0tRMTFIa2RuWDdSSHVaVjVRWjZBeGpGLWZnSk01NllSTlpfdktkeDhwNkVEU0JlUV9Nc1NsWlRtZTl4Tloxc2NEdkVWOVVrVEZuWDFQeTdEVlNlUXhkY3BpZHF6MEljM3ROVmswNTNva1pLekZJZG5acTNMRFdsbFFrMTNiVGY2STZNaUNpbGE0UGVaNmxJcllWOTlFcGUtVlhmSGpMME5NNnBZdElZWWhGaFNybVBVUVdsaEtpRFhaRkdlaWtFZnNpTEkzMjA?oc=5",
+   "fecha": "Sun, 22 Nov 2026 18:40:26 GMT",
+   "fuente": "TN"
   }
  ],
  "finanzas_argy": [
