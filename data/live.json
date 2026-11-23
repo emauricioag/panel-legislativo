@@ -939,10 +939,10 @@
    "fuente": "TN"
   },
   {
-   "titulo": "Detectan niños adictos en un hospital de Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeWRJV0V0NHZTVFp3ajR0SEFBWHRHakh6NUpKNHpwdlBTaDdLQklUZlVHNGxtRWRMN2padmE0MXQydGUzSkswcTkwQ1lZVWVHMWRiVDV5Qmp6MnUtazJzc0hlRk1Fc2VpUXdMbEstVWw2NmViNHB4Z3B0bV9tOUoyNkJJVER2NkRMMHpsYXZNeE1ZQkdxMlE?oc=5",
-   "fecha": "Sun, 22 Nov 2026 08:46:59 GMT",
-   "fuente": "www.libertaddigital.com.ar"
+   "titulo": "Máximo Kirchner fue elegido presidente del Congreso del PJ en un acuerdo entre las distintas corrientes",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEpvbmRZUUNva1FmUFVuM1J2RVB6SFRHTlRaeExPX2owbHhZWm9tcVhsTkZNeElUSi1LeDhxOXJYVWs5RGJHLWlkZHY4SlhqN0puUVZNSTYxSm1Ta0dwRXBUcTFJUTNoUjA1dUtFZ1BJZ2U5ZnVNY3RHOHdyb283cDBMY2dpRzdzOHdUTEJKazV4SUd1ekViVWZrTW43aHRjanZ3RmltXzAxQmFmRmFOVExhem50YVVsVk5WbEoyM3JsMDczS3ZSWlZ0dG1ZSlhtQmgxSXFUMjVDYzct?oc=5",
+   "fecha": "Sun, 22 Nov 2026 16:46:23 GMT",
+   "fuente": "DameNoticias"
   },
   {
    "titulo": "CORRIENTES: Los Hijos De Nancy Godoy Cuestionan La Investigación Y Piden Justicia",
@@ -1215,10 +1215,9 @@
   }
  },
  "errores": {
-  "nacionales": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-22T22:05-03:00",
+ "actualizado": "2026-11-22T22:32-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1279,16 +1278,16 @@
    "fuente": "La Nación"
   },
   {
+   "titulo": "Lázaro Báez seguía controlando desde la cárcel sus casas en Pinamar",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1hWTXp0VGFuVHlNTndXS0pobmItUFpnYmJLSU92SVU2Mnk5bXJyNG02dTRYZDF1RHMzX09icm5EUTlrYVFyaXpkQl9od0h1REszYkdVdFV2UEl2bkNFVmN6MGpjMy1sSjZlZl9NQjM4aGZFYmNVcUJtMnhmSW96QklJdHczU2lzcGRVYlAyWVFXR1V1dXZJT21ORURjbWxXZHZGWXc1MlJUWlJsUkQ2dVBIZVFjS0VO?oc=5",
+   "fecha": "Sun, 22 Nov 2026 21:58:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
    "titulo": "El Gobierno repudió las amenazas de Irán contra Rafael Grossi",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnZKSjdkNjVrZU16Vk42VVYxTS14SGNBT3hJMTlZVE5ERXZNN0lvcGVlQTV2b1YybktjbklUX0dBSDRsbWt1WDN5U29aVUI4R19sUXUxSE9GM2FpRURQbDVyOTZDaWdPWGpWNGItM1RFLUFsNEUtMXhCOFU0bkVmRzZHUDhOOC1qY3RIcHVnZTVOMFBYSVpRdzRB?oc=5",
    "fecha": "Sun, 22 Nov 2026 16:36:48 GMT",
    "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "El riesgo de que la ley de ludopatía quede cajoneada",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkR2ZGxlRjhRWl9PVDRrTHVCVlJoQkl3MVNyOU9QMVVuclVZd3Zob0dXVEdONVJCaGQycGozZWtSa1V3NEQxSjRHOE5pbDd1cEtNSFlFUC1pQjhESjJ0N1pYcDNhRHQ4WnBWaG1ZdVo5MVdYOXQ1MGpnQkdPZDdtcFdnd0NwVERqQUdya3VoRllrVWdaN3hV?oc=5",
-   "fecha": "Sat, 21 Nov 2026 23:13:00 GMT",
-   "fuente": "Página|12"
   },
   {
    "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
@@ -1309,6 +1308,12 @@
    "fuente": "TN"
   },
   {
+   "titulo": "Conmoción: investigan la muerte de una joven santiagueña de 21 años en una pensión de Tucumán",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2MyeFdpZkQtQWhVUmRTUlNTX3phdzdfcm5JSEx3WjZna3dyX1FHNDBqaTI0OXQ5RS00YVQtMUxNNDBGZzZkelNDV1ZYQU9fUFdWOUwySlo2ZVd0VENZLXNMMF9uUUstU3FBX3JsMTh4TDlEVzhEb2ppSkhoaGFXeVFUaHlqU281ODB5dHVuMTB3VDUyOUdPWWItWVdUN0lHdDJwelNxM2lPRm5JRHFDdHBPZUNWTzdXcmoyYy1VQ1lyXzAzNlJvMDNNYVlpV0N2aG9xTlFJREtQQdIB4wFBVV95cUxQUTVhQUlUTnM4c1lHYmRJVXp4MzliZ2gwN2RJa2JLdDNTb015OFBTREJXZTZTdkxLZXN1UFhuSEs0aWczNFJYd0lBM0ZCY1ZnOE5DWWkwQVdRZkRac3Y3alY5WWhDeWtUU1FLU2dYU2xHNEpfY1Z6Z09TeDF3NldpUi1BVFRJdWNHUEdWcGtzYktWY3hqVXd6OGcxMUVDSmEtWHJDbHBOTDlNRlpoNmhCcHBLbXd0eC02WHlPS25IOW8xZWtJUndXOHhrZFI5V2JxLUdSRVRfTWsyN3cyd05kUVNQTQ?oc=5",
+   "fecha": "Sun, 22 Nov 2026 21:05:00 GMT",
+   "fuente": "El Liberal"
+  },
+  {
    "titulo": "Emprendedora del Sol 2026: DIARIO DE CUYO y Andesmar premiaron a María José Leiva Díaz",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1MyQVN5eEJmV0swN0VkcHAzMXpObmNhVE53b215c092LTdiTmlfaE5fX3AybkducEJyNmtkaE1ITXlwS2ZtVl9ueGZUT0NNTWxuZTVNQklBcEp2NU5SWllmSEc5NF9tNHVVYXZvLWtra1pOQW5mNWxtaGZFY2pfYVZqYW4zMXE1S1VSRDBSVHhLd29kWW9CdWlMVUx4dUFWV2hpbkwzU2tWTm9ZWlhRR3NsaHd2Z0ZqMThjWTJ0WXRFZ0h2YlJ5cU9PYUJ6d28?oc=5",
    "fecha": "Sun, 22 Nov 2026 04:51:00 GMT",
@@ -1321,22 +1326,22 @@
    "fuente": "El Chorrillero"
   },
   {
-   "titulo": "Conmoción: investigan la muerte de una joven santiagueña de 21 años en una pensión de Tucumán",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ2MyeFdpZkQtQWhVUmRTUlNTX3phdzdfcm5JSEx3WjZna3dyX1FHNDBqaTI0OXQ5RS00YVQtMUxNNDBGZzZkelNDV1ZYQU9fUFdWOUwySlo2ZVd0VENZLXNMMF9uUUstU3FBX3JsMTh4TDlEVzhEb2ppSkhoaGFXeVFUaHlqU281ODB5dHVuMTB3VDUyOUdPWWItWVdUN0lHdDJwelNxM2lPRm5JRHFDdHBPZUNWTzdXcmoyYy1VQ1lyXzAzNlJvMDNNYVlpV0N2aG9xTlFJREtQQdIB4wFBVV95cUxQUTVhQUlUTnM4c1lHYmRJVXp4MzliZ2gwN2RJa2JLdDNTb015OFBTREJXZTZTdkxLZXN1UFhuSEs0aWczNFJYd0lBM0ZCY1ZnOE5DWWkwQVdRZkRac3Y3alY5WWhDeWtUU1FLU2dYU2xHNEpfY1Z6Z09TeDF3NldpUi1BVFRJdWNHUEdWcGtzYktWY3hqVXd6OGcxMUVDSmEtWHJDbHBOTDlNRlpoNmhCcHBLbXd0eC02WHlPS25IOW8xZWtJUndXOHhrZFI5V2JxLUdSRVRfTWsyN3cyd05kUVNQTQ?oc=5",
-   "fecha": "Sun, 22 Nov 2026 21:05:00 GMT",
-   "fuente": "El Liberal"
-  },
-  {
    "titulo": "Cristina Kirchner compartió un posteo que desmiente una supuesta frase suya publicada en Clarín",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLTZYMmtJRWJoOHVlaDNRSjgyR3E4cVluWWZTTUpWRTl4ZUJpM2FDUDNoenZ4V3l5dVhocFdEZndiTkpHU1RGbnJUajZTSU1NMFBONkVLZ29pTFUwSTUtUVZEY1NzT1R0RGg4VGNHX0F3ZDdHX1V6eG9OLUhJbXNIX0Y1UTRoRDROdGpvOXZpZWtfSHJmNHEzUko3SVlMZEEyV3dWMWdNMlVBZ25sMFAyVEtiY3RwNVl4dDdreVpPTUNKZ29YREJ2OEFOMWxvdy1B?oc=5",
    "fecha": "Sun, 22 Nov 2026 23:54:41 GMT",
    "fuente": "Página|12"
   },
   {
-   "titulo": "El Gobierno se resigna a que la economía \"no va a ganar la elección\" y vuelve a polarizar con los K",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3Z0emhRODNvLV9hZHRIVVpVSDRaN1dHYjZsRHkyOVZnVl9xa0E3SWY1SFNlQVZRTWYxY0Rjbm5PY1h0Mi1QTU12SmFnUXBQbTF4Nk9yNWh0T3hCZmlselNlZHlFU001dGtxdmx2UWNBVXNxd2NyZFlaS2M2YzJVZHplRTRWQXNBWHFqYlBXdlFyVkppNUM0c0k0eUtPVG40NUhGclAwaTZieTJBS2NMOTJR?oc=5",
-   "fecha": "Sun, 22 Nov 2026 20:43:45 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Tecka: investigan un hecho en el que murió una persona y estaría involucrado un policía",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObUNESlR5UFpYYW8yVlJsTkhUUVdXN25FbjZfNTFzSV9mUTJYM2oyN1dyRmJqU1dNejNCN1hTNF93M09xdi1wckRhRnUzOS1iLVAtc3B4ajFfTHZEa2NOZm9VTkVraEs3WTVPVDUwdHBkZkFOMTFKQkJHR0MzLThVc3d6d0ZRa3BFQ3lzcC1kanRRRWhFbWhqUm5IYzlCX2cybzFOeGdSdk1QRkNnSjlKLXF6WmNQN0tHTEtuUlpuaVEzTXPSAdIBQVVfeXFMUDFwRHNyclNtRGhVU2xTNi1kdnc1U3puR2FmYkwyYzd6eUVFM2piNVdvai1KNVZ2ZkJCdnp3aUdLRXUtZzRXV0ZPc2V0NXRPZnc3ZDVoTVgzM3FjdGxkaUhpd1VMUGQzaFd0bllmNkNzeTNwM0c2QW9Yd0VrLXRWZjc4UDVIZGg1LXNWTmJwbjU0bFViU2N2VkRrN1R5eWxMc2l2VWpHXzZFMl84S1d2S2I1bFpyNHBUY1g2SkFoUlU3T3NxX0FqY1E0bVFEZndfSXZB?oc=5",
+   "fecha": "Sun, 22 Nov 2026 21:22:08 GMT",
+   "fuente": "EQSnotas"
+  },
+  {
+   "titulo": "Crecida del río Paraná en Rosario: llegó este domingo a solo 9 centímetros del nivel de alerta",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmE2RWVHdWVzNWh3WnpPRm5idmdEV3dEbzZfajJqUnBGRkhtd0FDVFlFWHhZcElWMVk1YWRaVWVGSXdfbjhVSFVmVUloUGIxTTJ3UVpyS085NWQ3M2tFTlRiajYxT3ROV0FleE4wdXhLVGRrQzRkbEU3aExwQlpXdFk3R0RNczVoZjIybFBZNzB0VlFDa2xLQmxDMkc1RDZhdGdKM0pncVN1N1BnQ0k4UDUwb25PMl9BN0JsSHo2NzF4Z1ZGZnlLZFQwZjFqUG5JVmFDeXJ30gHbAUFVX3lxTE9SN2NIQTZCSktBdU5BMGlrNlFReGVwQU03bUotRDd6bm4yM3NvRXIwQTZCeWxOMEpWejczYkpTUVcwenpSR1RIS1oxNnBwU3V2NG9WYjE1SDRYVnh3bVR1SGdfN01TR1RnQjZVQm1SdXBlZGdwbGZyVnBxNXo0aXpPeFk4eTNLUnREYTczN0NYYmNUaHFyQS1FcHdRNE5uTDJ5MktTcXR6YXpsRjlfTndiMFlaY21BNUVYODRtc2dCa24ydWEtMXQ0QlU2OHRYcy05LWVaNllUbVpFSQ?oc=5",
+   "fecha": "Sun, 22 Nov 2026 20:43:00 GMT",
+   "fuente": "La Capital"
   },
   {
    "titulo": "La hipótesis detrás de la desaparición de un maestro rural en un cerro de Tucumán: “La niebla es muy peligrosa”",
@@ -1349,12 +1354,6 @@
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNmpuRDRKdmJRbmQtT25yMHNNNE5NSW5qUlh0THI4LUVqci1GQlotcG5kTnYxcDZXSHBxbXpCRGdZNHdqa18zelpfT3JUZ3hYWlNWQVN5Ump2Y1lzZ3FNLVgtS016OS1sOU56QTU0THVxUTZFb013U1k4ZXQza3lKMlVTRzRaSnBSeWt4ZHBUejJvbkZndFJ1WU44Q0F0dkJYWHBGRzFqcGFudTgxWkRlcXRnN0NrbXB4TV9kOVk0dnlEOERCNW4wXzVpc19BQWVDWDh1S3BEejdOX1NBa0RF?oc=5",
    "fecha": "Sun, 22 Nov 2026 19:50:32 GMT",
    "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "Dos jóvenes volcaron con un UTV en los médanos de Pinamar a días de que comience a regir un control más estricto",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZXE4ZXRvTVVQalNEQ1F4SEx5Q0tIRWNWOENRdXpVYWNPWGV6OVAzLTA3UWVya2ZtcG9sLWMwa1dTVWRHRFBaei10LTZQWVppN1dla09BVDRTZ3RXSngtcnpUZzQxZjN6eGNVYmFReHJIUnpsUUhPV1lZRnhucmRXSFZnY2VQR203cVRzWU1saXM2cmlqYTZ6dEthWUdnMXoxdmd6ajNrUHVGd2duY184VnFEMGdKWXoxSTdBSC0zSDNJS2pPZHhpSzlwbGU3VklBWDRBbWZVc0xETWdzc04wYmJnYw?oc=5",
-   "fecha": "Sun, 22 Nov 2026 17:48:00 GMT",
-   "fuente": "La Nación"
   },
   {
    "titulo": "El Ejército ayudará en la obra del arroyo Carranza tras las gestiones del gobernador neuquino",
