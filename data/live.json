@@ -1217,9 +1217,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-23T15:23-03:00",
+ "actualizado": "2026-11-23T15:50-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "La decana de Sociales de la UBA defendió el homenaje al líder terrorista de izquierda Mario Santucho",
+    "link": "https://derechadiario.com.ar/politica/decana-sociales-uba-defendio-homenaje-lider-terrorista-izquierda-mario-santucho",
+    "fecha": "Mon, 23 Nov 2026 18:35:55 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "La confianza en el Gobierno de Milei subió 4,1% en noviembre, según la UTDT",
     "link": "https://derechadiario.com.ar/politica/confianza-en-gobierno-milei-subio-4-1-en-noviembre-segun-utdt",
@@ -1261,26 +1267,26 @@
     "link": "https://derechadiario.com.ar/economia/morosidad-creditos-volvio-bajar-en-septiembre-segun-bcra",
     "fecha": "Sun, 22 Nov 2026 18:09:53 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Cristina Kirchner liquidó a Axel Kicillof: \"Estoy harta de que camine sobre mi cadáver\"",
-    "link": "https://derechadiario.com.ar/politica/cristina-kirchner-liquido-axel-kicillof-estoy-harta-que-camine-cadaver",
-    "fecha": "Sun, 22 Nov 2026 17:24:26 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
  "nacionales": [
   {
-   "titulo": "La decana de Sociales justificó el aval al polémico homenaje a Santucho en la UBA: \"Si un grupo quiere reivindicar a un líder revolucionario, es necesario que pueda\"",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUTR6eGZaTXNWeTVMYWRKMlltZk5TTjY4d3RaQ2doVUJtU2I4NnF1VWVZXzFETjk4MlZsdU92cHlkSFVtcGdHMTI1U0dpY2RlZDBGSHdzaVBnUU9iUHNoUmFnMXpMNm1RcDdyTWZ5ZExEUGc4SUpIcjh0eFJwbXdDSERrV1JvOV9DdWxkamJna2NySDdvOE8xQXc1UHFhVWUtU192Y0hEdDlQaEt1VS00Z0p3ejVaUW1KYnI5RFRCNFhGWEZ6eFJjSEhGaUE1d3ZmYk5GczVERm5DLWlQbjlycjlWUG5mRzR2dGRXRFlyMlNWTXhsT29sYVRJYkgxcW5mak0w?oc=5",
-   "fecha": "Mon, 23 Nov 2026 15:30:46 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Sobre la importancia de la presencia de Mario Roberto Santucho en la Facultad de Ciencias Sociales de la UBA (y no sólo ahí)",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbVc4YlNWcDdnM3N1dnJrb0RtUHVxcUxZUzZUS3pLaGJUZEUycmdwMTBSallMSm1TeUpNc185RHZLVEdGb1JJWkNDVUNUMmVDdnY4VVZVcWJRbk1qb1BsdC0yeDdrR195cnUwUndEUkY4aXc2dXk2d2NEWE84WTdzOFRzT19HQjlmNlpRS29sY2hadDZYeFVXdi1raWsxeU5XQTFHMmNLSVR0Tmd4UWJlQlNOTWdXeUVIbnBjS2tneDlsb1FTNXpNdzR2dDllci1nLUVOSzh0VGI3U0RBX3lFczVZOS1qcW5QM2ZWcjdmRDlHcEVr?oc=5",
+   "fecha": "Mon, 23 Nov 2026 16:34:23 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "La Iglesia Católica le pone presión al oficialismo: pidió que se apruebe la ley contra la ludopatía",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcWk2aTYxS2JuQjNhRW1fOEZ4N3NnYWwtNk1nWnhGT1k4N0JuLUpxUVpoRHNIZU01b0FRMWJQZHBfdU05X3NsT0pYLWJvYTVmUDhIYXpZcDdLdFZfV3dhbDZZazJ1Wlo5T09LREF0VXVQbm5MWGI1ZWUwbnlZb2dBUjBhQ1hXN0VBeXgyNlc0LWVtU0xzajRNNERWcjNoanQzMk1fd2V6QWtQaEZoU0VhS1o0UnZ2WV9uTXJKeHNyZUpQcjAyZEFCTkIyY2ZidFlmNE9uZw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 13:30:21 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Javier Milei y sus medidas, en vivo: arranca una semana decisiva para la suspensión de las PASO y la reforma electoral",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekxaY2h6STV6cENsVF9IRFNtWTg0VHIyQ3Y2Z0FLenBaNmczN3JpR2szc2psY3RpcEFURy1RVWJ5aW1PZTBzSm5EVkNoNHNDdEpPcmtIUnE4MFZDUWVNWEFValJ1RDl4dTJBcjU5bERYcWFiM2pEcXpYQ09kRE1HXzF6WUFiVERTTXdSb1JYanhVS3ZpdjJDb0szOUhHWi1fWU03anNkSG5HMTFYb190M0xXNjZoVElTT0NVWE4xQTRQSG5pUzZhSTJ1aUlNempQbWhVblQzSnFfOThzeGxBallB?oc=5",
-   "fecha": "Mon, 23 Nov 2026 15:57:00 GMT",
+   "fecha": "Mon, 23 Nov 2026 18:21:00 GMT",
    "fuente": "La Nación"
   },
   {
@@ -1296,22 +1302,22 @@
    "fuente": "ReconquistaHOY"
   },
   {
-   "titulo": "A una semana del fallo del Tribunal del Mar, Quirno volvió a reclamar que se frene el proyecto Sea Lion en Malvinas",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZDlmeTZCYXhRN2FfaU1oZGg1ZU91WjNNcm5ZSDFUcDN5YXJ2N0N5QlFVcWFfUVZMR29JTGZDQngzclZZYk9jUnpwT2lVSmp5LWs1ejBkRFRyOFJFUnVvUjdJX1ZmUU9sa2xoOUxvWEJadmFSOVd3WHRudVlwaWZqaDRyR0lWWTJSNzcxVFJDX0ZYdXhncVdCSGprTVZkdVFrekp5VjR1bWRaMTlBSWdzRkdTbHdyVFBhSy0xYU9GYnpkYnBqZ1cwSW5HbFV5NDE4ZGhpaUZQRzQyQkllRkRDUC1YOWwwYUFkR3BkSmluNzXSAYsCQVVfeXFMT1BMSVM4Z0xwUWVVTlpmejJqRHpfZXVNUTFuNVVhWEJoYkdHeGtzSnp5THBUR1JHQUFIRmdEdGltUk1jU2Q0THZMM2lya0FWcDZmWGt3d0dUNzlYQzlsZjRVNlJ4UjRUcGI2aVFqQmwwSV9UdmJiQmtPMmhwRDd6VFFNTFY5Rmx3LUVicUkxelhqYkZ6X3NZV3VtTzZLNUV3ZndCQlpDc3FnQTlNcERPQ0tkMF9BNENfSHc1WTRfaDZ5SGNlRGlVVDhKbXItX3hnUXNBcFlwVlJWU1BLVjVGX05wWFc4N0JwanEteW5EZlcxMVM3b1FDcm91VzkyN2RiSFloQnlJWVlPbWZn?oc=5",
-   "fecha": "Sun, 22 Nov 2026 04:02:00 GMT",
+   "titulo": "La confianza en el Gobierno aumentó 4,1% en noviembre y registró su segunda mejora mensual consecutiva, según la Universidad Di Tella",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ2tkeVozc2ZtY1psRGJPN2dlbDNTTlhYanUzVHBZZVJiZEF3ZHNlQ3M2U3ZyeFNjR21xUkE2WDZXWVNONW9keEtYWGw2NW93TS03RXRRcVBiLUlKb3VDNnQzZjNSVUU1MEdQUzJpUTIyM09jZmU2WVNzZmNYc0c4eXREdDdWWXVLeW94YkcxaFNpaWl1LUhUNTJJMnZkYTg5Yi1LSk1LU3dKWVVvSk94Z0ZYYVNlLTNBUy1yYzZFSGdxNG1zcDdxcjN3RXJpNE1vaUhfbWFEOXZTWTZNS3pxMGNsYlAxbEVYeWdMVmhPODFZcWxCb2xEZEx6YmNxT3NiUDFkcW530gGgAkFVX3lxTFA1Z0tNNU84dy16Mlo3R1VQSGx5dkFQM04tUUFPa0t4aThHRUNnX2xxaW9yd3Z5YnFXaGZNYU1XTzk5OTNpX0ljcV9HdlhIQU5VZVZXUzJFUmU2TkUwMkVUTjBkd0JlNWNlaXl5QnlnYkNjVVoyTTFCOF9hQU9aSzhTVmZaZ2V1Um9lTEhlQ2dteld4Uk1xMWxRTEh0V09mUDVGLTJ4WlpTQWtONmRDQ1NNOWZGTGEybjFPSjZkNVktWlJsSVBncFVRajdUODFONzU1UzhkOUVsSkIyU3lzazF0TExJaE01QXlzSDU1R29JMnJ0SE5yQWJRSlhwdjVDZmhxNkZFNzNpU2VLSE5vWUsxQ0F3aVgxcTQwWklsV1BvMA?oc=5",
+   "fecha": "Mon, 23 Nov 2026 16:21:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Malvinas: la ofensiva argentina contra Sea Lion causa nuevas bajas, mientras se espera un fallo clave",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUc4VHZ5cUJyWlREYzc5eGtsR1QxTE1WWDRTcE1mX1VfZnlxdDlqNGNpb0RBY3R3UGJmaGRzazZHUGNXalBVakZfSEFYUVIwRENnNmhLalMtYVpQOTRRNzBsRGNBVWNjazZuYnVGam02ZldMdnVQcGNjRUJldElEa2JIemZSbWM3Q1R1SFc5ekhCc1lEQjVqLW9ILTRfcGFuSFFpVUkyemZiUld5bl9ZeXVoQkZlRVhnUy1tclR1UV9aU2txOExZOFNmWkxVdjhrcVp4X19JbTZtazh6S1dkZzBPWkJjR24yQXc?oc=5",
+   "fecha": "Sun, 22 Nov 2026 17:03:37 GMT",
+   "fuente": "MDZ Online"
   },
   {
    "titulo": "Efemérides de hoy: qué pasó un 23 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXRVNUV0bG5RYjB3Y09fdlRHRUNuYkJfZms1ak5mMUh0cmFNSC1rcWZXTFZlV3Jyay1aMUFNTVJhb2k5cktacXVWVkc3SXBCekFhNVViVmZ6ZDlYS19XUEc3bkY5c0pndERRZXhLcm01M2NaQmZTbEVfbHZGWkEyeGxBTXJrcDJZX1k0Z25n?oc=5",
    "fecha": "Mon, 23 Nov 2026 07:05:07 GMT",
    "fuente": "Página|12"
-  },
-  {
-   "titulo": "Un local de comida explotó cuando festejaban el aniversario de Ezpeleta: al menos siete heridos",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQzVVOEZoTHFYTmNZeklMNzlEZFNaNERkZ3gtc1hlQjNzdHFHVFh6cDBSWFUyM2pYeENZUjZjY0ZXcTVyTUZnY3lpTUYxLWQwbWtYdmZEcTVqZkVidXZ1bzRaQXVvZWZUazZ1dUFaV3NKUnRndkRZYU05LVFEUk1Bc0czNEdJYXFEUU52R2dCdHJWOW5sM3paWU5RSUlvNXZmWkVvZGRIRXJkTzZJdEZtTUw3QnpyUFBLUUt3ZjZmcjlieTg4VDFpMi1yX1BlVkM0NmdERGRRYlpIemVP?oc=5",
-   "fecha": "Mon, 23 Nov 2026 14:41:00 GMT",
-   "fuente": "La Nación"
   },
   {
    "titulo": "Víctor Hugo Morales: “Es una economía criminal que está hambreando al pueblo argentino”",
@@ -1326,34 +1332,10 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "Brutal ataque en Merlo: por celos, un rugbier le dio una paliza al joven que está saliendo con su ex novia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczdRb01HTmZzQ0FQMlU0bnE1am0zc0VSZmdlYmRrZGctcEZzc2l2Z0dTSTVDT3Z0aU8xNHptbUdrQlp5M1pSY24tTzhFLUxlZW9TdFFuZEtTelo5czFkMThnc0J2V2JMNzZMcTBZLWVpTzNfdDg2Wm54Zy15OWlwQTFvSWdOcGxZYjA5UjJPbUxDc0V0azl4dzNTTWZzd29BLV93Nnd0MUUyMHFnVjN6UmxDR3UyZU5kOUE?oc=5",
-   "fecha": "Mon, 23 Nov 2026 13:08:50 GMT",
+   "titulo": "Fuerte explosión e incendio en un local de comidas durante los festejos por el aniversario de Ezpeleta: hay siete heridos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFBLQ0sySFowdjZ3aC1aaENJYWZMTnVLZGFhX2dlcUQ2Q2RrS09uUVEwWjJwcHUydmRITGVBSklLeEE5bGtBb01RMzROWTFtbGZXQ0ozQXl4R2JPX3Fmd0dKaGppcW83aFoyenBFSk5jMmFMZFBINFdpZnd0NWFMbkdnY0JZZGlfQWVyZXhSenNRTWhUREJTS2pRY2wtS3lRbWpyUjNOYTQ4Z3ZRZkNOR2RPaHdKQk1IUjktdFZFdXlEZ2ZEM1E?oc=5",
+   "fecha": "Mon, 23 Nov 2026 05:06:19 GMT",
    "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "El expediente que nadie vio venir: el botín oculto tras el narcolavado",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVZ3NmpwWUtWLThBSTBtTW5iLVI3amdNSlNvR21SWXdOcWRZRDFjeFFzX1BLLUVGeTVXM01PUUtjMU12UzhGUUJJNHZiejUzdWxaNkF5aDdqQklaSnBiUzVnay1jMXFlTWdCR1BXZHdGNEUtSEVCSERDS3luQWhHajVpUV83UHdqT1pRVU0zRjc0WnZBWjZDaFhsYU1TcTQ5ZWZTcWY0bHpVRHZzWkHSAbMBQVVfeXFMTW1DYlJKRGUzRi1yQXpBY3VIRlhycXhaMnl2SkFFZXNFRWF6M3NqSE05RnFTaWNDU3c3OHJkeUwteVVBeE5ybHZDeUZydGZEamZSZDdyb3hIdFNhSXQ3ZzBpT1pEQnphU1d5dC03VVBLd1FjWjlydTRFNmluc1ZDNEVPT2NqM3E3Wm0wQ3doNnNBUjJnbmRUWEY5aDM3ZmRpUDNwWHpZS0xzX2swZE1rUVBxNXc?oc=5",
-   "fecha": "Mon, 23 Nov 2026 01:31:00 GMT",
-   "fuente": "Tiempo Sur"
-  },
-  {
-   "titulo": "Pullaro, Poletti y Fernández reivindicaron el legado federal de Estanislao López en su 240° aniversario",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUk9xOGRRZWhGREhpRXBiYWg4NjlTMHRSVzhLclZWT2lRc2ZYRTl4Y2IyeHE4WW10UUc3YUVVRnRxNXZsOS0ya2tBX19CTGVERXdiQkpodjRUS2xublI1YVZSMW1hSjZjZDhGUEp0blM3bUh4dXJPeFVtSUc0MVo3TGJlVEFObmhEZlNLamZJaEMxaWVweWJyRld2a29SWDJJUEwwQWdCNGFYbjFLVUlDb0FucS1jdFVsWFRSbjAtZ2tneDV3dnRENWpPQzN6MmN2UUU0Z0xuOFNMaVRmSjZaWW1Uc0pPUm02?oc=5",
-   "fecha": "Sun, 22 Nov 2026 23:48:05 GMT",
-   "fuente": "El Litoral"
-  },
-  {
-   "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnlNdEVHRWJieWhXTkFWU1RoeVVPb0I2T3VVellxYTAwaThDZHJoMDFaZjU2N1N3NzRJQzdPX2xub1VYWnV0YTI0VmtLc3FVNE9XSGkzNTd2aWxXZVJQMmU0aDdqU1d4U1dmRVRTbUU5eXhzNWU1MXB0dDBRU1VMOXVwTTI5ZlhSZHFZbl9PZzNTVkMzSG9aT2k2OTJURmdOZm10cktkejJxT3dJNUQ4b2JOR283X3NKckhEVHRsNUdKa1RjVVR6ekM3ZUg0NUJGZzlyckxMU3N0UkM3Q203YUtRbjk?oc=5",
-   "fecha": "Sun, 22 Nov 2026 22:29:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Emprendedora del Sol 2026: DIARIO DE CUYO y Andesmar premiaron a María José Leiva Díaz",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1MyQVN5eEJmV0swN0VkcHAzMXpObmNhVE53b215c092LTdiTmlfaE5fX3AybkducEJyNmtkaE1ITXlwS2ZtVl9ueGZUT0NNTWxuZTVNQklBcEp2NU5SWllmSEc5NF9tNHVVYXZvLWtra1pOQW5mNWxtaGZFY2pfYVZqYW4zMXE1S1VSRDBSVHhLd29kWW9CdWlMVUx4dUFWV2hpbkwzU2tWTm9ZWlhRR3NsaHd2Z0ZqMThjWTJ0WXRFZ0h2YlJ5cU9PYUJ6d28?oc=5",
-   "fecha": "Sun, 22 Nov 2026 04:51:00 GMT",
-   "fuente": "Diario de Cuyo"
   },
   {
    "titulo": "Fotos y video: quiénes ganaron la Maratón Nocturna de Capital",
@@ -1362,10 +1344,28 @@
    "fuente": "Diario El Sol Mendoza"
   },
   {
+   "titulo": "Pullaro, Poletti y Fernández reivindicaron el legado federal de Estanislao López en su 240° aniversario",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUk9xOGRRZWhGREhpRXBiYWg4NjlTMHRSVzhLclZWT2lRc2ZYRTl4Y2IyeHE4WW10UUc3YUVVRnRxNXZsOS0ya2tBX19CTGVERXdiQkpodjRUS2xublI1YVZSMW1hSjZjZDhGUEp0blM3bUh4dXJPeFVtSUc0MVo3TGJlVEFObmhEZlNLamZJaEMxaWVweWJyRld2a29SWDJJUEwwQWdCNGFYbjFLVUlDb0FucS1jdFVsWFRSbjAtZ2tneDV3dnRENWpPQzN6MmN2UUU0Z0xuOFNMaVRmSjZaWW1Uc0pPUm02?oc=5",
+   "fecha": "Sun, 22 Nov 2026 23:48:05 GMT",
+   "fuente": "El Litoral"
+  },
+  {
+   "titulo": "Emprendedora del Sol 2026: DIARIO DE CUYO y Andesmar premiaron a María José Leiva Díaz",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1MyQVN5eEJmV0swN0VkcHAzMXpObmNhVE53b215c092LTdiTmlfaE5fX3AybkducEJyNmtkaE1ITXlwS2ZtVl9ueGZUT0NNTWxuZTVNQklBcEp2NU5SWllmSEc5NF9tNHVVYXZvLWtra1pOQW5mNWxtaGZFY2pfYVZqYW4zMXE1S1VSRDBSVHhLd29kWW9CdWlMVUx4dUFWV2hpbkwzU2tWTm9ZWlhRR3NsaHd2Z0ZqMThjWTJ0WXRFZ0h2YlJ5cU9PYUJ6d28?oc=5",
+   "fecha": "Sun, 22 Nov 2026 04:51:00 GMT",
+   "fuente": "Diario de Cuyo"
+  },
+  {
    "titulo": "San Luis: las lluvias superaron los 50 milímetros en algunas localidades y anticipan un lunes inestable",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcGR2UWwxOUxkY2VrMFRkQXAwSWluLVJaeGxtT0Y0TkhYVGY5Y3NMQnFINV8tTnd4TDVzSXNVS2Y0YXBtMWVMWmt1SHV1dEkyQmQzMDdxWVY2el9rRmptWlphMFN0bW1MWkdjeHl6TnFCZ1ZQeWY3RUNSaVU4aEduYXNoeHhfQktDOUk0TzZmN0NMS25XblFjUlNBYjZLemJwZDM3TldsM21tVnk3d05YMXdBRmx1dHllbUQwbE9pYnpERU16eEZRMDVLRW12dG9UNlVJNmJSLUZwRFlvamJVSHdzcVpydjFQNGlPU9IB7AFBVV95cUxOcGR2UWwxOUxkY2VrMFRkQXAwSWluLVJaeGxtT0Y0TkhYVGY5Y3NMQnFINV8tTnd4TDVzSXNVS2Y0YXBtMWVMWmt1SHV1dEkyQmQzMDdxWVY2el9rRmptWlphMFN0bW1MWkdjeHl6TnFCZ1ZQeWY3RUNSaVU4aEduYXNoeHhfQktDOUk0TzZmN0NMS25XblFjUlNBYjZLemJwZDM3TldsM21tVnk3d05YMXdBRmx1dHllbUQwbE9pYnpERU16eEZRMDVLRW12dG9UNlVJNmJSLUZwRFlvamJVSHdzcVpydjFQNGlPUw?oc=5",
    "fecha": "Sun, 22 Nov 2026 12:32:13 GMT",
    "fuente": "El Chorrillero"
+  },
+  {
+   "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnlNdEVHRWJieWhXTkFWU1RoeVVPb0I2T3VVellxYTAwaThDZHJoMDFaZjU2N1N3NzRJQzdPX2xub1VYWnV0YTI0VmtLc3FVNE9XSGkzNTd2aWxXZVJQMmU0aDdqU1d4U1dmRVRTbUU5eXhzNWU1MXB0dDBRU1VMOXVwTTI5ZlhSZHFZbl9PZzNTVkMzSG9aT2k2OTJURmdOZm10cktkejJxT3dJNUQ4b2JOR283X3NKckhEVHRsNUdKa1RjVVR6ekM3ZUg0NUJGZzlyckxMU3N0UkM3Q203YUtRbjk?oc=5",
+   "fecha": "Sun, 22 Nov 2026 22:29:00 GMT",
+   "fuente": "La Nación"
   }
  ],
  "finanzas_argy": [
