@@ -903,10 +903,22 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
+   "titulo": "Detuvieron a un joven de 18 años acusado de matar a su abuelo y simular un suicidio para robarle en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnZkRFVKVXk4cGZVeXYxQ2lFd3hjNE5rbHlrbGRIRjhDbm1rNFZlME42WHBsLVFGbXc4TVdPTU05bFNRQ3RvNmJrOUh4RXRSNFFJbE5NNmw4VVhIeVZPbUZUaXlvUEd0M0JVSWFFQVdxRDl1S3IxckNfWHhVT3pZYTZ3WWQtblo4Y2FDRWVsZV9wNXlfWDhSU2R0SFVmZ3JvT21tRmJPcm1jajhtZkhSYmd1MXBMOTFKUVlWSUNBQjhyX0YtaHdKMGVDZTY?oc=5",
+   "fecha": "Mon, 23 Nov 2026 15:01:33 GMT",
+   "fuente": "La Voz del Interior"
+  },
+  {
    "titulo": "Feriado del lunes: qué servicios funcionan en Corrientes",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFRHQnVLQnA2elAyYk83VF9rV181akdkRkFabDh0ZmhZSC0wRGhOOVJfVTNpaXFQNlR2SE9wOHNJdE9RdkxUN2JjbWFObVlKbkdfb21IdjBlT1ZabUpJdDNnakZpLVpnekFfTWFSVVFxZ2RvLWtweUNtWXlfNHk1ejdaNGcwLUdjZTZTcWRQbUFMYkZOd0d4dWJ3?oc=5",
    "fecha": "Mon, 23 Nov 2026 09:14:00 GMT",
    "fuente": "VirasoroVirtual"
+  },
+  {
+   "titulo": "El nuevo edificio que inaugurará el Poder Judicial esta semana",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM19hYkZQZzduTDVzRGNlaXNJME5QMHlzTjkxVVJxTFZLSFdjMkxDOGVCQ2ZRR05RVlM3d1VVMVM0c1N6UzEwY1gwQUZWLTdUSTBMSUtBZU5qaF9TWExnV280Zi1OTkd2YlE0dzdhbWp5SGw3QmdmUDdpeDdFZHVjRUxhdThDRVUxdm5qTDRoVk9feU5keUpybjdINDFDNWxxRS0yc2NRQ3ZLZw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 14:35:12 GMT",
+   "fuente": "República de Corrientes"
   },
   {
    "titulo": "Cayeron las ventas de supermercados en el país y Misiones lideró las operaciones en el NEA",
@@ -943,18 +955,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemNzWFE3Nl9Mb1NNbnJ5VmRoRlBfWGdmWmdIcUQ4MWdKUWtzN01SY3o0dDBRYVJrR1VKMEVCZFJOV2lzY1hFa294c3Ezd2s0VXVDZ0g1ODlHQ1FUNUpaZ253WVdhUjBWLVpBcjFjUDYyRHFZOF81THZCbWJUTWdYYi0tbTJMVkQ3d3JaMEJGRXhRSno2R2hmQWhVZXVpY3VmdVRFU1BTc1AyRG9nb0c4Nzcxcw?oc=5",
    "fecha": "Mon, 23 Nov 2026 10:58:26 GMT",
    "fuente": "Corrientes Hoy"
-  },
-  {
-   "titulo": "Braillard Poccard y Bassi inauguraron, la 23ª Fiesta Nacional de la Naranja",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWlJTWZTOFVxVmU3SFlxSE0weWE3UFFKZGNjUDZ5MDlTOVB2enNORkdnMWlzaTlBRFJBeTlHRmtjTjVmTFI0LVlaNXJiVy03M0hoUHAwYzRrV2JkanR5MFlITnB5dmFZdkdvUHlDTnY5NXYtNG4xdWhTbHFZQUVoWGdGdGhKcjZvTUxQb0tGczFwbDNfRE5lUFNYNUNSVld2dEl5NkFiTFRqVFpiQWhGWnIyajNjcXI2WmQtVm9zR0w?oc=5",
-   "fecha": "Mon, 23 Nov 2026 11:29:06 GMT",
-   "fuente": "Momarandu Corrientes"
-  },
-  {
-   "titulo": "Ruta 12: Corte de tránsito entre Itatí e Itá Ibaté por obras",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzRLLTlVaFMwR0dITzE3NHZHbFZXSThYdGRxemtsMWhaTUEwdDNNQnAxMkV6VkQ0anNrNFZVeHBQZk9jcmh6TkdrNW9BQktiOTliTlkwOXdvVHN0QXI1MXBRdnpTUGhCTjhPX1k4a09sLUU3cmRFWUlyR1RUSmx3Q1dqMXNqQXpYSmVLd3BnRnA5OVVmNWNZZkhB?oc=5",
-   "fecha": "Mon, 23 Nov 2026 14:23:29 GMT",
-   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "La Iglesia le pidió al Senado que se apruebe la ley contra la ludopatía",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-23T11:51-03:00",
+ "actualizado": "2026-11-23T12:18-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1278,16 +1278,10 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "El Gobierno le pidió a la UBA que no se realice el homenaje a Mario Roberto Santucho",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUpDYXBqT2xYS3FJRG5ESTVBeloxb09LOW5FMGJHU1BWLWI1WUlyaE04aXhSQlRGSmFnQzZIcjRrSWlLc21sNEZLZ2MtcnFfeEtpUUN4eWx3NGp3ZGlZa0hPVHpUYmxpTkV6aHVfZVZyaGY5TWxqVGdSSnpNMVNLbGMxZUdxVXMxT2lxd1dVVTE0MHBnOGJXUkZtaHpfU1FkTU5TUGtJdEYxQlNrYzM3U3hOb0NFUWJncVZ6WmNSZXcteXgtQnFZejRFTnVIQVU?oc=5",
-   "fecha": "Mon, 23 Nov 2026 12:57:00 GMT",
+   "titulo": "La decana de Ciencias Sociales volvió a defender hoy el homenaje a Santucho: “Es una reivindicación de la militancia”",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORm9nZVlVY01pTGw3SFhpbDctelR4OUlONWE2ZWx1MUluemVFZ29QYWdmd05ZWjg2MFUtWFdyX096LV9WdkZrTkVsM21YaWQ5UnpUQnhOQ3ZTN0RoOFFrQ2VXLTJVWV9LV2dHR20tLWFYVVFmeGU1dU44SEs0ckgwRk81UmRtajNfOVhGRGQ1c1VaNmhndkRKOHgxaG1MR1BDdlZZUEZLOG9CbU5xZWVLYVUtRHBBd0U3LWljZVBRU0JDeTJqQUJvdVExbF8tbG9vOVEyX05ZdjNKYkRoOUhENmk5MWk?oc=5",
+   "fecha": "Mon, 23 Nov 2026 13:42:00 GMT",
    "fuente": "La Nación"
-  },
-  {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWEzR0pqM3podVQxUzJyV0F1cC1HNVlFaEo2V01ac1VaZjNLdk1DS0NxRlotZUViX3dsZHpFYW1nN013VktwOEZvM1NxUE14NWVkMU01WnNUdlM2OC1YaV9NeGZEaE1mUno1RThVTUJPRFcwYUVKLUNZOVBLdERHTXpSTFhqM3lNRFlCM2labTMtT0dQVTU5bUMyWVY1dGdqSURDWnNVT2dFNURBTVFlcVZHSzFBNW04eW9zN1Rn?oc=5",
-   "fecha": "Mon, 23 Nov 2026 02:48:40 GMT",
-   "fuente": "Clarin.com"
   },
   {
    "titulo": "La Iglesia Católica le pone presión al oficialismo: pidió que se apruebe la ley contra la ludopatía",
@@ -1296,10 +1290,22 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "El Quini 6 repartió más de $485 millones entre 52 ganadores y el Brinco premió a otros 18",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1dFSDJrMnZTc2lNOGR3Rnl0T2hLQ2dVVmlqX0RPVHlZb0N4dk82Njc0R2lSaVdLanFhMFNZN21ENlktVHJJemNIRG9oMm1NMmdQcDVOdFNtelVNajFsZDRZVzFRUWh6YnViTmJuMUVmOXdvOERfZHRQQ1FjekdZdWswNWtycVR2RzNybVc5d09wckFTQkh2VzRJWFQyazdLd3g2eU81QVhLbGFsczZ5QkxPNE1mUGdvcHhoYTNiOXpZV3M?oc=5",
-   "fecha": "Mon, 23 Nov 2026 10:58:02 GMT",
-   "fuente": "ReconquistaHOY"
+   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWEzR0pqM3podVQxUzJyV0F1cC1HNVlFaEo2V01ac1VaZjNLdk1DS0NxRlotZUViX3dsZHpFYW1nN013VktwOEZvM1NxUE14NWVkMU01WnNUdlM2OC1YaV9NeGZEaE1mUno1RThVTUJPRFcwYUVKLUNZOVBLdERHTXpSTFhqM3lNRFlCM2labTMtT0dQVTU5bUMyWVY1dGdqSURDWnNVT2dFNURBTVFlcVZHSzFBNW04eW9zN1Rn?oc=5",
+   "fecha": "Mon, 23 Nov 2026 02:48:40 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Súper Niño en Argentina, EN VIVO: hay alerta amarilla por tormentas y fuertes vientos en seis provincias",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3ZTeU5WdldJaS1CYmNraHZXUGxnc0lDZzgyaUR0R09BTTZDWVYxaHA5RFNFenk2OTJmczY2WFpmOWZFczgxU2MzS0pCR3NRZDIxNzdvUklqLWQwV0kxaTlwaFl2SXJyYVBEN0hmZlpfcG1jYkpTblZ6cDRPaTRoYjQzd3M3ZTFTSE9kdFNsSFYxVFhsR1A0N1VpMWR1blJMT3N5SlY2ZXJEbmlXRW5TeGQ0b2FFdERZUDh0QzR6MmhucG9ISEhF?oc=5",
+   "fecha": "Mon, 23 Nov 2026 14:41:43 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Quini 6: los resultados de este domingo 22 de noviembre",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUZLVWNBOGpBYVJFaXRRbjR4dzVXdzRUREJPTk1aLVlzRXpsR0N5OHpYUzdVdHJWZFM4OHFZRVNndmJ3VWJRRURLVjR3VHYtRXMzUnpqWEwtMkNuM093cUdFYmtoSHVGMnNDSWRpVW1wV0xuYlkxOHZ0YzA2MTk2d2NjYkRoQjNuYUtnSHRqMnNfOTdPeE5SedIBrAFBVV95cUxOZXBiT2dXZVRQQThXLWFpM3BZZXF2NGl1andxaWt6WkRHSDNnSHdoME5wRFhST0lHbUtPTnllSFNtUjItN3pnUFlBbkNEaTZvTlhMMWRUWnFrNC1RZFZ3YkN2Yi1ldVlfbGlWMDBwcDlwZEFxYmZMN21wUXdiV09yeUJ5bFI5X1A4Wi16b2VPWVpIc1dwODM2RjVxc2tHamJ1em43VksteVRwQTZK?oc=5",
+   "fecha": "Mon, 23 Nov 2026 10:10:18 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Navidad con casa propia: Poggi entregó 280 viviendas a familias de la ciudad de San Luis",
@@ -1308,22 +1314,16 @@
    "fuente": "El Chorrillero"
   },
   {
-   "titulo": "Video: un rugbier de 17 años atacó a trompadas al novio de su ex y lo dejó inconsciente",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlowNlZaZ2VQTzJLa0Vna3VxeHJDMEJWWDFoS0NQTkIwTFZNWnYtUUlGMHFmdDVJOXNsWW8wRlB6WC1MSTMwdTB4akpSR3EyVC01emFJTmJUUjVOQXAzVWxUd0Z3WmxHNFgzZnA0ajc2eVVoQy1JM1Uzbk5jVi1ZODdwMVhUOFYzLXZ5dWFfX2d5VTZrTUIzcUtqelI3ZkZzMHpIUkJkdllxZEVwNUZaYy1mRmFnTjlCSFRHMnFrdHFuVXk4c3fSAdoBQVVfeXFMTTBjT1EwVUdIeDM4WmZZNWJwenVBWk1SRnZOUlFmUkgxN054bHNkNUMwOC1wbkdVc1kzOTg4Qi1ReDEtSkMzMVpXUGlCYjl3bnVSU3dRMERLc01OQVdOSk9CcURQV2h4YW9DNXd3aDVMVTlaSTFTM2pGQm1aZWR5NnZ0WV82VDNCRjdyRG1wbDZESTJMbXZ2b3Zpb0ZLUDZQeWlPZlNXYkdQMXRMOWlJRVJKbEhKdlJKSkVydjBYLVdFaU5ZMTN3TWZrMkcxa085WWw4c2RBd0dXeWc?oc=5",
-   "fecha": "Mon, 23 Nov 2026 12:35:21 GMT",
-   "fuente": "TN"
-  },
-  {
    "titulo": "Un local de comida explotó cuando festejaban el aniversario de Ezpeleta: al menos siete heridos",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQzVVOEZoTHFYTmNZeklMNzlEZFNaNERkZ3gtc1hlQjNzdHFHVFh6cDBSWFUyM2pYeENZUjZjY0ZXcTVyTUZnY3lpTUYxLWQwbWtYdmZEcTVqZkVidXZ1bzRaQXVvZWZUazZ1dUFaV3NKUnRndkRZYU05LVFEUk1Bc0czNEdJYXFEUU52R2dCdHJWOW5sM3paWU5RSUlvNXZmWkVvZGRIRXJkTzZJdEZtTUw3QnpyUFBLUUt3ZjZmcjlieTg4VDFpMi1yX1BlVkM0NmdERGRRYlpIemVP?oc=5",
    "fecha": "Mon, 23 Nov 2026 14:30:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "Víctor Hugo Morales: “Es una economía criminal que está hambreando al pueblo argentino”",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEZnMnd4NEh5bDFXSlE3TUJiSXV3OXdNXzdFM25haW43VzI1NGhtcjRwTkRsd1NtQTZlYzNMVmRIdEE3TUhkZVBCMUhmOVRjdlZ1eHlvNTVsN0F3UnhhbFFmeEQxSlhxRUhHeE9GU1NoUjV2dGFXYmpqcXpQRld2OU5uYXlGeVZveFQwNjVOcHoxc2FxNG9mZkkyZ2h1d3pqS0w1QU1hclQ4SDMwaWNlMXdsakdmOGZyYTAxamdFU3lidw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 12:25:35 GMT",
-   "fuente": "Página|12"
+   "titulo": "Video: un rugbier de 17 años atacó a trompadas al novio de su ex y lo dejó inconsciente",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlowNlZaZ2VQTzJLa0Vna3VxeHJDMEJWWDFoS0NQTkIwTFZNWnYtUUlGMHFmdDVJOXNsWW8wRlB6WC1MSTMwdTB4akpSR3EyVC01emFJTmJUUjVOQXAzVWxUd0Z3WmxHNFgzZnA0ajc2eVVoQy1JM1Uzbk5jVi1ZODdwMVhUOFYzLXZ5dWFfX2d5VTZrTUIzcUtqelI3ZkZzMHpIUkJkdllxZEVwNUZaYy1mRmFnTjlCSFRHMnFrdHFuVXk4c3fSAdoBQVVfeXFMTTBjT1EwVUdIeDM4WmZZNWJwenVBWk1SRnZOUlFmUkgxN054bHNkNUMwOC1wbkdVc1kzOTg4Qi1ReDEtSkMzMVpXUGlCYjl3bnVSU3dRMERLc01OQVdOSk9CcURQV2h4YW9DNXd3aDVMVTlaSTFTM2pGQm1aZWR5NnZ0WV82VDNCRjdyRG1wbDZESTJMbXZ2b3Zpb0ZLUDZQeWlPZlNXYkdQMXRMOWlJRVJKbEhKdlJKSkVydjBYLVdFaU5ZMTN3TWZrMkcxa085WWw4c2RBd0dXeWc?oc=5",
+   "fecha": "Mon, 23 Nov 2026 12:35:21 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Pullaro, Poletti y Fernández reivindicaron el legado federal de Estanislao López en su 240° aniversario",
@@ -1332,28 +1332,28 @@
    "fuente": "El Litoral"
   },
   {
+   "titulo": "Víctor Hugo Morales: “Es una economía criminal que está hambreando al pueblo argentino”",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNEZnMnd4NEh5bDFXSlE3TUJiSXV3OXdNXzdFM25haW43VzI1NGhtcjRwTkRsd1NtQTZlYzNMVmRIdEE3TUhkZVBCMUhmOVRjdlZ1eHlvNTVsN0F3UnhhbFFmeEQxSlhxRUhHeE9GU1NoUjV2dGFXYmpqcXpQRld2OU5uYXlGeVZveFQwNjVOcHoxc2FxNG9mZkkyZ2h1d3pqS0w1QU1hclQ4SDMwaWNlMXdsakdmOGZyYTAxamdFU3lidw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 12:25:35 GMT",
+   "fuente": "Página|12"
+  },
+  {
    "titulo": "Efemérides de hoy: qué pasó un 23 de noviembre",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXRVNUV0bG5RYjB3Y09fdlRHRUNuYkJfZms1ak5mMUh0cmFNSC1rcWZXTFZlV3Jyay1aMUFNTVJhb2k5cktacXVWVkc3SXBCekFhNVViVmZ6ZDlYS19XUEc3bkY5c0pndERRZXhLcm01M2NaQmZTbEVfbHZGWkEyeGxBTXJrcDJZX1k0Z25n?oc=5",
    "fecha": "Mon, 23 Nov 2026 07:05:07 GMT",
    "fuente": "Página|12"
   },
   {
-   "titulo": "Alerta amarilla por tormentas en Salta: prevén lluvias intensas, granizo y fuertes ráfagas en varias localidad",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTWZPWWxrUTNRZ2ZjeWRmY0hPOG40R3Qwd0M0NG5udFJjLUtJYUhfY2RLRTZ4M3FIZkZvS0REb0FIa0lURnhPRVhreTVic2s0S28wQ3lSZGNNdjRmZ2xUQ0dwTmZ1eTQ4T0lDREtPekY3bExERjRHc3hjbVZrMHpTMm1rMDVtMGFhTE1qMnp3QU5yZ1VhODBmQjRTc1Nhcm5qY2hibHRZVjh1X19zeFdqWVNLYTlvS2tlV0lUcl9XdDE4V1pOeFlwSWxJZGlMNHZDblRNejBOU1hJakZMa2tvQ25mSUdZWjdKRFVTdmdia2RPZlXSAfgBQVVfeXFMT0ZoTExaSGlRVWVNWTdFZV9hXzVBdGtVV3ZKanNIV0pBblgzTERNdnYyLWlkTldNMzFkeGtXVXQyZzNOcVN3QXI3NHpxOXA4Rm5reVpSZ0VaNElVWVF0Tm5qa2hMQWRKRUFhNzAwbTZNRmNiSldkYmhSdWhnbHdHYTBUVEZJeklOUHpjVUJPSnA0b2tLN1U5Q1FRZEtnUDkwTVdMWG5xSHRsYW9Gb0UxSVFZQXJvejltTU1oMXFoTFZlVkFSZ01pQmtFS253QkN2R29RdWRhb25ZdTB5TzNlZ2NjMDBVOExVdUFMdUNtRzh6SGlmeVFjdEw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 00:13:00 GMT",
-   "fuente": "El Tribuno"
-  },
-  {
-   "titulo": "Cuestionamiento empresarial a un control laboral de la Provincia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRmYyRlFZbk9yc2lkTkJKYXJXR1JPMU5La2I0QVhPQXJFSjF6c2twc0pnWlFCQmt0Ym03bnNwR0JBUUV6NGVyOFNnRy1MWGl2aklDNFBzNy1RRXgwN2dPX2w0Q1YxZU5yOXEzWklCZ04tUGpjNnVMRF9oeGRZa2hjXzhJdC1fV2ZEX2pmZjJFSk9vUEY3R1l0UHJkNnZIeTNYX3U4R25jeTA0NjR2Q0p3MC03SDBTaklBbm1DVFFNU0s3bDFFUk14TG5pR3NyaDRZWlhJ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 04:45:04 GMT",
-   "fuente": "Diario El Día de La Plata"
-  },
-  {
    "titulo": "Emprendedora del Sol 2026: DIARIO DE CUYO y Andesmar premiaron a María José Leiva Díaz",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1MyQVN5eEJmV0swN0VkcHAzMXpObmNhVE53b215c092LTdiTmlfaE5fX3AybkducEJyNmtkaE1ITXlwS2ZtVl9ueGZUT0NNTWxuZTVNQklBcEp2NU5SWllmSEc5NF9tNHVVYXZvLWtra1pOQW5mNWxtaGZFY2pfYVZqYW4zMXE1S1VSRDBSVHhLd29kWW9CdWlMVUx4dUFWV2hpbkwzU2tWTm9ZWlhRR3NsaHd2Z0ZqMThjWTJ0WXRFZ0h2YlJ5cU9PYUJ6d28?oc=5",
    "fecha": "Sun, 22 Nov 2026 04:51:00 GMT",
    "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "Fuerte preocupación empresaria por una medida de Kicillof que obligará a informar sueldos y jornadas laborales",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnlNdEVHRWJieWhXTkFWU1RoeVVPb0I2T3VVellxYTAwaThDZHJoMDFaZjU2N1N3NzRJQzdPX2xub1VYWnV0YTI0VmtLc3FVNE9XSGkzNTd2aWxXZVJQMmU0aDdqU1d4U1dmRVRTbUU5eXhzNWU1MXB0dDBRU1VMOXVwTTI5ZlhSZHFZbl9PZzNTVkMzSG9aT2k2OTJURmdOZm10cktkejJxT3dJNUQ4b2JOR283X3NKckhEVHRsNUdKa1RjVVR6ekM3ZUg0NUJGZzlyckxMU3N0UkM3Q203YUtRbjk?oc=5",
+   "fecha": "Sun, 22 Nov 2026 22:29:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Cómo funcionarán los servicios públicos durante el feriado del lunes: trenes limitados y subtes hasta las 22",
