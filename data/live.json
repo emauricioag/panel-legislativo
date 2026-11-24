@@ -885,6 +885,12 @@
    "fuente": "Diario Época Corrientes"
   },
   {
+   "titulo": "Corrientes obtuvo 100 puntos en transparencia fiscal, la máxima calificación de la ASAP",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZUU5WTZOTXhTTXlMYUNfUE5PQ0g4M2JteGtuWl9qNW5hVFZmN29DSDZLNkdDekJZRjMxTkNuY0dhUjVXMmhGam80QW4tRXJGbUdEMjJuSXc3MUNjSE5yVFlqd2JpS2pRN2ZkcVIzc0VRWGRfbEpuYWl6VnZaWnNSQk1icHdfSi1mdE92ODdUbTBfTWMzQ1BPM0pMczZWUHA3OWduY3ZlVnl5Y01qWmNTTEQtSksydG1IZnU5LWlUSi1PYmVzVXc?oc=5",
+   "fecha": "Tue, 24 Nov 2026 00:06:17 GMT",
+   "fuente": "Corrientes al Día"
+  },
+  {
    "titulo": "San Lorenzo sacó ventaja en la final del Provincial",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTV5Q0xrNE1jVTRWaFdUbUlGeUNSVFoyQmJEWHNWQ2NSUTFPSUZSaW9nWEtORGZydVloSlZHeEdidnRCRENGODMtU2xIckJ0a0xrMnBpbjJIU3FOU0wyLTJFRkZxQ0RrUFlOUHh3cE5DdnNGQlJPc1RGOWY0RGFpalNUNGEzdEk5eUQxd2FIWURJeXVyMS1kb2RMUQ?oc=5",
    "fecha": "Mon, 23 Nov 2026 21:32:25 GMT",
@@ -937,12 +943,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT2hrSi1fendYZzBvNWhfUkU0V3dGbldHTHdyMVdtMzhDUmVOSjZ3eHlrNTdNZ1U5Uk03SmtZcnhhR3NEVDRzcHZzQUZrbTdFWVNCOG1VM2pwNEd6QTQ0UktDandyVnNKMThQWGQ0RUlUYTBHMnBxLXZKZUlrNUZOZHlDTU5pRnYtcU5tUk5fWEVoWXUyMEdka05MTjM3bzNTTlVRbGwtTklXNjhaQ045OGR4N01kUVpDSjBrV3UxT0RNUQ?oc=5",
    "fecha": "Mon, 23 Nov 2026 15:53:31 GMT",
    "fuente": "Momarandu Corrientes"
-  },
-  {
-   "titulo": "Corrientes entre las 10 provincias más visitadas durante el finde largo",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLThjOFk2WDJXS0xxdU1zcl9oYTZ2eTY2ampMY3cyd1BrSFpFWU5wbW9KQUNQREU4dnhOeUVjQ0VtTnVKVGU3aEJzNEVCbnl5TndGZXgwRTdTdXpQTnk5VC1IdjgxMGtOVUFPc2JTb3d3LWd0YXJYUmY4ckZ1UVpWVExuLTNPTVFFUnJKcUlkdlI4TWtuX0hfamN0azJoN3E1dHQ4OS1wSHd3UzdCbmNUem40YUtBMlcwUTFrMG9PdE5sN3FBRmpWTlpFSXVzWmhy?oc=5",
-   "fecha": "Mon, 23 Nov 2026 17:49:08 GMT",
-   "fuente": "Impacto Corrientes"
   },
   {
    "titulo": "Corrientes, entre las provincias con mejor calificación en transparencia fiscal del país",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-23T20:41-03:00",
+ "actualizado": "2026-11-23T21:09-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1278,16 +1278,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno negocia para avanzar con la reforma política y el Presupuesto",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaERYNm5UT3lNSHRKbU5sN011d0NrNVZpR3lyQTlFVlpxNEZnZU5NbFUzUjNfQlczbjRjZUhKN2FXRjhQeVp1VWhIaW5pODlKTnVibldsMW1NSWcwNkRMOUh5S25UT2Z5aEMzU1RTSkNwM3dsTmFGQ1VGX0lTVk5PaC1TRzJqc2ljbFJsWENfZUYxR1ZiRTNrb0ROREtuRUpIR0l3S2F2ZnQ1aTdPSnAyX2lMQUN3N1NPMk11bXVCT1pZMjg2WjF1Mg?oc=5",
-   "fecha": "Mon, 23 Nov 2026 22:04:51 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Javier Milei y sus medidas, en vivo: arranca una semana decisiva para la suspensión de las PASO y la reforma electoral",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekxaY2h6STV6cENsVF9IRFNtWTg0VHIyQ3Y2Z0FLenBaNmczN3JpR2szc2psY3RpcEFURy1RVWJ5aW1PZTBzSm5EVkNoNHNDdEpPcmtIUnE4MFZDUWVNWEFValJ1RDl4dTJBcjU5bERYcWFiM2pEcXpYQ09kRE1HXzF6WUFiVERTTXdSb1JYanhVS3ZpdjJDb0szOUhHWi1fWU03anNkSG5HMTFYb190M0xXNjZoVElTT0NVWE4xQTRQSG5pUzZhSTJ1aUlNempQbWhVblQzSnFfOThzeGxBallB?oc=5",
+   "fecha": "Mon, 23 Nov 2026 23:54:00 GMT",
+   "fuente": "La Nación"
   },
   {
-   "titulo": "La Iglesia Católica le pone presión al oficialismo: pidió que se apruebe la ley contra la ludopatía",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcWk2aTYxS2JuQjNhRW1fOEZ4N3NnYWwtNk1nWnhGT1k4N0JuLUpxUVpoRHNIZU01b0FRMWJQZHBfdU05X3NsT0pYLWJvYTVmUDhIYXpZcDdLdFZfV3dhbDZZazJ1Wlo5T09LREF0VXVQbm5MWGI1ZWUwbnlZb2dBUjBhQ1hXN0VBeXgyNlc0LWVtU0xzajRNNERWcjNoanQzMk1fd2V6QWtQaEZoU0VhS1o0UnZ2WV9uTXJKeHNyZUpQcjAyZEFCTkIyY2ZidFlmNE9uZw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 13:30:21 GMT",
-   "fuente": "Página|12"
+   "titulo": "Con citas al Papa, la Iglesia le pidió al Senado que apruebe la ley de ludopatía: \"Se necesitan respuestas concretas, no nuevas postergaciones\"",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZHlnRWFwN2htVXhwQU5HTFFkazM2bGxTT2I0dTBDQ0xKYWRDcVhGYVg3MGsycU9JTjBaMXhMak10NE1CUWU2MlZXekRvMWVESC1TaWxCZFF4MWJPRUNYaEZ5azlBQU1sVWY4VVYxbC1TT29aV2FTZVNOOFpRZDZ1YlB0WG94d1ZORS0tVjE1eklHaHRwZU1mancyZ0ExZlEwYXl4SnBJZ0RjTnREN3JGVUFmdF8zLWZnclloMWIycTktdUI2REdOUmFhMllpQzhwdkFHRUdYbE5nd0UwN1NUeWI3VlVRV1gyRkVmVg?oc=5",
+   "fecha": "Mon, 23 Nov 2026 12:04:10 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Polémica por una nueva obligación que Kicillof impone a las empresas: de qué se trata y por qué la rechazan",
@@ -1308,10 +1308,10 @@
    "fuente": "La Voz del Interior"
   },
   {
-   "titulo": "Un local de comida explotó cuando festejaban el aniversario de Ezpeleta: al menos siete heridos",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQzVVOEZoTHFYTmNZeklMNzlEZFNaNERkZ3gtc1hlQjNzdHFHVFh6cDBSWFUyM2pYeENZUjZjY0ZXcTVyTUZnY3lpTUYxLWQwbWtYdmZEcTVqZkVidXZ1bzRaQXVvZWZUazZ1dUFaV3NKUnRndkRZYU05LVFEUk1Bc0czNEdJYXFEUU52R2dCdHJWOW5sM3paWU5RSUlvNXZmWkVvZGRIRXJkTzZJdEZtTUw3QnpyUFBLUUt3ZjZmcjlieTg4VDFpMi1yX1BlVkM0NmdERGRRYlpIemVP?oc=5",
-   "fecha": "Mon, 23 Nov 2026 14:41:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "En el cumpleaños de Olavarría, los regalos van para los olavarrienses",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTVNNWd4TDdLeGtWcHdicEZ1NldpSjFSM0luQVhiRnNLdlVHU2FaamhSemU2NUZla3RSWnU3Y1RDVzE1QnBYMVp1dWR4c2NVb1pOV3gtaEVSdTE2dWdYU2VnZldxWWlJUEtmcUwyV3pmUHk1cDhnakxlSnRCNUx5NjZTMm5yZlVJbjZ3Y2gtdEpsejltdEVpZ2VnN25DOHNjX05GcG55QlhrUG9UX01FeWN2d21MWlRnZXEwVE5tWDBrOHNrTEhELWhB?oc=5",
+   "fecha": "Sun, 22 Nov 2026 21:09:12 GMT",
+   "fuente": "Infoeme"
   },
   {
    "titulo": "Efemérides de hoy: qué pasó un 23 de noviembre",
@@ -1320,10 +1320,10 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "En el cumpleaños de Olavarría, los regalos van para los olavarrienses",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTVNNWd4TDdLeGtWcHdicEZ1NldpSjFSM0luQVhiRnNLdlVHU2FaamhSemU2NUZla3RSWnU3Y1RDVzE1QnBYMVp1dWR4c2NVb1pOV3gtaEVSdTE2dWdYU2VnZldxWWlJUEtmcUwyV3pmUHk1cDhnakxlSnRCNUx5NjZTMm5yZlVJbjZ3Y2gtdEpsejltdEVpZ2VnN25DOHNjX05GcG55QlhrUG9UX01FeWN2d21MWlRnZXEwVE5tWDBrOHNrTEhELWhB?oc=5",
-   "fecha": "Sun, 22 Nov 2026 21:09:12 GMT",
-   "fuente": "Infoeme"
+   "titulo": "Convocan a una “masiva” marcha por el Día Internacional de la Eliminación de la Violencia contra la Mujer",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLS1fa3o1b0g5eEVkVUNSbDRaZXpnNkxLNXJmdF8tVjYtUEpleTFrNzlhaU04NTRhaEptbldpMi1UN2pWZll4dVA3UWxCNEswYk9rOWxnOHE1OWlfRWg0cVpGMzgzdkZUOXpRVENzOGYzbjBDa1ZvTnJEUFpUV0FTeFN6VG9xeGpwZ1NtMUVvTnlrYWdvLVdPUXE1TEt4czVPX2ZYZkFsUzgtNHpnNXdJOHZaMVVGSjV1cHhpZ1ZCM2d6YnhFekFQclc2bGRMbHF5UWxvQncxNXUzSnJfS2Y3N1hZY1FfVjV3NU5DRXBpV3VLdzRzUWM5M1hn0gH6AUFVX3lxTFAtLV9rejVvSDl4RWRVQ1JsNFplemc2TEs1cmZ0Xy1WNi1QSmV5MWs3OWFpTTg1NGFoSm1uV2kyLVQ3alZmWXh1UDdRbEI0SzBiT2s5bGc4cTU5aV9FaDRxWkYzODN2RlQ5elFUQ3M4ZjNuMENrVm9OckRQWlRXQVN4U3pUb3F4anBnU20xRW9OeWthZ28tV09RcTVMS3hzNU9fZlhmQWxTOC00emc1d0k4dloxVUZKNXVweGlnVkIzZ3pieEV6QVByVzZsZExscXlRbG9CdzE1dTNKcl9LZjc3WFljUV9WNXc1TkNFcGlXdUt3NHNRYzkzWGc?oc=5",
+   "fecha": "Mon, 23 Nov 2026 13:48:00 GMT",
+   "fuente": "Rosario3"
   },
   {
    "titulo": "El Indec dará mañana el dato que determinará si la economía entró en “recesión técnica”",
@@ -1338,6 +1338,24 @@
    "fuente": "El Litoral"
   },
   {
+   "titulo": "TITULARIDADES 2027 EN MENDOZA: fechas, requisitos y documentación para participar del concurso",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTZhSU96c2ZraVQ5MkUwT2hqMTRDclNwVlphcUJVOXRRQVpkcDZDMXl5TDVHV2dTeG03b3dacEc3eXg5bVU5b1JYM0N3X2hWelhoTHcyUDhfOG1BR2llU0cyb3dHRnRCeFFMaFM5Rzl2dDRMS0dqbjl0bTlHSjB5Nm1fcGpYQkY5RmV0dFZBU3d5V29pM0dHUk5YR3ZUX1cwVVBlU2JhTXltVFZoQjhKMzd2UEZkOUFsVm53RUtSQWRublh4MHhCNW0xZw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 22:40:25 GMT",
+   "fuente": "Blog del Secretario Mike"
+  },
+  {
+   "titulo": "Un municipio salteño quedó bajo el agua por la lluvia: hay evacuados por las inundaciones",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0VNeEc5M1NnVTV0NjRnM3IwMW5OdG1zMmloRDFObXEta2phUXItaUhhQTJ6NTVqVVRnUl85WDlSb3gtQi0zSHM5MG9DNFdnNWZNUUwxZEw0M0hpbDBZTFhTYnZpYWVJcENlcXowR3ZxRHM1dGtWTG9XS2NoYnAwdDdGWE9EaEU4SERwdld0R1J5a0RnYVlqSUhDbV9kQVJkY1dNZ1FYMUVzTV9YZGFyVXhEb1dtUnRFYW9xN2lLYVFRVVVGY3fSAcYBQVVfeXFMT2dFTXhHOTNTZ1U1dDY0ZzNyMDFuTnRtczJpaEQxTm1xLWtqYVFyLWlIYUEyejU1alVUZ1JfOVg5Um94LUItM0hzOTBvQzRXZzVmTVFMMWRMNDNIaWwwWUxYU2J2aWFlSXBDZXF6MEd2cURzNXRrVkxvV0tjaGJwMHQ3RlhPRGhFOEhEcHZXdEdSeWtEZ2FZaklIQ21fZEFSZGNXTWdRWDFFc01fWGRhclV4RG9XbVJ0RWFvcTdpS2FRUVVVRmN3?oc=5",
+   "fecha": "Mon, 23 Nov 2026 14:37:00 GMT",
+   "fuente": "Que Pasa Salta"
+  },
+  {
+   "titulo": "Fuerte explosión e incendio en un local de comidas durante los festejos por el aniversario de Ezpeleta: hay siete heridos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFBLQ0sySFowdjZ3aC1aaENJYWZMTnVLZGFhX2dlcUQ2Q2RrS09uUVEwWjJwcHUydmRITGVBSklLeEE5bGtBb01RMzROWTFtbGZXQ0ozQXl4R2JPX3Fmd0dKaGppcW83aFoyenBFSk5jMmFMZFBINFdpZnd0NWFMbkdnY0JZZGlfQWVyZXhSenNRTWhUREJTS2pRY2wtS3lRbWpyUjNOYTQ4Z3ZRZkNOR2RPaHdKQk1IUjktdFZFdXlEZ2ZEM1E?oc=5",
+   "fecha": "Mon, 23 Nov 2026 05:06:19 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
    "titulo": "La DGE desarrollará actividades por el Día Internacional de la eliminación de la violencia contra la mujer",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWlZPNEdTaWVKVUtWQW8yajJuOTlEOEVoMFdjNnRHcGdvNjgyQjVtRVVmTGNXTXVxRzU0WXVXLUZmZnY2bjhIdF8wTnh5SWRWa080NmlCX002ZWNpYzJIM2ZRVXIyRThnbVdtcGRyQ3pZOFFtaGtkZEtQNFRYVXpMUGFMZG40TGV4dlZVVEtfM0s1SzBCWXIxdkVOcnpkd3NXQnlnZ3B4Y0drODlCWWxDTXFneGxOQWVoT1pvQmktZXRXZnpfX3YzWWIxaGJLVWc?oc=5",
    "fecha": "Mon, 23 Nov 2026 10:21:00 GMT",
@@ -1348,24 +1366,6 @@
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQano5c2VxczJfM0N3el8za2JGQjdSWFByTTBTYjhsVVp0Um9PdG9mZzlRaG9KeDBFcjdOOG55SHB2WmZWVlZFTXRsWlZ4T045YkJFRDI3dmdiakFnVW1wRmswTXFUUW42M19FUFotR1JxYW10MmVwaXg3NGdiVzd6cHdSaGxsWEM3Q09hbUdMb0VTQ2ptaHJTUFFNTnVZRzkwajFMY3NscE5tU3FnVExfaVFOazVCM3dweGZvQW1laXNPRFQyX1lZ?oc=5",
    "fecha": "Mon, 23 Nov 2026 16:30:00 GMT",
    "fuente": "Página|12"
-  },
-  {
-   "titulo": "San Luis: las lluvias superaron los 50 milímetros en algunas localidades y anticipan un lunes inestable",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcGR2UWwxOUxkY2VrMFRkQXAwSWluLVJaeGxtT0Y0TkhYVGY5Y3NMQnFINV8tTnd4TDVzSXNVS2Y0YXBtMWVMWmt1SHV1dEkyQmQzMDdxWVY2el9rRmptWlphMFN0bW1MWkdjeHl6TnFCZ1ZQeWY3RUNSaVU4aEduYXNoeHhfQktDOUk0TzZmN0NMS25XblFjUlNBYjZLemJwZDM3TldsM21tVnk3d05YMXdBRmx1dHllbUQwbE9pYnpERU16eEZRMDVLRW12dG9UNlVJNmJSLUZwRFlvamJVSHdzcVpydjFQNGlPU9IB7AFBVV95cUxOcGR2UWwxOUxkY2VrMFRkQXAwSWluLVJaeGxtT0Y0TkhYVGY5Y3NMQnFINV8tTnd4TDVzSXNVS2Y0YXBtMWVMWmt1SHV1dEkyQmQzMDdxWVY2el9rRmptWlphMFN0bW1MWkdjeHl6TnFCZ1ZQeWY3RUNSaVU4aEduYXNoeHhfQktDOUk0TzZmN0NMS25XblFjUlNBYjZLemJwZDM3TldsM21tVnk3d05YMXdBRmx1dHllbUQwbE9pYnpERU16eEZRMDVLRW12dG9UNlVJNmJSLUZwRFlvamJVSHdzcVpydjFQNGlPUw?oc=5",
-   "fecha": "Sun, 22 Nov 2026 12:32:13 GMT",
-   "fuente": "El Chorrillero"
-  },
-  {
-   "titulo": "Sueldo docente noviembre 2026",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBudUw3cHBBM01MNHVFOTdsMEN4V19YNVVCVnM0azU0d2lzUDVWMmZvcTEwSzN6dC0teDMzNG01a2xCbDdXUElVRlU3VVIxUTEzTHdoTVlFajR2WFMza3BLVzMxTkRpY2tVQm56cXZWVVhZREN6dUdr?oc=5",
-   "fecha": "Mon, 23 Nov 2026 21:09:45 GMT",
-   "fuente": "Blog del Secretario Mike"
-  },
-  {
-   "titulo": "Transporte gratuito en la Fiesta Nacional del Sol: sanjuaninos y turistas destacaron la comodidad y seguridad del traslado",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcVFXY1l3bWhybExhOTlQSkFZV3lyeDNvTmd4NEtqQkVXTjNlVnNuNHFJVlMxYU1pSWFJTXBMQ29rMDBfV2FBbG44WDJrX0FJelNyYXZHWXYxZVFUNl9VWlZjX1I4RGlFQl85TEMtT0swNkhJSGlDLXFlQUpTZGN0VlRmV1dGVG5XVnFibnVlWEJmMjBaejc0Wl84NTVpaHBhNEtEMXZtNEF5bXEzMmxsa1ZFZ1JjTkQtYUV0OVZLSnhCTlpMcjIxTEdlWFIwSGRqNmNGbzJ1aE5aaDZVUUhDSzdsUWpnamtqd2swelNIT0l4NS1vakdsbktoSmE?oc=5",
-   "fecha": "Mon, 23 Nov 2026 01:24:09 GMT",
-   "fuente": "Diario de Cuyo"
   }
  ],
  "finanzas_argy": [
