@@ -2,8 +2,8 @@
  "dolar": [
   {
    "casa": "Oficial",
-   "compra": 1555,
-   "venta": 1605
+   "compra": 1560,
+   "venta": 1610
   },
   {
    "casa": "Blue",
@@ -12,18 +12,18 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1700.6,
-   "venta": 1701.8
+   "compra": 1684.1,
+   "venta": 1686.7
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1806.6,
-   "venta": 1807.7
+   "compra": 1789.3,
+   "venta": 1789.9
   },
   {
    "casa": "Mayorista",
-   "compra": 1581,
-   "venta": 1590
+   "compra": 1583,
+   "venta": 1592
   }
  ],
  "riesgo_pais": {
@@ -1215,9 +1215,11 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 503: Service Unavailable",
+  "nacionales": "HTTP Error 503: Service Unavailable",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-24T12:44-03:00",
+ "actualizado": "2026-11-24T13:10-03:00",
  "medios": {
   "derecha_diario": [
    {
