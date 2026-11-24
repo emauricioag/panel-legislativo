@@ -2,8 +2,8 @@
  "dolar": [
   {
    "casa": "Oficial",
-   "compra": 1560,
-   "venta": 1610
+   "compra": 1565,
+   "venta": 1615
   },
   {
    "casa": "Blue",
@@ -12,18 +12,18 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1684.1,
-   "venta": 1686.7
+   "compra": 1688.6,
+   "venta": 1691.8
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1789.3,
-   "venta": 1789.9
+   "compra": 1792.2,
+   "venta": 1793.3
   },
   {
    "casa": "Mayorista",
-   "compra": 1583,
-   "venta": 1592
+   "compra": 1586,
+   "venta": 1595
   }
  ],
  "riesgo_pais": {
@@ -885,10 +885,10 @@
    "fuente": "Noticias del paraná"
   },
   {
-   "titulo": "Corrientes obtuvo el puntaje máximo en un índice nacional de transparencia fiscal",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHRHVDd0Y1VURjlFbUJ2QXBDZXRUZHgwbi13a0gtNGVZNU1JeEwyeUpTN19ELVp6RDF5R3UtRldLYXBUdHZKb1hqRlBKZ09QTmYyckJlaWh4YlJDZWZxUkJTTENGNEtPelBpY0dEdy1hQk4wcWlWS2hyeUJPaElmaTlmR2ZzRXhmQ0IydzBIN01OREYzM1huYW5jUXZkdGtKYUlpRzh2OGI2dlNlRWJMeFA0OTdfQXgydVVGQ19ZOXZMc1hmdFBlTlNWa0RTQllwdVcxbnJn?oc=5",
-   "fecha": "Tue, 24 Nov 2026 10:35:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
+   "titulo": "Siete Puntas Digital",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3FPV193Tk1hUnBuLTg3bnZEUXR1emQwcTNUeXJ0NFFETHlhWFk1eTZRVzhvTXVSZloxWnVYVlVHUTFZTTMtNHdCQ3U5MFRPUEt4OVlvZThWMTNMcHgzVkRuTXc4OVZIdDh3YWZSS25CYmRnMllxUzlUaGRqUXBRUjFmMnU3TndxckZpTVdnUDJkSjVhM2lOWngzR2Z2cmlkWEFIQlJseU5ndzZ6SUcyUDI1allWS1M2dzNUZDRhYUU1ZDV1d2g3eDNyVFctZzBfMzJoMTJB?oc=5",
+   "fecha": "Tue, 24 Nov 2026 13:00:55 GMT",
+   "fuente": "Siete Puntas Digital"
   },
   {
    "titulo": "Inscripciones abiertas para ingresar a la Escuela de Suboficiales de la Policía de Corrientes",
@@ -897,10 +897,10 @@
    "fuente": "Radio Dos Corrientes"
   },
   {
-   "titulo": "Siete Puntas Digital",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3FPV193Tk1hUnBuLTg3bnZEUXR1emQwcTNUeXJ0NFFETHlhWFk1eTZRVzhvTXVSZloxWnVYVlVHUTFZTTMtNHdCQ3U5MFRPUEt4OVlvZThWMTNMcHgzVkRuTXc4OVZIdDh3YWZSS25CYmRnMllxUzlUaGRqUXBRUjFmMnU3TndxckZpTVdnUDJkSjVhM2lOWngzR2Z2cmlkWEFIQlJseU5ndzZ6SUcyUDI1allWS1M2dzNUZDRhYUU1ZDV1d2g3eDNyVFctZzBfMzJoMTJB?oc=5",
-   "fecha": "Tue, 24 Nov 2026 13:00:55 GMT",
-   "fuente": "Siete Puntas Digital"
+   "titulo": "Corrientes obtuvo el puntaje máximo en un índice nacional de transparencia fiscal",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHRHVDd0Y1VURjlFbUJ2QXBDZXRUZHgwbi13a0gtNGVZNU1JeEwyeUpTN19ELVp6RDF5R3UtRldLYXBUdHZKb1hqRlBKZ09QTmYyckJlaWh4YlJDZWZxUkJTTENGNEtPelBpY0dEdy1hQk4wcWlWS2hyeUJPaElmaTlmR2ZzRXhmQ0IydzBIN01OREYzM1huYW5jUXZkdGtKYUlpRzh2OGI2dlNlRWJMeFA0OTdfQXgydVVGQ19ZOXZMc1hmdFBlTlNWa0RTQllwdVcxbnJn?oc=5",
+   "fecha": "Tue, 24 Nov 2026 10:35:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Corrientes presentó el plan provincial de prevención y control del Dengue",
@@ -909,9 +909,15 @@
    "fuente": "Corrientes al Día"
   },
   {
-   "titulo": "Corrientes obtuvo el puntaje máximo en un ranking nacional de transparencia fiscal",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDd0VHlLU284NzZQTDJ3LVZBSDZRdDhFeU0zTmdpdWVKUnBrSE5HS3pFb3AwbUdwM0NaTFAzdWJCYUtzSEJ5dGZMblIxMVhjbWJDQzF2NmJVSmJheW01a3Z6Z3JuMFVnTF9SVS1KWmhNZVpybmRlS2h4VkNOSEdIT0Y2Vm45cFp2ckVwd29WOXBpN0Vub3M3eEs0UmdZeWtiekVOZDFvc3N6MWVrNlp2anZDWS04eG12Y0xIMEJ4S1N0TWdtNUE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 14:26:16 GMT",
+   "titulo": "Declararon la emergencia climática e hídrica en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTVpMTEpZSWZJWm1PREpZallaNnpMVGlXaVRjUjkzbHQwTC1Pd1NVUWgtSndRc2psWWFnQXh1ZjhkSWFGaVhoSTJkQVdPOE80eUZuV3dhMjh3LVNySnNTMEFucjY1WmJVSUlBYUdIbDl0LWZtNWVGM0twZWJvM3IzTE1fM0F3Vk91VlVXOGZ3aG4?oc=5",
+   "fecha": "Tue, 24 Nov 2026 17:16:58 GMT",
+   "fuente": "Radio Bella Vista 92.1"
+  },
+  {
+   "titulo": "Alerta roja por tormentas en Corrientes: anticipan lluvias intensas, ráfagas de hasta 90 km/h y posible caída de granizo",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzJSWVRwNnpOcExscnk3N1l4dDFQSUZ6cERXUG1wVW0wSllURVIyMno3VXJBNVkyenpFUklmNW5kakFUXzJ4OHE4dFhob2p4eW5uYnlEb2I5dVBXWTNwdEwwTkhjUlVGdHA5d1FhUXV5cndNQlMxUThsdi0tcWRwZHYxZFpsaVJoZTRGNDhNbFpiRW5MWEFRZnJKeGlaNWFxV3l4c0RjRjJqMW5EeW1naXJWRUoySnd3eWZJTDF0UHY3aGxxM1JYZTZxZnNoQWtqdHBaZXdiNzNMS29EVnByX0hqRVlpRVRCLThKWm9UR1gxNHc?oc=5",
+   "fecha": "Tue, 24 Nov 2026 11:21:13 GMT",
    "fuente": "La Red Corrientes"
   },
   {
@@ -927,22 +933,22 @@
    "fuente": "Corrientes Hoy"
   },
   {
+   "titulo": "Boloqui: “Corrientes estuvo entre las siete u ocho provincias más visitadas ”",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd040LWZkQmkwVFowSHMwSC1TQ2FNQ1FZR0xCTnJwVmM0UURkdDBMSWRmUE1QQ0ZDVU4zSGZCZUF0MWttNXJtZXplSjgtbGJuTDYxSzVYYmxxbzBYa21XZ2JJN2ZwOEZLb0pPcTNnVlFQOHpKUXoyM3hmSXp2U0U3Njc3eDdOOEt1ckxFclFVNEc0Q1ZXZmdJd25yRWU5WS11OVZzc3JCdDZRTWlvbHQ0NmpESk00eXBIbElteDBsLXgtR0E?oc=5",
+   "fecha": "Tue, 24 Nov 2026 12:16:47 GMT",
+   "fuente": "Cadena de Radios"
+  },
+  {
    "titulo": "Corrientes alcanzó un 50 % de ocupación hotelera en el fin de semana largo con fuerte impulso de los Iberá",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWNvcUtUeHZQblhOMjUwMS1lM3FGd0p3LXk2dTVvMXVsbFlsQTNWYlhKMkJTdkFoYTY4bzRxUk1hcVhrcWFRWWJ5NE9DWkszYTN3bTE1UkRsR3RleFFkcy1jS0hla2hGbW1hcFJwVmRKNHdtMjc1a2swX2JKQkM1a1VuMWxuaTBlbExGMVBGRGZ4UHFya1RJc1NmeHM4VVhXanNpODI3THpjeVg2Vm5HNUV1YUk3TmtXb0ZBYjByWlpJMERKbjhjcENJZWhUYkQ5QlByTVV0ZktFVFZN?oc=5",
    "fecha": "Tue, 24 Nov 2026 11:54:22 GMT",
    "fuente": "Perfil"
   },
   {
-   "titulo": "Alerta roja por tormentas en Corrientes: anticipan lluvias intensas, ráfagas de hasta 90 km/h y posible caída de granizo",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzJSWVRwNnpOcExscnk3N1l4dDFQSUZ6cERXUG1wVW0wSllURVIyMno3VXJBNVkyenpFUklmNW5kakFUXzJ4OHE4dFhob2p4eW5uYnlEb2I5dVBXWTNwdEwwTkhjUlVGdHA5d1FhUXV5cndNQlMxUThsdi0tcWRwZHYxZFpsaVJoZTRGNDhNbFpiRW5MWEFRZnJKeGlaNWFxV3l4c0RjRjJqMW5EeW1naXJWRUoySnd3eWZJTDF0UHY3aGxxM1JYZTZxZnNoQWtqdHBaZXdiNzNMS29EVnByX0hqRVlpRVRCLThKWm9UR1gxNHc?oc=5",
-   "fecha": "Tue, 24 Nov 2026 11:21:13 GMT",
+   "titulo": "Corrientes obtuvo el puntaje máximo en un ranking nacional de transparencia fiscal",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDd0VHlLU284NzZQTDJ3LVZBSDZRdDhFeU0zTmdpdWVKUnBrSE5HS3pFb3AwbUdwM0NaTFAzdWJCYUtzSEJ5dGZMblIxMVhjbWJDQzF2NmJVSmJheW01a3Z6Z3JuMFVnTF9SVS1KWmhNZVpybmRlS2h4VkNOSEdIT0Y2Vm45cFp2ckVwd29WOXBpN0Vub3M3eEs0UmdZeWtiekVOZDFvc3N6MWVrNlp2anZDWS04eG12Y0xIMEJ4S1N0TWdtNUE?oc=5",
+   "fecha": "Tue, 24 Nov 2026 14:26:16 GMT",
    "fuente": "La Red Corrientes"
-  },
-  {
-   "titulo": "Rige una doble alerta naranja y amarilla por tormentas fuertes para este martes en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0llMFRwdW5yWXVoNkZpZ1JKZXltb0RBbU9qdkJ2cnQwR1lTYWNnUHl6YnpITXV0R3lNdjdhWG14MDZvOWZ5TXpveUZnYWpubk5hbUluQkZfVkxCTEtNUmtFQjhsQU1Bd2JXcHBLaGFDRjdETmtwbFRJWGdGbTd5OTMwcGVXdEdrejJCTjZhSGI1X29YLTFyNXloS1gxcmViZTJIVEdvYk1SY090WEhhSVpGeTA0T3AzdlZiTmtUa05oaGp4ZVhRVEtzWnRiMjRKTUh2XzE2d2lRS3ZGMDIySHF1c1M?oc=5",
-   "fecha": "Tue, 24 Nov 2026 10:30:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
    "titulo": "Juan Pablo Valdés convocó a sesiones extraordinarias para diciembre en Corrientes",
@@ -951,16 +957,16 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "La Cámara de Diputados de Corrientes declaró de interés la obra \"Bajo su mirada\"",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXIxVGpXLXFOVWFIOVB6YVFSS0ozNkdFOXJWcnAxQ2RDaW5DNVk4SGZsQXpsRDJjZ0d3bi11eFBPblRuc0xUVXN0TnJGYzhZVEt3VTR3SUxwOEdtdC1hN3VIR1pZRlQ4NW1RbFBQZHc0dUtOMzJvZ1NjMW85Zk12ZjdYalJIbUJETmoxNW5FWWNYY2tRU2UxdnZQMktncXVsbkNPSnByYkRfUlk2aTlxSzBpZkFRamsyUkNLS3pBQQ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 21:22:42 GMT",
-   "fuente": "República de Corrientes"
-  },
-  {
    "titulo": "La Legislatura convoca al país para retratar las mejores fotos del Iberá",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXlPVnplQ1JWc0RJNFdsdUZBU193c3d4NFVDR2N1RHc0R2ZnZHlVQm5Kc0pfcXdEcWdaSmc0ZkU1RnBkczVFUnc0OXlFeExwclJNUkYtLVp0SlNiWnF4blZxQTYtazg0MWNEeWZGZU5lNXQ5Z01TUnduLXFSM21nckxxblRWRTdNUFNVM1d4UURYRks2Sm40U2t3aWx4eTJ3N2JjWlVsbjU0UWZkOXJQSQ?oc=5",
    "fecha": "Tue, 24 Nov 2026 04:23:13 GMT",
    "fuente": "Diario El Libertador de Corrientes"
+  },
+  {
+   "titulo": "La Cámara de Diputados de Corrientes declaró de interés la obra \"Bajo su mirada\"",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXIxVGpXLXFOVWFIOVB6YVFSS0ozNkdFOXJWcnAxQ2RDaW5DNVk4SGZsQXpsRDJjZ0d3bi11eFBPblRuc0xUVXN0TnJGYzhZVEt3VTR3SUxwOEdtdC1hN3VIR1pZRlQ4NW1RbFBQZHc0dUtOMzJvZ1NjMW85Zk12ZjdYalJIbUJETmoxNW5FWWNYY2tRU2UxdnZQMktncXVsbkNPSnByYkRfUlk2aTlxSzBpZkFRamsyUkNLS3pBQQ?oc=5",
+   "fecha": "Mon, 23 Nov 2026 21:22:42 GMT",
+   "fuente": "República de Corrientes"
   },
   {
    "titulo": "El gobierno nacional enfrenta otra semana clave en el Congreso de la Nación | 23 de noviembre de 2026",
@@ -979,12 +985,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGMwenlrTzd5M3dUWEw2Y3ZubXU4bHJsREhxdy1CS25FalQ5ZGI1NkhEZ2tSMDA5WUFEeHpHTFotR1NYblZjRHVaMndmdHcyRjhDdVJBZk9JT3hZYlpsdlNfVUlZNVFTaGtSakZ2V3ozZ1owSjh3M0VLQnBLRDBNS2pZU1dvX3FOV05DMTFxR3dUcFZXUTdqY0d0UG5idHppR3ZIWkRkWWVHTnJhOXRYUENiMzBOeWdxWWN3?oc=5",
    "fecha": "Mon, 23 Nov 2026 21:23:53 GMT",
    "fuente": "Diario Época Corrientes"
-  },
-  {
-   "titulo": "VIDEO | Kicillof quiere que la Legislatura vote las reelecciones de intendentes en extraordinarias",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUgtV3V6VnVLNEMxNGNjYnJSOHVuSTNjd2dYd1BtMlZybXB3RFppQ1oxZ0ZRc2tnX1ZPVWhqajVYQnhsRU8wNVBxU3FZYnBNU055RF9ucnBxSWtYYjQ1NDJma255WUh6Y3Z6U0wyY2NXbG13QVh1VGsxZ3owSFVqcw?oc=5",
-   "fecha": "Tue, 24 Nov 2026 13:36:37 GMT",
-   "fuente": "NOVA Bonaerense"
   }
  ],
  "expedientes": {
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-24T14:03-03:00",
+ "actualizado": "2026-11-24T14:29-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1296,22 +1296,22 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "La tercera noche de la FNS 2026 superó los 100 mil asistentes y marcó un récord de convocatoria",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTFlaWk52dElyTF9RdEtoY0E5VDRkY0JIenAwNXF0aFNjOV9fWVdUQ1JiWjhmWFBFT1EtN3lRYTN2RFI5bHd3eHV4blQxcFA4VDloVFhCZFlPcG5oQ2llUVdMM0hZOHYxTFR6YkpIMTB4eldZLWVfZ3RIWjNESFg3RmpoLV9QT0c4clVXZnp6X05FQlRXNnYyRE5LYW16UWhCZlZfQnFSaHdBSzlhVjhCUm9OaGpwa2g0aHdUa0pOUHNURWlzdVRhcXdGMXF5ck1mLTJhRVln?oc=5",
-   "fecha": "Sun, 22 Nov 2026 22:57:00 GMT",
-   "fuente": "Diario de Cuyo"
-  },
-  {
    "titulo": "De puño y letra: Ahora sí, la carrera está lanzada... y tendremos 16 semanas de máxima tensión electoral",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNelRLR2xubnhYUFZBbGdITHBEbHdLRUZQak1NNEpXWEMxZWxXRDlRTTgzWExGUTdEcnRwaFR6OHRhN0lCQ29UMFVWU2dHME5DdU1TME16WVBtZVh4dmFNTDlLSzJOYkVkQl9RRHhGa0U3ZmVJTjFpRFdERTZtUE5PR1BKN2V4OU1LRTQtQXFxOWFEaEVWcG1EY3RmakFpWEFXaFZJMW1VVTNRT1Q0OEprUVROOEhWS19lTDBHUmFra19VU0l6MmRObVRiU0h2NWJEbUhBVkJGZGc4bDQ2dVc3SXFwdVVRUzJPM054UXVn?oc=5",
    "fecha": "Mon, 23 Nov 2026 03:10:24 GMT",
    "fuente": "El Chubut"
   },
   {
-   "titulo": "El INDEC publica un dato clave de la economía, que confirmaría la recesión técnica",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1hkWXZ3Y2NQMHZ3RDVvd05RcnNVa2YzdDNpZzdIWlVBaVlyODROR01GcFhMelo5UTBub3kyUDdqNFFtTEhzMmlZZDhwZm9EaEFOcDE0X3hPUjJyTko2VHZPWVdOaDVsc21Wak5yNW1VRVI2MllmVVpYWGhnY2Z2WlV6R3N2SUx0N3U3cURnM3ppQ3NIMzZkbXBEeThVblFwUW5tQ3dRbWI5QmROSTNN0gG0AUFVX3lxTE55RERsbTctYm81ZE9fcDYyLWhLVTFiV3FfZXFMRm1JWmNpSGIwWmwyaFVULTJXSDNnM2E2VEJZcmFxVnQ4bEFPd0hWWFlGblR2Z2hmcm5pTHdpVXJPRlRZVzF5UEg3dUpiTlQ4QVNWdzhEZGd6UWx2MDZOUFN4RjVEUzRuNlRhS0t1cXBfQWtzWlRsOTVwX3NzeFVPQUkwZWJOTnVGTC1rb1Y5ZUM0ZHlpZnhHTQ?oc=5",
-   "fecha": "Tue, 24 Nov 2026 12:03:00 GMT",
-   "fuente": "Ambito"
+   "titulo": "FNS 2026: el público copa el predio en la última noche, búscate en esta galería de fotos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjhMTnh2dnJaMmcyOGNyUXZka052Z1BlM2ZndktGWWszazFzY3FKTUx5Q0lWSG8tTzlKcnBGcFRKbkpKMzVNM3ZuSlBIdW9nVFVxRF82ZnRnRzdxMDJNRFBzRjI2dnR4bXFNTzdQREJqQjNJdnd1SDZoY183VzIyYWhxMkpXRXQ4UzQ4TENWUHZyZmpENEhWNjJyRjJNSUxvRW9UM01mNXh2U3NGREtObm4wQTFuQ2JzVnFVOEMyb2o1bFVZTUE?oc=5",
+   "fecha": "Tue, 24 Nov 2026 00:42:44 GMT",
+   "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "Cinco razones por las que la economía podría entrar en recesión",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2taSTZ2cnNIa3oxYjhmVnFNbnJ4dGh4ZDl0VThjMHlnc25SdlpSZTM4WVVHYmdhQ1ZKX0sxN0EyTEIzOFlSdzdlUndfcFhWVlliNWw4YTMxM2p0U2xWM2ZKNWExY29Rdy12Q3JRcXJsdGxhRjZkQmNWaXJuTUNGYTRLT1ZtSG8yUWpuQ1A4VWp3RXk3Qk5md2N4RHBsdW1XZzUzZl9XeE5UbHlLWFlyaWp3?oc=5",
+   "fecha": "Tue, 24 Nov 2026 14:39:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "El FICER empieza este martes con el estreno nacional de la película de Lali Espósito",
@@ -1326,16 +1326,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "El buque chileno viajará a las Islas Malvinas sin autorización argentina: naviera invocará el derecho de paso inocente",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRGRTUjdndHRGay11Sk50YXByWVljSE16dkVUMUtpLWQtRC13UE04UDNqb05WR1lrQl9nb042MmprR2tCQmo1UHg0bEoxcTZFNS1xSnpOcVZWOUFEcGFTU21PVW5GcFRzNkVGeEVxY0JfMU5aX3VhNXBJM3hWYnBKcHJnXy0zMjU4cWdTamxEeTVLRHk5cHlnTDRNc3pwcmMxcUNlUndtRnpFOUJtcEhON1VKUDB5U1BmQ3B5cFRYZHczYkNobUNPcGFxdlFOSjFtNy1GdDY2ZmdkMlQzNzdVNXoyaHZKejJTSG1paGxXQWJEcmFaaDd1NVFxYVI0Y2J4TFUwd3E2a9IBogJBVV95cUxPdHlXdngyRzVuYW1PM3FyZjJvbU1GZmdHalNIZmhzaGZIUS1XN2s3UVlnaEtKSFF5NUNFbjRFUWVJNE1HaWMzR3FmekRSYVJwcG5jR3pJclVYcVlMQ2ZFUzJ4SlVCVUVyWTBqakQ0WDJaTlFvVlh0MENvTU5fcC02dHAwLTUzLV9OM0poYU4yaFBvZk9TQ3BmcWtvUHhZNjZyX201QzUxdU9pQVdqUXNpdVkxQXN6X1B3ZkpOU3l4eXI3NXp1emh6RnBtRkV1YmRwaDk4bGVaSm50MnRjM3JSTndoX2ZKVlptY1BybnNmTHB6WDJTenAzRklCR25ZclBxN2pTU2VvX05lZFdRZnB4QkpHNWN5TWNDREs0TV8wMnR4UQ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 19:50:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
    "titulo": "Convocan a una “masiva” marcha por el Día Internacional de la Eliminación de la Violencia contra la Mujer",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLS1fa3o1b0g5eEVkVUNSbDRaZXpnNkxLNXJmdF8tVjYtUEpleTFrNzlhaU04NTRhaEptbldpMi1UN2pWZll4dVA3UWxCNEswYk9rOWxnOHE1OWlfRWg0cVpGMzgzdkZUOXpRVENzOGYzbjBDa1ZvTnJEUFpUV0FTeFN6VG9xeGpwZ1NtMUVvTnlrYWdvLVdPUXE1TEt4czVPX2ZYZkFsUzgtNHpnNXdJOHZaMVVGSjV1cHhpZ1ZCM2d6YnhFekFQclc2bGRMbHF5UWxvQncxNXUzSnJfS2Y3N1hZY1FfVjV3NU5DRXBpV3VLdzRzUWM5M1hn0gH6AUFVX3lxTFAtLV9rejVvSDl4RWRVQ1JsNFplemc2TEs1cmZ0Xy1WNi1QSmV5MWs3OWFpTTg1NGFoSm1uV2kyLVQ3alZmWXh1UDdRbEI0SzBiT2s5bGc4cTU5aV9FaDRxWkYzODN2RlQ5elFUQ3M4ZjNuMENrVm9OckRQWlRXQVN4U3pUb3F4anBnU20xRW9OeWthZ28tV09RcTVMS3hzNU9fZlhmQWxTOC00emc1d0k4dloxVUZKNXVweGlnVkIzZ3pieEV6QVByVzZsZExscXlRbG9CdzE1dTNKcl9LZjc3WFljUV9WNXc1TkNFcGlXdUt3NHNRYzkzWGc?oc=5",
    "fecha": "Mon, 23 Nov 2026 13:48:00 GMT",
    "fuente": "Rosario3"
+  },
+  {
+   "titulo": "El dueño del buque que unirá Chile con Malvinas le respondió a Quirno: \"Libre comercio entre privados\"",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVWNXc0xfZjBzUGRLQlk4bjNQNTVUblFOM3M4T0JlRG5uMlZoN2JuZUZIeVdJYnJVanRrUVpYUHFrRm42aDY4YzIzZEtuZ29OeFZUSEgtdS1YemhJVHBSWVpXa0NMbzUtSEU5ekkyUXFWbjhmVEFRQTNubUFiSHgyVzQ0aXRhX1p0ZUYweWswSlZoZk5EWldMVkNPakZCRVhKcTlsU3hLLWI1YlEtTVFVNUJKM0swQWlrSE1pWE5HSl9aaC1zUERnNF94RzRySEd6dGFRakUwVnNWWHR6VHfSAeYBQVVfeXFMTUdhZFFTNjBoY09XUkVXV0J0Q3ZNVm5XbERhRDZ4NXZSMmY0dXlKcldITndxYnQwbHpvVGFDVkJLTFFEQ045YU1fa1ZIczNtQVJ3LUMtQlZQVFg5VzRLNDBHT3RlYi1sWlRjc29tZWZ3ZEp1SFdub0JQbUFBOGlSaXVSMHN5RTZLbkRMTTNUQkM4bVQwR0NEUl92bUhVZExwcjNabzRaNk5ON0lBaUM4NXNGNkhHTjRCY0l5eGN3OTBCWHBIRVZtZmphbElHNmc4Tml1c0FrVENoSm9zZURPb0ZsbURrZUE?oc=5",
+   "fecha": "Mon, 23 Nov 2026 20:59:43 GMT",
+   "fuente": "Diario Río Negro"
   },
   {
    "titulo": "“Soy una Barbie gangsta”: los videos de la influencer detenida en Pinamar haciendo maniobras peligrosas en los médanos",
@@ -1344,16 +1344,16 @@
    "fuente": "TN"
   },
   {
-   "titulo": "​Hay alerta amarilla por tormentas y vientos de hasta 90 km/h en siete provincias para hoy",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOERXVlVrZ0NrTnlrRVpZekdiaGxSemY5OTV6TjUzY3R4S0NVYzJPZXVDTktvWG55WEdyWW5wR1RNbm01bE0zdWprdmFWOU1mMTh6Yk1GR0pIU2hnX2lLbEF3eTRUMG1jd0RXMXVJNGZPRlBkUWt4X2dVelpNSnA4UTV1ZlZ3Z01RZWZhcnZ3a0h2UkdTU1NHTlRCX29ZREZ2RDZ1OUp1MFRxaFlQcC1vVmVEdEFCTldQN2dydm9fR2c4V0xj0gHYAUFVX3lxTE11RU9fYWloUW9TTEY4RmlFazVJRTN0Zk1ZckJ1Q3piOEZ2N25DZnc0emRrQUt0ZG5UbktQY3dTeUlTczZ1bnZLb0J3SzRZYnRkRjFZMDVrOUV0Ny1hbkJWRlpMb3ZLekt2TF90b1kyOFhVbERkMmxVeHkxckpCUm1wSWhJdTVyYzJsWXR0TTJyWTM4UWI2RTlwem5FSDF0bVlMS3g2UDctUkd1VWRfVUFIVXp5b2lUdnZINHIwV21qYzFIOVFOWUdIYW1hT2xNRmY2V1NXZ1ZoUw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 22:12:15 GMT",
-   "fuente": "TN"
-  },
-  {
    "titulo": "En el cumpleaños de Olavarría, los regalos van para los olavarrienses",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTVNNWd4TDdLeGtWcHdicEZ1NldpSjFSM0luQVhiRnNLdlVHU2FaamhSemU2NUZla3RSWnU3Y1RDVzE1QnBYMVp1dWR4c2NVb1pOV3gtaEVSdTE2dWdYU2VnZldxWWlJUEtmcUwyV3pmUHk1cDhnakxlSnRCNUx5NjZTMm5yZlVJbjZ3Y2gtdEpsejltdEVpZ2VnN25DOHNjX05GcG55QlhrUG9UX01FeWN2d21MWlRnZXEwVE5tWDBrOHNrTEhELWhB?oc=5",
    "fecha": "Sun, 22 Nov 2026 21:09:12 GMT",
    "fuente": "Infoeme"
+  },
+  {
+   "titulo": "Rutas cortadas y hasta personas heridas: otro fuerte temporal azotó a Córdoba y cayeron casi 100 milímetros de agua en minutos",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSjVlUURSZ3IxZXBLRzRBbnFUS0NjNnJ2d21qUGcwQm5GSTJsa014TnN4UUg0dGJwUlpNbWZLdnlvMVZ4SF96SGhQQlZ4ZUpOeHpGV3g3YXRjVHJkMEg0MmlUeUwzdFYzQTdnZ1VrbU9NTmV4UXdDZ3A1bmY4MldfZ2hPaEd4MDZISUVFMWZ2UlpEdG9vVGM0bWxHUzRBM0NOVGhNdExDSzZKN04tdVdYSjZBcGpXVFBOM29WQ212OHRjUG16WUJ2YWdMRXFidVlQcEdKekF4dWJGYl9heVJqckowUWN2OXFabkQwVF9KN0RsX1hUSDV5akQydVpqb03SAZoCQVVfeXFMTWJyeE84TVNmX3BnN1pHekJhbm5hMGFGMFBacHBkVmFvc1czUERWcVBoOXQ0cmhaSm9oaUhHc1dRUFMzVzNnYVFibFVVRWZDTzc1ZXlwcm1ReVAyVGZXU1BqSVVKaWtRTlBBUXNqajRRd3FzQ1h2bHpSOWVTb01XQjY4R25UR3FNRXN2cmFFX2FLeEFMX0JlT0FRaG9ZUTlWSk4xaGRKNTRldkw4WUdHT3luUUEyN2hqYUpOTWp1eTZrTHJNSEVSb3l0Q1dlUnUxREhMMFlkdUg1WkZDNlBGVWlibTlWcWtVMlBWdmxrYW44WDhta05xdlhVTkV1N3o2dGRBWnBZNGhCMTJQM0RXajdKUUR0UkZJWFJn?oc=5",
+   "fecha": "Tue, 24 Nov 2026 03:17:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "AGMER y AMET inician un paro de 48 horas",
