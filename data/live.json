@@ -1215,11 +1215,24 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-24T17:34-03:00",
+ "actualizado": "2026-11-24T18:00-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "El uso de asfalto alcanzó un récord histórico durante la gestión de Javier Milei",
+    "link": "https://derechadiario.com.ar/politica/uso-asfalto-alcanzo-record-historico-gestion-javier-milei",
+    "fecha": "Tue, 24 Nov 2026 20:57:57 GMT",
+    "fuente": "La Derecha Diario"
+   },
+   {
+    "titulo": "Kicillof impulsa un proyecto de ley que provocará escasez de combustible en la provincia de Buenos Aires",
+    "link": "https://derechadiario.com.ar/economia/kicillof-impulsa-proyecto-ley-que-provocara-escasez-combustible-en-provincia-buenos-aires",
+    "fecha": "Tue, 24 Nov 2026 20:57:53 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "El Gobierno de Milei busca equipar a los F-16 con misiles antibuque para recuperar la capacidad de ataque naval",
     "link": "https://derechadiario.com.ar/politica/gobierno-milei-busca-equipar-16-misiles-antibuque-recuperar-capacidad-ataque-naval",
@@ -1255,28 +1268,10 @@
     "link": "https://derechadiario.com.ar/politica/violentos-sindicalistas-kirchneristas-ingresaron-por-fuerza-hospital-garrahan",
     "fecha": "Tue, 24 Nov 2026 17:50:28 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "La Libertad Avanza presentó el proyecto para prohibir la institucionalización de la ley sharía en PBA",
-    "link": "https://derechadiario.com.ar/politica/libertad-avanza-presento-proyecto-prohibir-institucionalizacion-ley-sharia-en-pba",
-    "fecha": "Tue, 24 Nov 2026 17:33:39 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Andrés Malamud defendió el homenaje a Santucho y afirmó que favorece la convivencia democrática",
-    "link": "https://derechadiario.com.ar/politica/andres-malamud-defendio-homenaje-santucho-afirmo-que-favorece-convivencia-democratica",
-    "fecha": "Tue, 24 Nov 2026 16:48:33 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
  "nacionales": [
-  {
-   "titulo": "Joe Lewis aterrizó con su helicóptero en el centro de Bariloche",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1ZjeVIyRmpjUGw4TTAxaV9jWUNaRTQ3ZFRDMlJyZ2pMel9OcFpmVmxic0FFcVF4MU1waFRwdWFJYm90bGlQZUhZbE13Q3JXdEkyTThNbmFVdXB3bnhJY1VFT0M5TWFNREUxUkJ2X1lkLWdfMDFIbTZPbGU0M2NNbXNqX2ozaWVXemh3VG5qc0w0cE5WVS01bTluZGhoOGxCQ1JTamhUc1k3TF9NcmfSAbYBQVVfeXFMTVBEQzQtcGV1UEFxTWp0alNGaW5xTUtQRGJRMlJrb2dWeDYzVTAxY3hCM0I3bGlydjRiUWtaVzV2MGZWbjlpamRkNmdfSFhCVEx3Vzh5YVFpYzVPbjl0eks0bE5sRjZZek9PLXpEUXVPeUhrTkkwNU1FdFhUQklJbm9GQ3hGVmVsWDhVUGhXdGhpTVN3UHhkRmJDdm9LVEY5c19oUVBzZXVlS3Y1R3A4ckhXOUxSWVE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 14:43:49 GMT",
-   "fuente": "Diario Río Negro"
-  },
   {
    "titulo": "Javier Milei y sus medidas, en vivo: crece la polémica por el homenaje a Santucho en la UBA y se define la sesión por las PASO",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3VVbnJNalQ2cjBreEZScUZad1hIVlktVFZTNHdOTk1RSDNSbjVUa2tLOF9tR0YzQmh5UXFYaG4yNGIwWVQxV0lkdDluU3pKRnpOYTJubzZBLUkwdV9yWEtRLW9qMDYxZk5Kb3h4R0pmLTN5LS0wSlRua09yajY1a0FuZ08yT2FZUU5zTHFvMzYtRWpxamZhM2E1M2ZOeTlUVG9BeFpOS1NnRnM1Y2pUbXhsSlZHVVBxekMxRTNRVUNGRnVuVUNCRTgwLUZTMmI4d3NGVlhhN093TGFYR2phdHBR?oc=5",
@@ -1284,16 +1279,16 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Crece la tensión: Lula no invitaría a Milei a su asunción y Brasil apartó a su embajador en Argentina",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZzd1dW9hSVIzQURIWlpRMXBrVl9UMkpnSGlLYVltWGZtTDl4UmJucmZyRGNWdDZTaUZaMzNZZi1rTHRaZ1hPOXJEb2N1OXN0RUoxM0cxTjBEMXdBME5mUndLdnZIeFdSYW8yOWRVNEJSR2RuQmlNS0lTWG93SE9CRl9nUl9uemV2bVRMQXZxWlZxVTd6TEVUbk5WaklHVmsyMEExcHNaMi1XUlFCTmpTSExwNndnSHI5bzk0MDByVGtJY2ZrNlplakdOeEVxLTVlMEtLZ1JaVi1OVHNXVFHSAfgBQVVfeXFMUEVvX2NTMFNqamh5dWdLanJQSlJZNUd5YldNcEpTR2JLZDhQOUlHRHhxZWFFQ3VnTTNSTVM0UkVXUHBoaWpTa0VpN0tjaDhtaVFvTEkta3YtYUlQV1NIcDRPX0d6aEpFZjFlbV9OZU5CNGRKeG5CYWNtMlU2X2h5MFZDaDV0TVFldFZsb3ktOUVMLUhycFF1ZUU2cllRbnZWWGlhVU9JUGMyLXliaC1naWhvNXFwUEY4UUpUVXhSRWFqUm44S0dBQlVNRDBZX3hQZnVGLUV1ZDVVa0dLcVNBdFZzaGFSWXUxT1YwQzhjRUw5dWlmcnZhSnU?oc=5",
-   "fecha": "Tue, 24 Nov 2026 16:34:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Homenaje a Mario Santucho: en medio de la polémica, el fiscal Stornelli pidió suspender el acto en la Facultad de Sociales de la UBA",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUzJiR3g3SEdCVEo2d0VCSFNyRmF2eHQ5MFVpeV94TjVtc1plS2o3Q0ZueV9lSkVwQThZUkpxR2hvVlBFOFFVZk43TnVjVnFlMWZTbjdCWWZEMC1sNmhvQ0JXU2xWSlhPRmlJcF8ybEtld21mUFBua2hQVTNwTFR3bzcyc3ctcDNCLUdVOVBTcE5VUVdpZldCNURVRjJSLTdiYUdfVTRqNWdVWncwcFFUZWV3VWU2WGoxbGtkQmNGbHBfNTVlQ2NsX1BzV0FYMFQ2SEhvaVBxc0ZGcnpveklWT05B?oc=5",
+   "fecha": "Tue, 24 Nov 2026 16:53:35 GMT",
+   "fuente": "Clarin.com"
   },
   {
-   "titulo": "Cambios en el mapa judicial que involucra a “Chiqui” Tapia",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONkZyQjVwZVgyNTExRlhaWXJqdDhCTEtrTEF3OEJzM09rN1U0NnltcG12MFMtRlZlU3Y2dlJuMk1sTFJCUmxDRDFpZlltZ0VuNXR1TzYyZUVSZ2JEaEFaSzN2ZTl5S2pJczJidGZoNHJ0MF9jNHQwdGtLUk9BSFlOMm4yUi1XZXlNa3ROZmx2UHJJOEVtMjFxWHNoRWNCekNPTzk5OTVWTjJyYl82X1Q2bGhiNTh0bzVlNGxtRVBXeEdqdmV0YTVSU0hkNWVibzU3Qlp2dDZ5UWtZQVRSbjZjX0VhX1VVRGxYcDJaS3Z5akpSWVU?oc=5",
-   "fecha": "Tue, 24 Nov 2026 05:02:00 GMT",
-   "fuente": "Diario El Día de La Plata"
+   "titulo": "Brasil retira definitivamente a su embajador y se profundiza el deterioro del vínculo con Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYkhfOGhXN1o4TmRMbWIyNW5YV0dJRkREbzB1NlVUbXBqTHVpTVJlQVJNWjhmcmlTZUpkZEpvMDhsSnZQeEVBZTZwTk9WcFJkQVNHaWpmbWxMZWI2YUtYNk9IWGN3U0s4ekR3eUFzQ1l3QjFqclI3bVNaN18zV0lFcVpadTJIRlZOdy05bUxoV3A3Y3hZQzJ2aUx4Vml6b1ZqSXBXbkV1WG1NRHE0X3kzNHVqYmlybXgzeW9relc2VHhDZUUydHMtMTlfWmt4cjFpalNRRl9IblFvQQ?oc=5",
+   "fecha": "Tue, 24 Nov 2026 15:52:41 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Milei lo hizo: la economía argentina entró en “recesión técnica”",
@@ -1302,40 +1297,28 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "“Lo compré en blanco y con recursos propios”, dijo Soledad Calle sobre el departamento vecino al de CFK",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRklvaW9ZQ01jTjdEU3BCLUNHeXQwUjd1R1RHeHRHZTlDOTA3eWE3STY5LUpab2F2ellZSjdyVVdfckljS3dLNVNCYVpROEJ5WmpOODBVdTZIR2E4OWF5cjhhbmdCM0hOZVBTRzh0c2U2LXRESmxyN1Z3cEQtaU5YMzBLU3ZCT0RId0lSMDhyMXlWTzZDMGxtQU9DYmZPV3EwSVc0emZlTUttaEV3WkNDMHk3WkVvWGMxc0JidUtLZEtua0p2QjYxUk1qT2pENEFLVnpBQmoyUEFNZHg1NUHSAfgBQVVfeXFMTm5fUG9NRkdCeGZ4Y092UGZGWmE2NmhMQUQ1dnJQTmtfZkRWbnZFWHV2TWlGMGlRU0l2c1BNcU5MVE9rNTE1Ti1uaUJJdk12Y3dTMERraUhRbDJkVTI5dmJSMEtjRnBEMTNEbTVyWXFPbWVJaUZFZGx5SDB0VjRLWXlpYlo3aDNVZFJhdktZNVFhbmtHUkxTaWJ3T29kaXhORXFiYkVHUlBXdUZDdGZyVU1ackFFR2lWRExELUEtZ1d6cVQ2Y3JiSlQ3cE9SdFRWQ3JVMTdFblJ5ZE9VRVlWcHZvVlRSc3FlVGdHaDdibU9xcUVFNTB4WUE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 15:26:00 GMT",
+   "titulo": "Joe Lewis aterrizó con su helicóptero en el centro de Bariloche",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1ZjeVIyRmpjUGw4TTAxaV9jWUNaRTQ3ZFRDMlJyZ2pMel9OcFpmVmxic0FFcVF4MU1waFRwdWFJYm90bGlQZUhZbE13Q3JXdEkyTThNbmFVdXB3bnhJY1VFT0M5TWFNREUxUkJ2X1lkLWdfMDFIbTZPbGU0M2NNbXNqX2ozaWVXemh3VG5qc0w0cE5WVS01bTluZGhoOGxCQ1JTamhUc1k3TF9NcmfSAbYBQVVfeXFMTVBEQzQtcGV1UEFxTWp0alNGaW5xTUtQRGJRMlJrb2dWeDYzVTAxY3hCM0I3bGlydjRiUWtaVzV2MGZWbjlpamRkNmdfSFhCVEx3Vzh5YVFpYzVPbjl0eks0bE5sRjZZek9PLXpEUXVPeUhrTkkwNU1FdFhUQklJbm9GQ3hGVmVsWDhVUGhXdGhpTVN3UHhkRmJDdm9LVEY5c19oUVBzZXVlS3Y1R3A4ckhXOUxSWVE?oc=5",
+   "fecha": "Tue, 24 Nov 2026 14:43:49 GMT",
+   "fuente": "Diario Río Negro"
+  },
+  {
+   "titulo": "Tensión por Malvinas: el Reino Unido anunció una inversión millonaria para reforzar la seguridad en sus territorios de ultramar",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWjlkZ1RCN2tBbE1UX1ByRWR6REtWTmFWRjE0S3hnXzIyWmJkQTBUT09teG1yNjJNb0FlajkzTHhvcEEyaEJmZzZrU0RvUUVMalZDS2NxLXZkdzA0RDg5ZW02UFFDaW1jNnJkR1Zyb1VXQmVrRXZaTkhMd0xETXJLaTRPUFRsY0R1OWI1czdRN3NvSnZldGhuc3dZd2ZjcS1majJZNmIzXzh6SzJNWGRyZk9WN09tZnFrMUM1UkUySjE5LTliSURiWFlJbmZ2bGxzSVVrQkEtSWNsWFdwa21Cckk1Wm5kaURjV1ViejFSUVZkNTNSNzlyT9IBjAJBVV95cUxOcmEtTktuRFlDNGg1VnM1dzF1YnBGdUNNSXM3T0xnZDRZajdFbEc4UlU4M21JcUw1ZEhSd3BYRTYzbXE5ZkYtcHlHbXB5TEpscmpCemZZSS1WNDJmZHNDWEQxWGYzMXB2akY5M3lHSmoyU24xakVKVXpwNV9LUHZYQTBVV09zTVppR0ZKSU52QTNhOU1WdlJ3RTlpMXVqZFc4cFl3RDN2VGtyTXlTcmFuXzRJdEo3aVFWbHBMa0dYQWdRZkI3SllkWUxVYVRjQTgzXzN2Y0ZSVEh0bG0wbEZhSlctbUVmeTZ3RHlJUUxYcmhVWWNGbUs1X01IOW9LUU00alZNcmQwMTVBaGFZ?oc=5",
+   "fecha": "Tue, 24 Nov 2026 13:22:59 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "La huella de León XIV: el proyecto sobre ludopatía agrega un tema ineludible y ajeno a la apretada agenda del oficialismo",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeEg5V3dzcVNGc29FWWFrNk9WTXZhbFVNaUUtTGxDVDdmamY1M1hMX2FYU0s5MFRiU2ZIUXF3RG0yWDFiOVBMQVhfWTNpSEdLTGJ0RFpGSzMwVWJKWWc0aGZhNHVNVWJLbzlwOGVHYnVUcWp3Mnc4MWxUV1pJMVVad0oyS283Vi1OaWllUnVCaWh4Y1hpUmh5cnFDZi1LTXZyS1QzVFplWWtHUzdfbm1wdzZGM24xSm9ZTVBQVXltY1UyRV9GR2dxYzlTTC0wYjNKYjYxV3ZyUzlhVlZJRzhwZ25SNXhYVjh3NkU3bW9GYkdXUXJoaUMzN9IBkwJBVV95cUxOSGJlZTZDeEhEMHp0d2hRR19Ca2tqanBLNTlTTGh6RzdLTHh4bmVhT0pFMFgzQVdpcjRNT3lZWVNTem95ejg3dkFFVHZpUlVyeDFPbm9WczBPQnBTV1Nyb1BMczM1SmFpVlJMY0U2MDAzeUxTU0c5S1NwYndfbHdnQl95dl9McjRTaXloR3M1NTVmTmtlSnJMdUdiUnozck1EU1dJM3p6dGoyaWJQSVRvTXpic0dJZFZqOExSRUY5TVRmeTJGSW1ZbXoyV2NGcndVTUlfNVNYeklMaWl1MUdKVXhjY0RYWGRlTzBRQ2JMQWVUUmMxdjlrZGhYc3pyUVl4Z1ZhMXc1VlVZZWtVd0ttN2Z1NA?oc=5",
+   "fecha": "Tue, 24 Nov 2026 05:08:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "Javier Milei recibió al presidente de Polonia, aliado estratégico de Donald Trump en Europa",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWExFWTRNcFZBM1A4UzYzNDQ5YjBHV0N1SzBGOEtMX3RwOTlBaTdxQVE3WGFDb2RZZFdLSkFvYjJLRU4yWElEdm9EeDdqQm9xNGVsVDRFMW5ZTVI3YnZEMWhpQ3Q2X0xHd2xmeURvamFWc0VISlhEYVlBY2pxaWtueDRoSEJSazctdGQwMEI0VHFocjkyTXZWbTNTTXo5MXlNRE5nOVZYVHJBTW50bjhEUm1FMnFWNElWSkw2aE44Q2tCRHdSdENwSUU2WGd3SHRR0gHrAUFVX3lxTE95dl92Q0NjV0lWTGJ3UWhpQmw2R0hUelBHYVh0OHlqZC1nTU8yU0toRXlTMXVpUzBIT1FLdzdncmRvdHFEZTJlQWtRNzV5eU5GT2p2d2YtV0NnZWE1WG9ENjRaRFlLTU5KYkZEOXdGcDM3WjNFY3NFbENLY19OYVVwNm9zQjZydHptSnZlbzJSWkR1YlJfUXc3UFJELVZiUzlWUDZ5MXJMZ2t1ektvVDVPc2N2Qy1LeXg3MkpDR3A5WURobm96R1RnaFVVTkxfckZjbHM1VWlldUI1U29Va3pUM1NHdUFqdEpKN3c?oc=5",
-   "fecha": "Tue, 24 Nov 2026 17:07:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Malvinas: el Reino Unido destinará más fondos para reforzar la seguridad de sus territorios de ultramar, incluidas las islas",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNamwwVXFRaUpRd2U5eG1QVV9sYVUxUVpUNl9FOVBQeUpjbE9yZWxSTnRRWVgwSTUwa25MRHlnOXVURVFNU3V5YTkybDgya1pSV3FWUDduY1ZxVG9pZ3pyb2FwdUxDSjFWSmJQb2N3QzZkaE9rZk5ER21IZFk1OGZxYUE3ZmwwNmtDTEprcF9wcHZNQ3dRTEdfbGt4ZWJNaTFkVldmNVNGR20xYXgtMmpISmtsUE9Gc3NxaHBqOF9aeTdwLUNqbms1TFdZbl9lelVkUjhKY05qSW5GaXJ2Z0ZIb3pzc294bkxRYzg4?oc=5",
-   "fecha": "Mon, 23 Nov 2026 20:08:09 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "La Iglesia Católica le pone presión al oficialismo: pidió que se apruebe la ley contra la ludopatía",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcWk2aTYxS2JuQjNhRW1fOEZ4N3NnYWwtNk1nWnhGT1k4N0JuLUpxUVpoRHNIZU01b0FRMWJQZHBfdU05X3NsT0pYLWJvYTVmUDhIYXpZcDdLdFZfV3dhbDZZazJ1Wlo5T09LREF0VXVQbm5MWGI1ZWUwbnlZb2dBUjBhQ1hXN0VBeXgyNlc0LWVtU0xzajRNNERWcjNoanQzMk1fd2V6QWtQaEZoU0VhS1o0UnZ2WV9uTXJKeHNyZUpQcjAyZEFCTkIyY2ZidFlmNE9uZw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 22:01:00 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "Andrés Malamud, analista político, sobre el homenaje a Santucho: “La universidad es el mejor lugar para pensar la revolución y no ejecutarla”",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWk84aXNNOWsxd09jNkphckhMVzNlQ3dYRUx5RmJNQ0JDVGhKbXZXNWNxVzhscFFEWlRXT3liQ1NuRXRvcWQwRWI3azlQRmx5bGVmUm1pd0xra1JPZ2N2N0dDMnFXeTI0VUhWb0FvUWYxdVdFUEtpMW81eW1iRnl6bWRRcF9kdFlqelVoQnhaLV9udmhKWjNfZnFLdWpUWTk4aWdMMC0wWnducXgxVE9xcmI2V1JNbkNEb0tIVDdsWk9qRkZXWWhsWWQ5cXZXZHhhNDg0cTFzcERVV0dia3N1Ukl0NA?oc=5",
-   "fecha": "Tue, 24 Nov 2026 19:35:00 GMT",
+   "titulo": "Explosión en Ezpeleta: murió el hombre que estaba internado y que trabajaba en el local de comidas que se incendió",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHR1YU0tQWxkY28zQmRDdDZwT0dVMVNrUWNBVGQ4Nk5RZmJlTTFNQzV1TlJqckxFS3Q4TzZkT1JEd2NnM29menIwV005RHFCRFRINFBMOE5yLVAwMjZ2LUlDRkd4QkVpTXI5NzJadWpHZ1lBYS1nNlc1WnZ2NzIydW0wSVFDUDN2Z2lKYzBRdUFSNlU3OXBqamJGcmg2ZnhUVHkzenU4ZWlvdDRKWHdOUXhlMTc0bjZyTFJFeFZUYmpXcTItT2FkZWR0Tk5lbkx6SndoeExyNmVqd00?oc=5",
+   "fecha": "Tue, 24 Nov 2026 12:34:00 GMT",
    "fuente": "La Nación"
-  },
-  {
-   "titulo": "Dolor en Ezpeleta: murió el cocinero del local de comidas donde ocurrió la explosión",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZko5M3FNeGdZS01XMTNzeHh3UHl4aHhQamVsaTFGZ0dNSTdYU0QxaUd4Y09QZlo5dy0yYlhDcVRKU2h5d3p1R2t5ZmJYWVAwX3ZUcXVXLWtEVGhQRXJfWUpxRDI3NDhoWEwzWGFCcGFpbm80UG4zdVR5Q1FJdHpYbnA0bVBGQzhpQTlRREp2NDB6Z2dQbVpoZDMtODdHREptY0picFhwaXdfQXpRMGJ3U3hYcS1YNnJudmxRT014WHFKYm5ZTnVTUVE2bElDLXpacWZ2Rg?oc=5",
-   "fecha": "Tue, 24 Nov 2026 12:17:55 GMT",
-   "fuente": "Diario El Día de La Plata"
   },
   {
    "titulo": "El FICER empieza este martes con el estreno nacional de la película de Lali Espósito",
@@ -1344,10 +1327,16 @@
    "fuente": "Elonce.com"
   },
   {
-   "titulo": "“Soy una Barbie gangsta”: los videos de la influencer detenida en Pinamar haciendo maniobras peligrosas en los médanos",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa0xZQ2hSd2FkTTQ0Q3E4LUhEU3dKNlJoanB1NWdlZzIxc0UtZEJxa1ljdVFqTVhWR2poME1OenlkeVZhU3JOdjdTejdDSE9nb1R1bU55dHhDWVYyMFFLSHVOanhrTi1IWnRzYUZrUWQzSDI5dW5fTWZ0ZVZpT09yTms5N3lfV3pfcWVEaDZhV0M0NU9xdl8tYlVlWFA4Q1NITUp2cXpXLXJoTFRtWGpROV9qOG0yYmtKb290cjB3dWZvMUVHckdNQTdYSElSZ2dCb3JVaDhvN2xPM2l4MFV4UVA2ZVBuYTV6X3hjRWlxQ0TSAYQCQVVfeXFMT3hpMWFjYTJkSGVERDExbVBJY1VLSlctaW1MRVN4b1dMbk9zNnItSGZBM2NwRTZlNmpzUmtNYUtxYUFxRW5WeXZkRVN5cnBMOEh1TDFmdHliQXJKMmE4b2o4ejViVTlOakRQWnI5azRaT0oxaTVrazNkWXFRRmVCSkFpR2JYMzNDWXlZZzU5N01hS2pGYl8zYklZV0QyMDkzYUxTVkFDaF9YWmpVRE9fWDFMOWF3MUtobUZvNWQ0c0ZpTzlMT0Fxb2ZNLWdrQUQ0TDV3ZUdPUWpxQ0h0SlNRWjJ2aDgtNGl0alpaZ1g3ZTlfOFpfR3psQks2d3d1a1JSUWFqcno?oc=5",
-   "fecha": "Tue, 24 Nov 2026 11:46:18 GMT",
-   "fuente": "TN"
+   "titulo": "Cambios en el mapa judicial que involucra a “Chiqui” Tapia",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONkZyQjVwZVgyNTExRlhaWXJqdDhCTEtrTEF3OEJzM09rN1U0NnltcG12MFMtRlZlU3Y2dlJuMk1sTFJCUmxDRDFpZlltZ0VuNXR1TzYyZUVSZ2JEaEFaSzN2ZTl5S2pJczJidGZoNHJ0MF9jNHQwdGtLUk9BSFlOMm4yUi1XZXlNa3ROZmx2UHJJOEVtMjFxWHNoRWNCekNPTzk5OTVWTjJyYl82X1Q2bGhiNTh0bzVlNGxtRVBXeEdqdmV0YTVSU0hkNWVibzU3Qlp2dDZ5UWtZQVRSbjZjX0VhX1VVRGxYcDJaS3Z5akpSWVU?oc=5",
+   "fecha": "Tue, 24 Nov 2026 05:02:00 GMT",
+   "fuente": "Diario El Día de La Plata"
+  },
+  {
+   "titulo": "Transporte inhabilitó a la conductora que hizo temerarias maniobras en Pinamar",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMExoZGEyRGwyNGpwdjRyTWRpNkJ2SU9VcU9yYlRmQWZQNGJTc0JlM040dE51Qi1nNTR3THh2UmVPOFkxU2ZoYkdXcUlBSnlRUmlhcFpkVTUwbUJvN0UxYWdCbFM2UE9ncnVzRk9zbjFiU2I0TndyaDhoQTNYUGRKc3VzNXI0NXluczBVNkFGNmI2bW1yRmI3ZG5vSS15VnpscW1IMU9wOUVEOVpzV213RW9VMlJTekl2SzNtLVFROC1EMXRkZFE?oc=5",
+   "fecha": "Tue, 24 Nov 2026 19:01:32 GMT",
+   "fuente": "Provincia de Buenos Aires |"
   },
   {
    "titulo": "Convocan a una “masiva” marcha por el Día Internacional de la Eliminación de la Violencia contra la Mujer",
@@ -1356,16 +1345,28 @@
    "fuente": "Rosario3"
   },
   {
+   "titulo": "Posible fraude a la UOM: las acusaciones contra Soledad Calle, compradora del departamento vecino al de Cristina Kirchner",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNGFuUDdpZmo2a3gtQnQ1VUN0TzNVREVpQkNxSjFOdGc0Sk9YLVJVazBCSWl1NkZHQXAyakNmbjF2b08tOWJWLVg2N2dBWjZBd2VIVjFRQ041YTFZNXRoNU1SaC1mdDlsdWpNNmQ2NXZIdXlhbmI0YlMzcGhPY21rRWl5eU9LUG50ckVCMU4xOFl6a3lEWGQxSU9wM1hhZ01wTFlHOTlqU25rWHc4dTNXTjNPVzE0Ymptb3gzWnd3N29aTy10QnA3SXp3eXQ3OTRzTzdJM2pYZUFscTh5UHBpT2NxenZsaUxqYnhFVHhpb3hVU09QUWQ0OUpn0gGUAkFVX3lxTE9hTkZ6aW1sUDRGemlyRTQ4eXlIYWhvX2ZtWGgyanRPaXNZMHBFTHd1OFk4Ymh3b3ptOFVpTXRDcEMtWENjQzlZUGVNN3lobXFCa0RRSXROaXVQUjBYR19qTURFY2hyQmllUGppa2R6blZSeHBSb3RzOFNUamozbHVlelgxUVJrZHJjRnBZVUU0WkxlaWZiNkNOelRVOTAwY1pCa1pibmFPX3cwSUZ1aFJlN3ZQZXQ5bnc1Mnlfems1TTlFZ25PbWJBV0hIbTg5S1BNZ0NPcm9UdzNFS1luLUNUQjFYeHFvZ3B0clRJWWVaTHNxZjlkTHBLRUxSY2VuZE9mUE9WMGlaWkV5blF5RHFKUjAxWA?oc=5",
+   "fecha": "Mon, 23 Nov 2026 05:41:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
    "titulo": "Alarma en Argentina: un decreto polémico abre una reserva frente al Perito Moreno a inversores de Dubai",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1RQRHpuVHo2T2JpVlpqbzNDWG5ITU1hYnFzQjhYX3pqYmh2VFFxVzhzMlJ4V2sxMFJBVFBGbEtLY3dOck5KOGd2R2V2SjBjOVBFUmhheDNJRnBNWDktWHJnN25wb1JSdkdUTXN2clVZM1c2V2M0M1V4aFVoR3pfekJtaU1pSzdUcVhsNl9sU3FKX1lfdjVKTzNySklhUDRXYjNGbmN5VDhubzRBc1ZjcUlQd9IBswFBVV95cUxNNnIzMWRHb3RDZml5RHVKS3FXX1lWekNibG5qcVVuSzlYbmFFeGJTcTExd3ZBQUlYTV9tMUhQQTJVbFkybDJ5WlJ1b01FT0N2ZEx5ZFdFWnZqNDltTjkzVkxmUnF2LU5JdWllNXhYTlNKNjJCVDJqdV9oQzFZeW1HM1I0ejNxVFhIMEpkNFVlTG9WTGxzZ2lidnFWT3BURUsyWDNtYTZ1c05KYnVzV3pCVFlrNA?oc=5",
    "fecha": "Tue, 24 Nov 2026 11:06:02 GMT",
    "fuente": "DW.com"
   },
   {
-   "titulo": "Crisis en OCA: aún adeuda el 50% de los salarios y pone a los Moyano ante un dilema",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRE4yc3VXTDcta2sycDlOTWhLSFpqOGhfU2Nmd085c3hwRnV6a19JbEVOX3NTbGY5MFFiQ2p3a1hCOEU0bTJDaTRyTmx4ODBESGZ4c3g0dzRZR25sU1NudUY2bEtmMEFMR1FjUnVwblkzY0s4LVFjZWpHaTJwRVZQRm9qX1FGS3dHcW85aUVrcnFtYlZBd19QSVQ3OEV1ekE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 17:18:49 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "AGMER y AMET inician un paro de 48 horas",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWJNN3NRSExMd3BadXpsajV5dGhZMHN0dTJIOU5abmFlem1PRklaanVaUU91dEZwRWxxaXUxa2hORW4xNmZWMXRQXzNVZk5mNmZrdVdZNkxXV183RnM5bFJaX1V6YnZTR2wyMjRVUWJWcUR0bURoM1BZVFhla2N0cm9ROVd3cXN3MldaQk9Zako4dmJYanRKZ2NGVdIBlAFBVV95cUxNTDRaUDNWc2g4RVN5cVlXZ2tnUXRwcEZWbGd2ekxmTndxNTNmZHlabmhiZTc3MTRrbE5kMTFTb0t6My1qWWxOQlRVVXE3NWRCbmgyYkRXc0ZKWEVxdVhVOWgyblJ6VmNNSGJmZ2RaLVg4Sjk2aE5LOGU5RE1Pam5UM1BveFU5M1hpaDhiSS02QjcxdEhC?oc=5",
+   "fecha": "Tue, 24 Nov 2026 07:21:22 GMT",
+   "fuente": "Elonce.com"
+  },
+  {
+   "titulo": "Weretilneck firmará en Roca los primeros contratos para reparar las rutas 22 y 151: también abrirán las ofertas de las paradas del Tren del Valle",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVDVrckhRRFpoRU9tT2IwVjhONWw5N21wWXpma21KbmRLLUlaZlJMN2F3NXdNOGNLeXZrcFBRTldxai1fRXJvZjhjQ1Rpbkg3UXhFTXVoXzZHSUZJLWJXU1FnOFJZOTJRUGMyMXpnQXFZY1d1eXgxLTcxX1R3dDZoajV4MUZvNzdTOUN5RWRSYTU0M0Z0ejZVQWs0VktSZFo2NlQtN2tqZDZubE00cWJMY1ZWUV9WZ05id2tHZnZ2QVVsY2xlb0hBcjNUYnlpSFhidXJfbENKZUk2UkdmY2wxdHBpNFZ0U3B0dkl2R21GRnpVcy1ycU9UaDBVa296alBFeXJ1ZHBn0gGOAkFVX3lxTE16MVE1OUxwZjNnRkI0LWdDYU9OT05jUURld2ZQY3ZCNW1lankyWFFjd2s2UG1pWmR5SXRkSUdHSmlBbnlNT0t5cXJ2SDZ4X0RYV0VZOWF4RDRlYVhnY2FMLUxHZG5iOXFfRHJGeTYySjNEX21qNXFrMmpVUUFHV2ZXTWMxQVlLbGkwZmlYdkJNeEdZVmFZdkxBaW5nTDBrV0ZMaHlhTGkwaUlNNXlqQ1JYU2lFS3ZPQks4TFN6c3hkMWxBSHYxMTFMTmJGRkNGMFh6MEVYSzNad3hVdkhTWHRkUGQtaDZRTEZxRm5DVTVfbnctZ1hBbWg1cFpHdXdVX2k2MS05UEVrQUQ0QjhPZw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 13:05:27 GMT",
+   "fuente": "Diario Río Negro"
   }
  ],
  "finanzas_argy": [
