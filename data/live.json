@@ -34,6 +34,11 @@
   "modo": "directo",
   "items": [
    {
+    "organismo": "Boletín Oficial 20-11-2026",
+    "link": "https://www.corrientes.gob.ar/29201/boletin-oficial-20-11-2026",
+    "detalle": "Archivos: 20-11-2026.pdf, Anexo BO 20-11-2026 - ACOBE.pdf, Anexo BO 20-11-2026 - Ley N° 6769.pdf, Sucesorios 20-11-2026.pdf"
+   },
+   {
     "organismo": "Boletín Oficial 19-11-2026",
     "link": "https://www.corrientes.gob.ar/29193/boletin-oficial-19-11-2026",
     "detalle": "Archivos: 19-11-2026 v20.pdf, Anexo BO 19-11-2026 - ACOBE.pdf, Sucesorios 19-11-2026.pdf, Anexo BO 19-11-2026 - Min de Hacienda.pdf"
@@ -41,7 +46,7 @@
    {
     "organismo": "Boletín Oficial 18-11-2026",
     "link": "https://www.corrientes.gob.ar/29188/boletin-oficial-18-11-2026",
-    "detalle": "Archivos: 18-11-2026 v20.pdf, Anexo BO 18-11-2026 - ACOBE.pdf, Anexo BO 18-11-2026 - Munic de San Carlos.pdf, Sucesorios 18-11-2026.pdf"
+    "detalle": "Edición publicada"
    },
    {
     "organismo": "Boletín Oficial 17-11-2026",
@@ -56,11 +61,6 @@
    {
     "organismo": "Boletín Oficial 13-11-2026",
     "link": "https://www.corrientes.gob.ar/29169/boletin-oficial-13-11-2026",
-    "detalle": "Edición publicada"
-   },
-   {
-    "organismo": "Boletín Oficial 12-11-2026",
-    "link": "https://www.corrientes.gob.ar/29161/boletin-oficial-12-11-2026",
     "detalle": "Edición publicada"
    }
   ]
@@ -885,9 +885,9 @@
    "fuente": "Perfil"
   },
   {
-   "titulo": "Rige una doble alerta naranja y amarilla por tormentas fuertes para este martes en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0llMFRwdW5yWXVoNkZpZ1JKZXltb0RBbU9qdkJ2cnQwR1lTYWNnUHl6YnpITXV0R3lNdjdhWG14MDZvOWZ5TXpveUZnYWpubk5hbUluQkZfVkxCTEtNUmtFQjhsQU1Bd2JXcHBLaGFDRjdETmtwbFRJWGdGbTd5OTMwcGVXdEdrejJCTjZhSGI1X29YLTFyNXloS1gxcmViZTJIVEdvYk1SY090WEhhSVpGeTA0T3AzdlZiTmtUa05oaGp4ZVhRVEtzWnRiMjRKTUh2XzE2d2lRS3ZGMDIySHF1c1M?oc=5",
-   "fecha": "Tue, 24 Nov 2026 10:30:00 GMT",
+   "titulo": "Corrientes obtuvo el puntaje máximo en un índice nacional de transparencia fiscal",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHRHVDd0Y1VURjlFbUJ2QXBDZXRUZHgwbi13a0gtNGVZNU1JeEwyeUpTN19ELVp6RDF5R3UtRldLYXBUdHZKb1hqRlBKZ09QTmYyckJlaWh4YlJDZWZxUkJTTENGNEtPelBpY0dEdy1hQk4wcWlWS2hyeUJPaElmaTlmR2ZzRXhmQ0IydzBIN01OREYzM1huYW5jUXZkdGtKYUlpRzh2OGI2dlNlRWJMeFA0OTdfQXgydVVGQ19ZOXZMc1hmdFBlTlNWa0RTQllwdVcxbnJn?oc=5",
+   "fecha": "Tue, 24 Nov 2026 10:35:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
@@ -909,10 +909,10 @@
    "fuente": "Cadena de Radios"
   },
   {
-   "titulo": "Fenómeno El Niño: 4 mil personas siguen sin poder volver a sus casas en Corrientes y Chaco y qué esperan para las próximas semanas",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd0k0c0ZRUjdlVzBGXzhJQkotOE1NdUlxc09qdl81eUJicWdhSHNyR05vS21FZDBsVm10ZUJJUFJNdldHLXEwSVhEVVpFeVFFSEtSYjVFQzZGNVhYWmNMR0FOVzZ3Ylc0VWJuQkd2NEtRTFBrNFZvYVBFRDNEempJZDV3d3V6RkZnQ2J1dXB3aVdxRU50VGhOTmp2WGt6c2ZxZzFFMjJOM3JUa21CVWhFYno1YjJtT0N1SGZZbHVjSWpoQ1hacHF2MnR1LXF6WjJlTHB2RXdqb2oxNVVKazRj?oc=5",
-   "fecha": "Tue, 24 Nov 2026 09:01:34 GMT",
-   "fuente": "Clarín"
+   "titulo": "Judiciales de Corrientes nuevamente trabajan a reglamento",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmZObGJvQXRLdHlpUzZ1b2RFeHB3bGxHREVvWWluN0V0Z0F5MEtGWjFJT2Z3X3U5aVlVajZGdE5pZGMxWjkxUWxLZmxNVjlNUlgwZ1QyOEUzWTQ1cGdwYTRNTEs2R29pRWNGQjNVT182SGo2bno2Ty1VbFRXQ09MME9faW9IX0VwbFFxYXNoNDEzVFlCNGdkQW5pSmFXZVFHTkJkdQ?oc=5",
+   "fecha": "Tue, 24 Nov 2026 11:27:08 GMT",
+   "fuente": "Corrientes Hoy"
   },
   {
    "titulo": "Alerta en Corrientes: más de la mitad de los palmares de yatay está en mal estado de conservación",
@@ -921,22 +921,16 @@
    "fuente": "Diario Época Corrientes"
   },
   {
-   "titulo": "Judiciales de Corrientes nuevamente trabajan a reglamento",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmZObGJvQXRLdHlpUzZ1b2RFeHB3bGxHREVvWWluN0V0Z0F5MEtGWjFJT2Z3X3U5aVlVajZGdE5pZGMxWjkxUWxLZmxNVjlNUlgwZ1QyOEUzWTQ1cGdwYTRNTEs2R29pRWNGQjNVT182SGo2bno2Ty1VbFRXQ09MME9faW9IX0VwbFFxYXNoNDEzVFlCNGdkQW5pSmFXZVFHTkJkdQ?oc=5",
-   "fecha": "Tue, 24 Nov 2026 11:27:08 GMT",
-   "fuente": "Corrientes Hoy"
+   "titulo": "Fenómeno El Niño: 4 mil personas siguen sin poder volver a sus casas en Corrientes y Chaco y qué esperan para las próximas semanas",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd0k0c0ZRUjdlVzBGXzhJQkotOE1NdUlxc09qdl81eUJicWdhSHNyR05vS21FZDBsVm10ZUJJUFJNdldHLXEwSVhEVVpFeVFFSEtSYjVFQzZGNVhYWmNMR0FOVzZ3Ylc0VWJuQkd2NEtRTFBrNFZvYVBFRDNEempJZDV3d3V6RkZnQ2J1dXB3aVdxRU50VGhOTmp2WGt6c2ZxZzFFMjJOM3JUa21CVWhFYno1YjJtT0N1SGZZbHVjSWpoQ1hacHF2MnR1LXF6WjJlTHB2RXdqb2oxNVVKazRj?oc=5",
+   "fecha": "Tue, 24 Nov 2026 09:01:34 GMT",
+   "fuente": "Clarín"
   },
   {
-   "titulo": "Los estudiantes campeones del Tecnicar 2026 celebraron en las calles de Libres",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YSlV3aXdkZlRQbzk3aElQMG44anUxZURUZXRDRGc5V2pTUEhYQmNjcUN4RG5UMDF4bHFqYlNvbE90b050WXZ1U0diSzlFdTRqWHhrZjF3UnB4T1B1NnpDT1NQbldRbk5FR1E?oc=5",
-   "fecha": "Tue, 24 Nov 2026 12:07:16 GMT",
-   "fuente": "Confirmado.com.ar"
-  },
-  {
-   "titulo": "Hay alerta naranja por tormentas para este martes 24 de noviembre en Corrientes: las zonas afectadas",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1BWLWd3WmJRNmxRTnZsNFlObXVTNUU0X08xcVBnelloVFZQbUpyS2hkemcwNC1Za0JXLWlJVm90aV9wOVQ2OGJ5VUhrbkdBbDhlMHNtaDVISTFNeV9kbF9jRVRwRDV4dy1vMzBuRkQ5YjZZOUtwSzZhZWJaQmVJUzhQejdqTTRWYmJhWElKMFRxcDM2T0o4N3o0ZVdiUHFKR283eGdWUEpnckVrUU9PMmtoMU5tNnRTOXp6bHhrZ3VfMXFMWWs0S2F2LXRMMnF3UXo4SXhZREVjaknSAe8BQVVfeXFMTjVjYWZTVDZvNUVQUEVNcFIxeXByVzdKY2I3aExxUDBtUXM1UUdRRHhTQXMySlg5RFlMcjBUeDh6Uk1IR3JBUFdRS1FHOHVMNFFHQy1QYTVRR2VmcEpabHFJQmh0b2R0U1AtODRyTzlaMGRWemNUdFFxd0FZU29yTXBNRmxnT291blBpaGpRZmNUZk1NNnp3cTQ4dEQ5dWtQQ3l4UVdHTFctOU5uVzFNSmZsUnVyTFJmcmh4UDZGaUJ2RkFtWW5KcW90WV9xc3FjekZ5ZjdCTnAtNHJhM2FiTmlGd3hIR1ppX0hkRW1TT2c?oc=5",
-   "fecha": "Tue, 24 Nov 2026 03:02:34 GMT",
-   "fuente": "TN"
+   "titulo": "Corrientes en el puesto 7 de las provincias más visitadas",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckdXcjNZci1UM2tzbzVjWDVMc1dnTVlGbjJlRk91bHIzTU40UWdpQVlOQV9rcThlcEx0OTdtRVY3bEdtWHEwb1ZfQ1BUUVdQRjh2bHpkTTN6YmhuMi1vYUpEVE5fX21XS25KZjcyM0JEN0VPMExka2NFYzZHZjNtWkNqVVp6dUVOay1VZWluTjBQUXp5U0Y5eVlJQmRveHJVc1E?oc=5",
+   "fecha": "Tue, 24 Nov 2026 13:18:43 GMT",
+   "fuente": "Corrientes en el aire"
   },
   {
    "titulo": "Corrientes exportó por 316 millones de dólares entre enero y octubre",
@@ -945,16 +939,22 @@
    "fuente": "Momarandu Corrientes"
   },
   {
-   "titulo": "Doble alerta por tormentas fuertes este martes en Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQem93eFBkMWlpcUpQWV8tZ3otRzFuaFY0dmtvQ2dJRS12UDJDMTd5UDZrbTBmMEhPZUxSSk1yNC1aSWFlbS1NRF9OcDJQLTFBSDkxMjdCd2U2V3dQRnFIUlA3OFQybzhuVlhOd0QxTk5YV2x5S01LdnFkcmZieDh2dU40ZlhNTXRGU2t6dERfMTVUYUhndnlvTERHeG4tYWFM?oc=5",
-   "fecha": "Tue, 24 Nov 2026 09:04:00 GMT",
-   "fuente": "VirasoroVirtual"
+   "titulo": "Rige una doble alerta naranja y amarilla por tormentas fuertes para este martes en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0llMFRwdW5yWXVoNkZpZ1JKZXltb0RBbU9qdkJ2cnQwR1lTYWNnUHl6YnpITXV0R3lNdjdhWG14MDZvOWZ5TXpveUZnYWpubk5hbUluQkZfVkxCTEtNUmtFQjhsQU1Bd2JXcHBLaGFDRjdETmtwbFRJWGdGbTd5OTMwcGVXdEdrejJCTjZhSGI1X29YLTFyNXloS1gxcmViZTJIVEdvYk1SY090WEhhSVpGeTA0T3AzdlZiTmtUa05oaGp4ZVhRVEtzWnRiMjRKTUh2XzE2d2lRS3ZGMDIySHF1c1M?oc=5",
+   "fecha": "Tue, 24 Nov 2026 10:30:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "Traición en Corrientes: lo perdonaron por robarle a su papá y ahora cayó por matar a su abuelo por sus ahorros",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOXZvRlo0X25QUi1lQ2poR19zcDluNXMxU21vbUxOeG5tb2kzUnZ2bzk0YXM0cURMcGpFY2RrVkY5blhFTzlmZXBUM1pDQVhJa0Y4TGw1UnRLdmlxM1RPaEFaMERKUkZyR1pkOGNldUR2c2U2TzctZXFfMGstSXZrN2tYVHpUVzB4MEZHc0VuOUdiZHd0bWhSSkNrNnZWZVI1UHd3WlpPdURJdGcwNlpBRUFzVUdUNGhOa3ZsN08xSWU4SXhKS1ZYY2pZY0NrdG9oWGlER1VTOXBVUQ?oc=5",
-   "fecha": "Tue, 24 Nov 2026 11:14:00 GMT",
-   "fuente": "Aire de Santa Fe"
+   "titulo": "Corrientes alista un sistema de alertas al celular para advertir por fenómenos meteorológicos severos",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2duMkptbXVhVHhTUEtEeUVsOXJYWG1NTDlraVVzVkNrcDk1OUk2R1dEb055bTdkazFxR19SRVRPYlVlTk1yWUNhejBNcV9aSms4bnZGVmVXOUNBYVZvMzlRanJEZ0FsNzVpSmVVaW1Za3RXdFhjdEV0d2RWd1duSW9kdVVNaU52YmZxQlUtOWxrdDd5QllDZFptS3JFai1XdzVyNW5BLWlyN1VMN0xwT2VfeXlxTVlWNWxmY3NwMDdlLUxlTWxJdjFWcFNYY012UlpwVzNST1A?oc=5",
+   "fecha": "Tue, 24 Nov 2026 13:12:53 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "“Argentina tiene todo para ser protagonista mundial del vino, pero falta que el mundo se entere”",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOEVIXzZIR3lXdE1Cam12c3VXallkeUtPZHlkWDNiQlN0YXFHWU5mWkdVLTk0cEdTU000RUdqeDlOOHhHUW5MT2phZmVJZGdlakUyTHZUdWxieXhocjg3emtlMldkZlFiZC01cnNyXzB3TTJpTjV5UHlhbDdPb2dhcWQ0N3doRkRHaTdNM2RuOXZrOXNyRzA2WW5RQVpDdU9jMTNvOU9vcmhPSnJTMl9ZN3dyRjRacUkxb2xURFVTTlFNR1ppejI3a25sQm9Hb2VpYTJKTUFLWQ?oc=5",
+   "fecha": "Tue, 24 Nov 2026 11:41:13 GMT",
+   "fuente": "La Red Corrientes"
   },
   {
    "titulo": "La Cámara de Diputados de Corrientes declaró de interés la obra \"Bajo su mirada\"",
@@ -1215,9 +1215,10 @@
   }
  },
  "errores": {
+  "nacionales": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-24T10:04-03:00",
+ "actualizado": "2026-11-24T10:31-03:00",
  "medios": {
   "derecha_diario": [
    {
