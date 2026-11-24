@@ -969,6 +969,12 @@
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
+   "titulo": "Juan Pablo Valdés: \"Vamos a tener que hacer una análisis profundo del sistema educativo\"",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPc0puQjRLNGtmUUMyTGdJVWE1bGlRMVNnRkI1SGJYZU9uVTZOYUUzVEwxd2FWOFhSR2c1N0lWdXV1RWpBZUN5TDZtbDA0akFKNGdCaHB1U2lpWERDNHFFTzNWSWtwZzVsMWc?oc=5",
+   "fecha": "Mon, 23 Nov 2026 11:40:33 GMT",
+   "fuente": "Confirmado.com.ar"
+  },
+  {
    "titulo": "CORRIENTES: Valdés Encabezó El Aniversario De Saladas Con Inauguraciones Y Anuncios De Obras",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObjAxMnh4SC15ZkU0WUJnbkdQQzMzYWVtQndxMU9tV0VlUUlyN1NHdHBkSG5TaW02Tmo3TGpEclZ2VVZnWFkxVURwVm5JLVl4N29iLWtPeFAxdVRKdVd5YjlsdFNkcHg3WGtNelh0dzFoWVphbWpvTGpWdGJCYVhaSWw3TXVHbExtNVBHSC1RRk8zb3RjNDlSNmZaUjFWak54cXZFNzNoMGVRSVotbTdlUTZVODhDdlhMRlFIMkllbWk0dnRiY0s1eEZ4MVUwXzVNMnJvX1RBdFAxRlRwUzZYd09fd19rRnM?oc=5",
    "fecha": "Sun, 22 Nov 2026 15:30:41 GMT",
@@ -979,12 +985,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDY4STNzMTY1RXV0ajk0dWhZaHRWa0hLc2ZFMFdZZkNGMWpKUU01V1JYRjFnRUJOU0NBTnNXX09hbDc5WDRRaFFvY1BJanFILTZWbmVnMGZOWFExWThNQmZMUjlJSFpyQmRtcURxdmUyXzJTZ24zbi1fRG1QcVhzTlBvOUZJc2ZjNXZ3c3RjdUk1M1RSVjVJREwtbjI0ckwzRk1sVHQ2SS01S2pKcnFHZU1paXRERlFQdC00YXczclQ?oc=5",
    "fecha": "Mon, 23 Nov 2026 14:02:25 GMT",
    "fuente": "Perfil"
-  },
-  {
-   "titulo": "Certamen nacional de fotografía “Iberá, Corazón Correntino”",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3lBYmtWYkliMDlETUwwLVllWExqOGw4V1EwVzlyNjRLZy1RN3dHMU1NcG1UbnFLNGZyTllON0JrZk1FOFpvYlRLR1RER1U1Q1luRWJ2Rkc3THYwbXpxNDBqQUxBQjZzRzVTeThrQVJNTFVyamEtMllhb2lPRzRyX2czV0c0UEJ5VjFHbWgxU21meTRxNXJVdjVvWjVENFNUZmFZVGJFYw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 03:03:02 GMT",
-   "fuente": "Momarandu Corrientes"
   }
  ],
  "expedientes": {
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-23T22:03-03:00",
+ "actualizado": "2026-11-23T22:30-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,28 +1272,22 @@
  },
  "nacionales": [
   {
-   "titulo": "El Gobierno le advierte a funcionarios de la UBA que cometen un delito si se concreta el homenaje a Santucho",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcnhSaEV3STE0SGdEQl8tTTcxd0x4aDhFX0EwY1F4ZmJwX2U1Vk02TU1XWUFWdlJ2NXJoZXh4aTJSMDRfOTZmak1hV2JjOTNuMzZwU1djVkFXVEZfenlKSFRjY2JMQm5FUnIwZ2EyckszYkthU0lFQVNfdFpNclNScFhWb3ZIV3pwMVF6b0NvUktDVDdqRlFfaEJmNnhhbGU5d1Y3Ti1pWVNDOVFXY1U0Tk5VRjYwQXJHY1hCU3ZVVkxjOGo4QzAtaEpDTnRmOVJGYmk5REtpUFBuUQ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 20:22:15 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Sobre la importancia de la presencia de Mario Roberto Santucho en la Facultad de Ciencias Sociales de la UBA (y no sólo ahí)",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbVc4YlNWcDdnM3N1dnJrb0RtUHVxcUxZUzZUS3pLaGJUZEUycmdwMTBSallMSm1TeUpNc185RHZLVEdGb1JJWkNDVUNUMmVDdnY4VVZVcWJRbk1qb1BsdC0yeDdrR195cnUwUndEUkY4aXc2dXk2d2NEWE84WTdzOFRzT19HQjlmNlpRS29sY2hadDZYeFVXdi1raWsxeU5XQTFHMmNLSVR0Tmd4UWJlQlNOTWdXeUVIbnBjS2tneDlsb1FTNXpNdzR2dDllci1nLUVOSzh0VGI3U0RBX3lFczVZOS1qcW5QM2ZWcjdmRDlHcEVr?oc=5",
+   "fecha": "Mon, 23 Nov 2026 16:34:23 GMT",
+   "fuente": "Página|12"
   },
   {
-   "titulo": "Javier Milei y sus medidas, en vivo: arranca una semana decisiva para la suspensión de las PASO y la reforma electoral",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekxaY2h6STV6cENsVF9IRFNtWTg0VHIyQ3Y2Z0FLenBaNmczN3JpR2szc2psY3RpcEFURy1RVWJ5aW1PZTBzSm5EVkNoNHNDdEpPcmtIUnE4MFZDUWVNWEFValJ1RDl4dTJBcjU5bERYcWFiM2pEcXpYQ09kRE1HXzF6WUFiVERTTXdSb1JYanhVS3ZpdjJDb0szOUhHWi1fWU03anNkSG5HMTFYb190M0xXNjZoVElTT0NVWE4xQTRQSG5pUzZhSTJ1aUlNempQbWhVblQzSnFfOThzeGxBallB?oc=5",
-   "fecha": "Tue, 24 Nov 2026 00:58:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno negocia para avanzar con la reforma política y el Presupuesto",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaERYNm5UT3lNSHRKbU5sN011d0NrNVZpR3lyQTlFVlpxNEZnZU5NbFUzUjNfQlczbjRjZUhKN2FXRjhQeVp1VWhIaW5pODlKTnVibldsMW1NSWcwNkRMOUh5S25UT2Z5aEMzU1RTSkNwM3dsTmFGQ1VGX0lTVk5PaC1TRzJqc2ljbFJsWENfZUYxR1ZiRTNrb0ROREtuRUpIR0l3S2F2ZnQ1aTdPSnAyX2lMQUN3N1NPMk11bXVCT1pZMjg2WjF1Mg?oc=5",
+   "fecha": "Tue, 24 Nov 2026 00:02:09 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Ricardo Quintela pidió un peronismo unido para enfrentar a Javier Milei: \"Hay otro camino\"",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnBVRFFUSnJJZktpTmlQTUlMOW1UMkNiMEFzVWVhY1R3U3lCMTRJbklVNVRBVXNxVzg1dGJRdUdCcWprR3RmaGc0dGVMb1ZpZ3F6S01Rd3BJU0Z1T19RamxOcExkbmNqNmFNRlkwQl9nNEl5SHBLTmRPbW1ZVFVJWTc0T3NRQXNXUk5pMENZeTQzT2ZqQ2pXRXI2WEwyME5YbFc0dEdrSkd3amp1T3d3eGxiS0drRmpQNnRYaUl30gHDAUFVX3lxTFBpWjZIeWg3NTk4Rlp5ZWlEV2dCWHJYQkQzWXVyVmN4RVU2bEpkZlJuTE03OEVXYlgzNW5WUnNBYlNGSWVFMHFiNFAxNUg0Qkc0cXNCZWNtbm5ySV9PM2tveElXM0dpU2JycFU0M1kyNFJfYVdWUWw1aVVCSERtRllucWVBTDNIdTFnUUVKSTRSYzItT1ZoQkFkLW1mYU5fNWk1SGdvbkZhaDEzMkoxQk0xQlVJUk01aWFwc0QxXy1wa2habw?oc=5",
    "fecha": "Mon, 23 Nov 2026 20:59:48 GMT",
    "fuente": "Ambito"
-  },
-  {
-   "titulo": "La Iglesia Católica le pone presión al oficialismo: pidió que se apruebe la ley contra la ludopatía",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcWk2aTYxS2JuQjNhRW1fOEZ4N3NnYWwtNk1nWnhGT1k4N0JuLUpxUVpoRHNIZU01b0FRMWJQZHBfdU05X3NsT0pYLWJvYTVmUDhIYXpZcDdLdFZfV3dhbDZZazJ1Wlo5T09LREF0VXVQbm5MWGI1ZWUwbnlZb2dBUjBhQ1hXN0VBeXgyNlc0LWVtU0xzajRNNERWcjNoanQzMk1fd2V6QWtQaEZoU0VhS1o0UnZ2WV9uTXJKeHNyZUpQcjAyZEFCTkIyY2ZidFlmNE9uZw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 13:30:21 GMT",
-   "fuente": "Página|12"
   },
   {
    "titulo": "Polémica por una nueva obligación que Kicillof impone a las empresas: de qué se trata y por qué la rechazan",
@@ -1308,10 +1302,10 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Una explosión provocó el incendio de un local de comidas durante los festejos por el aniversario de Ezpeleta: hay al menos siete heridos",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTEE4aHJycEFad013Ulp2dVdpNmktVmF3MmtVSFRCU3F4VjVEaW5vNUxXckh0TVk3MnlCR29XOHNyU1hNQTdhZ19veEozRFNaT09PTVkxUTlGbkVoMnVoZW1zN00yTFdlbVVvS2VPMnBkUjMzaC1JS3RxQ3hfNFExcjk3ODhxV2hETHZsQ3RoVGxIZW8wcU5MWXZVYnlRLXhReXVPWUJUU0Jpa2FBT3lhc0k3T2VHVnBkc1d5bm01Rk8waFRWMTB6dFJFY21QUFpHMkhxaU9oM1MzVHpjNUFhdWIxZTJITUd5djZKNC1kaHUzX3NxYW53dA?oc=5",
-   "fecha": "Mon, 23 Nov 2026 10:03:05 GMT",
-   "fuente": "TN"
+   "titulo": "Una garrafa que explotó es la principal hipótesis del horror de Ezpeleta",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2Q4a0tXTXcyenVJUHdEdGZyWTBHRlpVSmdSRTg5MHo4OE9hVkVLX2gxRjBSMnVHSHZKTFE1OVlVakxlN2dLSU8wX2plUzdnUHVwd0REY0pQRnFCQk4tT0Jkdm0zdXU3dlVDeGo5RkdBcDV6UkdMVWpzeG9qU2o3VHVmVjctOThDSEFtWjRPU3J6VDZVTUlZR2FrUGhEWXVFQzQ4QWE4OXFRbUx5WnJUcGxB?oc=5",
+   "fecha": "Mon, 23 Nov 2026 23:17:06 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "El Quini 6 repartió más de $485 millones entre 52 ganadores y el Brinco premió a otros 18",
@@ -1320,34 +1314,28 @@
    "fuente": "ReconquistaHOY"
   },
   {
-   "titulo": "Córdoba se prepara ante el avance de un frente frío: ráfagas de hasta 90 km/h y alerta amarilla por tormentas",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlp5bk9wT0UtZDVLek9nMjhvbTg1RWFqSGNVNjFBRXdLS0JfM1RpU1RlaW5YbExWOWRPQlBqYnlYTHhmYl84WFBMazZYMVFqVWFSY2RRVjRlYkNQSjlSN1lPLWp2MmhoNFRuampreHZKT1JvQzh1dll0a1k0OTh4VU4wc0loNEJ2d3hUUUlFQm1wZkx5T2NONmsxMHZ5bjcwdml5YlUxbkhsdkJaLW11R09KTGdlUlMzMC0yd3FUdDhLQkJ6NTEw?oc=5",
-   "fecha": "Mon, 23 Nov 2026 11:43:53 GMT",
-   "fuente": "La Voz del Interior"
-  },
-  {
    "titulo": "Convocan a una “masiva” marcha por el Día Internacional de la Eliminación de la Violencia contra la Mujer",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLS1fa3o1b0g5eEVkVUNSbDRaZXpnNkxLNXJmdF8tVjYtUEpleTFrNzlhaU04NTRhaEptbldpMi1UN2pWZll4dVA3UWxCNEswYk9rOWxnOHE1OWlfRWg0cVpGMzgzdkZUOXpRVENzOGYzbjBDa1ZvTnJEUFpUV0FTeFN6VG9xeGpwZ1NtMUVvTnlrYWdvLVdPUXE1TEt4czVPX2ZYZkFsUzgtNHpnNXdJOHZaMVVGSjV1cHhpZ1ZCM2d6YnhFekFQclc2bGRMbHF5UWxvQncxNXUzSnJfS2Y3N1hZY1FfVjV3NU5DRXBpV3VLdzRzUWM5M1hn0gH6AUFVX3lxTFAtLV9rejVvSDl4RWRVQ1JsNFplemc2TEs1cmZ0Xy1WNi1QSmV5MWs3OWFpTTg1NGFoSm1uV2kyLVQ3alZmWXh1UDdRbEI0SzBiT2s5bGc4cTU5aV9FaDRxWkYzODN2RlQ5elFUQ3M4ZjNuMENrVm9OckRQWlRXQVN4U3pUb3F4anBnU20xRW9OeWthZ28tV09RcTVMS3hzNU9fZlhmQWxTOC00emc1d0k4dloxVUZKNXVweGlnVkIzZ3pieEV6QVByVzZsZExscXlRbG9CdzE1dTNKcl9LZjc3WFljUV9WNXc1TkNFcGlXdUt3NHNRYzkzWGc?oc=5",
    "fecha": "Mon, 23 Nov 2026 13:48:00 GMT",
    "fuente": "Rosario3"
   },
   {
-   "titulo": "El turismo no se salva de Milei: otro fin de semana largo con menos viajes y menos gastos",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQano5c2VxczJfM0N3el8za2JGQjdSWFByTTBTYjhsVVp0Um9PdG9mZzlRaG9KeDBFcjdOOG55SHB2WmZWVlZFTXRsWlZ4T045YkJFRDI3dmdiakFnVW1wRmswTXFUUW42M19FUFotR1JxYW10MmVwaXg3NGdiVzd6cHdSaGxsWEM3Q09hbUdMb0VTQ2ptaHJTUFFNTnVZRzkwajFMY3NscE5tU3FnVExfaVFOazVCM3dweGZvQW1laXNPRFQyX1lZ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 16:30:00 GMT",
-   "fuente": "Página|12"
+   "titulo": "“Se hicieron los vivos”: realizaron maniobras peligrosas en Pinamar, los delató el color de la camioneta y la perdieron",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYTFTVTZ3VC1QbER5c0JTWHlld0xXblF4S2czcXNTMUMxeEhSNWRvRDgtdTlOMGlOekRvSExiMW9wQTFmUFdVQk9BN0FWbEhuS21DMnF3eDc5U3ViSThkUS1uWnRja2I3QWNRTlZJVjZGWHRNcVY2VE5QRkpvb1FHSTZlQVMxQnpWNlZhTFNwcGN3dzR4ZzVKSklkQ01sekRCdUNNRXo1akZnTnVtaGxiWVdCLTl1UFdhdzB0YnJ0b2FoYVJiQ3BXT0cyakl1WHJPUloxdzRBVVV6SE5DNFZzWGR3eUE?oc=5",
+   "fecha": "Mon, 23 Nov 2026 22:42:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "Córdoba se prepara ante el avance de un frente frío: ráfagas de hasta 90 km/h y alerta amarilla por tormentas",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlp5bk9wT0UtZDVLek9nMjhvbTg1RWFqSGNVNjFBRXdLS0JfM1RpU1RlaW5YbExWOWRPQlBqYnlYTHhmYl84WFBMazZYMVFqVWFSY2RRVjRlYkNQSjlSN1lPLWp2MmhoNFRuampreHZKT1JvQzh1dll0a1k0OTh4VU4wc0loNEJ2d3hUUUlFQm1wZkx5T2NONmsxMHZ5bjcwdml5YlUxbkhsdkJaLW11R09KTGdlUlMzMC0yd3FUdDhLQkJ6NTEw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 11:43:53 GMT",
+   "fuente": "La Voz del Interior"
   },
   {
    "titulo": "En el cumpleaños de Olavarría, los regalos van para los olavarrienses",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQTVNNWd4TDdLeGtWcHdicEZ1NldpSjFSM0luQVhiRnNLdlVHU2FaamhSemU2NUZla3RSWnU3Y1RDVzE1QnBYMVp1dWR4c2NVb1pOV3gtaEVSdTE2dWdYU2VnZldxWWlJUEtmcUwyV3pmUHk1cDhnakxlSnRCNUx5NjZTMm5yZlVJbjZ3Y2gtdEpsejltdEVpZ2VnN25DOHNjX05GcG55QlhrUG9UX01FeWN2d21MWlRnZXEwVE5tWDBrOHNrTEhELWhB?oc=5",
    "fecha": "Sun, 22 Nov 2026 21:09:12 GMT",
    "fuente": "Infoeme"
-  },
-  {
-   "titulo": "Descontrol en los médanos de Pinamar: hacían piruetas al límite en una camioneta rosa y actuó la Policía",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaUxnRE9UMG1XSy00STZWYVBpclhwUVhQNVI1Wk42WXpkaE9lQ2xnX3BtWFZrdXRhLVJXcHRhRFQxcGM3ZGl2VHJ6NklRaVdObl9INmZtQ041eFNzbEp6TUxFRFFiZGZSLWlMbUtkYVdDbEJwazZIR25uQnNsaFpGY1lSaVNTVXpXLTl6dEs2dnN1SWhScFI5aHVhOXIyQlVidWdWbkxDeFFucWtXc3B6UFFFMEFpLTZGODdaN2lCWTBUR0c2Y1ZZ?oc=5",
-   "fecha": "Mon, 23 Nov 2026 22:35:51 GMT",
-   "fuente": "Clarin.com"
   },
   {
    "titulo": "Efemérides de hoy: qué pasó un 23 de noviembre",
@@ -1360,6 +1348,18 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaVJ3Z3hfc1Npa2JxNWV1NTFvaVFfUFNuUERmemdyZjZINUZTZTljWGh1SGpnMzlTWTNHMFZyMGtyN0htbXh1cEF6Njc0REU2dW9KY29IUm9hb0FnV2szbDU4NjA2ZkFRTTVrZ2hOenhYRkZHUVh3UFZKaW1fdGNhVV92bHRwZ2lKeVptMFduV2JSQnFvczVyNmtaVWJkTndYeXItNW52MG43SGRKNFJ0ckZWSXdQTlN5X25rUmNLMnVfTWJIUnJEenVR0gHkAUFVX3lxTFBzYmtIMHZpenN3dVE0NFVMRG1JeVh0UTJEUkc0T2w0d09obHBPVjJzeXJMYjNsaF9pUFFkUVFTQll4bm8yUDRXYy11RUxpVDh1WTZHX2hacnJEQzBKMnVvdzQyb3BWS1o1ZlFmNEpERGVJOWRRczYwOW9qYUxxMmlkWUdUbVBxazdiOGVWZTBrQ0NCVGVqbjBTZ2EtUDBPdU1FQ3cyUFNQNGhCdEpnUHU0eUZveUk2VVFWM3RUZG8yeGFqdnBWR1VtaDJBOTVYVzRCQkVXSTRGVDZyZjBMLUtqZzhnTQ?oc=5",
    "fecha": "Mon, 23 Nov 2026 15:46:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Pullaro, Poletti y Fernández reivindicaron el legado federal de Estanislao López en su 240° aniversario",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUk9xOGRRZWhGREhpRXBiYWg4NjlTMHRSVzhLclZWT2lRc2ZYRTl4Y2IyeHE4WW10UUc3YUVVRnRxNXZsOS0ya2tBX19CTGVERXdiQkpodjRUS2xublI1YVZSMW1hSjZjZDhGUEp0blM3bUh4dXJPeFVtSUc0MVo3TGJlVEFObmhEZlNLamZJaEMxaWVweWJyRld2a29SWDJJUEwwQWdCNGFYbjFLVUlDb0FucS1jdFVsWFRSbjAtZ2tneDV3dnRENWpPQzN6MmN2UUU0Z0xuOFNMaVRmSjZaWW1Uc0pPUm02?oc=5",
+   "fecha": "Sun, 22 Nov 2026 23:48:05 GMT",
+   "fuente": "El Litoral"
+  },
+  {
+   "titulo": "TITULARIDADES 2027 EN MENDOZA: fechas, requisitos y documentación para participar del concurso",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTZhSU96c2ZraVQ5MkUwT2hqMTRDclNwVlphcUJVOXRRQVpkcDZDMXl5TDVHV2dTeG03b3dacEc3eXg5bVU5b1JYM0N3X2hWelhoTHcyUDhfOG1BR2llU0cyb3dHRnRCeFFMaFM5Rzl2dDRMS0dqbjl0bTlHSjB5Nm1fcGpYQkY5RmV0dFZBU3d5V29pM0dHUk5YR3ZUX1cwVVBlU2JhTXltVFZoQjhKMzd2UEZkOUFsVm53RUtSQWRublh4MHhCNW0xZw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 22:40:25 GMT",
+   "fuente": "Blog del Secretario Mike"
   },
   {
    "titulo": "Rige una alerta meteorológica por tormentas fuertes para el norte y centro de San Luis",
