@@ -873,6 +873,12 @@
    "fuente": "La Red Corrientes"
   },
   {
+   "titulo": "Alliance One cerró su planta de acopio en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQejdyMHVCQzJuTnkwMzlnOFZ2U20tSzlxOUtxdHg2SDJRQi1SR1I4aUNmOHhnWmZKbjNDQWNCQ2NkOW90NDRNdFAxT0k5c29NWXljMWM3cHdJazFaeEVuclZrenZicDFBbDFMUTNnLUhSZ3dMaklqTm9fc0prUjNvS0tGaw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 11:08:22 GMT",
+   "fuente": "Economis"
+  },
+  {
    "titulo": "¿Cuántas personas viven en situación de calle en Corrientes?",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3ZjZXRpNkxQbU9OUlVrY1dGblBuS0FjX2lTa1YzNzdPZ1M3ODYxRWp4Um90OVdYeGMzLUV6Z1hsT2pELU9OOFlqOEFCQloyZElBaHVyMjVyQzdzZElkUzhVOERQOU5qZVZ4T0ZaRUpFeDJUUkUtZEdMMVdOTUJpaHNyLVRrOVFOdS1Mb0VqWVJMVnBKSHdXMWpn?oc=5",
    "fecha": "Wed, 25 Nov 2026 03:03:03 GMT",
@@ -949,12 +955,6 @@
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEZtLXpKcUp4NzdLRkVhRWg0VTBET2hocjFiZlV5d2FZY2ZsMlFvTmFuT1lsRFBrUEtORndzbW81X0Y1REZOMWdKN1FUNkVuSDdqTTdDMk1ZZlUzNS1QNTBOcmZQVkJGZmI5Z05BamR3S0ZUMXpma1pieXlITVltY0dtbndKUjh6ZUJ6MkxkbmJGOHZKYUpfM3dCTl9FQms?oc=5",
    "fecha": "Tue, 24 Nov 2026 21:48:17 GMT",
    "fuente": "Diario El Libertador de Corrientes"
-  },
-  {
-   "titulo": "Corrientes alcanzó el puntaje máximo en transparencia fiscal y lideró el ranking nacional",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODI0NGFId2hObUY3ZGtLamZQbENaUjBvbm43TGJCVm42RFZjOHJGdjExUUUzWHdxaF81VzRHM0xMbHdubXphSU1id2V5SUpFSV9NZC02dkpDSVgzTllPbWxmcEM5MEdCNENLOVI2bzFsU2Z5LTBySV9neXY4b20zWHZ6NjdWeFRZLUpna1RXN0VyVDRrSXV3b1dZVHZ5VjVMa0hGeG83YVpmZXBQUklfS0h1Q3o3VlRJWXEwbTlQUUdJeHY1aEVpTA?oc=5",
-   "fecha": "Tue, 24 Nov 2026 14:22:47 GMT",
-   "fuente": "Perfil"
   },
   {
    "titulo": "Valdés llamó a extraordinarias: qué proyectos se debatirán",
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-25T07:45-03:00",
+ "actualizado": "2026-11-25T08:11-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1278,28 +1278,28 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno destacó a Luis Caputo como \"uno de los ministros más importantes\"",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnNrODdZeHRUMlZIS3NRSmpseDhrcDZ2T3FnMDJYbGRQZFpDNGJBdngxaHNXbGR6c2tmSVZpS0FhV3VNRTNRWHNKMW13TXktUEM2aGRXWS1qdmZ1ZDZCLVB2OHJYUEdRVkxqNW1XdDY2NFdiTmpZZGJ5QjVvcXNoZWNQeGIwWTlKZlllWEJxR1pyWlZ6Q2N5NWJHZHRldUo4UVVPVGNlQTYwTE1sSU45alE5LWhVaFZ2WmR1eE8zelphaFdf?oc=5",
-   "fecha": "Wed, 25 Nov 2026 02:53:53 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Economía de Argentina entra en recesión técnica, estiman economistas",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3hReWsxSUt2Q3NFVTRmRjN4dV9vaTZPQ1FGN1JPcVFwRzVaaG9JMUhqQ0E1YUxoVVlLamNGVkxCSUxVNHpBTklSRVVxMHppam1BM1puX2wtRTVIYUNtUlRtRnplalJ3M1llMWVFZlV4NkJPM1RSZGpxRzBiY29TckJyaXB2QkFzdFV1eVhqczg2emJqSkpHS1pKSWRnSzRKaEtMS0FkX01hYUN1LVh2MXR1QUFicDQyX0RWaUpqMlgtcHd1NUFNR1VEOW1hZ9IBzgFBVV95cUxPSUt4dXItX0xBY2piM3RMUFlLRTFzTUJva25JdzRpcXZHV0tuNENkVGM3R2FYZDlCalpfUFd6bnJQY1B3M0N5a1FvcXQ1OWpZOXg5cEg4akZtTDNCYnhXN1ExTzhVczBWdkJhSHlQV1pJczdDcnJnZ3F1QklJZmxPaFBDZldXSEpYV2k0UzBNUzR3eWxYTENvYnFuTXBjc0daZjNvWjNJMmNtdm9SUlM2TUZ4MmRlWkx4SWxwT1BUSV9CSUNZa0U0Yy1NYk14dw?oc=5",
    "fecha": "Wed, 25 Nov 2026 03:41:21 GMT",
    "fuente": "DW.com"
   },
   {
-   "titulo": "No habrá homenaje a Santucho en Sociales",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWFSc0pXUHlKYWd1dlBad2J3a1B2WnVOS2dZSTduTzR3QlhHYkR0bksycU9acUVCUm44Mmd3VlFYSk9LTk5jS3lyaUIycjVGeUwwaTJ2eWkzQmtsQldyZVZWWTNfeW1PdHIwS21IUWQ3bkVzYTJ0S3ZfZ1hvWmVIeXZkMmd4SFE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 22:01:00 GMT",
-   "fuente": "Página|12"
+   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno destacó a Luis Caputo como \"uno de los ministros más importantes\"",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnNrODdZeHRUMlZIS3NRSmpseDhrcDZ2T3FnMDJYbGRQZFpDNGJBdngxaHNXbGR6c2tmSVZpS0FhV3VNRTNRWHNKMW13TXktUEM2aGRXWS1qdmZ1ZDZCLVB2OHJYUEdRVkxqNW1XdDY2NFdiTmpZZGJ5QjVvcXNoZWNQeGIwWTlKZlllWEJxR1pyWlZ6Q2N5NWJHZHRldUo4UVVPVGNlQTYwTE1sSU45alE5LWhVaFZ2WmR1eE8zelphaFdf?oc=5",
+   "fecha": "Wed, 25 Nov 2026 02:53:53 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Omega puso el moño a la noche de cierre de una Fiesta Nacional del Sol que se despidió a lo grande",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWHZJelVtYU00Q3pxRl9IRHRIcHl3MFVpYzBrYzN0OWo1TWFMc09NRTRqZnRyNHplOF9RRVZjcml0VFQ5NDl3RVdXcHhhVjFfYWN6Z0F1cmpGV1BiT3lJcTFwWW51dVhKM0hFWElNQ0drS3hveFJrakJvT3hDc3U5VzByUnMzTlNsanpvbTlNa1VoMVFpTUM3dzBhMmMydTR6QjBYSDczMi1xQU84NUpTQUJnNEJRWk5Fc0ItX1dxT3ZGTXRWelRqdmhndGE5VzBuaXFfMw?oc=5",
    "fecha": "Tue, 24 Nov 2026 09:57:00 GMT",
    "fuente": "Diario de Cuyo"
+  },
+  {
+   "titulo": "No habrá homenaje a Santucho en Sociales",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWFSc0pXUHlKYWd1dlBad2J3a1B2WnVOS2dZSTduTzR3QlhHYkR0bksycU9acUVCUm44Mmd3VlFYSk9LTk5jS3lyaUIycjVGeUwwaTJ2eWkzQmtsQldyZVZWWTNfeW1PdHIwS21IUWQ3bkVzYTJ0S3ZfZ1hvWmVIeXZkMmd4SFE?oc=5",
+   "fecha": "Tue, 24 Nov 2026 22:01:00 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Diputados debatirá este jueves el Presupuesto y la Ley Malvinas se posterga hasta las extraordinarias",
@@ -1356,16 +1356,16 @@
    "fuente": "Tiempo Argentino"
   },
   {
-   "titulo": "Tenía 19 años, le habían regalado su primer auto y se mató en la Ruta 6: el Nissan dio nueve tumbos hasta quedar volcado",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGZHNVJUYnV0eElwTl94dHNjbEVUalhsQ3ZXY2lkNGRPWWtzbVVfeDdUZzlleHZYU1FvNVIxMVVpck9qR0taZ09taW1rQWZVc0dfdHlMbnBqNE13c1M0cWpubDNzUDFFNE1EQUVJNGRHUVBxSk1ua0pFamNwN282UFQzd1BCWE1YMVBsbm9idkNPU2lhc0RyeExKTkpIXy1GVnJWTkJRbDVfOWhOSUdmMkMteUtIa05JV1hTcGNNQ2c?oc=5",
-   "fecha": "Wed, 25 Nov 2026 05:00:33 GMT",
+   "titulo": "ANMAT prohibió un medicamento para la diabetes por riesgos cardíacos y ordenó retirarlo del mercado",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUXh1SXdRR1dKUXo5Wk9wY1c3OUZqbllfUXA4czBoU1Job1BJQTJjaXpubFdCazE0QTdjTmhZNXRoRHB0V3puQ3ZsX1RTalhDT1A3NVBqdGlhTWZwNmY5dGVfRDBlODN0YlRnNmthaFk1ZmtnZWhLUWYyVFhOZ3hKNVUycG53TGdfZ2NjUF9odjlOdWc0dnlGdEp1cGE4T0xUdFR4OHBWR2s3R2lmU293aTJ5MktlTWZkT01XakllSXBMS0thR1k4?oc=5",
+   "fecha": "Wed, 25 Nov 2026 06:15:00 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "AGMER y AMET inician un paro de 48 horas",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWJNN3NRSExMd3BadXpsajV5dGhZMHN0dTJIOU5abmFlem1PRklaanVaUU91dEZwRWxxaXUxa2hORW4xNmZWMXRQXzNVZk5mNmZrdVdZNkxXV183RnM5bFJaX1V6YnZTR2wyMjRVUWJWcUR0bURoM1BZVFhla2N0cm9ROVd3cXN3MldaQk9Zako4dmJYanRKZ2NGVdIBlAFBVV95cUxNTDRaUDNWc2g4RVN5cVlXZ2tnUXRwcEZWbGd2ekxmTndxNTNmZHlabmhiZTc3MTRrbE5kMTFTb0t6My1qWWxOQlRVVXE3NWRCbmgyYkRXc0ZKWEVxdVhVOWgyblJ6VmNNSGJmZ2RaLVg4Sjk2aE5LOGU5RE1Pam5UM1BveFU5M1hpaDhiSS02QjcxdEhC?oc=5",
-   "fecha": "Tue, 24 Nov 2026 07:21:22 GMT",
-   "fuente": "Elonce.com"
+   "titulo": "Tragedia en Neuquén: un joven de 19 años murió luego de volcar con su auto en la Ruta 6",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenlORS1TNERiV3NLMFNlRXBZal9sMjRrNElUbENpSWQ2WU9WN2plNnBvRGo4Tm1HRlM4VzNnVUNKYnMwVUtJWkVXZExyQTk4TzZJMTlLOXBuanh4Z2xmQVlLeUk1X1BwZlBWVHBnUmxmSTlrUWNpQlRNRGEwTk4yRVB5TEJiZV9jSGNNUzVYUHFPejBORWJTalhqeldZbFhjSVdZZVpzZE8tQXVwa3FfQ2cyTlF4b3E0TmoyOU9PWkRWUFM4ZGlsYWRaWHg3SmJGSlE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 06:34:00 GMT",
+   "fuente": "La Nación"
   }
  ],
  "finanzas_argy": [
