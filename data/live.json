@@ -1215,9 +1215,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-24T21:05-03:00",
+ "actualizado": "2026-11-24T21:33-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1278,34 +1279,34 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "La Facultad de Ciencias Sociales de la UBA analizará una posible cancelación del homenaje a Mario Santucho",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMlNWMHVOd3hYRHFPcV9WM1FYVEx6cnozeVJjVmZLemNNbjZoLXBEdXpkcnJwdTFmbS1TaFZscHljLWtMMTRsbTV6UHpYc0VCajhEVEM5Z1U3SWtZaWtGRlNLMFVGVTRuMU5NZFRRRk0wTmo2djd2QllCamhFX0pBa0FPeUowUnNFbElJSEktY005T2kxcEF4cFl2cXE5NWg2MTAyTEphS0U1dTA5d2V5VC0tNUc0TUNYVWZoSGl0S3R0ZTN5bmh5Y2Y5amMtMWpjanNNT0JhVnMxVGNEU3c4eg?oc=5",
-   "fecha": "Tue, 24 Nov 2026 22:50:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
-   "titulo": "Brasil retira definitivamente a su embajador y se profundiza el deterioro del vínculo con Argentina",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYkhfOGhXN1o4TmRMbWIyNW5YV0dJRkREbzB1NlVUbXBqTHVpTVJlQVJNWjhmcmlTZUpkZEpvMDhsSnZQeEVBZTZwTk9WcFJkQVNHaWpmbWxMZWI2YUtYNk9IWGN3U0s4ekR3eUFzQ1l3QjFqclI3bVNaN18zV0lFcVpadTJIRlZOdy05bUxoV3A3Y3hZQzJ2aUx4Vml6b1ZqSXBXbkV1WG1NRHE0X3kzNHVqYmlybXgzeW9relc2VHhDZUUydHMtMTlfWmt4cjFpalNRRl9IblFvQQ?oc=5",
-   "fecha": "Tue, 24 Nov 2026 15:52:41 GMT",
-   "fuente": "Página|12"
-  },
-  {
-   "titulo": "“Quiero ser el próximo gobernador”: el spot anticipado de un candidato oficialista",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeGk4VF93TVFUVDJ4RktFUkxTc2w1dmprMzhhel9rclRvYkhsSDVrZndoM0k0MlhXOTUxX1NPdW5qeFFqUHpRRWhyQ29mcUo2bVk4QWI3eU9ZcmJZcVhMRElWeVNheV92a3AtWk4ycFhnQzI5cnltSEE3MW1US21zWVd1OWYyU0JIcTZ6ZnMybUt2SUVPTmZtaGtqWkJuZkxsbTBVOXQtMTZLQnRES1RqdTBkM0I4c2VNb25yV0hvTEpFckZLZVU3VlloOGZGeW8?oc=5",
-   "fecha": "Tue, 24 Nov 2026 12:05:02 GMT",
-   "fuente": "MDZ Online"
-  },
-  {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno negocia para avanzar con la reforma política y el Presupuesto",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaERYNm5UT3lNSHRKbU5sN011d0NrNVZpR3lyQTlFVlpxNEZnZU5NbFUzUjNfQlczbjRjZUhKN2FXRjhQeVp1VWhIaW5pODlKTnVibldsMW1NSWcwNkRMOUh5S25UT2Z5aEMzU1RTSkNwM3dsTmFGQ1VGX0lTVk5PaC1TRzJqc2ljbFJsWENfZUYxR1ZiRTNrb0ROREtuRUpIR0l3S2F2ZnQ1aTdPSnAyX2lMQUN3N1NPMk11bXVCT1pZMjg2WjF1Mg?oc=5",
-   "fecha": "Tue, 24 Nov 2026 02:36:22 GMT",
+   "titulo": "Marcha atrás con el insólito homenaje a Santucho en la UBA: solo la agrupación de Grabois estaba a favor de hacerlo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmhWd1ROS2pPb0V0ZWlBcExPVTAyZ3hvOVZUekxvVUxvd3J1Vl8xejJydjRjLWx6Z29BWURtdlVlYTdfeEszT0tmeHR1MGlrQVFINjhDaGZxZVRDWWN0ODN1YXF0UWFzUkNBVFk5ZXR5dXYyT0thSWhjQWNzLU9YZk5tcWFWZF9WVzVyMEZMRGs1Y1hJNGNkak5GV2VXTmdzNncxTmNDZExWSFpJbmMxdERqYWZXeHdETTctUm5paWczZkE?oc=5",
+   "fecha": "Tue, 24 Nov 2026 22:54:04 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Ludopatía adolescente: el reclamo de la Iglesia y las familias para que el Senado apruebe una ley antes de que pierda vigencia",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT1NKT0NFR3NCWWREcFVQQjE0ck9tMW41QUJuWXRONzg4bTJOdkJ1NDBZN2dzcXkzMVNpWEhGSVhhVUo4dlRFc05xZHJueVpQME9MNUFuR2prWnRNMk9KOFJzeHRCcjdCVXlNcGk0VFU1b3NrbG9ZY3dtWGNfbkQyZW9rQTBtOTZFZXlYbWNSc3ZjZEYzejc1VERoZ2VTcERsRmFkZHBHX3hIVXQ1SVhFYkhtM09tZXdXYXNrVzJSVllnQXZ5V0hpN3EtZ29IX2FqakZFZjZraE1fZDdGdFlmNlhMM3VVSWNUNnBLQW9zUTg4Vm9HZGwxUktHOHp5U0XSAZoCQVVfeXFMT2xFREZUT1lTelBKemdUQTNwaGxwTU94ME5EaXBIRm1XVDhkdXU1R05ZeDhwcGdRNEM5R29qRjgwR0NRZkhZTVpwZnNteTg3M0trQ1gzbWJsQzZTNEMySXZIQkQ2OHl0VDdJeHVfc0Y3NGxBRVg3WUJvRHZJa1N0SmhUYkhMNGJGSnJEX3g4ZzlZdm5rekNJNmFUUWZtZ2JiY2VWWk9OeGhvdXhRcjl5c2l0WVJhSElyUHZIMUJOdVVsZ09sUVlUUEhzYUNFV28yU1ZCMm9BMWZZSTlTbWlBZWJwMFYxZC1xTWQyRVNPUkJrd2dvdTQ3X3hyWVlvUDJJZi05dVVmY1lHVmFweWhaM0p6amRRLXpnSTZn?oc=5",
-   "fecha": "Tue, 24 Nov 2026 13:22:00 GMT",
+   "titulo": "Crece la tensión: Lula no invitaría a Milei a su asunción y Brasil apartó a su embajador en Argentina",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZzd1dW9hSVIzQURIWlpRMXBrVl9UMkpnSGlLYVltWGZtTDl4UmJucmZyRGNWdDZTaUZaMzNZZi1rTHRaZ1hPOXJEb2N1OXN0RUoxM0cxTjBEMXdBME5mUndLdnZIeFdSYW8yOWRVNEJSR2RuQmlNS0lTWG93SE9CRl9nUl9uemV2bVRMQXZxWlZxVTd6TEVUbk5WaklHVmsyMEExcHNaMi1XUlFCTmpTSExwNndnSHI5bzk0MDByVGtJY2ZrNlplakdOeEVxLTVlMEtLZ1JaVi1OVHNXVFHSAfgBQVVfeXFMUEVvX2NTMFNqamh5dWdLanJQSlJZNUd5YldNcEpTR2JLZDhQOUlHRHhxZWFFQ3VnTTNSTVM0UkVXUHBoaWpTa0VpN0tjaDhtaVFvTEkta3YtYUlQV1NIcDRPX0d6aEpFZjFlbV9OZU5CNGRKeG5CYWNtMlU2X2h5MFZDaDV0TVFldFZsb3ktOUVMLUhycFF1ZUU2cllRbnZWWGlhVU9JUGMyLXliaC1naWhvNXFwUEY4UUpUVXhSRWFqUm44S0dBQlVNRDBZX3hQZnVGLUV1ZDVVa0dLcVNBdFZzaGFSWXUxT1YwQzhjRUw5dWlmcnZhSnU?oc=5",
+   "fecha": "Tue, 24 Nov 2026 16:34:00 GMT",
    "fuente": "Infobae"
+  },
+  {
+   "titulo": "Jorge Macri hace un cambio en el gabinete porteño para destrabar el acuerdo con Mauricio",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlc4dGZKbmNyMXc1ZVpNeW5hYTBZSlRhd1FXcy1wNWZSZHBQMmJIMllrUXhrS0QtNEtjc3RMWlUwVGRTeVg3akE0VU1ZNHFzQU5va1Y5N2RzRmNXUnRrOGxMNjI5elNyQ1JUWnFwQjR1TVE2N0YxazJuWUc5bWQ3UGZhdEJ1cmZPaFFXenFsRXFWekJnelRFNnp5RWtSSkJJOFRtOFpNZFlFc2JoMGt1ZVZYRTJMV0o0UTlYVFBETVVubU50Q09pVTZ2a1VsdG_SAc4BQVVfeXFMTnJoalJJZlY3N3JNSkxPX1NQX3BKeUMzNWs5b1RCdi1TbHVzeWZ3bktBOFN4a1Axd3gxU2FGcnlYWllqMnZQX1RadVBQZzdZREV0NkcybGFXcklKY0FVb3ZYY3ZKOXZVZ05aaG5wVDJBMEV3MmlzRVk3SlJ4RUVGS1pocEZOWmlsM2I0RTRSMjBaX19QNG93eGhPZGJVZ1VyUzJGZ01QWmxuOFNkZWFtVWdjRlhVSDBvYUQ3dVFLLUIxQkRKanJWTkM2MGoxdUE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 00:00:38 GMT",
+   "fuente": "La Política Online"
+  },
+  {
+   "titulo": "Javier Milei y sus medidas, en vivo: crece la polémica por el homenaje a Santucho en la UBA y se define la sesión por las PASO",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa3VVbnJNalQ2cjBreEZScUZad1hIVlktVFZTNHdOTk1RSDNSbjVUa2tLOF9tR0YzQmh5UXFYaG4yNGIwWVQxV0lkdDluU3pKRnpOYTJubzZBLUkwdV9yWEtRLW9qMDYxZk5Kb3h4R0pmLTN5LS0wSlRua09yajY1a0FuZ08yT2FZUU5zTHFvMzYtRWpxamZhM2E1M2ZOeTlUVG9BeFpOS1NnRnM1Y2pUbXhsSlZHVVBxekMxRTNRVUNGRnVuVUNCRTgwLUZTMmI4d3NGVlhhN093TGFYR2phdHBR?oc=5",
+   "fecha": "Wed, 25 Nov 2026 00:00:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "La Iglesia Católica le pone presión al oficialismo: pidió que se apruebe la ley contra la ludopatía",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcWk2aTYxS2JuQjNhRW1fOEZ4N3NnYWwtNk1nWnhGT1k4N0JuLUpxUVpoRHNIZU01b0FRMWJQZHBfdU05X3NsT0pYLWJvYTVmUDhIYXpZcDdLdFZfV3dhbDZZazJ1Wlo5T09LREF0VXVQbm5MWGI1ZWUwbnlZb2dBUjBhQ1hXN0VBeXgyNlc0LWVtU0xzajRNNERWcjNoanQzMk1fd2V6QWtQaEZoU0VhS1o0UnZ2WV9uTXJKeHNyZUpQcjAyZEFCTkIyY2ZidFlmNE9uZw?oc=5",
+   "fecha": "Mon, 23 Nov 2026 22:01:00 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Omega puso el moño a la noche de cierre de una Fiesta Nacional del Sol que se despidió a lo grande",
@@ -1314,16 +1315,16 @@
    "fuente": "Diario de Cuyo"
   },
   {
-   "titulo": "Explosión en Ezpeleta: murió el hombre que estaba internado y que trabajaba en el local de comidas que se incendió",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHR1YU0tQWxkY28zQmRDdDZwT0dVMVNrUWNBVGQ4Nk5RZmJlTTFNQzV1TlJqckxFS3Q4TzZkT1JEd2NnM29menIwV005RHFCRFRINFBMOE5yLVAwMjZ2LUlDRkd4QkVpTXI5NzJadWpHZ1lBYS1nNlc1WnZ2NzIydW0wSVFDUDN2Z2lKYzBRdUFSNlU3OXBqamJGcmg2ZnhUVHkzenU4ZWlvdDRKWHdOUXhlMTc0bjZyTFJFeFZUYmpXcTItT2FkZWR0Tk5lbkx6SndoeExyNmVqd00?oc=5",
-   "fecha": "Tue, 24 Nov 2026 12:34:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Quién es Lara Magalí Rapallo, la influencer de la Dodge Ram 1500 rosa que fue suspendida para manejar hasta 2099",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPczI0UVZoQWNESzdRZXp0R2NFT2F4U0V4WTczTzZWb1VtQ0FydW5nUkVBaGJCNm1iOHFSUzRtek9Yd19pRXhLbHU1TWwzeXJoTEFCQWlvSXRBTDNyMjZmNXlzQ291RGpzb3VqSU9tUi1fU0t6NFdiUW9lQmdrcVhoS3hEbThhU2RlcGphNzZkMGRBdElib1J1azNUQzhkRWljYktzM2tPME9WNHZlVHl3RlhsUXRFNnhWNHlCQUhoYlVIQQ?oc=5",
+   "fecha": "Tue, 24 Nov 2026 19:39:55 GMT",
+   "fuente": "Clarin.com"
   },
   {
-   "titulo": "“Soy una Barbie gangsta”: los videos de la influencer detenida en Pinamar haciendo maniobras peligrosas en los médanos",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa0xZQ2hSd2FkTTQ0Q3E4LUhEU3dKNlJoanB1NWdlZzIxc0UtZEJxa1ljdVFqTVhWR2poME1OenlkeVZhU3JOdjdTejdDSE9nb1R1bU55dHhDWVYyMFFLSHVOanhrTi1IWnRzYUZrUWQzSDI5dW5fTWZ0ZVZpT09yTms5N3lfV3pfcWVEaDZhV0M0NU9xdl8tYlVlWFA4Q1NITUp2cXpXLXJoTFRtWGpROV9qOG0yYmtKb290cjB3dWZvMUVHckdNQTdYSElSZ2dCb3JVaDhvN2xPM2l4MFV4UVA2ZVBuYTV6X3hjRWlxQ0TSAYQCQVVfeXFMT3hpMWFjYTJkSGVERDExbVBJY1VLSlctaW1MRVN4b1dMbk9zNnItSGZBM2NwRTZlNmpzUmtNYUtxYUFxRW5WeXZkRVN5cnBMOEh1TDFmdHliQXJKMmE4b2o4ejViVTlOakRQWnI5azRaT0oxaTVrazNkWXFRRmVCSkFpR2JYMzNDWXlZZzU5N01hS2pGYl8zYklZV0QyMDkzYUxTVkFDaF9YWmpVRE9fWDFMOWF3MUtobUZvNWQ0c0ZpTzlMT0Fxb2ZNLWdrQUQ0TDV3ZUdPUWpxQ0h0SlNRWjJ2aDgtNGl0alpaZ1g3ZTlfOFpfR3psQks2d3d1a1JSUWFqcno?oc=5",
-   "fecha": "Tue, 24 Nov 2026 11:46:18 GMT",
-   "fuente": "TN"
+   "titulo": "Dolor en Ezpeleta: murió el cocinero del local de comidas donde ocurrió la explosión",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZko5M3FNeGdZS01XMTNzeHh3UHl4aHhQamVsaTFGZ0dNSTdYU0QxaUd4Y09QZlo5dy0yYlhDcVRKU2h5d3p1R2t5ZmJYWVAwX3ZUcXVXLWtEVGhQRXJfWUpxRDI3NDhoWEwzWGFCcGFpbm80UG4zdVR5Q1FJdHpYbnA0bVBGQzhpQTlRREp2NDB6Z2dQbVpoZDMtODdHREptY0picFhwaXdfQXpRMGJ3U3hYcS1YNnJudmxRT014WHFKYm5ZTnVTUVE2bElDLXpacWZ2Rg?oc=5",
+   "fecha": "Tue, 24 Nov 2026 12:17:55 GMT",
+   "fuente": "Diario El Día de La Plata"
   },
   {
    "titulo": "Cortaron la Autopista de las Serranías Puntanas por el desborde del Río Nuevo",
@@ -1350,22 +1351,22 @@
    "fuente": "Elonce.com"
   },
   {
+   "titulo": "Condenaron a tres policías de Rosario por dar protección a puntos de venta de drogas",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXVpUDQ4X1R3bE1IMVVXclZFTFRSMlVjQ1BlVnBrcTU5c1pzVlpYNXZnZEdMcnRCSW12XzJhNHIxZG5yZkNPX250ZnlNX29hLTA3NDZiMFhRWXNzWkZ2Ukl3c2JFY3dkT0o2RGY1VlBOSFZjRjJzMXFiLU1KVTFXNEhVc2NRZWprYWhhYTdLcTJEQUFZWnRoOVhvSmx1VHBSU2wxeFNxWGZFdldvVHMtdWI5M0FIRTg5cVF4ZWh0eVdOSjA2LXN0RWRiZFYxQ0dhQWc2cVNB0gHWAUFVX3lxTE5RdWlQNDhfVHdsTUgxVVdyVkVMVFIyVWNDUGVWcGtxNTlzWnNWWlg1dmdkR0xydEJJbXZfMmE0cjFkbnJmQ09fbnRmeU1fb2EtMDc0NmIwWFFZc3NaRnZSSXdzYkVjd2RPSjZEZjVWUE5IVmNGMnMxcWItTUpVMVc0SFVzY1FlamthaGFhN0txMkRBQVladGg5WG9KbHVUcFJTbDF4U3FYZkV2V29Ucy11YjkzQUhFODlxUXhlaHR5V05KMDYtc3RFZGJkVjFDR2FBZzZxU0E?oc=5",
+   "fecha": "Tue, 24 Nov 2026 21:51:00 GMT",
+   "fuente": "Rosario3"
+  },
+  {
    "titulo": "Rogelio Frigerio envió el proyecto que elimina las PASO en Entre Ríos y le permite fijar la fecha de las elecciones provinciales",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWkp4VGtrbzUyaHhOcEwyN040WDA2U0ljcEl1b0FJZUNxNWstbF9vbWFBMzdsVFZYOW9RRzNRTHhKLXVYa1JEdnJONHhZOE51cUgwQnJRd3VxOVJXS1N3TGdPZWdfS0xPNGZHYy1iOEdrQllRVzY0cXBUU2lyNVFPSnBqUmQ2dmJjQmtGcmljT0V5eE5XZmxueExwYTMwUnVkNUg0UzFCREhwZ2tEUlZ0eFUyYzRvQnMyU0ZSeVQwTFNIYTRrX1NZTFppd1BxcDVkWlB6cXU5OWhpQ29h0gH3AUFVX3lxTE5vbElra2hsWHMzVHdkeVNTOGptOXZUdURrVXRDM2RVdU5ZWklCU2g2ZkhlbVV5NEhta3NrVkJfZndHUHp2Y2U5QlZCYnNNMENITDJaTXJvMlYzRXBqLVZMTzJqQkt1QXBQNW9GQkk5NUw1cUt1a0VfdVVWSGVHSXl5N29JOGdkeGtCSDgwVU8wVENudEJxQncxZmJGOVhuOE80WklkOGdyS1JvcVRlZkRWZUlYdUtMdGdVdHkxQVhNNEFBUWFLWkF6ZmhYSnZITV9veGhoZllsSXV1OTB3VXZCMC1zQ0NyUFpqUE1TUWcwUnlOWktmSWs?oc=5",
    "fecha": "Tue, 24 Nov 2026 18:18:00 GMT",
    "fuente": "Infobae"
   },
   {
-   "titulo": "Alarma en Argentina: un decreto polémico abre una reserva frente al Perito Moreno a inversores de Dubai",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON1RQRHpuVHo2T2JpVlpqbzNDWG5ITU1hYnFzQjhYX3pqYmh2VFFxVzhzMlJ4V2sxMFJBVFBGbEtLY3dOck5KOGd2R2V2SjBjOVBFUmhheDNJRnBNWDktWHJnN25wb1JSdkdUTXN2clVZM1c2V2M0M1V4aFVoR3pfekJtaU1pSzdUcVhsNl9sU3FKX1lfdjVKTzNySklhUDRXYjNGbmN5VDhubzRBc1ZjcUlQd9IBswFBVV95cUxNNnIzMWRHb3RDZml5RHVKS3FXX1lWekNibG5qcVVuSzlYbmFFeGJTcTExd3ZBQUlYTV9tMUhQQTJVbFkybDJ5WlJ1b01FT0N2ZEx5ZFdFWnZqNDltTjkzVkxmUnF2LU5JdWllNXhYTlNKNjJCVDJqdV9oQzFZeW1HM1I0ejNxVFhIMEpkNFVlTG9WTGxzZ2lidnFWT3BURUsyWDNtYTZ1c05KYnVzV3pCVFlrNA?oc=5",
-   "fecha": "Mon, 23 Nov 2026 18:52:25 GMT",
-   "fuente": "DW.com"
-  },
-  {
-   "titulo": "Condenaron a tres policías de Rosario por dar protección a puntos de venta de drogas",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXVpUDQ4X1R3bE1IMVVXclZFTFRSMlVjQ1BlVnBrcTU5c1pzVlpYNXZnZEdMcnRCSW12XzJhNHIxZG5yZkNPX250ZnlNX29hLTA3NDZiMFhRWXNzWkZ2Ukl3c2JFY3dkT0o2RGY1VlBOSFZjRjJzMXFiLU1KVTFXNEhVc2NRZWprYWhhYTdLcTJEQUFZWnRoOVhvSmx1VHBSU2wxeFNxWGZFdldvVHMtdWI5M0FIRTg5cVF4ZWh0eVdOSjA2LXN0RWRiZFYxQ0dhQWc2cVNB0gHWAUFVX3lxTE5RdWlQNDhfVHdsTUgxVVdyVkVMVFIyVWNDUGVWcGtxNTlzWnNWWlg1dmdkR0xydEJJbXZfMmE0cjFkbnJmQ09fbnRmeU1fb2EtMDc0NmIwWFFZc3NaRnZSSXdzYkVjd2RPSjZEZjVWUE5IVmNGMnMxcWItTUpVMVc0SFVzY1FlamthaGFhN0txMkRBQVladGg5WG9KbHVUcFJTbDF4U3FYZkV2V29Ucy11YjkzQUhFODlxUXhlaHR5V05KMDYtc3RFZGJkVjFDR2FBZzZxU0E?oc=5",
-   "fecha": "Tue, 24 Nov 2026 21:51:00 GMT",
-   "fuente": "Rosario3"
+   "titulo": "Trasladaron de urgencia a un salteño que fue encontrado gravemente herido en plena calle",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHVRdGZiZWxvcEpfbER1WVRhS1MtbV9weEJKTWpUMGZiQWxUUlNXcU9DQjh5RElhTFV5NHU4dVRUUk9CaUg5d1paT0k2cE91eG4zOHhIVU5pMUtzNzdDLVE2c3FNX0RVTGtXaGFNRFNwcTA3UVo3cmVkNFhNSHMxeWdjS083VXdpSHpuSUlZVlBYNmZNOHFUY2ZRY2VNS0ZTU0JZSlRyQ0luTU3SAasBQVVfeXFMT1h1UXRmYmVsb3BKX2xEdVlUYUtTLW1fcHhCSk1qVDBmYkFsVFJTV3FPQ0I4eURJYUxVeTR1OHVUVFJPQmlIOXdaWk9JNnBPdXhuMzh4SFVOaTFLczc3Qy1RNnNxTV9EVUxrV2hhTURTcHEwN1FaN3JlZDRYTUhzMXlnY0tPN1V3aUh6bklJWVZQWDZmTThxVGNmUWNlTUtGU1NCWUpUckNJbk1N?oc=5",
+   "fecha": "Mon, 23 Nov 2026 20:07:40 GMT",
+   "fuente": "Que Pasa Salta"
   }
  ],
  "finanzas_argy": [
