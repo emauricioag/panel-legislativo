@@ -34,6 +34,11 @@
   "modo": "directo",
   "items": [
    {
+    "organismo": "Boletín Oficial 24-11-2026",
+    "link": "https://www.corrientes.gob.ar/29208/boletin-oficial-24-11-2026",
+    "detalle": "Archivos: 24-11-2026.pdf"
+   },
+   {
     "organismo": "Boletín Oficial 20-11-2026",
     "link": "https://www.corrientes.gob.ar/29201/boletin-oficial-20-11-2026",
     "detalle": "Archivos: 20-11-2026.pdf, Anexo BO 20-11-2026 - ACOBE.pdf, Anexo BO 20-11-2026 - Ley N° 6769.pdf, Sucesorios 20-11-2026.pdf"
@@ -41,7 +46,7 @@
    {
     "organismo": "Boletín Oficial 19-11-2026",
     "link": "https://www.corrientes.gob.ar/29193/boletin-oficial-19-11-2026",
-    "detalle": "Archivos: 19-11-2026 v20.pdf, Anexo BO 19-11-2026 - ACOBE.pdf, Sucesorios 19-11-2026.pdf, Anexo BO 19-11-2026 - Min de Hacienda.pdf"
+    "detalle": "Edición publicada"
    },
    {
     "organismo": "Boletín Oficial 18-11-2026",
@@ -56,11 +61,6 @@
    {
     "organismo": "Boletín Oficial 16-11-2026",
     "link": "https://www.corrientes.gob.ar/29175/boletin-oficial-16-11-2026",
-    "detalle": "Edición publicada"
-   },
-   {
-    "organismo": "Boletín Oficial 13-11-2026",
-    "link": "https://www.corrientes.gob.ar/29169/boletin-oficial-13-11-2026",
     "detalle": "Edición publicada"
    }
   ]
@@ -873,16 +873,22 @@
    "fuente": "La Red Corrientes"
   },
   {
-   "titulo": "El Superior Tribunal de Corrientes exigirá patrocinio letrado a los síndicos contadores",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQWxYc2tMd3NXTTZjQUdKMjFoNDBwTDRueHhIOUdrVmxXRFA5RS0yREl6ZnIxRV9IRklpMmtGNmc2dTdUSmtPRkRxNEZSdzBLcGhsbE9JdFJmZ19hTXZKaGdXRGpPaGlJNm9HNzZ3ejZEb1kzaWJzMG9MQmhHLUxjcVp4SnJ0UWN4VkI0dGFFNktVTmFyNFE0STAtU1g3cXBjYlZ3aTJQUFNVTzVkcUFHOW5rVnhLcms5LXRSeDRDTkstRXJ3OWpKSmZqNGY?oc=5",
-   "fecha": "Wed, 25 Nov 2026 11:19:09 GMT",
+   "titulo": "La Policía de Corrientes abrió la inscripción para aspirantes a cabo: requisitos, fechas y sedes",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa19FVlJHdm5JLXF6SE1yNEoxLWFuRjFtMzlyMjFNaDlqYzR4UjhyaUwzZXJyZ0pLOEFDRm8wa0xuV3BQUTA1RmtiLWxTa0tIMjZ4VUo0MDl4YXRTVjljYkh6R0hpYlFXMFdpM3J5alk2OGRLUWFiY1BuYV9nT2VsWXJFWTR5eHh4Zk5HRWVJSVNkdzB6aTRVeHRNQ1hQNlVEUjFuT0FNOTBCVnl1MG5LTnVVaHZ2U2RVWEIzVUQ2a0dldjJiV0JnNlFR?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:56:15 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "El Abigeato en Corrientes forzó otra reunión entre ruralistas y el Superior Tribunal de Justicia",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlluc3ZYSDA2d3VrX29ZeFZrcG5JTmltazJtOUNMc0ZZc2l5TExKNzVQZE9aTTJQU3cxTHBOTS1uSzlfQ0tfekJKTlRLWjJTbzB0UWFGTFJLMVlNcXhWY1pGam1Ebkc4SUQ4SVpkWDBoNEVKcHhZeFNYcU56WDQ5ZWtFSHRqTnJxQVJQbFp5ekh5bFJXdFhMUm1SeVZMZ012QlU3VzR6SHpIYnl5cy12NVJ3NjczWHhhZTdna3RxVVhzNWp0NGhwZVpDWU55VnQwVXJqZkFMZGw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:25:24 GMT",
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Corrientes perdió 812 empresas desde que asumió Milei y alertan por más de 20 locales vacíos en la peatonal Junín",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTM3azh3UGJVdnczZHlJZUk1b1dNc2ZDc2ZVemQ0MHlkR3h4M18zTWhKSzlPMzRZS1hBenVCemJDTjlNRzcwYWdwX1ktcGtOcm5obXZZNGlHNDhHY3VDcWpGNE82cVhXUlZOWTNzVjd1cjg1bVB5U253dUw4OU5IX3VrSUFULWIyOENFWlU4di1QeDMxd3NIaGl1am00X05uSlM2RG1JRWlPT0w4ejA5d3BBWC1CSDlHNHJSZUk3bHc1VU10NFFRNjVNRlpMUDZxQk9vMUo1eGxidVA4WVh0aURTaw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 12:33:16 GMT",
-   "fuente": "Perfil"
+   "titulo": "El Ejecutivo provincial convocó a extraordinarias con el Presupuesto 2027 en agenda",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnhtN0RvMjdHMXp5MzJISVUwWS1lZzNidm5xeTFMZHRmdzJ2bU1VNGVxMjlqVGNVcWR1UlJtOHBPbGlVR3pHLUpkelljRXpyMC1uVElvSWVKbzNxWEVtLWg4NVRmaXpoakZRbDFPVzRpRnZpZHdsVm5ic1U1aGFaR01zRnlCQkNyOWJrbVZ3ZURjR0Vmbk11Wk9OamFIN0NGd1RfTFNtc1ZTNEstS1BwTU4tRE5Ecm5DckZHUXZKT0VpWXFt?oc=5",
+   "fecha": "Wed, 25 Nov 2026 13:18:44 GMT",
+   "fuente": "Corrientes en el aire"
   },
   {
    "titulo": "Obras en La Palmira: cómo funciona el desvío sobre la Ruta Nacional 12 en Corrientes",
@@ -903,6 +909,12 @@
    "fuente": "Economis"
   },
   {
+   "titulo": "Milei visita Corrientes para cerrar el 13° Congreso de Economía Regional",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0pHN1B4ZTlYa3RkdTFYR2J0S19zYW1xb00yMk9HVTNtdlhROEFNcF85WFJXaHVGYTVLNnVuUzRfZTNXcVJWTlJDdHpRVU11NjlvQ1FjY2NJZEVCVUU3UkJtUExocG83OWJZaTRTNHZVdWFGcGdIWkxJT3g3WDJMZEhfcFJhQTBrWFZvNlFPQS1icDZ0enp3bDJrbDd0MHJQMEY5UnVOTWRKSzZvVVUzeG1Tcm9tOG1GZjVwWEJEdw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 13:11:40 GMT",
+   "fuente": "Cadena de Radios"
+  },
+  {
    "titulo": "Se conoce el Programa Definitivo del 13 Congreso de Economía Regional",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLXZsanRSRTlvcDEwdkZSSk9fMDRhWllLVElLNWxvMl9ReThwV2hFZVFPRE1oNXItd25GdG90WklkV0RiNUJFS0FDTjNaNy1QZnlYWnFMZl9SdmN0QThfalVVQ1dUQlA5Ym4tQkUxTF9JOGRLT2gzbXhHTTk3T1FxcllMQ003RkNSNTNDRDJDYXFUdG0tVFEybDJrbTVreEJnRGVLbVphbDh3QU1sRlQ4?oc=5",
    "fecha": "Wed, 25 Nov 2026 11:47:52 GMT",
@@ -915,10 +927,10 @@
    "fuente": "Diario Época Corrientes"
   },
   {
-   "titulo": "Policía de Corrientes abierto plazo para inscribirse",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZUpfek1JRnhyLWRaWF8zdjJxZXlURUMzN09YS1RMaHNER3c4ejdBMVdNWWRDa24zUGFna3kxOUJHSkcyUFV5eVhfdmw3QXlXM0syUkZoTVZkbXJrYm9yZ2FjaVEzNENtYnFmaXAxclFVZ0ZwSVRLWVZKR25HTmxHZEVTTF9iYWdiUEpNelRIM3hLYlY0WFE1ckc3Rk5RWFlEZDgzM29Vcw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 11:51:37 GMT",
-   "fuente": "Cadena de Radios"
+   "titulo": "El empresario salteño Daniel Zozzoli invirtió US$ 20 millones en Corrientes y construyó un complejo maderero exportador",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd0prWXpqMGJycklUQjV1Y2xKZS1PRWxyWlVNRmtnOXJvQzJKUlRlcDcwaE1xVzVSTjlDWWE2M0x5Y2t5NG12SFVuS1FrZy15M1FLaklzSDRyWU16cnZuRWNGbzAyQUZ3WncxNWVPa2FCQkZ4RmJhX2Fpb1k5MjNCcWJhQmI4VDBiZ2U4MlljOEQ0azF3NWJDeUtJRFc1eDJFXzBhQkdHUW0xaDAxMmprcmhqaVJSemxQMzN6SzhJZHQ3ZmIzdnpvXzZWR3JxUWZNNTd5T283dkgtemplOGVobjdublNzVm1FQVHSAe8BQVVfeXFMTmJhN3NDMi1QbVYtSDA4QzM3Nm1iQ2VSTmdkeW5yMHVmWVRPM0NLaHFUdFN0VWJSVzNrUWp1UFdydXpyc1k0WVQtVWdhZzNiNWRaZFB6cWF5Mmt2cFp0QUdud2QxT0QwaGR5V2pYeVNKZjBEcFN4OG1YYXJRQks3VGVMeFoyZUk3NThQaUtoY1NuLVpFeWJPOVFDc01WNTEzQ0EyeGN1ajREM3NWVlpJM0FJQVdhdnRYbFVxeFpxajUtNjBPUXFlYXlxaEFvWUp5eVBXVlRNb0lyU0ZYTWRtU0N3WHBuYTdLUTU3eFl4eFE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 03:04:59 GMT",
+   "fuente": "IN Salta"
   },
   {
    "titulo": "Clima en Corrientes hoy miércoles 25 de noviembre: cielo cubierto y cálido",
@@ -933,28 +945,16 @@
    "fuente": "Momarandu Corrientes"
   },
   {
-   "titulo": "Cerró Alliance One en Corrientes: acopiaba casi una cuarta parte del tabaco en la vecina provincia",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlNKOHQzbjgydlZGNDJyenhkMl9XVVJqY2tNYUphbkdydndKTFVkQnZtS2J0MEM3SXFVWllUd1BOMnhnczdwZFp5cGd4MmloaG9GdWVTdDlibmhfNE9zX0tWZHVIVWJTQXhLTzNtVDAxLW5UWVZKbXJtNXk4WmdpLTlEZVZmWURBU2lOR0hIbDFIQnNUcEFQWXViTlVrdmFUN2VMTy1uTkhEVFQ0NkRTa0k4NlkyYWlQMm9NMWpzWTg1T1FFQTd1blpOOVZORDMzdGc?oc=5",
-   "fecha": "Wed, 25 Nov 2026 00:38:17 GMT",
-   "fuente": "MisionesOnline"
-  },
-  {
    "titulo": "Juan Pablo Valdés convocó a sesiones extraordinarias para diciembre en Corrientes",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2VORlh4R29wQlFTTk9QSVpBVVJkRFhfRFZVQzhTNzVPQ0ZEZzdaLVIyeXljV1BLT1A3alVzVWROcDNLOEpMaXpDWGMyRDNXNGViSENSR2xhQlRLUGpFYzNOX3BmZV9QSEVSci0xSGZ5RjBJVDktR2RBa1FPNmIzWlpkZ1oydWN0azhVeEhIdk5GYk5zZTg4TkRRaG9kR3ktenZtb0hMSGI3QmMtOEw2ckxR?oc=5",
    "fecha": "Wed, 25 Nov 2026 03:57:47 GMT",
    "fuente": "FM Impacto 107.3"
   },
   {
-   "titulo": "La Policía de Corrientes abrió la inscripción para aspirantes a cabo: requisitos, fechas y sedes",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa19FVlJHdm5JLXF6SE1yNEoxLWFuRjFtMzlyMjFNaDlqYzR4UjhyaUwzZXJyZ0pLOEFDRm8wa0xuV3BQUTA1RmtiLWxTa0tIMjZ4VUo0MDl4YXRTVjljYkh6R0hpYlFXMFdpM3J5alk2OGRLUWFiY1BuYV9nT2VsWXJFWTR5eHh4Zk5HRWVJSVNkdzB6aTRVeHRNQ1hQNlVEUjFuT0FNOTBCVnl1MG5LTnVVaHZ2U2RVWEIzVUQ2a0dldjJiV0JnNlFR?oc=5",
-   "fecha": "Wed, 25 Nov 2026 12:52:51 GMT",
+   "titulo": "Corrientes perdió 812 empresas desde que asumió Milei y alertan por más de 20 locales vacíos en la peatonal Junín",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcTM3azh3UGJVdnczZHlJZUk1b1dNc2ZDc2ZVemQ0MHlkR3h4M18zTWhKSzlPMzRZS1hBenVCemJDTjlNRzcwYWdwX1ktcGtOcm5obXZZNGlHNDhHY3VDcWpGNE82cVhXUlZOWTNzVjd1cjg1bVB5U253dUw4OU5IX3VrSUFULWIyOENFWlU4di1QeDMxd3NIaGl1am00X05uSlM2RG1JRWlPT0w4ejA5d3BBWC1CSDlHNHJSZUk3bHc1VU10NFFRNjVNRlpMUDZxQk9vMUo1eGxidVA4WVh0aURTaw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:33:16 GMT",
    "fuente": "Perfil"
-  },
-  {
-   "titulo": "El Abigeato en Corrientes forzó otra reunión entre ruralistas y el Superior Tribunal de Justicia",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlluc3ZYSDA2d3VrX29ZeFZrcG5JTmltazJtOUNMc0ZZc2l5TExKNzVQZE9aTTJQU3cxTHBOTS1uSzlfQ0tfekJKTlRLWjJTbzB0UWFGTFJLMVlNcXhWY1pGam1Ebkc4SUQ4SVpkWDBoNEVKcHhZeFNYcU56WDQ5ZWtFSHRqTnJxQVJQbFp5ekh5bFJXdFhMUm1SeVZMZ012QlU3VzR6SHpIYnl5cy12NVJ3NjczWHhhZTdna3RxVVhzNWp0NGhwZVpDWU55VnQwVXJqZkFMZGw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 12:25:24 GMT",
-   "fuente": "Corrientes Hoy"
   },
   {
    "titulo": "El gobernador de Corrientes llamó a sesiones extraordinarias para tratar el Presupuesto 2027 de $4,8 billones",
@@ -969,22 +969,22 @@
    "fuente": "Corrientes al Día"
   },
   {
-   "titulo": "La Cámara de Diputados de Corrientes declaró de interés la obra Bajo su mirada",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUW9tVmZpc3BrZUpkaHl1bl9rT045Xzk3X0xxak1ENGRhQi1nOTBSODVyRjdLcHVYV05Ia2YwTTlQT2JLNEMwYzRqc3ZBQmptdHhxNV9hN3hfMlczc3hFanR0S2ZyRk1LT2V2bmRNcTI5alJucTl2NjVjbkFXemlsM0dKNUl3eDFxcWkyQzMxTGVsblBDMHJBbGpPRDV5cUF1NGU4Q2ZMeFJQY29TM3FFRXk3U1lDMDhG?oc=5",
-   "fecha": "Wed, 25 Nov 2026 00:42:45 GMT",
-   "fuente": "Norte Corrientes"
+   "titulo": "El Superior Tribunal de Justicia se reunió con ruralistas y policías por el robo de ganado en Corrientes",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN1ZfaWtmeXFYR2lKOWh1eksxRkhkLWpQWHB6bEdEd0ZhRGZSeDBYUjR3Y212dmZBQ0dCRFpuRWhQS09zV2pKM19HZ3RPOWdpWkhsU2RybkNMVmJaN1M5dlhEallVZzVqRFlPSjA3YWN4OEFYNTdDRWZmREpWZGotYnQyTmg4YThNQVV6dkp0YnY0Z2o0dXg4azhQOEk5WjdsbjVBbEJBZkZsc0M4c2RhTUtzblNZNjd3RmZrZDhHR0RFdVhPdkdwaVJOcHNVQQ?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:36:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
-   "titulo": "Valdés convocó a sesiones extraordinarias para tratar el Presupuesto 2027",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTIxX2RaSUVDZU12X2VGZm9pZVowbVU3MTdQNG1qNFdtYS0yMWptSHBtaVpxVVN4SE1pMjR4RnlMRG4zUUlpWTVwYmExWGE0SG40VENTb3VjX0YweUNBcDJBczRWRUdZRlhNZHdsUl9ydmhybThVX09yUmdvUFQ3MHBXcEVzTTFTUDM4MnVkclZxWUZoclRsaGlrUUZWRmxrX3Y1dDBBZkhQVzM0OVE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 22:42:57 GMT",
-   "fuente": "https://www.noticiero9.com.ar/"
+   "titulo": "El gobernador Valdés dijo que los ministros \"deben tener el cien por cien de las baterías\" y admitió que \"hay cosas por mejorar\"",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb2xNaDVGTlBFRHJwZFJjSFNaTzE5WHlRejItRlFWbTRuTWlIV05BNW1hTFgyZHdITzl6OUN4dmJMY040Z2RkLS1zN2xCZ1ZYaHhOcUx2M2NKeFNENTFWVjNuYUpocFptaGFwbFN1ZGJCNjFlemR2dWlHdktxaDVHV1ZWdWxSTnlQOGE3V01TQ0xvc0hNeWVuajJaMzZYeFpPQzhKNFRJX0FWNzkyclk1cWE2akUtcllQMlRGb3pSc0N2WTV6TEh3aEVJYmlZUkQ0ZWNKYTNBaFRJNzBmS0x2WG5HaG5BeU43M2owZzBUc1U?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:45:53 GMT",
+   "fuente": "Radio Dos Corrientes"
   },
   {
-   "titulo": "Valdés convocó a extraordinarias del 1 al 31 de diciembre con Presupuesto y otros puntos en agenda",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc3VBVU9hbGo0OTdXSFNHNFU5UlVOTl9kOVNRS0pCMjI0M2FSSkxDcFJGblVXTDg3dGdEWTd6aWRNWmxQVzQ4VHFRN3I0VENpQklJZFFTdGVZV09aNkZoLTkyMVhCS0Z3VG1lc3ktbkdkSWdmSDhPV0FyVXJ6eURDYWI4NW9KUlpsaENza3BJOVBYZ09sNTVKRzgtX1BDRWJBVW81RWg1RjdqVl9sRTB6UHhyblh5TDRTV25fWWVXalg3MUY0bVhYdEtDMEpRdG1ETTdVSE1uMHc1SDB6Y195cmVKNGI2QmV5UFVNMmVPWnJ4bXRYT0d1dVoyNA?oc=5",
-   "fecha": "Wed, 25 Nov 2026 02:29:33 GMT",
-   "fuente": "Impacto Corrientes"
+   "titulo": "Valdés: Presupuesto 2027 y metas de gestión",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0tEbEgyRG5qOGNxc1NNV0dLMTF5U3lFdHBSNlkyNnM4eFNmNlNUM0NNcklyWERUOXNVdVhzYW8tcFdzSVUtVDUzWTFVdnktTlIyVDB2N05hZm13NDRzZWtWYVVRTnFyS1ZtdVZsRjlOSHpLU2FSZnNUclBVWml2TWxJc1dHazk1dzdKVGstc1UzVXo1ajFv?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:41:38 GMT",
+   "fuente": "Cadena de Radios"
   }
  ],
  "expedientes": {
@@ -1217,7 +1217,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-25T09:59-03:00",
+ "actualizado": "2026-11-25T10:25-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -1272,28 +1272,28 @@
  },
  "nacionales": [
   {
+   "titulo": "Polémica por la venta de tierras frente al Perito Moreno a un grupo empresarial emiratí: la decisión de la Justicia",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRjRxWWJQb1I0T2hiXzhsRXNxbnZJQWJFN3Znb1c4U2RWUlpVbllhTTBBQzExaHlFT1gwYzJyQlRMbEk0ak9hWXFLaU5YVy1tcGtFSjRub3puNjNwSTYtWVF2cExzRVN4U2lucUlUdDNQN2dKeUNmSUZYOVhOdmUtaWhpT2N4TVNDUUlOSjZab2NhVjRJb0JUT3NwRFJBbVpMYzZ6OFVCdFlXYmVQeFRmVXhrb1d2Z0JDZ1dNUkQ0TGZib2pqc3pYMEliTl80UEIxaG1SbHpDTjZMSWRxcUxkY3BqWQ?oc=5",
+   "fecha": "Wed, 25 Nov 2026 11:33:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
    "titulo": "El Niño alcanza nuevos récords de temperatura y prevén su efecto en la Argentina",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXlJd3hEelFsVTFaczlPZDZYa0VBVW9JWmFHcEoyYlpva19RWVhaRWR3ZFRYUjdEYXI5TnRMZEdQbU9mUWdfVVBnWldTVFJwbUhDNGYwamUzR1hyaGZ5eUJFWGxvSk9ZbWx2V00xWFZobU1GY2Y4cEotbm5oV0tWbHZpNjNFUnVNVGd0ZS0xT3dsamdfV0xIZ0NuTG05Q1JXYVNfYWJYck1zcG9BRW12aks4RGZxQVJYM0HSAboBQVVfeXFMT1V5SXd4RHpRbFUxWnM5T2Q2WGtFQVVvSVphR3BKMmJab2tfUVlYWkVkd2RUWFI3RGFyOU50TGRHUG1PZlFnX1VQZ1pXU1RScG1IQzRmMGplM0dYcmhmeXlCRVhsb0pPWW1sdldNMVhWaG1NRmNmOHBKLW5uaFdLVmx2aTYzRVJ1TVRndGUtMU93bGpnX1dMSGdDbkxtOUNSV2FTX2FiWHJNc3BvQUVtdmpLOERmcUFSWDNB?oc=5",
    "fecha": "Wed, 25 Nov 2026 11:47:44 GMT",
    "fuente": "MinutoUno"
   },
   {
-   "titulo": "Jorge Macri anunció cambios en la estructura del gobierno porteño y reconoció el aporte de una referente de La Libertad Avanza",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLV9uQ29yR2VWMFVUMzVqby1ER0tHX0RUOXVsYWp5cEF3SGQ1RURyZ2ZxV1Y3T0MyY01HRnFxNHhEWGs0MGJQdUlSYnRXcDlhYWszdUpwdnNpMlVZbGdVMGhwVmVqSTNhQk1ERjhFU0NZQlEzZ1lpTFlCeWtVajRENTNXT1NOUHVkSF9Oa0s3Wi1xTV9nS19wenk2aUFUMF96UkV3aDZYdEpHa0g5blM1NS05VFA5Z1hVQ0pPUUNNVVFfVGF2Z2lEc0h1UVlsNC1LNFB4QkdWZkRoOFI4?oc=5",
-   "fecha": "Wed, 25 Nov 2026 04:40:00 GMT",
-   "fuente": "La Nación"
-  },
-  {
    "titulo": "Economía de Argentina entra en recesión técnica, estiman economistas",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3hReWsxSUt2Q3NFVTRmRjN4dV9vaTZPQ1FGN1JPcVFwRzVaaG9JMUhqQ0E1YUxoVVlLamNGVkxCSUxVNHpBTklSRVVxMHppam1BM1puX2wtRTVIYUNtUlRtRnplalJ3M1llMWVFZlV4NkJPM1RSZGpxRzBiY29TckJyaXB2QkFzdFV1eVhqczg2emJqSkpHS1pKSWRnSzRKaEtMS0FkX01hYUN1LVh2MXR1QUFicDQyX0RWaUpqMlgtcHd1NUFNR1VEOW1hZ9IBzgFBVV95cUxPSUt4dXItX0xBY2piM3RMUFlLRTFzTUJva25JdzRpcXZHV0tuNENkVGM3R2FYZDlCalpfUFd6bnJQY1B3M0N5a1FvcXQ1OWpZOXg5cEg4akZtTDNCYnhXN1ExTzhVczBWdkJhSHlQV1pJczdDcnJnZ3F1QklJZmxPaFBDZldXSEpYV2k0UzBNUzR3eWxYTENvYnFuTXBjc0daZjNvWjNJMmNtdm9SUlM2TUZ4MmRlWkx4SWxwT1BUSV9CSUNZa0U0Yy1NYk14dw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 03:41:21 GMT",
+   "fecha": "Wed, 25 Nov 2026 04:19:12 GMT",
    "fuente": "DW.com"
   },
   {
-   "titulo": "Polémica por la venta de tierras frente al glaciar Perito Moreno a un magnate árabe que quiere construir un hotel de lujo",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVpuTklPVXhGU1hTaUJOTTNsTEs1andrNllKWF9Qcm5XaFkxU2Vla2o3M1Vldm44eXVFWEtnbDUxeEhoSG1EVFYtcUlrOW82d19OaVFxMHNfd3hWQ283MjB6ZGVkTFl3YTN3VmdkVGctUS1sQTl4SmNUck9yNlJ1dnVwdW5PdnAwN3NVOVZ2QWRQSUtmSV9VRF9abFdIdFJjcGZiRkFNWnJ0SGF1LTFRQ0VLNHJmcS1uNmk5VUpYNmJRN2pyUXlEMlpBNmdEM2lYb0ktQWVFejg3ZjQ?oc=5",
-   "fecha": "Wed, 25 Nov 2026 09:01:53 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "\"Cuatro años más de Milei es un autosuicidio para la Argentina\": el duro mensaje de Passalacqua",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZG5vam8zYm01R0VDcng3anliS0NTRmJySDJYUWJTVkFLQXc0SlZ2cWxDQm10LUFhNDAwa3ZKWE5DS0VSR2JhbngxV1F2bmw3QWpDTk96SzdrTV83eXJDOWVPUUdLQ1luQ2Nib2tUa3lONGFsSGVwbldUeUF4UUlFNGRULUxFWEdWX3VkdEw0eG1vak9EaWwtdWVFeGpFQjhuemdaWWVBNk9BbWt6SFNxNm55ZVpXQUtBbGw4ek9NbVJFeHJFNVZHYkk4VHVWUlJQNVlOUHlqSkoycjV4UmJDRVdn?oc=5",
+   "fecha": "Wed, 25 Nov 2026 01:56:21 GMT",
+   "fuente": "MDZ Online"
   },
   {
    "titulo": "Javier Milei y sus medidas, EN VIVO: el Gobierno destacó a Luis Caputo como \"uno de los ministros más importantes\"",
@@ -1302,28 +1302,28 @@
    "fuente": "Clarin.com"
   },
   {
+   "titulo": "Jorge Macri anunció un recorte en su gabinete: eliminó dos áreas y 118 cargos jerárquicos en el Gobierno porteño",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM2s5QnlmendodEt3YzJTRkwzQktaNTN0WG50c3ZMMXJvaXlKMjNvWVdldmhpTHcwSkdzNXRfaE5rZlBTUWcwZVRUbF9Rbkw5R0g4bnBTbGJZQm9VT3dfUEpaQS1BckNjamwtSEMtQXl5aU13VTJUTkhxSlU5ZVFGazJ4OEpoakE4WHNtSHVqSlBtVm9MaXJjRmJ2QVphNWFKcFlwRTdHZnRNRXcyQlhhVkNJb1AtVFFZWlpoNXd1d0N2ZmxxSkFfUS1OT3FjcTNiYTBLaWttTjE3WjJtWHJWQzhYN0VQdlRDem00TtIBhwJBVV95cUxQdWJuSTNLUXdFMjVaeV9sY09nbS0zU1l0OHBPTWhtWU9ESzJkYUxadzRGaGFKYnp3NC1tdUZMYjZ1R1ozU0ttMm1fUmwzV0czeXJiZjBYY0dvRlhhc2VQSTh3Vlh3cVFHclBDOE9veHlEOHFQZ0RWRnY3b2pTY1VJOWRibVNFSkJxUktaOV8xQzFZNlRBZVdMY3RMNjRsa3dzdzBxZFdSdFdUcWFQdktmdnFVbllENFVYWUhmUUpncFJWdldXNHRzXzJwRnpUZHRZVVhNdVNXSXdzWjV0V29SRE1xejd0MG1Yem8zaDRjdXVlVl9nanVndGVUVnVnRWJNUW5ZS2xWYw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 03:55:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
    "titulo": "Omega puso el moño a la noche de cierre de una Fiesta Nacional del Sol que se despidió a lo grande",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWHZJelVtYU00Q3pxRl9IRHRIcHl3MFVpYzBrYzN0OWo1TWFMc09NRTRqZnRyNHplOF9RRVZjcml0VFQ5NDl3RVdXcHhhVjFfYWN6Z0F1cmpGV1BiT3lJcTFwWW51dVhKM0hFWElNQ0drS3hveFJrakJvT3hDc3U5VzByUnMzTlNsanpvbTlNa1VoMVFpTUM3dzBhMmMydTR6QjBYSDczMi1xQU84NUpTQUJnNEJRWk5Fc0ItX1dxT3ZGTXRWelRqdmhndGE5VzBuaXFfMw?oc=5",
    "fecha": "Tue, 24 Nov 2026 09:57:00 GMT",
    "fuente": "Diario de Cuyo"
   },
   {
-   "titulo": "No habrá homenaje a Santucho en Sociales",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWFSc0pXUHlKYWd1dlBad2J3a1B2WnVOS2dZSTduTzR3QlhHYkR0bksycU9acUVCUm44Mmd3VlFYSk9LTk5jS3lyaUIycjVGeUwwaTJ2eWkzQmtsQldyZVZWWTNfeW1PdHIwS21IUWQ3bkVzYTJ0S3ZfZ1hvWmVIeXZkMmd4SFE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 22:01:00 GMT",
-   "fuente": "Página|12"
+   "titulo": "El comunicado completo de la UBA tras la suspensión del homenaje a Mario Santucho",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTExX3NSb29BbGVNQ0pzYUFRNndnRFJERlhjcWhXNG03TlNrSndWU3JkVTh5ZncyOEh5VzBuQktaQU1fd0pPbHpZcG5jakROOVpZOGp6N2doVXRlTmR3cGR0Y3VGVndMV21MTThWSmdaOVdRYnlvZjJrdkFsR1ZxdGRwTi0taFo5SDFvcTYxelMyeVlmVTl2ZGdjRmV1bmhZZ3ZoTUNid1ktaUE2LUZDUjhldzdyMXhtUEVJSdIB0AFBVV95cUxPaG94SGZ4RzFNU19OWXZoWlFVcUhqcFVOZDh3U1RhVFQtczJWSnI1RW1hU1lCRE9YeU1pVEZOcnZ5c0FKUWN1MzFVbDJtbjVJbU5rTGFVS2lUR0NqM1k4WkE0ME0zQTUtbTBBZjJwWGljcjNCMTJtdHZTVldpUnAtN2tTTHIzaEtaMmhQTUVkd0FabDhwMU0zeHhiTFNCY0k3dm55eUhVT0JualZ6UXBpcTk4ZkY2aEp0eEUzZXgzV1pISDF5TXFPdURVTXAyV0Rj?oc=5",
+   "fecha": "Wed, 25 Nov 2026 00:18:00 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Ley de ludopatía: reuniones reservadas de la Iglesia, un mensaje de la Rosada al Senado y las sospechas del peronismo",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZHV3eE1EeFlTOEY3WmJXVUVCeHd1a3BpWHV1VHRwQzl0bHZpR3ExMXVMUHl5ejFGVnA1cXZmNmdlNlFCV01PWjlUVkpSSURtMWc1dmVDZ0pCT1ZHUTZKZktRQlowcXp3WEdlQ3M4Q2JSdlRYcVoxVzRkWmkxd2lJMjQyRU5CdmNoTlFCXzRoYV8wTk5kdHBRZVQzdmhnWHktY29JUGNmc2MzajhSdTlnTmpvU1Y0b0gtM25CaVlCX05pdUk3b0ROUnZZOXJjSGN6ak5XZWwybXU?oc=5",
    "fecha": "Wed, 25 Nov 2026 06:40:00 GMT",
    "fuente": "La Nación"
-  },
-  {
-   "titulo": "Se cumplen 20 años del crimen de Nora Dalmasso: cuál es el estado de la causa y por qué aún podría haber juicio",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRmV6b2JPMVZvMTYyMFJ5VVdtUC1XSE5RRlA3dEJUSVNWSjYyVlJsVGZDWnJjUTJTdW1tOU41emFGdVdRb3BpY3d0WnRUbld2OHdWSEdfX1lSbTB5U3Vza2pDOC1aWE9FejJGM0tVREVMYllOTzVFY1dSWVlrWVFERXV3R2xPb3JBYmJUSGlkamRoMm5kTUdaRXRKSk0wb05tdXJTYmRtaE1JR2dEQm44Mm1OSGk3Z2tvREVzRkZ2QzZFcm9uZ0l3d3JSVW0tTWNvcTQ5c0IzRlRCY09YWUI2S0VzMXBIM1phSEdtb0VR0gGIAkFVX3lxTE1RWVQtWG01d29ZckZyMWNRX0JsT3lXTWJ2VDFSUnJjS2F4RG5qQkk2ZnJjc2FLVjFub2VKVUFaNVhlZzZpcXJMNV9uMWw4dWNMb0xnWkFfb1VNMDZHTXNmUXBQOFBJWmhhSlhfY1pSM2UxTmpQTXpYd2tJb3NoZXB2UHd4LW80S28za3ZWcTJOeGJadkViZWNFekRrTmh1a0RwTy02aVlNbDlvcVZRUDRCMG4ybEV1YTQ2NktoSUZ6Skd1b0g4Mm8zTk5rc3BiR19VMWpONVZJNGtlYlZfZERYQ2pyNVJNNjRCQ0Z5ZFl1RFFqWDJueGZPb0syZVNuRkRNRkU4MVg0Mg?oc=5",
-   "fecha": "Wed, 25 Nov 2026 05:00:00 GMT",
-   "fuente": "Infobae"
   },
   {
    "titulo": "Diputados debatirá este jueves el Presupuesto y la Ley Malvinas se posterga hasta las extraordinarias",
@@ -1344,16 +1344,10 @@
    "fuente": "La Política Online"
   },
   {
-   "titulo": "Finaliza el paro docente convocado por los gremios AGMER y AMET",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUlOb25IWElGRElLU0dSck4tTWo3eV91ZktIYmtEdjNNQmM0LUVPdVRiMHBUckJJVUdQel9tZExYT091M0hWRUxlQkZjNlh5WVhDeTlTaGc2aTVraTlJcXlSZ1F5Z1JFMGpnYW5GWTNaT2RfYkR6RmctMGtFWWw1akpOSXdSMGNvRHFpcmVBUUZmWGpGVmVyMHVtanBVR3Qw0gGaAUFVX3lxTFBwVi1NWFhwN2ZuNkdHZWh5cmIyWmI1aDhZenR6TDJ2bTh2LWFpQlJfR0FJRUxyQ294QzVXbnB3RVpkUElCQWR4QTh3WWRMUWtPaTZhMUcxZ2lZQkFLTDd3djhNSGw5UUZfR084R1B6Vk1tNkdpYXVPR2hfS0NIeEhaQXRKOExoWDNCSjVwdlk1N3ZpZGVBQjhTdWc?oc=5",
-   "fecha": "Wed, 25 Nov 2026 07:53:47 GMT",
-   "fuente": "Elonce.com"
-  },
-  {
-   "titulo": "El cardenal “Tucho” Fernández reveló por qué Francisco no viajó a la Argentina y apuntó contra la “extrema derecha”",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN19pQVQ4TU9XYlozUHVyWHJKRjdHUjVwU1JfeWxER09NRnZqSk1mRFBhYnJ4LU9SVGJ2ZnlCemxRX0Y3Z2VQb2ZkMnBlbHk0Q2RYaF9zQ0lrbWhkRnlmVE83dlhGcDVteG5pczdCQkpLc3oxLVozY2tzMVc4clZqNERWck1TVW1YSlhyeGFlSDNvS0FoS0RQS1I4RjU3UHRpUlp2ZmFkMGdIRlBSMGc?oc=5",
-   "fecha": "Tue, 24 Nov 2026 23:33:05 GMT",
-   "fuente": "Perfil"
+   "titulo": "El crimen de Nora Dalmasso: acusaciones absurdas, el principal sospechoso libre y 20 años de impunidad",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObGN3c3JzX2VqT0tyTG9MUy1QRjIzMXA3VlM3Wlp3NFFwSmhNclBHRWItcjdkZWxYWGtqc0FBd214cDloOXVKY3EyTVZla05nNnl0RHFXbE9VVEpGREdDSmlOaWRvY0dpRU9rWVM2NHF1YVZaY2xLVlNDa0VsMVFaOENmdDY0aUNUTWh6UnF1QUdkWEhGQzBtY3A0MklPYkZUVUktSlh6LUs1QTFqcTZOVnV4dTV2emM2UjZxM2FoWGtvNGlrWTNpdlY5MkZrRlN6ZGJsa9IB2gFBVV95cUxPRGt5aWtOVmxSenBzUXRqeGhSV1pfcUx1V1JNcFRubTJPb2JSWXpKa1RZSUdsT2JSY3pMNWJmOG9qd1JBNnp5Y0ljVlgxd2dtTlhxWkVuczN3b05pNGJsRFotdVZCNW5KX05YTExRcU5sejMtSG5KVWxMZ0JnVk8zVkRwTk1zWWIxbnJ1bG1ZLUpHa3dPWjdQMDFrQURMVjhCaVlfaXFKZkI5cGVZaExDVzl5bDNTMTdlX2xZVVM4UENZTGIyTElHcGhUSzZuUGktOHZYai1NaGFJQQ?oc=5",
+   "fecha": "Wed, 25 Nov 2026 09:01:50 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Docentes y no docentes de la UNR inician este miércoles un paro de 48 horas por el presupuesto universitari...",
@@ -1362,10 +1356,16 @@
    "fuente": "Rosario3"
   },
   {
-   "titulo": "El mercado le marca límites a Javier Milei y crecen las dudas sobre el programa financiero",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3JJSDRXVE5CYUJqTzFMaHJPNVotVUZfLVZKbThRaHd1Z3hEaDUwVlRiZGU1RlB0bC1FTEQtdlN2enRjRDcyb0gyX0JlcTdUTV9zZS1SN094VU82T3dDMGEwUkI0dmJnQUlZY0ctSjY0cU1NVnE0d0xiQ19fOTlLSkE1YU1wS3p6QWF1WUpyQ0tab2tsQWRISi1STW1yVklaQjFUTDZTVDUxcFFieE9CRDNjaDlIUXlIY3c4dF9FWHrSAcYBQVVfeXFMUHBQM19pR1RkM1ZreElvVUF3YjRHSzhINHFGTkwybXRYWU1PWjJiS2FvSTZnR2tOb3V5dzlwRjQ2LTNSak9WY3phcnlXWVB0T0lEa3BJREh0VjBXdnB3dDc0d3hsZEVMVXNWVzZSNkNEaG9PVjA3MEo5UHFCdXdyUDBwQml5WERLYXh3STBBek9VMEpSZlgxZEpPUlpYYl9McUpGeXJNdzdwT1dEQUVjN3lNUWxzZ2xfWHZUdTJvYXJxdnp3VGNn?oc=5",
-   "fecha": "Tue, 24 Nov 2026 10:00:00 GMT",
-   "fuente": "Ambito"
+   "titulo": "Video: un camión volquete chocó y destrozó un histórico puente en Pigüé",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDZTVW9OekhLZkNvNTNKMmxhTFhFVUgtM1oxdXdyUWgyX0RsUkx5QUJPWmtUQ3FOQjl4X3ZsTm1pVnFhNnp0ZFlOWG9pQ0JUcDQ4S21sOUE1dkVrRzJObER2Z3I1TDcxSW9RTlo4dFh2SnBkeHlJLVBDaTdmZ080WXVTcGpSLTJXU2N0S05xdGFZYnMzS0FVUGpySldhR25vQXlBRUlNcmh6R3JtamfSAcIBQVVfeXFMT05WMVZ1YUwwcXI0N09kM2ZsdUViOGxjUm92MFpvTGlQZ3pQQmR2d25mUjg0d1ZqR05ucTkyc290S2d6YnZ6QWo3R18xc1JRRVFMWUczVXp3bXU2RzF6SWlRZkkxV2k3Yjh3ZkFVRGpwcHZ2ZzBTS25KNGJGYy1sMFhxVjdCUHpMTjdRS3JUdUJ5UWE3QVBwUndkUXp1OXBZTWhYZzNWOGVPRHFQMXlEWDVucFFIZER5cktnaXA0SHp3QXc?oc=5",
+   "fecha": "Wed, 25 Nov 2026 10:05:00 GMT",
+   "fuente": "TN"
+  },
+  {
+   "titulo": "Qué día estarán depositados los sueldos de los estatales neuquinos y quiénes cobrarán con aumento",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdll6Uy1BTmhLT0dsc1lEUUZLU1EtSDF4a2sxYUF0eWFNY1FiQ053dGNuUk82ZUtTejk2RnlIUUtQbjVXeUM2VWNJbUJnMXRtajFkU3BvZVhRaHNjRzZaVC1tZTdadjA2eWZPRXJYZEgxdlNna3h2bUY2anlvN1czUndhY3hSQ29iTzZIcDBfNmcwREhDQU5oOEc4UdIBoAFBVV95cUxNNHRENlFta0FWZmt3aGl0REg3YThzeWpWNXE5S3JCUzBGSWNxSS10NEU1RldrTkdUb2lYcUgxZndqd0FhRDNZMzMwTVNEOEhPRk1fX1ZCc3FjaUx6WWVhUHpKbmU1NEx3Mm1pSkJBWUg0blNKWnJaY3dva05LN3FNYTVweENmcEtxMHdtYXdUTFFHZXU0MU9JcDBwU0tCWkpL?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:26:00 GMT",
+   "fuente": "Lmneuquen.com"
   }
  ],
  "finanzas_argy": [
