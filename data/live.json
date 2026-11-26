@@ -215,16 +215,16 @@
    "fuente": "MinutoUno"
   },
   {
-   "titulo": "Javer Milei canceló su visita a Corrientes y viajará a Paraguay para reunirse con Pedro Alliana",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1lrS0ZpUE9wa195RUJSYkwzOGZYbVVGeGo4QnMwMWtTZTJxY1Izcjl2el9iQ2RuZEQySDZDZHpxczJJdE1Nc3BNblFZbHlWLVVqOGxFS2JvYjhBZ0lteXdMRHg2dXV4VzRyMEhtWTdSeG9kOXBjV1FuSmt6RERwZWUzT0VLeXlVZ1VTWHhsUHJvOHR2MWlOcG95WHNKc19uRUFIV0xoVGxON09iUjdreTlsdnZvYVZtUXJkVFBNNWk?oc=5",
-   "fecha": "Wed, 25 Nov 2026 19:52:07 GMT",
-   "fuente": "HolaSalta Noticias"
-  },
-  {
    "titulo": "Corrientes busca ampliar sus exportaciones a China e India y proyecta nuevas oportunidades comerciales para 2027",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQS1DYVZkakxMXzhxb0ZiUUk2aHAwR0dpWW9WcEctVnVUcnhxZy1qZ20ta2k4eFhfbTg1UF9IZk1NYzNFTjcwX2lJNmhTR0dLb2lwVVVuNkhlNzZFcnNRdFRzOWhDTk5qSjlaN3dfNDZJLThNeWdoTDBKaGpqdDIxUmozbnNLdkZtWnM1bWQ5SWN6ekFUTTdkMkVoMDViR1VBWUZhb280a2JSRk95dHJTdVFpTkxNREs0WDlxVndkMWpZRVpaMEFyMk9kZWRYN1dCLTFjRHBRVHRwNDlmd1RtaUxBSUpjS2F0MkhiMHA2VQ?oc=5",
    "fecha": "Wed, 25 Nov 2026 11:21:34 GMT",
    "fuente": "La Red Corrientes"
+  },
+  {
+   "titulo": "Javer Milei canceló su visita a Corrientes y viajará a Paraguay para reunirse con Pedro Alliana",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1lrS0ZpUE9wa195RUJSYkwzOGZYbVVGeGo4QnMwMWtTZTJxY1Izcjl2el9iQ2RuZEQySDZDZHpxczJJdE1Nc3BNblFZbHlWLVVqOGxFS2JvYjhBZ0lteXdMRHg2dXV4VzRyMEhtWTdSeG9kOXBjV1FuSmt6RERwZWUzT0VLeXlVZ1VTWHhsUHJvOHR2MWlOcG95WHNKc19uRUFIV0xoVGxON09iUjdreTlsdnZvYVZtUXJkVFBNNWk?oc=5",
+   "fecha": "Wed, 25 Nov 2026 19:52:07 GMT",
+   "fuente": "HolaSalta Noticias"
   },
   {
    "titulo": "Un paseo por Corrientes desde las alturas: llega Experiencia Zeppelin a La Unidad",
@@ -257,9 +257,9 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Corrientes: presentarán la 36ª Fiesta Nacional del Chamamé",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRjk0alJlYlhXRmc1dFBwenY3YmJmMzQ2LUszNnBjZm9RUmlnR0hvUDhob3NuT1NQRTd3Z0hZc2NXcUZucDVocUJ2R1c1a3EyU0ZNVzNGYzNTaUZtVXdsZlJYdGd6bElmcE1XQVQyUXdqWFE1MVhwMTdoLTIxWm5HdU01cmU5dkFkMFNIU3gtQV9obGhBRTYxdlo4d1M5aXBXVFVCZ3JZQ1hrX0dZNHhveXFLNXFrdXhpc254X0pKNDlTaUxKZW9KQ1RXVE5hdmxrNUdN?oc=5",
-   "fecha": "Wed, 25 Nov 2026 17:58:00 GMT",
+   "titulo": "Juan Pablo Valdés anticipó una evaluación de su gabinete: \"Tenemos que revisar los objetivos y las metas para el 2027\"",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOVBfd19OdDgyb1UwUFR3V2Jrem0zbDMweE03eWdZNEppZ1ZxWFMtRXF2T2szUGJ0MGIyYU9aaWNFQ0JmTDhyNWM5UFBEMzRMVHNzcGIxRUdsNFJFcTlSUXkwYTVzYmhfdzRjSEN2emY2cGZmUWdRZnZ5aTJhU1g1VEF2T292aFFFZ0FGTFpoS2Fjck5jT1R3aDlfOHZOMEVWVzZNNVJxR0dsNElEN1BQU1ZNVFQwR3BtaG8yU2drQVZmNExaYUZMVGVwU1VILWxpYVNaaGZ0eVJRbWd6c0tZV2NrcVI0akZsa0FWU3IxR3ViZw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 13:15:00 GMT",
    "fuente": "El Litoral | Novedades de Corrientes"
   },
   {
@@ -505,9 +505,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-25T22:03-03:00",
+ "actualizado": "2026-11-25T22:30-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Denuncian por abuso sexual a Janones, el estratega digital de Lula que asesora a Cristina y Massa",
+    "link": "https://derechadiario.com.ar/politica/denuncian-por-abuso-sexual-janones-estratega-digital-lula-que-asesora-cristina-massa",
+    "fecha": "Thu, 26 Nov 2026 01:09:19 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Toto Caputo domó a los periodistas de C5N tras su entrevista en Neura: “Las inversiones vienen, están viniendo”",
     "link": "https://derechadiario.com.ar/politica/toto-caputo-domo-periodistas-c5n-tras-entrevista-en-neura-inversiones-vienen-viniendo",
@@ -549,27 +555,27 @@
     "link": "https://derechadiario.com.ar/politica/gobierno-milei-firmo-nuevos-acuerdos-aereos-japon-australia",
     "fecha": "Wed, 25 Nov 2026 19:36:28 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "La víctima de un violento robo en Wilde denunció que Kicillof liberó la zona: \"La policía está dejando de venir\"",
-    "link": "https://derechadiario.com.ar/politica/victima-violento-robo-en-wilde-denuncio-que-kicillof-libero-zona-policia-dejando-venir",
-    "fecha": "Wed, 25 Nov 2026 19:20:55 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
  "nacionales": [
   {
-   "titulo": "Diego Santilli ensayó en el Senado una defensa del rumbo económico y afrontó críticas y reproches de los bloques de oposición",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYzJySU5sVHpWNmRabDdGY0RHVjZGaVNRMnowZm9nZC1TZjBVM1NraHRuZnh5cUE3ck1MN0ZaQkVBRUpyLVJIY29zRzNpR0NfRlBzdkZEYlVUMU90enJ1Y1NENGxzV2Zub3hIWUFrS3M3SHl0bHRBWXFDVTNxOGozaEZGV2V2NWg1LWlSYTE0WWI4eElqbWF5aDRRak9zWHNnYTd4dEpKd2p4UVgtX254YlRCck9IdXZvWEQ1dTA0S0hnTDF4OUZyX1J3QnYyYkdUZ3ZUQ0JrYUxPZw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 23:37:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0JULURMTUFqUEo4dTIxWmxYR3FVWmkzcm1wMTZKRkJ3UHJuTV9tUlg5TlF2NUJFSld0eTVUcUtDWjE4SllXX3pBWnJNanhmb3hoaGNoMDMyOWxiSW5JR3RwTnVUU3hzcTdUZ3pOMVRjMlR5VTdvM3phWEw2Y3RGYjYxT0xwejFuYTJicUc5YkJJZzRBTVRlVTloZHphVVBMMEk4ZmpVY0FMYkdkUnExa3ZjTEZJSHNoR0M0NThiUXkwWC1qU2phQw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Javier Milei y sus medidas, en vivo: “Mientras el Presidente quiera, hay Caputo para rato”, dijo el ministro de Economía",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ1QyekVWM2w4WW9obmxGejExcGhybmpEZkEzQ3RFVnNDbWQ1WElUem1RSHpCX0ZZVmU3c1d6Qm1NeGxOdlJUaFlGOGFiM0tod25Zem12bnlzZFJnMnZjZlQ4SFZUSlozQ3cxdkNQUm9qRGlzbzBCMXBUQl8yc2tpcHFKOHp2M1dfUlVnYjNNNGNZT0prN3Z2RFVIZTB5OXBYN2RYVGJtcUx6NkwxamxWa0x2aHE4T2xTUEhaWjZKandzR2E2YnJvRUwtRlAwWEt6NWZqUzAwcjhKbVNueS0xa0t1WQ?oc=5",
-   "fecha": "Thu, 26 Nov 2026 00:55:00 GMT",
+   "fecha": "Thu, 26 Nov 2026 01:23:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Tiembla Milei, ¿hablará Bessent?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2VVNXUjBWZHh3a1hPaS0teWwtV05NWFVxWC1VUVYxYkEyUXpOR2oxTVlIWmlsT3JqWmt3dTVsdVdtRnpCd1VZRlMyUFhiZ3RtZThsMVFRQXNXbVd2NXhqVmNFdU8wRTZTc1pueGVOcw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 07:00:00 GMT",
+   "fuente": "Letra P"
   },
   {
    "titulo": "“Nos matan solo por existir”, el grito de la marcha del 25N",
@@ -578,10 +584,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente se bajó de un congreso en Corrientes y los organizadores dieron el motivo",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRi1tNk84cThRb3ZIMzVRZlRtNDBDYkZaQV9xeTMwbGFVNG5IZ2E5SEZSbTRYdjZmcDVEX0RnSHR2dkM1U2pqVURnNzVDLXFiWnZtbFREWkhFMk84b0J3VWxyQ01XVUprVG92cG1ObTVyd0NCQ0lVVWRZeHZoY2I2bGNPUnhfeTZsMXhLTjY3TjhHdWI3VGE2Q011TFlxMGVUckNaOW45TEtuS21aOVhlTkNGVmo?oc=5",
-   "fecha": "Wed, 25 Nov 2026 23:11:08 GMT",
+   "titulo": "Bajo presión, el Senado promete aprobar la Ley de Ludopatía de Diputados y otra para combatir el juego ilegal",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3ZaNV9zaF9xTEZFQkdGWndNbDBYRmVIZkx4UWx1akZRTzFuWmhiSFZ6RzJpaWY2ZjNXeVRERmprLS04UTlwNkhpN3pQMHMtMmZyU1pJdmNDRUhtbzJzQllTbjYyVG5aLTRFLS1CdzNMa2hVbk5xQkwybmpKWlFJTndYVzVRTlJMZ3JSNUhPQ0hGMEVxcm5VYUFoRk9yTzhrc3RaSzM0N285WF9ZZjdTa1BheVZLckpIZ3h2eHZjYTJxWERW?oc=5",
+   "fecha": "Wed, 25 Nov 2026 16:03:07 GMT",
    "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Milei viaja a Paraguay para encontrarse con Alliana",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmRPY0YzVElUdDNDcVdyOHlOUGlHUGw2NmJvMmZwWUlzRGZSV3E0bnJXeFFSQmdqMTV1RFlaTVdoZW96c19NY3BhVFlXS2llNDF5Sm82WjUyN08xcTI1OVFJamwyRlRrdXctRHVKaE1WNVhhRVoxQm03NUQ1YnZETGRuUFA3RWMxUERYOXRwYndGcU9LMFE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 19:50:53 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Los rectores enviaron una carta al Congreso y advirtieron por el ajuste a las universidades en el Presupuesto 2027",
@@ -590,16 +602,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Senado: LLA aceptó sancionar la Ley de Ludopatía y le pidió a la oposición que habilite el tratamiento de un proyecto complementario",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTDc1UURjLXdBbTV1SkJvOE1mVDhhYWFrWS1sa3ZmWjlmM3R3VkxKMnpsckNoY19nMlpNUUZUcG1YTDlLYXJBdWRwSVYta1lRTUxndnNZSXlfbVg1V3JTU2ppRWR6R0gzaTkzbUhteWxBTzdjTXZYX0duT1lNS2VGRFNwTGhFMmVMNEpzSXBNSDhhYjY0NEkxVlc0RXZia1RBeV9kb1k3UnVxWFZ4dWxMMDFXejV6VElxdl83UWhJV3Q0YnBXVmVmb2JwOUwyWXBoTUp4WGpQTHg2WDdVWWhnelYwQW1jd0Vid24xMU5EcVBBM25LZzFLbHhR?oc=5",
-   "fecha": "Wed, 25 Nov 2026 15:24:49 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "Atentado contra Cristina: la Cámara Federal revocó dos sobreseimientos y ordenó profundizar la investigación por el financiamiento a Revolución Federal",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUW1yZXZ2ekN6WlJtU0dDcU9uTUxyRHV4Y3VDdHNiTFRFY29BLWlMb1NfU2ZpbU5ZNUxtcFdaSHNwUEx1NFA3aWNaMEh6MGV6VmVPa0ZHV1VuWEFpMXBqZjZKZzRQaEFXdS0zZnBSdEctX29CSERkOEhWQ3Z2QloyRy05d1B6OEhvSlp2UXNPWU9ZLXhVT1hUZGx6LXdWaGpIQVAyQ0Fxc0Z6M096ckxCWWhrNTFpM1RWajZmQXBoTGdhYW5zN19oSWdsaVR5dVVuTlNyaGgxT1ZwS2tyMG41bmNkaVdQb1NNdzliTzVIVTBfVGszaVhRSWdqZW5IektXTVVvaTF3X0dTeFR0T3JlRmFIVdIBmAJBVV95cUxOeUV2dlJzQ0dCZktTNDN0dmVJNjlGWDNEOG9yMm9iakI4MXRXMEViemtHb0o0X3Fia3lKa09LSlRoai1XQUpxRUhlRUc1MEVZQ0hid0hfUHRhbF90YWZZaGE4N3hSZy1OZERJYlpmelRraWI1N3d4QWR0NzEyUGRYaEtpLVYyT3Y0WERSVFE2OHNDWEJHdmM0bkNRMkRfc1FfS3NVT1Zxb2lPWmJGTUJiXzU5U3FTcG1sR2dSY3FmRHlCN2ZJTHB4RDBsX0dybDY0eHNHSjItS0dWZGVSNWJHVmxXamZPYi1wNnpaQVNySndRZExtQXlDU25pRlBWd2hwczFfWE51b3B2eW0zdU8wdGViUmh5LTgx?oc=5",
-   "fecha": "Wed, 25 Nov 2026 16:48:00 GMT",
-   "fuente": "Ambito"
+   "titulo": "La Cámara Federal reabrió una causa contra dos hermanos del ministro Caputo por el financiamiento de un violento grupo antikirchnerista",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU25KQzlUMzN0dW1yNkRFa1ZxR0JyRmk2aHZINmVEZHgycDJnQjZkTW1KUkE1ZFdabFdyZk5OakZnY2JxTGVXTV9DeElncXlnLVBlMjRjRHdlRUMwa21MdzJyenRiamJPUHdzcGlpQ1ptQWhSWGsxOWpBc1VkSnM1cGRaR1VHT00zMFI5OFZvRWlseEotOXBfOEo4NlpCa0gzb1NQU1FkUzliRk1DRzdJdnBXWkRIRWtBX2RmclNnNlo5RzJzem9jOE9XNmhQNlRlSzF5dWd5LWF1ejZhNlF1eVo4RTE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 19:43:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "La economía de Argentina entra en recesión tras volver a caer en septiembre",
@@ -608,16 +614,16 @@
    "fuente": "CNN en Español"
   },
   {
-   "titulo": "Presupuesto de CABA: el peronismo pide cambios, mientras el PRO apunta a los votos de LLA, UCR y Larreta",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDV2c0JSMUJ3RTVfN29uT3M0WThLb3VVSnd6TlpGR1lFRDF5SVN6Nk9TVDJ4OThsaGNMN19HUGEweW9UbTVSWTZmNUU0N0NhWkFjMFppMjJwMjY3dThNeEpEYWd6XzRzQWtYanZfQjZnZXluOExNN3RiMlZ4eXRIWF9jaWxrNXhsdlZaQ0pINmJGc21waWR1UjBsT0RaeVZyNDlkSHZyLTNLNUFUc1RGNmQ3WDNqdVdDVkNSNzVOOVlNdVg0djFZUHNFdUF5TVHSAdQBQVVfeXFMTWFUZkJ4Rzg3dDRtVmZ1bEpjblNOazlaT0d0RUJEYWlvNW9aQzZxOC1TbnZlTVoyLThUN1ZHNHBCSDB2WWhNaTRCU3RnczhYdGYtWERqRjExR1pfcFV4TnBYT2ZQNEthbVhGejBQMlNLemtkcmVYNmVUYUpzY1J6V3QwMjRCeEk2cF9Cc1ROZ0V1MmF0ZGZxbE94dnQ2Q0NDS1ZzR0cwWXVmV2VJUm5XRTZ3bHdtdXU0WmxoNk9sbjNYek80bXV4UEJxb21fQ1dTRTB5eVA?oc=5",
-   "fecha": "Tue, 24 Nov 2026 21:12:00 GMT",
-   "fuente": "Ambito"
+   "titulo": "El Gobierno dijo estar listo para el Super Niño y cortó la Ruta 7",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHpYcnFpSGktQXd2SWhvdFVOa3FZNTJycVhPOVBiMmhsMEpfQkUtZHJDME12YXF2MTdkeG9nUmtpQVhmTGdxZGxCZEdUUWFlS3FzeWFDXzlMdEJLcGxxVjFhQzBuaWF5Q1RmSHU4UVdYakdzYXA2b1BUOV9IZ1c5WjNpQmhGVF9FT1VmVWpsYkRKcW9DZnBpZnlublFTdGxaRlVvT2hzcG1MZEhqcnZxMUlwLXFqT05WemZFUjd2OVZMcjZqTUE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 17:20:28 GMT",
+   "fuente": "El Diario de la República"
   },
   {
-   "titulo": "Ravier salió a blindar a Caputo en medio de una disparada del riesgo país",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS00xa3dzNHoxZExXQ25BWFJSQUNTaEZfM2ZSUFhLV1pUcGhkcFNCNGtMbDg3YUYxZmtpbTc3T21rT0VnaEVpa3g2UnNXQmI3UVQ2QTdmVi1OQnlvMllWNHpPc3VNT3JQTThjVzlQbE1QUTI3bGhFV3NkY2J2TXd6c252Z3J4SkJEdHV6V2hfcHZRNUpKRi1sUk5QdzFIdXQzckg1eHAzdEgtOFgtLUczQUlEYw?oc=5",
-   "fecha": "Tue, 24 Nov 2026 19:09:07 GMT",
-   "fuente": "Página|12"
+   "titulo": "Quini 6: un apostador ganó $1.100 millones en La Segunda",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGFpd0c0TDNrVmZhVnZLNm5FWXJ0R3BUS01YY19qQllKQXhDTUpZWThmay1NQ2FGVG9OZk4tZ2hMblljRmpSNm40bXJLcTYweTZCU0FqQ2RLaUwtWGZZM1lDclgxVEVyOEd0NGJKUjBlandiYmttN2tHQUJpZUVXQTdtSjVIVlFydVl6ZkRDak5zUUJm0gGOAUFVX3lxTE83UWtBdTNuLWF6RmV3STRWRXc3VkN1bUVDYlVhYTRnSTRJbnlPbWt5LVNtSElSY1VCZE16X1J0bmR1d1BSZ29LQk55bTI2ZURQajhScV9qSnBRQmlMYmxVeXpnLUZTbzZhU0MxcGpRTlUzZnpRRWN1M0FXLXFpYmJlLXg0bzZSY0FaVGVTYlE?oc=5",
+   "fecha": "Thu, 26 Nov 2026 00:29:54 GMT",
+   "fuente": "Elonce.com"
   },
   {
    "titulo": "Río Negro definió la empresa que hará la obra de la Ruta 22 en Puente 83: qué pasará con el tránsito durante los trabajos",
@@ -632,28 +638,22 @@
    "fuente": "Diario de Cuyo"
   },
   {
-   "titulo": "La Ciudad sancionó a los policías responsables de remover el deck en Caballito y reconoció errores en el operativo",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcm5Nb2tVSVBiVHFzRGJlWlUwbmtGQXhGT2kzSnVrV0ttSTdkMkhNNTdQQVlyLWJwZDZHS3ZkMjk2ckdZU05yMjhyZ0ZvU1I1RC1GeUFRZTg5TUprdHRTWkZKV2tPblRkZnJPQnU5dW1mTnBZcHJLN2xfSWFrOUZPMGZyN3JvZGpfWjZNa0JnWXFzZlFZM3pXeElCZlhwd3lVWUhxVE9GV05RQnJUYVB0TlNfTE43c1pBMFFBendsSjl1aUJpNEp4cGc2blpzamZsdWMzSURvN1I0eWRsVWtMWE1NN1k?oc=5",
-   "fecha": "Wed, 25 Nov 2026 19:12:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Presupuesto de CABA: el peronismo pide cambios, mientras el PRO apunta a los votos de LLA, UCR y Larreta",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDV2c0JSMUJ3RTVfN29uT3M0WThLb3VVSnd6TlpGR1lFRDF5SVN6Nk9TVDJ4OThsaGNMN19HUGEweW9UbTVSWTZmNUU0N0NhWkFjMFppMjJwMjY3dThNeEpEYWd6XzRzQWtYanZfQjZnZXluOExNN3RiMlZ4eXRIWF9jaWxrNXhsdlZaQ0pINmJGc21waWR1UjBsT0RaeVZyNDlkSHZyLTNLNUFUc1RGNmQ3WDNqdVdDVkNSNzVOOVlNdVg0djFZUHNFdUF5TVHSAdQBQVVfeXFMTWFUZkJ4Rzg3dDRtVmZ1bEpjblNOazlaT0d0RUJEYWlvNW9aQzZxOC1TbnZlTVoyLThUN1ZHNHBCSDB2WWhNaTRCU3RnczhYdGYtWERqRjExR1pfcFV4TnBYT2ZQNEthbVhGejBQMlNLemtkcmVYNmVUYUpzY1J6V3QwMjRCeEk2cF9Cc1ROZ0V1MmF0ZGZxbE94dnQ2Q0NDS1ZzR0cwWXVmV2VJUm5XRTZ3bHdtdXU0WmxoNk9sbjNYek80bXV4UEJxb21fQ1dTRTB5eVA?oc=5",
+   "fecha": "Tue, 24 Nov 2026 21:12:00 GMT",
+   "fuente": "Ambito"
   },
   {
-   "titulo": "ANMAT suspendió la elaboración y comercialización de medicamentos que contienen rosiglitazona",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzlJSzJqZjVEaUYzdkt6RGlCWW91eEFyaUlTZ19VZ2EyZ0NJV1ZoYWJpUUpJZjY0dWg4cS1JeVd2WVFadjRsbTBZNlNEbUlBRWRXbklIeFkxUXlFaGlsaG9xUlRrSDhGeDN5S1JTdmkxLWxCd1FObF9uaEl6Vmp5VlV6SGVDOTJGYkNRV3JsQ2piQVJQblBQd25fLVBGVXdhOE1ITllMdXdoTWZvLUJRVHZYODRiMlhV?oc=5",
-   "fecha": "Wed, 25 Nov 2026 11:43:52 GMT",
-   "fuente": "Argentina.gob.ar"
+   "titulo": "La Policía de la Ciudad, cada vez más violenta en el espacio público",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlBEX3ZJN2tkdnl1VWtZdkZmNm5BNFBGVzdlV3hudWtFMFRqY3FXRHg4Y082LXNhRVlIYTNCMVprY0RNNk5yTmdzQ0V5ZWswUnQxVmNWWTRieWwzaWRkYUVueHVwMi1vNXpra0hqVEVUM1dUR3VhUl9pR0FjdFZXWFREaU1LczBMQ3pNXy1fM1ktRGJqNlJaUVZKb1FJZkh1T1dadlZPekl2YW8?oc=5",
+   "fecha": "Wed, 25 Nov 2026 22:10:33 GMT",
+   "fuente": "Página|12"
   },
   {
-   "titulo": "Juicios laborales: el Gobierno proyecta 135.000 demandas este año y un costo millonario para el sistema",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONC1DR1U4aXdaekVJcC1hNDQzRDNqLXNrcElMSnBkZ0JLRXhsYVpxOGxkcDJIX3Jwa0dXWi1XeTZDSGRoazByekpyNW9qanA1M1dZQ2t4RUh6aFZUbTNtV1VXTm1MdTVabGdERHNhUEU1U21Ld2ZBVmZreHc3cVkxMkdNY0tNUm90b3ZYZVdVT1M4Y3VWVmIzdlpVVlp5QjliNnFqVHlxdEJqYUlkUHB4ZUgyU2JPd3kzV1JBYk5abkREYm9HSkFEbS15QWpFdVMwb2xKaWJmNmJhWmtVY1HSAfgBQVVfeXFMTlQydFRBYkpkY1NYSGV2Vkg4aXpqdHgyRXlzY1B0bjZ0VEhWTDVuSnVldWJ5T21Jai1PWVNlT256M082U2ZIM2JZX2pjRW5jZmlsYmhvU0dGNkVBb3luR01DZEV0UGRrSkRtQXhPZ3ppWlZTM3FGZ2VqTDNpcFFlOVlxYWhYak03YldBbGVUeGxiUVV0TWxpemZPNU9RM3RtQjJBb0RRQjdaWGdTbjliYnBSeTNwMTd3M2lDT1FUSkpSUUNUdXVkWUZpTGxaVmItUFZqQ3MteXp0eFZhM3JWV01yOU5rLVpDSTRHVHBuc1RQTjNfQWpScDI?oc=5",
-   "fecha": "Wed, 25 Nov 2026 15:13:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "Provincia presentó en Avellaneda seis nuevas ambulancias que serán distribuidas en la región",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOFB0MS1PZklmMEZ1R1VlOHRCRTFYSU5iYWRheW5GaWFvTno2MTIydlMzV3IxaDBMY1NhMEIwZnlMQkxHdzdaeFN3UTA2NWY4czlBWEU3RnBHRjRsLTRpbTBMenotSFhTWV9NN0llOHJsejRnTGJDZVdpSENlWW51ZV9hUkZROF9DNTRMUzdfZnM2M0JITm5fWE5BeUd6VDdIaHk4cV9fdGZuQVFfVkxzRUttMGdkXzJ5VGx6cXkzSzdUNkxjczh2MQ?oc=5",
-   "fecha": "Wed, 25 Nov 2026 11:26:13 GMT",
-   "fuente": "ReconquistaHOY"
+   "titulo": "Ravier salió a blindar a Caputo en medio de una disparada del riesgo país",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS00xa3dzNHoxZExXQ25BWFJSQUNTaEZfM2ZSUFhLV1pUcGhkcFNCNGtMbDg3YUYxZmtpbTc3T21rT0VnaEVpa3g2UnNXQmI3UVQ2QTdmVi1OQnlvMllWNHpPc3VNT3JQTThjVzlQbE1QUTI3bGhFV3NkY2J2TXd6c252Z3J4SkJEdHV6V2hfcHZRNUpKRi1sUk5QdzFIdXQzckg1eHAzdEgtOFgtLUczQUlEYw?oc=5",
+   "fecha": "Tue, 24 Nov 2026 19:09:07 GMT",
+   "fuente": "Página|12"
   }
  ],
  "finanzas_argy": [
