@@ -503,9 +503,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-26T13:35-03:00",
+ "actualizado": "2026-11-26T14:01-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -566,22 +567,28 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Lamelas sale al rescate de Milei y le gestiona el apoyo de Trump",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObE9XRGNWSDJZZFpNWVlpUnZyTVY2WGVpOHZtMVFUeHIzTWdRYzhCdG0ydG1QbG1TOXVSS0hrRmFTdDBEamJhbEhpNXQ3U3ZKSW1VbGdvcjBEUlBpQ3VKM1VkOWtRQ1hDaWJhRklUaFFEWUpEbm1mUXluOWEzS1Q3NzdEU0Y0bHR0dEFXcGVvS0hqSjZjYmR6M3R0bzhxYXhISkpaNGFxMW9JLThu?oc=5",
-   "fecha": "Thu, 26 Nov 2026 12:27:11 GMT",
+   "titulo": "Milei viaja a Paraguay para encontrarse con Alliana",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmRPY0YzVElUdDNDcVdyOHlOUGlHUGw2NmJvMmZwWUlzRGZSV3E0bnJXeFFSQmdqMTV1RFlaTVdoZW96c19NY3BhVFlXS2llNDF5Sm82WjUyN08xcTI1OVFJamwyRlRrdXctRHVKaE1WNVhhRVoxQm03NUQ1YnZETGRuUFA3RWMxUERYOXRwYndGcU9LMFE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 19:50:53 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "\"La bandera, hasta la cintura\": en Malvinas redoblan las reglas para los argentinos que visiten el cementerio de Darwin",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU2twbmhCU1JneU9HS3BhQUlOSmpWTlFfZWZWa0dRT21CS2JnM0RrVUFrbWUyMlZIeXdhc3V5ZzZEUnJYR0lOeHMzaU5sWTkxNGxEN1RnTUZtV1lNU0pIaGJ4NXp3WVQxRFlpVG9DUkVpbDF1Y2xmbjVxQS1qNFlVam43MG1RQXJDRmRXMzJCUWl5RDNvaGM2THMtdVNjZWdoN1N6aWU2SkJoSnFMdmRuY2U2eVotUllvNlRscEpLd3M3RUY2RFE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 16:48:41 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
+   "titulo": "Peter Lamelas, el embajador de Estados Unidos, se reunió con Trump y habló de Milei: “Me gustaría volver a verlos juntos”",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb21NVjJpN2tGTE5XM3hSUG1xZDJFdTBxS0F0bUI2T3phUU04cTQwbXpwYWd4VVhQNzlfYkt3ZmFobDA3R2NYUjVXb1pFWmFoOTVJaFliU0lLN3Z5c3dhU1lpbXNyMFo0LWxUdzhRZU1VUDVaY01yVERDWExCdGh6ZWJfU3hzUHVCdmpwdk04UThuZVViakVZMXlVLXhiRVpvWUdTN2EzVnV0VGhlcTZ0WTNodU9vSXFDYVFiZnhEYUxFZ3pWRDBwMVBXdllTTkFzbi1EZGMzbk5wWHpKVzdfd2Z4UHc?oc=5",
+   "fecha": "Thu, 26 Nov 2026 12:32:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Elecciones en España 2026: cómo votar en Argentina y todo lo que hay que saber",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0FJa3Z5ckVSUXdPMFhyZGVScVJYUlBnd1JHYVNvNDJCRWtjakhUZ0hYX0VHWEljNTdVLUZsOVBUNnFndWVnS2dkYllrZDdBRVhnbkdrSUV0cjQxSF9IcTBNUnczV1JRUWZOZy1HWXdmeENVM1FUVnRiWm9tdUF6dWo0Mk1NMWppQ0xER042a2w4d3VTMmw4blFxc0NIYjREQXJJSEFHUm0zVkVaWURwVmMxUmJiNHJIMWVMYTFlSdIB2gFBVV95cUxNTWdFSk9zVEdsSXQyRlhTTGR3RXV0OEZNRG9ibkFJWTdkdkJIWEFLOXNocjBYWHNha3BaUlhCMlBmc29OWVB6Sk5DazhadEpVMGt6Z2hOZG5pU1VtNWZnUEI3UFBzQlZuRkJJb05BR0NGX0R5bDFGWmZZelpFQWIxYWVMRTk1Tks2cVFQWkVfVnVZLXFocWNFMzNIb3FlcWNCbWtOVmF5Sk4yaV85ODg5ZnhOV0Jlb0IxcTZZNlZEODZBT2lxeFVLTkFvdEowWTJvcWpXejdLdExZZw?oc=5",
    "fecha": "Wed, 25 Nov 2026 14:32:00 GMT",
    "fuente": "Infobae"
-  },
-  {
-   "titulo": "En medio de la crisis, Milei canceló una actividad con Luis Caputo en Corrientes para extender su agenda en Paraguay",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb3l6dC1XNElCRThrS25PemsyUkN0eUFVNlBnLXFnRFFadXFWc2FGQzRGNmRmcWtWUndQWGZuQzdqMUZmMTU3VmM3UUl1djdRZEJIZE90VUJYZGlKTG5UN2RqaDBBVmd5UEp6bFY3bkVSM1ZxWF9iVFVqZk5oM0l4aXNrdktHUi1WakIyenIyZUV6X0c0WW52dGwtWTZueEY4NG12OFVYdkxxZktWenp1SkFSenpOM3d6NW1TZFRDaFRuZXAwdEpoTFI1NDE0NTFNanl3TVktVmtQZk1JZEVnZnpNVWR6elVsTGZmbXd4Vk5rUQ?oc=5",
-   "fecha": "Thu, 26 Nov 2026 01:03:47 GMT",
-   "fuente": "Perfil"
   },
   {
    "titulo": "Marcha en La Plata por el Día Internacional de la Eliminación de la Violencia contra la Mujer",
@@ -596,10 +603,28 @@
    "fuente": "elDiarioAR.com"
   },
   {
-   "titulo": "Diego Santilli acude al Senado a defender frente a la oposición el ajuste en el gasto social y el rumbo económico de Milei",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXl1ZmFpcVpXdkNLYWJ6ejlJWmstSnFsUl8xRHBHdTQ1ZTFvTHhoYlppR2pOREIxZGszSzZzMXZzS2VVcGt0eG5jX0pNNTdDVkZKZ2J2cUZ2cFlaaERjNUJOWW44aFowcHhpNVZrWHh0d0pCZkVONWtSd1E0MjMwZ0tXaXRTTFhSRFUyTVBTMFVER1U0QkFiWmRUaFZPS2Mwam82ZXA1WERsUjkxX1NLWmpqb1ktYWtLbFlmSzZ1WFBzR0VCY2o1SHV1dUVmZ0dRTTFKbmtqaXZLT0hjQ3BTRA?oc=5",
-   "fecha": "Wed, 25 Nov 2026 13:19:00 GMT",
-   "fuente": "La Nación"
+   "titulo": "Caso “Chocolate”: para el fiscal Garganta, los diputados no ocultaron pruebas",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZUJXSm5KWEgycUdzbzMxbkItMWs1eUtaLTlPVGppUGNfcnpnU0tBUXJlTFZDSllNRGhIUHBPb3lER2xIb1gzbXhmN214aVc5TEtxUW5PZEd5UFRMZFN0WXYxLTVZZnMxOF81OGZyc01fN0NTNkFXaERwV3JDWEIzZFFtOHctRUFKS290SnBiOG0yREZqaW9Kb3d1dVdvZUNqRXJuY3Fnc1c5YVNONE9PM0lWaGpaRHM4TllybzVUTG9pT0xfeFB5dTBxczNZdEhTbmw3alRrdnYwM2FfaV9n?oc=5",
+   "fecha": "Thu, 26 Nov 2026 04:51:00 GMT",
+   "fuente": "Diario El Día de La Plata"
+  },
+  {
+   "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0JULURMTUFqUEo4dTIxWmxYR3FVWmkzcm1wMTZKRkJ3UHJuTV9tUlg5TlF2NUJFSld0eTVUcUtDWjE4SllXX3pBWnJNanhmb3hoaGNoMDMyOWxiSW5JR3RwTnVUU3hzcTdUZ3pOMVRjMlR5VTdvM3phWEw2Y3RGYjYxT0xwejFuYTJicUc5YkJJZzRBTVRlVTloZHphVVBMMEk4ZmpVY0FMYkdkUnExa3ZjTEZJSHNoR0M0NThiUXkwWC1qU2phQw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Cayó una banda de \"viudas negras\" liderada desde la cárcel por una presa",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1NPUmc2cXR2d3k0NzRORXRaTmd1YVpNZmRxN3l2R2VLd21xSmlEU3FXdWt4Q2tYVTRrWTRaRWlycUVJZDhkemw5WmNyVXZsZzZDSFNPdXplQ1ZCYXQwVjNHU0lSRzlJUWthdzlNT2VCc3ZRQk93bnhtdXF2dUdWRnZHazJYMXdOS1RUU3g0QnFScHRENFRVT08yUm13X3RMRW5lVkJoMlNPVFRBVE1JaHVCSTdJdEd3ZmfSAcMBQVVfeXFMT3cwVERVQWJSbHlEaXIxX3hJOXhzTEw5N0FPV0I1YWtqU0JXSS1ha0pyOW9DOGw1eEtZMk5od3VDN015TVJhOE40bmdNMTg2aWpxUGU0Wk40TXB0TVZuYmxOdGV4cFBLTjhfS1B2cFRZeEJMWVYzOTgtRklOUk96QzNrRDlPNW5pdnUwRGFrVzM1azZfQV9SczJjbnlfR3RRQTQtMktBN2hlWk9TdEpnOEF2SnVxdUVVTHVDS1hKV3ZtUEdZ?oc=5",
+   "fecha": "Thu, 26 Nov 2026 12:45:00 GMT",
+   "fuente": "El Liberal"
+  },
+  {
+   "titulo": "Un río se desbordó por las lluvias, hay rutas cortadas y campos inundados",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnRlU2I0bXItczhXUHJub1RBeHkxUGRCTTRhaF9DajVUOExlVEhHZF9UZE51bEF1VnJVdjAzdHNBcEZWMS1LQ3lycHQ5dUxJbUYxN05HS1lMSV9iNU9fN3FSdHJvWlkwSmNucU1UdUJ1R2ljYlNvWHM2d0ljaTdDMU5Lc2FuYWFTNjZUSTV2bFRBX3VzTE1oUE1QMTRXcnk1dzlOQ0VSRWRpM05QVHVfbC1HSWx1UG1iZ0JmdnR1SjY?oc=5",
+   "fecha": "Wed, 25 Nov 2026 23:43:20 GMT",
+   "fuente": "La Arena"
   },
   {
    "titulo": "Provincia presentó en Avellaneda seis nuevas ambulancias que serán distribuidas en la región",
@@ -620,40 +645,16 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "Los Tipitos cerraron la fiesta de Olavarría con un recital ante miles de personas",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWlEwV1BQZFVoeEZvX1RxNE5aTDVHSjNoU19nemRQajJzdEZONEVCMU5QcVNvX1hjVU1VQ3JyeFZXNmJpQ3ZydXFHWVlvUkprR0ZzWTNodFMzMjhpY1FhTGFJSjhzSWdHWm02QlAxVjNObWE2UTdHWnN3MFpTTWpCQ2dZal9NaVFxeFJKY0t2enc4SWRNOC1Yb0lZVkJVUWx6VUlFdG9iZDlOdTg4dWQyNEM0b0VFczFTMDVKZHJxc2dHOW5FRkJ6T0Y2QWNqVWF5S3hF?oc=5",
-   "fecha": "Thu, 26 Nov 2026 03:32:35 GMT",
-   "fuente": "Infoeme"
-  },
-  {
-   "titulo": "25N en fotos: así fueron las movilizaciones en Neuquén capital y Bariloche",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmVDd1IzcXZRVkFXXzNrMFo4Qmh0N3RhazVKRDNBSVZFT1hQYXZ0b0QtV2xFVHMtTFZHN2I5YU44OWJQTldJRi0wOXEwQThLY3l3eUpPb3pMZ1ZlelhlOFZGZkptQXJkZlRrSHdQU0RLSlhqVm5ReVplQjlhN0xPejFjanctRkdGdEdOVzJXUDZUNnFPSVRPRDUzRWdQSThkMnA5dmF4RGV6YUNoS3Y4Z080ZmZPS1hmaHE40gHDAUFVX3lxTE9RQXRMLXVaUjZyRlZqN0ppT2o0eU9QblFQZERIRHU3NXlhNUNUMTRGYWJQeHhtSGgyTDBuT1pCdTMwdTdsbXlrWkg1ZjgwcGJaRTlRS2Nrcjd5MWNPMl9WWmF3MXlJdWVFLXowckI5NTVSRGFDaDFieUp0YmJva3lYVEdfNmJfUHhrQjBaZi1VZW9RVEhtU1RwRko2dVVpUFlyY01vc3RXZHVxLWxmM24tS3JLb2x4NWNVc2ZkamlaTUg5aw?oc=5",
-   "fecha": "Thu, 26 Nov 2026 01:28:10 GMT",
-   "fuente": "Diario Río Negro"
-  },
-  {
-   "titulo": "Un río se desbordó por las lluvias, hay rutas cortadas y campos inundados",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnRlU2I0bXItczhXUHJub1RBeHkxUGRCTTRhaF9DajVUOExlVEhHZF9UZE51bEF1VnJVdjAzdHNBcEZWMS1LQ3lycHQ5dUxJbUYxN05HS1lMSV9iNU9fN3FSdHJvWlkwSmNucU1UdUJ1R2ljYlNvWHM2d0ljaTdDMU5Lc2FuYWFTNjZUSTV2bFRBX3VzTE1oUE1QMTRXcnk1dzlOQ0VSRWRpM05QVHVfbC1HSWx1UG1iZ0JmdnR1SjY?oc=5",
-   "fecha": "Wed, 25 Nov 2026 23:43:20 GMT",
-   "fuente": "La Arena"
-  },
-  {
-   "titulo": "Las universidades, contra el ajuste en el presupuesto 2027: “Es el golpe de gracia”",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW9CS21fbFBMOFItalZmX0FZTXZoblJBdUdrakR6azRYcWdqbVFVWnZHdTJQbXo3czYtRWU2ejdzMGNwTHRoUEhuRmktYnQwN2JpTjNHX012dXFrQ1pzNE9iNk9pY2VITF9FWGNrR1R2RDdqaVlzV01wQjVPWldwSEtoNnp5N1g4LW0xdFk2cWVpVllTblV6bHgxaURySUZrZ2VWMkRRM2JKOTBlczJJMGU2OGVTUVg2QzlN?oc=5",
-   "fecha": "Wed, 25 Nov 2026 23:27:50 GMT",
-   "fuente": "Página|12"
-  },
-  {
    "titulo": "Río Negro definió la empresa que hará la obra de la Ruta 22 en Puente 83: qué pasará con el tránsito durante los trabajos",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQTF4cGFfWjlVY0l3RjljWW9ZdWNQcDRheDZqazFIMU5jcU42Vmh5N1JNbXVvNEg2TC1udGhYaDZsdFRuWDZ2TWpSWGktb21IeUpuTlYxZWFlWXJjTTdGVmUxejNRZ2ZFSDBvZ29kbFR4NUMyTG1GbG8xVGxES01XRUUxM19aSjhKWHM4b3czbW5nWDk0dXJoMmxjYVZ6WUhfcWtYbC1kTUpzNHZJZ1ZpZE80WUhuWGlxRFhJTjNBYkFzVlUwME1rZ01YcENzTjdUVUV0U1Awa0NjMW45UThFVmtEY0VWSnlNX2Z2UE9pTUtpNXIxei1Sd2t30gGCAkFVX3lxTE1vN0VSM0RjSW5HZUc0LWpOcUZhbmdUVksxa19jWUZrdnhzbnlUb0FWbTQ4MTVKcVNfTHJaa2p5aFZtelFmLTR4MlBpUXNLVXFtUGFpTW14dzEzWTRvSk4wN1BraEFKeWVORUNSWURIdzJXWGxrQmxoWTlnb0NXN0xiWXUwODY2bHpaTmNMaFVGUTZwZmxGcWgxS0xWbzZRMEplVlR3Tm84amZ1MTc1Qjd5QlRXYTFsNVA3WkIzb1NSdmlmZUFzWnBDa3hCbDBnVVhvemoxNThLVlFuUUhpZnltM0VfME4wVGlVSWNHMGQtR1VKNk9aQzh3WFBkdDhnQkU0UQ?oc=5",
    "fecha": "Wed, 25 Nov 2026 16:57:06 GMT",
    "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "Juicios laborales: el Gobierno proyecta 135.000 demandas este año y un costo millonario para el sistema",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONC1DR1U4aXdaekVJcC1hNDQzRDNqLXNrcElMSnBkZ0JLRXhsYVpxOGxkcDJIX3Jwa0dXWi1XeTZDSGRoazByekpyNW9qanA1M1dZQ2t4RUh6aFZUbTNtV1VXTm1MdTVabGdERHNhUEU1U21Ld2ZBVmZreHc3cVkxMkdNY0tNUm90b3ZYZVdVT1M4Y3VWVmIzdlpVVlp5QjliNnFqVHlxdEJqYUlkUHB4ZUgyU2JPd3kzV1JBYk5abkREYm9HSkFEbS15QWpFdVMwb2xKaWJmNmJhWmtVY1HSAfgBQVVfeXFMTlQydFRBYkpkY1NYSGV2Vkg4aXpqdHgyRXlzY1B0bjZ0VEhWTDVuSnVldWJ5T21Jai1PWVNlT256M082U2ZIM2JZX2pjRW5jZmlsYmhvU0dGNkVBb3luR01DZEV0UGRrSkRtQXhPZ3ppWlZTM3FGZ2VqTDNpcFFlOVlxYWhYak03YldBbGVUeGxiUVV0TWxpemZPNU9RM3RtQjJBb0RRQjdaWGdTbjliYnBSeTNwMTd3M2lDT1FUSkpSUUNUdXVkWUZpTGxaVmItUFZqQ3MteXp0eFZhM3JWV01yOU5rLVpDSTRHVHBuc1RQTjNfQWpScDI?oc=5",
-   "fecha": "Wed, 25 Nov 2026 15:13:00 GMT",
-   "fuente": "Infobae"
+   "titulo": "Los Tipitos cerraron la fiesta de Olavarría con un recital ante miles de personas",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWlEwV1BQZFVoeEZvX1RxNE5aTDVHSjNoU19nemRQajJzdEZONEVCMU5QcVNvX1hjVU1VQ3JyeFZXNmJpQ3ZydXFHWVlvUkprR0ZzWTNodFMzMjhpY1FhTGFJSjhzSWdHWm02QlAxVjNObWE2UTdHWnN3MFpTTWpCQ2dZal9NaVFxeFJKY0t2enc4SWRNOC1Yb0lZVkJVUWx6VUlFdG9iZDlOdTg4dWQyNEM0b0VFczFTMDVKZHJxc2dHOW5FRkJ6T0Y2QWNqVWF5S3hF?oc=5",
+   "fecha": "Thu, 26 Nov 2026 03:32:35 GMT",
+   "fuente": "Infoeme"
   }
  ],
  "finanzas_argy": [
