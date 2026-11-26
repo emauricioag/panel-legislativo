@@ -34,6 +34,11 @@
   "modo": "directo",
   "items": [
    {
+    "organismo": "Boletín Oficial 25-11-2026",
+    "link": "https://www.corrientes.gob.ar/29215/boletin-oficial-25-11-2026",
+    "detalle": "Archivos: 25-11-2026.pdf, Anexo BO 25-11-2026 - Consejo Prof C Economicas.pdf, Anexo BO 25-11-2026 - Min de Hacienda.pdf, Sucesorios 25-11-2026.pdf"
+   },
+   {
     "organismo": "Boletín Oficial 24-11-2026",
     "link": "https://www.corrientes.gob.ar/29208/boletin-oficial-24-11-2026",
     "detalle": "Archivos: 24-11-2026.pdf"
@@ -41,7 +46,7 @@
    {
     "organismo": "Boletín Oficial 20-11-2026",
     "link": "https://www.corrientes.gob.ar/29201/boletin-oficial-20-11-2026",
-    "detalle": "Archivos: 20-11-2026.pdf, Anexo BO 20-11-2026 - ACOBE.pdf, Anexo BO 20-11-2026 - Ley N° 6769.pdf, Sucesorios 20-11-2026.pdf"
+    "detalle": "Edición publicada"
    },
    {
     "organismo": "Boletín Oficial 19-11-2026",
@@ -56,11 +61,6 @@
    {
     "organismo": "Boletín Oficial 17-11-2026",
     "link": "https://www.corrientes.gob.ar/29179/boletin-oficial-17-11-2026",
-    "detalle": "Edición publicada"
-   },
-   {
-    "organismo": "Boletín Oficial 16-11-2026",
-    "link": "https://www.corrientes.gob.ar/29175/boletin-oficial-16-11-2026",
     "detalle": "Edición publicada"
    }
   ]
@@ -503,9 +503,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-26T10:04-03:00",
+ "actualizado": "2026-11-26T10:30-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -560,28 +561,22 @@
  },
  "nacionales": [
   {
-   "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0JULURMTUFqUEo4dTIxWmxYR3FVWmkzcm1wMTZKRkJ3UHJuTV9tUlg5TlF2NUJFSld0eTVUcUtDWjE4SllXX3pBWnJNanhmb3hoaGNoMDMyOWxiSW5JR3RwTnVUU3hzcTdUZ3pOMVRjMlR5VTdvM3phWEw2Y3RGYjYxT0xwejFuYTJicUc5YkJJZzRBTVRlVTloZHphVVBMMEk4ZmpVY0FMYkdkUnExa3ZjTEZJSHNoR0M0NThiUXkwWC1qU2phQw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
-   "fuente": "Página|12"
-  },
-  {
    "titulo": "Con los votos justos, el Senado trata la reforma electoral que suspende las PASO en 2027",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc01HTnN4NGRuVUF1WWxhVFB4YVdLNC1FX3M5RGVqaGk3U19SM2JpZjdtSVpleDI1TzBNQm05d3hQMWNDSHdSOHdxQnpiTndrSzZBY0M5akdUUDRMR3htZ0VBenpkVnEwWVdZaGlHZEJWbW5sR0NOSkFRN1htS291bWM3SER6aXhFdWdXRURCZjFRaUdrZVRpSnhsTkRMYXc2LVE0QnZrYV81TzdkOWVrNmlB?oc=5",
    "fecha": "Wed, 25 Nov 2026 23:09:58 GMT",
    "fuente": "Clarin.com"
   },
   {
+   "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0JULURMTUFqUEo4dTIxWmxYR3FVWmkzcm1wMTZKRkJ3UHJuTV9tUlg5TlF2NUJFSld0eTVUcUtDWjE4SllXX3pBWnJNanhmb3hoaGNoMDMyOWxiSW5JR3RwTnVUU3hzcTdUZ3pOMVRjMlR5VTdvM3phWEw2Y3RGYjYxT0xwejFuYTJicUc5YkJJZzRBTVRlVTloZHphVVBMMEk4ZmpVY0FMYkdkUnExa3ZjTEZJSHNoR0M0NThiUXkwWC1qU2phQw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+   "fuente": "Página|12"
+  },
+  {
    "titulo": "Informe de C5N: turismo para pocos y riesgo ambiental en el Perito Moreno",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWhJMnpSTTl4eUR0QzVXWXZrelAzbUN0Z2l5aXEwSjBMWjZpbDFkckhKRnAtQ1JiMUVxUzlTektUWWU2a1hYQWtNYzFBM1VfOV80S3o3ZnFpLTRPSHo1V1BQMXRRRGR3Zm56VGRNM0xrZ3o2YXA1MzRtSHM2bUNBamFGYnhiRlpEaUpZbGJ2NU9MVGU3MTViNHdfT3BPSnAwRmxzNVBFUy3SAagBQVVfeXFMUC1oSTJ6Uk05eHlEdEM1V1l2a3pQM21DdGdpeWlxMEowTFo2aWwxZHJISkZwLUNSYjFFcVM5U3pLVFllNmtYWEFrTWMxQTNVXzlfNEt6N2ZxaS00T0h6NVdQUDF0UURkd2ZuelRkTTNMa2d6NmFwNTM0bUhzNm1DQWphRmJ4YkZaRGlKWWxidjVPTFRlNzE1YjR3X09wT0pwMEZsczVQRVMt?oc=5",
    "fecha": "Thu, 26 Nov 2026 01:25:40 GMT",
    "fuente": "MinutoUno"
-  },
-  {
-   "titulo": "En medio de la crisis, Milei canceló una actividad con Luis Caputo en Corrientes para extender su agenda en Paraguay",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb3l6dC1XNElCRThrS25PemsyUkN0eUFVNlBnLXFnRFFadXFWc2FGQzRGNmRmcWtWUndQWGZuQzdqMUZmMTU3VmM3UUl1djdRZEJIZE90VUJYZGlKTG5UN2RqaDBBVmd5UEp6bFY3bkVSM1ZxWF9iVFVqZk5oM0l4aXNrdktHUi1WakIyenIyZUV6X0c0WW52dGwtWTZueEY4NG12OFVYdkxxZktWenp1SkFSenpOM3d6NW1TZFRDaFRuZXAwdEpoTFI1NDE0NTFNanl3TVktVmtQZk1JZEVnZnpNVWR6elVsTGZmbXd4Vk5rUQ?oc=5",
-   "fecha": "Thu, 26 Nov 2026 01:03:47 GMT",
-   "fuente": "Perfil"
   },
   {
    "titulo": "El Senado se encamina a aprobar este jueves la ley de ludopatía tras cerrar un acuerdo con la oposición",
@@ -596,10 +591,28 @@
    "fuente": "Diario El Día de La Plata"
   },
   {
+   "titulo": "En medio de la crisis, Milei canceló una actividad con Luis Caputo en Corrientes para extender su agenda en Paraguay",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb3l6dC1XNElCRThrS25PemsyUkN0eUFVNlBnLXFnRFFadXFWc2FGQzRGNmRmcWtWUndQWGZuQzdqMUZmMTU3VmM3UUl1djdRZEJIZE90VUJYZGlKTG5UN2RqaDBBVmd5UEp6bFY3bkVSM1ZxWF9iVFVqZk5oM0l4aXNrdktHUi1WakIyenIyZUV6X0c0WW52dGwtWTZueEY4NG12OFVYdkxxZktWenp1SkFSenpOM3d6NW1TZFRDaFRuZXAwdEpoTFI1NDE0NTFNanl3TVktVmtQZk1JZEVnZnpNVWR6elVsTGZmbXd4Vk5rUQ?oc=5",
+   "fecha": "Thu, 26 Nov 2026 01:03:47 GMT",
+   "fuente": "Perfil"
+  },
+  {
    "titulo": "Un afortunado santafesino ganó más de $1.100 millones en el Quini 6",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOF82UHZFZXRtS2JfV1FkaXhVcHpUQjFUanczMjhDN1BsZXp1cDNxZ3hUZUd3djNONVQ4V0pUakRmY3dRRTMzbmM3RGpvTnVod3c5TGlrVHJQaFdKTkxVZ0JEZzRVTTFQWkxKU1pEaEJzakw1T0lMVHJQemFvRnBZdHEwdnczZHVJaG84dFFnQWQ4Y2pNaWNoRjJZdUtCT2FhRW84RS0ta25IbmEyRXpiQ1JxRm5DTlBadlQ4bkxJYnA0RXVr?oc=5",
    "fecha": "Thu, 26 Nov 2026 02:21:59 GMT",
    "fuente": "El Litoral"
+  },
+  {
+   "titulo": "Un río se desbordó por las lluvias, hay rutas cortadas y campos inundados",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnRlU2I0bXItczhXUHJub1RBeHkxUGRCTTRhaF9DajVUOExlVEhHZF9UZE51bEF1VnJVdjAzdHNBcEZWMS1LQ3lycHQ5dUxJbUYxN05HS1lMSV9iNU9fN3FSdHJvWlkwSmNucU1UdUJ1R2ljYlNvWHM2d0ljaTdDMU5Lc2FuYWFTNjZUSTV2bFRBX3VzTE1oUE1QMTRXcnk1dzlOQ0VSRWRpM05QVHVfbC1HSWx1UG1iZ0JmdnR1SjY?oc=5",
+   "fecha": "Wed, 25 Nov 2026 23:43:20 GMT",
+   "fuente": "La Arena"
+  },
+  {
+   "titulo": "Las universidades, contra el ajuste en el presupuesto 2027: “Es el golpe de gracia”",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW9CS21fbFBMOFItalZmX0FZTXZoblJBdUdrakR6azRYcWdqbVFVWnZHdTJQbXo3czYtRWU2ejdzMGNwTHRoUEhuRmktYnQwN2JpTjNHX012dXFrQ1pzNE9iNk9pY2VITF9FWGNrR1R2RDdqaVlzV01wQjVPWldwSEtoNnp5N1g4LW0xdFk2cWVpVllTblV6bHgxaURySUZrZ2VWMkRRM2JKOTBlczJJMGU2OGVTUVg2QzlN?oc=5",
+   "fecha": "Wed, 25 Nov 2026 23:27:50 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "25N en fotos: así fueron las movilizaciones en Neuquén capital y Bariloche",
@@ -608,10 +621,22 @@
    "fuente": "Diario Río Negro"
   },
   {
+   "titulo": "Milei habló con Infobae de su nuevo libro: “En el paraíso no hay tasa de interés”",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNV9iNW1wT2NRM01ISjVwTlFXWENaRFpNb05sVlNWLWJxTF9FQWJ2ek1CenVrSXJLcnlOaGR6UFZwOExUdGhuSmpBdF9nenRjTVkwUURGZjNOYmlRSDhzM05VM0gtVnhYd1NiYnQ0QlNpSU1hdWJzTk1SZlJkRnYwYjR6T21Kam5vZlU5b3ZlZzhRNXEzb1RFNkY1Vk5fQXpmQ1VTdmRyeWhvOFo3Yi1NS2N6UHU4NjNDQWEwX044UdIB2gFBVV95cUxOenBLbTJKZkotMkhpZW5SVjlqSlpWV3ZnMGxoS0t4N3gzU29vdTI4S29FRW90b09idG9GVDFmWmdmVmRiVl8tNEtqZmRPdGZuNUJwM2tZZkNzblVNcDVlQl9VWjRhMi16aDFRWVpwSXFCR19aY3RJamJmSWpxSDR0eXR4cm9LazRwS2dQMnFUbTg2RjFydDRGZjR3M2xtOHJxX1NjdGJ3RW5wWGc4aHRJTE1aeEhscUI4enZYRHFHWmlwRXRkZ1ZmcVZaa1BWaUNtMS1EYlRGM0ZrZw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 19:46:44 GMT",
+   "fuente": "Infobae"
+  },
+  {
    "titulo": "Provincia presentó en Avellaneda seis nuevas ambulancias que serán distribuidas en la región",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOFB0MS1PZklmMEZ1R1VlOHRCRTFYSU5iYWRheW5GaWFvTno2MTIydlMzV3IxaDBMY1NhMEIwZnlMQkxHdzdaeFN3UTA2NWY4czlBWEU3RnBHRjRsLTRpbTBMenotSFhTWV9NN0llOHJsejRnTGJDZVdpSENlWW51ZV9hUkZROF9DNTRMUzdfZnM2M0JITm5fWE5BeUd6VDdIaHk4cV9fdGZuQVFfVkxzRUttMGdkXzJ5VGx6cXkzSzdUNkxjczh2MQ?oc=5",
    "fecha": "Wed, 25 Nov 2026 11:26:13 GMT",
    "fuente": "ReconquistaHOY"
+  },
+  {
+   "titulo": "Abusó de su sobrina de 8 años y la quemó viva: condenaron a perpetua al femicida de Guadalupe, el caso que conmocionó en Lobos",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGFDUkc4enZTYWxnTkpGQ1RxQWUzVmJDWWROVWJfTExUb3VhU3Nyc2l2bW5RTE5qZWFDcFN4YUkxUDYyQk03LUFweHJPcVZWcDF1OEJvOUtsemRsMWRUOWpDdmMwUVlzQVRqWVhjZENYdnpOUkdaNlhEb3REdkF4WXl6eVpJNUUwTXZfd1lBajFWR3ZsNlg5NnhKM2h4c0tLN3FyWFRlTTRMNU9Pdjdtam13cTM1X0pUTTBMaXozSUp6eWtBajdXVTd3cnRXQk0yanR2bVliTzRzempPNEVxS3pQSDdXdlpoRnY0RtIBgAJBVV95cUxPbDJfczBUVU05SVhZT2Z1NVV0c2tLVmNfaGktQWdvR1R2dE1ETHNQZF9ncU9ncko0SnZINVVTUGZxUUJ0eXZTVnNiS05seU83U2tmZ3V0LXNERDh4RDVQQmhiNUVIN01Pa19tRkFOMVhsOER1ZWNJcktnblltblh6eWVWVExtQUdVZTRFSmtIZENuNEJMblJ0dWNNQWpYWlRvZGNOZi15Q2t6OHZXQ1NUZk5GSUZlMmtlLVZydkh2S1ZOREhWSHR6VHNwU2FrT3FBX0xqam9wbFpEM3NHQVdTZTJSVE5CamUwMlg2TzU0dGt6VXM5VkVOeTVJaUxma210?oc=5",
+   "fecha": "Thu, 26 Nov 2026 11:23:05 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Río Negro definió la empresa que hará la obra de la Ruta 22 en Puente 83: qué pasará con el tránsito durante los trabajos",
@@ -626,34 +651,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "Luis Caputo minimizó la recesión técnica y desestimó que la suba del dólar se traslade a precios",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2UwQ05VdXFwMm5BVU1Za0JQODFTMUk2STFrbkQ5ZmNVeGVNQUgxMHhaOWhNOFhQUmpCVDgyclJkMUN1Rl9vb3pDNVZMN2VyM3E1WFlURUo3Y1IzVHNCRWF3bkkzSGZGUnpJTWtXX3ExUWMtbzJldzJpSXdtUmJOODVjWHN0M0N5S1I3bWRvSFJjMzN5OXROX0hfa0owNXNwTmdoenBOczNNUmhZTVIwQlM5dmxWSFNpaFBWSXdrTzhHMGdMaVJwNkhEQk5zZ3F60gHkAUFVX3lxTE9sdDB2S3NjREtULXY3QjIwYXNFN2hWSldoWGttZms0YlJCRUJCUVkyYW1RZDhaSWk2UlJJbHRHdzc4eWJXWEVKVzlaaDdDY19IYXFFb1FyOTQyY1hYX0xxNHlaTGpnTlIzVTd2MzRrVkswVmxHZDhMUElkZldERy1PZGhMZXl5LXk0RVJ6SF9DUTJtbUNDb3FZVFJ0cnBHb1pnM2ZTakc2ZW15U2htSGtmMG5TSXVBR0VkdmRVNFhXMlZ1U1RwNV9rb0V3RU1PX1VOMXJmbmtGRGJzZjVkT0RPbFBRSw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 12:58:12 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "Abusó de su sobrina de 8 años y la quemó viva: condenaron a perpetua al femicida de Guadalupe, el caso que conmocionó en Lobos",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGFDUkc4enZTYWxnTkpGQ1RxQWUzVmJDWWROVWJfTExUb3VhU3Nyc2l2bW5RTE5qZWFDcFN4YUkxUDYyQk03LUFweHJPcVZWcDF1OEJvOUtsemRsMWRUOWpDdmMwUVlzQVRqWVhjZENYdnpOUkdaNlhEb3REdkF4WXl6eVpJNUUwTXZfd1lBajFWR3ZsNlg5NnhKM2h4c0tLN3FyWFRlTTRMNU9Pdjdtam13cTM1X0pUTTBMaXozSUp6eWtBajdXVTd3cnRXQk0yanR2bVliTzRzempPNEVxS3pQSDdXdlpoRnY0RtIBgAJBVV95cUxPbDJfczBUVU05SVhZT2Z1NVV0c2tLVmNfaGktQWdvR1R2dE1ETHNQZF9ncU9ncko0SnZINVVTUGZxUUJ0eXZTVnNiS05seU83U2tmZ3V0LXNERDh4RDVQQmhiNUVIN01Pa19tRkFOMVhsOER1ZWNJcktnblltblh6eWVWVExtQUdVZTRFSmtIZENuNEJMblJ0dWNNQWpYWlRvZGNOZi15Q2t6OHZXQ1NUZk5GSUZlMmtlLVZydkh2S1ZOREhWSHR6VHNwU2FrT3FBX0xqam9wbFpEM3NHQVdTZTJSVE5CamUwMlg2TzU0dGt6VXM5VkVOeTVJaUxma210?oc=5",
-   "fecha": "Thu, 26 Nov 2026 11:23:05 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "Miércoles sin clases en La Plata: paro en la UNLP y secundarios con \"jornada institucional\"",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU1c5Z0lJc3BmbVduZUdqWkwwXzNvbi1IVEItX2lsMW9fOGE1c1hTaW1UQ3NxMXN3bkxVbEdCeThhRERRaUtYa004b0VBSUNmY3lmMjBaTWN6bFZVckZadm1xTFp2TnVxbkZiZldBYTJhWno3SGhidTRjTng3dDZ1WDVxVF9jUVFyX2lsUHVRdXJRNllKX3VhSkhRUVFfbnd1MktxNlQyWU5yWG9CdWt3RS1Ndk5penMtUGtrbU94Y3NfbkpSUW9qQ21QZnRGNjl3bVlLTGEzVlc?oc=5",
-   "fecha": "Wed, 25 Nov 2026 11:41:45 GMT",
-   "fuente": "Diario El Día de La Plata"
-  },
-  {
    "titulo": "Una turista argentina murió ahogada en una playa nudista de Uruguay",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVE5OVnNwSXEtWkQ5TTRqUGl2SkliY1VFRTlOWnlneU51aFFOYTNnWkFPUDJBaUxOSWtqbEVKTTVVdXJxQlp4Y3ViU3VyVjE2dXJ6bkZCcDNuQlpIMUFtaFhWYU1nMGlvQUxtSl9pWTF4TGJlakV2UFJsRnlvWXN2UVRjb05vOXNYTUZfU2h3WnZNeTIwbGVjdnFHZjRkaF9mU0ZB?oc=5",
    "fecha": "Wed, 25 Nov 2026 23:48:44 GMT",
    "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "Inauguraciones en Santa Teresita y en la sede del Banco Provincia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWc3V3N5dmRYRUtNR0FSc0NWT1htU1pRM1ZEbFpOdWRqVjdJU0VaRlZ0NGtqRHdYY1RWNWNRUEhNckZLOUFwM0xPSzd1cm12eVRtSTRVT2x4eUdDVWQ4Mnk1dUlRblRWSG5td3NieGpRZmVnZ0hIY1VWSXlZWUJQVnBta09Ud2ttemxrQV9TbmtfQWFvYkFZVDdINmpUekNF?oc=5",
-   "fecha": "Wed, 25 Nov 2026 22:58:53 GMT",
-   "fuente": "La Voz del Pueblo"
   }
  ],
  "finanzas_argy": [
