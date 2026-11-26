@@ -12,8 +12,8 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1672.3,
-   "venta": 1672.3
+   "compra": 1661.7,
+   "venta": 1667.8
   },
   {
    "casa": "Contado con liquidación",
@@ -503,9 +503,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-26T11:49-03:00",
+ "actualizado": "2026-11-26T12:16-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -566,16 +567,28 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Lamelas sale al rescate de Milei y le gestiona el apoyo de Trump",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObE9XRGNWSDJZZFpNWVlpUnZyTVY2WGVpOHZtMVFUeHIzTWdRYzhCdG0ydG1QbG1TOXVSS0hrRmFTdDBEamJhbEhpNXQ3U3ZKSW1VbGdvcjBEUlBpQ3VKM1VkOWtRQ1hDaWJhRklUaFFEWUpEbm1mUXluOWEzS1Q3NzdEU0Y0bHR0dEFXcGVvS0hqSjZjYmR6M3R0bzhxYXhISkpaNGFxMW9JLThu?oc=5",
-   "fecha": "Thu, 26 Nov 2026 12:27:11 GMT",
+   "titulo": "Milei viaja a Paraguay para encontrarse con Alliana",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmRPY0YzVElUdDNDcVdyOHlOUGlHUGw2NmJvMmZwWUlzRGZSV3E0bnJXeFFSQmdqMTV1RFlaTVdoZW96c19NY3BhVFlXS2llNDF5Sm82WjUyN08xcTI1OVFJamwyRlRrdXctRHVKaE1WNVhhRVoxQm03NUQ1YnZETGRuUFA3RWMxUERYOXRwYndGcU9LMFE?oc=5",
+   "fecha": "Wed, 25 Nov 2026 19:50:53 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "El gobierno de Brasil analiza invitar a la asunción de Lula a otra autoridad argentina en lugar de Javier Milei",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeklCWmFfdlctRkl0RWtKeGt0am5udnkxQkVnZnVtYWI5Q0JOT0xIQ1QzV0pXQWczY2w5V1FLX0tnU09hMU8zSXZKN0NzRWRjOGhlT2NMVUFidGdBaXRDVFZNNkVNOE9xbmxjVktFWlcxdXJ0MzF6S2Zmb1hYY0dVQjlDZnFkWUkwRk4yMnhYUElwamJrWkV6dGJFY2hlVk1Heno1bTY5N0R1VGVUaHNFTGE2dTFnMGNyWWZORWdWNlFfTnh1cU5VckZrQzdCSC0wQnRLUUVPdGtzNmdWV3kwdm9uVzB1M1UwT0lV0gH_AUFVX3lxTE1KLVYyZlZidXVGM092WTQzcnNyVTcwWkZZRm91VzA0QU40WVdJLTJfbWg3azlNOFNTdnhtRDRrMHRoOEVmSi1aWU9ZVjV4VFJVX3NoMHRPV1JNYzh1emt5SFZReEJQSzR6OThKaVVqelQtU1lXYThiRi1nU2dfSE4zQVZhTzljTlA5M0VTV1pMaXZxQm9hQVZhY0RiekluVkFjU0o4S2p3UTNEZXp5VFJFbkRod0l0bmtrVzEtSnFwajJNN1JUTG9tU1lLWG5zUXE5QnBzT3B6emUxYW5UYzR2Zk1XeWhBUGc2RlBYdUNmejhvS1hsam1hZ3dvT1ZBRQ?oc=5",
+   "fecha": "Wed, 25 Nov 2026 20:28:29 GMT",
+   "fuente": "TN"
   },
   {
    "titulo": "Santilli habló del oro del Central, elogió a Bullrich y defendió el plan económico de Milei: “No se cayó a los seis meses, hoy va por la reelección”",
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTENXbVNkdXE4clNMcnE0VWdpU0labW84YVNlT1l2Uk5GbFBEeTEyZDJuRnQ5bTdITFFsc2FTemlMbTY5WUJyREFMSU5HcjVkWjdKVDZNQ0ZDMHY5a1oySlRGMVlkRnJBUDIxWmdaQ2pHVHRCblRZTEdzYWNYWGZqalp6WF80dW9YdVZqWUREREdzaFozejFabE5mczVwT0ZTYlhhRDNEeHdhdjJ1dGhsMkpTTGlxQ2Z6eWZoT1lHRE5SWWhjQjJmOW9LNV9HYlM2TE5qYWdXMjBiNmFSV0g4VDNxN2FxWm5ZS0R5VkM2QjRCSEZPN1VPaTYzTW5xZ3pKWUpGTElxWFBpS21iV3ZBM2JsUGJzRzg?oc=5",
    "fecha": "Thu, 26 Nov 2026 02:25:02 GMT",
    "fuente": "Perfil"
+  },
+  {
+   "titulo": "Peter Lamelas, el embajador de Estados Unidos, se reunió con Trump y habló de Milei: “Me gustaría volver a verlos juntos”",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb21NVjJpN2tGTE5XM3hSUG1xZDJFdTBxS0F0bUI2T3phUU04cTQwbXpwYWd4VVhQNzlfYkt3ZmFobDA3R2NYUjVXb1pFWmFoOTVJaFliU0lLN3Z5c3dhU1lpbXNyMFo0LWxUdzhRZU1VUDVaY01yVERDWExCdGh6ZWJfU3hzUHVCdmpwdk04UThuZVViakVZMXlVLXhiRVpvWUdTN2EzVnV0VGhlcTZ0WTNodU9vSXFDYVFiZnhEYUxFZ3pWRDBwMVBXdllTTkFzbi1EZGMzbk5wWHpKVzdfd2Z4UHc?oc=5",
+   "fecha": "Thu, 26 Nov 2026 12:32:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "La Cámara de Diputados bonaerense aplaza el debate sobre apuestas online por falta de acuerdo entre los bloques",
@@ -590,28 +603,10 @@
    "fuente": "Diario El Día de La Plata"
   },
   {
-   "titulo": "Tras la destitución de Santiago Peña, Javier Milei se reúne con el presidente de Paraguay, Pedro Alliana",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcXhRZ2FHZTdaRF9sN1p4WmtNOGdvb242c3BrTDhnN25xaUJBeE4tUXdRa19IRkhmNFpmQjhDaWN3M0dBSUxBMENQSXFpNVdCczJ5MHBTb2hGdjV0OTBpRkUzSHJFaWo5bkwzVHZWbnB0cFQxY0NBNExmWGUwRDI5cENqZ1ljUlA3aUlvVHlRYWhjVGNSWEhuMXVlTmF4aXhZZ1pIcGZ1LTJ3UnFqamRDa0Itak1rRWl6WkZudFN2MnMyYzUwYVpBMEU1T0lCeTBnZVBZSWhMcUxkMGd40gHwAUFVX3lxTFBPLTduUk5WS1NZaG04LXBZVFVsTm9IamRfVkhCR0Y1Ni11UUhLdWZPcGpNdDhlTUE1TWJoY3g4aXBCYmphaXdid1ZBRWtIb0ZJRnBxMXFzQnk4OG4wWWpNNE1kY080Q3BxZzNfSlJ6UGdEUmphS3JxaDBWWVpuV2YwWjVBNHlJbWFuM0lVcDRyNDZyVWVrS21aVDhuWDBWTWVIaWdYVHVlVVlROGlSVG11aDdLd0I5NnU3cDNhTXFrQnhhc0tjMk50bER0Z1l1RmJnRlJwT01YX3hMLXpxNWxaT2s2SVBjaTg4OWdGd3AwUQ?oc=5",
-   "fecha": "Thu, 26 Nov 2026 09:22:26 GMT",
-   "fuente": "TN"
-  },
-  {
-   "titulo": "Una turista argentina murió ahogada en una playa nudista de Uruguay",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVE5OVnNwSXEtWkQ5TTRqUGl2SkliY1VFRTlOWnlneU51aFFOYTNnWkFPUDJBaUxOSWtqbEVKTTVVdXJxQlp4Y3ViU3VyVjE2dXJ6bkZCcDNuQlpIMUFtaFhWYU1nMGlvQUxtSl9pWTF4TGJlakV2UFJsRnlvWXN2UVRjb05vOXNYTUZfU2h3WnZNeTIwbGVjdnFHZjRkaF9mU0ZB?oc=5",
-   "fecha": "Wed, 25 Nov 2026 23:48:44 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Un río se desbordó por las lluvias, hay rutas cortadas y campos inundados",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnRlU2I0bXItczhXUHJub1RBeHkxUGRCTTRhaF9DajVUOExlVEhHZF9UZE51bEF1VnJVdjAzdHNBcEZWMS1LQ3lycHQ5dUxJbUYxN05HS1lMSV9iNU9fN3FSdHJvWlkwSmNucU1UdUJ1R2ljYlNvWHM2d0ljaTdDMU5Lc2FuYWFTNjZUSTV2bFRBX3VzTE1oUE1QMTRXcnk1dzlOQ0VSRWRpM05QVHVfbC1HSWx1UG1iZ0JmdnR1SjY?oc=5",
    "fecha": "Wed, 25 Nov 2026 23:43:20 GMT",
    "fuente": "La Arena"
-  },
-  {
-   "titulo": "Un afortunado santafesino ganó más de $1.100 millones en el Quini 6",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOF82UHZFZXRtS2JfV1FkaXhVcHpUQjFUanczMjhDN1BsZXp1cDNxZ3hUZUd3djNONVQ4V0pUakRmY3dRRTMzbmM3RGpvTnVod3c5TGlrVHJQaFdKTkxVZ0JEZzRVTTFQWkxKU1pEaEJzakw1T0lMVHJQemFvRnBZdHEwdnczZHVJaG84dFFnQWQ4Y2pNaWNoRjJZdUtCT2FhRW84RS0ta25IbmEyRXpiQ1JxRm5DTlBadlQ4bkxJYnA0RXVr?oc=5",
-   "fecha": "Thu, 26 Nov 2026 02:21:59 GMT",
-   "fuente": "El Litoral"
   },
   {
    "titulo": "25N en fotos: así fueron las movilizaciones en Neuquén capital y Bariloche",
@@ -626,10 +621,10 @@
    "fuente": "ReconquistaHOY"
   },
   {
-   "titulo": "Explotación sexual infantil: un detenido en Granadero Baigorria por un operativo internacional",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTFNNVhSTUpGUU00djhrajZiampfSmYydXh1dGhHNmFZQjljeXFEOHhpVThtbWV1TE1OS0hiR25VQ00tOW0wTXF4Ql8wVzlldVk2X1RYbk1xMnVnanZOY0ZaSUt1YXNFSnFpdWFvcDZNaTlSczU4UEpJcmUzaWc0MElTSlJ4XzJIeWp3YXVxaWlWN1pFaUxTY3p6eXhzcEtUM25CQzE4a0RnUS15STdDWDBqQ1BSZW56Rktfb0dhSjlqNE1SSG9iblItcVJwNmNWLWVBNWlQbVDSAd4BQVVfeXFMTW9tTEhQa0g3aVQybW5wTi1jZy14RS1uNlp2U2NTNklpWlZXTUVYM2JZSE1CM0phYXpRR3U2U09hWlhFenJiU0dvNnpiTTVQanZOWTNUZVRTVzhsSUdNWWh5SHBNcmpRZzVjQXczeEsyM1hMUmc3cjNuMHo3VzVpc0pVWlNZeU13NGVocGRPXzB4ZnR5Q0FvUTU4WDVZZ3JCZjVJRVBUVGg5RHBpaTRJY0NHcl9FVUxaRzVUWXo5ME42VnV4NnFzdy1uM1liNlI5WXU4eXBDRzllZzRib3h3?oc=5",
-   "fecha": "Thu, 26 Nov 2026 11:55:09 GMT",
-   "fuente": "La Capital"
+   "titulo": "Un afortunado santafesino ganó más de $1.100 millones en el Quini 6",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOF82UHZFZXRtS2JfV1FkaXhVcHpUQjFUanczMjhDN1BsZXp1cDNxZ3hUZUd3djNONVQ4V0pUakRmY3dRRTMzbmM3RGpvTnVod3c5TGlrVHJQaFdKTkxVZ0JEZzRVTTFQWkxKU1pEaEJzakw1T0lMVHJQemFvRnBZdHEwdnczZHVJaG84dFFnQWQ4Y2pNaWNoRjJZdUtCT2FhRW84RS0ta25IbmEyRXpiQ1JxRm5DTlBadlQ4bkxJYnA0RXVr?oc=5",
+   "fecha": "Thu, 26 Nov 2026 02:21:59 GMT",
+   "fuente": "El Litoral"
   },
   {
    "titulo": "Las universidades, contra el ajuste en el presupuesto 2027: “Es el golpe de gracia”",
@@ -638,10 +633,16 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Abusó de su sobrina de 8 años y la quemó viva: condenaron a perpetua al femicida de Guadalupe, el caso que conmocionó en Lobos",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGFDUkc4enZTYWxnTkpGQ1RxQWUzVmJDWWROVWJfTExUb3VhU3Nyc2l2bW5RTE5qZWFDcFN4YUkxUDYyQk03LUFweHJPcVZWcDF1OEJvOUtsemRsMWRUOWpDdmMwUVlzQVRqWVhjZENYdnpOUkdaNlhEb3REdkF4WXl6eVpJNUUwTXZfd1lBajFWR3ZsNlg5NnhKM2h4c0tLN3FyWFRlTTRMNU9Pdjdtam13cTM1X0pUTTBMaXozSUp6eWtBajdXVTd3cnRXQk0yanR2bVliTzRzempPNEVxS3pQSDdXdlpoRnY0RtIBgAJBVV95cUxPbDJfczBUVU05SVhZT2Z1NVV0c2tLVmNfaGktQWdvR1R2dE1ETHNQZF9ncU9ncko0SnZINVVTUGZxUUJ0eXZTVnNiS05seU83U2tmZ3V0LXNERDh4RDVQQmhiNUVIN01Pa19tRkFOMVhsOER1ZWNJcktnblltblh6eWVWVExtQUdVZTRFSmtIZENuNEJMblJ0dWNNQWpYWlRvZGNOZi15Q2t6OHZXQ1NUZk5GSUZlMmtlLVZydkh2S1ZOREhWSHR6VHNwU2FrT3FBX0xqam9wbFpEM3NHQVdTZTJSVE5CamUwMlg2TzU0dGt6VXM5VkVOeTVJaUxma210?oc=5",
-   "fecha": "Thu, 26 Nov 2026 11:23:05 GMT",
-   "fuente": "TN"
+   "titulo": "Explotación sexual infantil: un detenido en Granadero Baigorria por un operativo internacional",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTFNNVhSTUpGUU00djhrajZiampfSmYydXh1dGhHNmFZQjljeXFEOHhpVThtbWV1TE1OS0hiR25VQ00tOW0wTXF4Ql8wVzlldVk2X1RYbk1xMnVnanZOY0ZaSUt1YXNFSnFpdWFvcDZNaTlSczU4UEpJcmUzaWc0MElTSlJ4XzJIeWp3YXVxaWlWN1pFaUxTY3p6eXhzcEtUM25CQzE4a0RnUS15STdDWDBqQ1BSZW56Rktfb0dhSjlqNE1SSG9iblItcVJwNmNWLWVBNWlQbVDSAd4BQVVfeXFMTW9tTEhQa0g3aVQybW5wTi1jZy14RS1uNlp2U2NTNklpWlZXTUVYM2JZSE1CM0phYXpRR3U2U09hWlhFenJiU0dvNnpiTTVQanZOWTNUZVRTVzhsSUdNWWh5SHBNcmpRZzVjQXczeEsyM1hMUmc3cjNuMHo3VzVpc0pVWlNZeU13NGVocGRPXzB4ZnR5Q0FvUTU4WDVZZ3JCZjVJRVBUVGg5RHBpaTRJY0NHcl9FVUxaRzVUWXo5ME42VnV4NnFzdy1uM1liNlI5WXU4eXBDRzllZzRib3h3?oc=5",
+   "fecha": "Thu, 26 Nov 2026 11:55:09 GMT",
+   "fuente": "La Capital"
+  },
+  {
+   "titulo": "Turista argentina murió en una playa nudista de Uruguay mientras estaba de vacaciones con su pareja",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaVpuZ01xbS1JR2dKNmQ1VVJmZzdJWG1naGs2RU5XVl81R2loalA2aUNwU0xCeEI1TV9Yc0otc1kwRlBGNWtCUkRyU0Y4ZHRDQXlRMzZRU1B2ZktKczNEX0pvOGFwQ1dyeDNjLVM4MExzX0NieHZxWE9UbUVWTHNzUXFvOUcwY21ITEVnT2JKdHkydXRiQm9taF9RR0pvTzctYlZfMVluMVVyNC1yUERqMHVaYVlwU3g5T2U3aTBtSmN2NzNhY21pTlRlMnNpelNuRHI2YVZmYUtiSVlSR3gwdUQtQQ?oc=5",
+   "fecha": "Thu, 26 Nov 2026 04:57:47 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "Río Negro definió la empresa que hará la obra de la Ruta 22 en Puente 83: qué pasará con el tránsito durante los trabajos",
@@ -650,10 +651,10 @@
    "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "\"Definitivamente, no\": Luis Caputo negó que la suba del dólar vaya a impactar en la inflación",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEtiR0llSFViYkdHd0k0OHRTamswa0FrRVgzbE1KbjZfTm51TG12NktzX1JFUXNxcGM4T1lKcmJrUHNNSTNtTWxFOENLMEd4UUliU2dJVlVDYzQ3RkJWVVJqZkFHRGZibDZQMEQtbXludmYwTGJaa3RZa1FVWG5SZS1SS0ZkY0RRcjRkSTBkb09lMEc4XzlHcXV6U1Nucmh4NXFfTTBnQWhnYl9OVXBHQS13Z1pYZFMy?oc=5",
-   "fecha": "Wed, 25 Nov 2026 15:52:52 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Luis Caputo minimizó la recesión técnica y desestimó que la suba del dólar se traslade a precios",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2UwQ05VdXFwMm5BVU1Za0JQODFTMUk2STFrbkQ5ZmNVeGVNQUgxMHhaOWhNOFhQUmpCVDgyclJkMUN1Rl9vb3pDNVZMN2VyM3E1WFlURUo3Y1IzVHNCRWF3bkkzSGZGUnpJTWtXX3ExUWMtbzJldzJpSXdtUmJOODVjWHN0M0N5S1I3bWRvSFJjMzN5OXROX0hfa0owNXNwTmdoenBOczNNUmhZTVIwQlM5dmxWSFNpaFBWSXdrTzhHMGdMaVJwNkhEQk5zZ3F60gHkAUFVX3lxTE9sdDB2S3NjREtULXY3QjIwYXNFN2hWSldoWGttZms0YlJCRUJCUVkyYW1RZDhaSWk2UlJJbHRHdzc4eWJXWEVKVzlaaDdDY19IYXFFb1FyOTQyY1hYX0xxNHlaTGpnTlIzVTd2MzRrVkswVmxHZDhMUElkZldERy1PZGhMZXl5LXk0RVJ6SF9DUTJtbUNDb3FZVFJ0cnBHb1pnM2ZTakc2ZW15U2htSGtmMG5TSXVBR0VkdmRVNFhXMlZ1U1RwNV9rb0V3RU1PX1VOMXJmbmtGRGJzZjVkT0RPbFBRSw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 12:58:12 GMT",
+   "fuente": "TN"
   }
  ],
  "finanzas_argy": [
