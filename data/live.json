@@ -503,9 +503,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-26T04:04-03:00",
+ "actualizado": "2026-11-26T05:01-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -560,16 +561,16 @@
  },
  "nacionales": [
   {
-   "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0JULURMTUFqUEo4dTIxWmxYR3FVWmkzcm1wMTZKRkJ3UHJuTV9tUlg5TlF2NUJFSld0eTVUcUtDWjE4SllXX3pBWnJNanhmb3hoaGNoMDMyOWxiSW5JR3RwTnVUU3hzcTdUZ3pOMVRjMlR5VTdvM3phWEw2Y3RGYjYxT0xwejFuYTJicUc5YkJJZzRBTVRlVTloZHphVVBMMEk4ZmpVY0FMYkdkUnExa3ZjTEZJSHNoR0M0NThiUXkwWC1qU2phQw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
-   "fuente": "Página|12"
-  },
-  {
    "titulo": "Suspensión de las PASO, ley de ludopatía y el proyecto de falsas denuncias: el Senado confirmó la sesión de este jueves",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRmFaZW5iLWNfTEx1aVlKMERnXzNlUXdsdTlpT3FOeXVIRVlZVFpTV1ZXOVpFQlhjalV6bExKRUFkNE44SWtQbWFjN2MtRlJuUHBFUE1PaDBld1BFWmNtQ3ptOUVnRjJWTnYyY0x3aHVTT3ZVT2lndko5YmU4VXFjdmJFalFBeGlPbTM0RWlwcDJramFURE11YTkwekJLV29xaElYTlN6b3YybWxOVHhHVzNWcjBfMk0yWWdaQ05yQUxHazYwVWpJeUt3QzBoWUpkeWkwOWdDX081ak5qN2lxM1dDREtUTUpVczZwbDk3cjRZYlRO?oc=5",
    "fecha": "Wed, 25 Nov 2026 22:21:28 GMT",
    "fuente": "Perfil"
+  },
+  {
+   "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0JULURMTUFqUEo4dTIxWmxYR3FVWmkzcm1wMTZKRkJ3UHJuTV9tUlg5TlF2NUJFSld0eTVUcUtDWjE4SllXX3pBWnJNanhmb3hoaGNoMDMyOWxiSW5JR3RwTnVUU3hzcTdUZ3pOMVRjMlR5VTdvM3phWEw2Y3RGYjYxT0xwejFuYTJicUc5YkJJZzRBTVRlVTloZHphVVBMMEk4ZmpVY0FMYkdkUnExa3ZjTEZJSHNoR0M0NThiUXkwWC1qU2phQw?oc=5",
+   "fecha": "Wed, 25 Nov 2026 20:17:21 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Luis Caputo aseguró que seguirá al frente del Ministerio de Economía “mientras el Presidente quiera”",
@@ -584,9 +585,9 @@
    "fuente": "Diario El Día de La Plata"
   },
   {
-   "titulo": "Qué cambia con la ley de ludopatía que el Senado busca tratar este jueves tras dos años de parálisis",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlRBOVgwWXVDQUwxWWNsY1BtdEVad1ROOVI2OWp2eWNfWmwwN3d6LVNZMUZOZWNPMXhuQXN5NFg1RG9Ycm9mdHlmUUNPQ2VaVjFiSWp4UGdiNjlvSHptVDZFZTFReFRjSFJCbDYwTHJSQzlucDFjZzhiTmJmX3plZWRDblVNSVNnZzhqbUJ4NklQVkVHZmkyS0VrUjE1ZGZlM0xNb3Jfb3lpMkNmX0NmRHdR?oc=5",
-   "fecha": "Wed, 25 Nov 2026 14:59:40 GMT",
+   "titulo": "La presión de la Iglesia empuja al Senado a avanzar con la Ley de Ludopatía, que estuvo dos años cajoneada",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3ZaNV9zaF9xTEZFQkdGWndNbDBYRmVIZkx4UWx1akZRTzFuWmhiSFZ6RzJpaWY2ZjNXeVRERmprLS04UTlwNkhpN3pQMHMtMmZyU1pJdmNDRUhtbzJzQllTbjYyVG5aLTRFLS1CdzNMa2hVbk5xQkwybmpKWlFJTndYVzVRTlJMZ3JSNUhPQ0hGMEVxcm5VYUFoRk9yTzhrc3RaSzM0N285WF9ZZjdTa1BheVZLckpIZ3h2eHZjYTJxWERW?oc=5",
+   "fecha": "Wed, 25 Nov 2026 16:03:07 GMT",
    "fuente": "Clarin.com"
   },
   {
@@ -614,16 +615,28 @@
    "fuente": "Diario Río Negro"
   },
   {
+   "titulo": "Sáenz y Pettovello firmaron un convenio para implementar el programa Centros de Familia en Salta",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWQ1cUE4Q3FlaUpVU1dQNmJGUkVJTHVBaV9GVDVVRlRLeWJFczAzU21oanJ3T0VNSVhFVlV5dTFOdGRkd21hVjFBLWIyTjQ4OEViQUppdEtZUVVmbmN6cFRDbXVwTGdMN2MwSUNkVWhqWmwxaDJ3SkczSEhQcnRiYVNCaHBVMS1YMUZ6SnpKamw4V1Q0ZmMtdlBMMkFHYnlYX2hOZ3hMMTNHaEZ2c3I3cElud005RVVKbkJSVkthb0xWcDROemx3OWZHQWRfN29FSkE?oc=5",
+   "fecha": "Tue, 24 Nov 2026 22:28:00 GMT",
+   "fuente": "Página|12"
+  },
+  {
    "titulo": "Se realizó el acto protocolar por el 159º aniversario de Olavarría",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdlFZQzFLZWtfZ09EaVhIOWwtNmlKaW0zaG1kMnpsZlFsMTlVcU5iSXJMYkRZd3d2TG9fWS1tVl93NGFBaEstenZzaHd6RWtKSVp3NFc0Z3hqQTB1LW9Ncy1qOThDRmtBcnU0cGdGVUNSTVgtQVh2OTJwdnlqR0NvVnZFSkxYcFctbnJXaUlBdWVFUkVRSU4yN1lpN1lqdGNJanJnTE5UUnUtYWtiN0xIWjJGblI5YWNFTXY5NFMxMUtjakdPTlpv?oc=5",
    "fecha": "Wed, 25 Nov 2026 14:07:34 GMT",
    "fuente": "Infoeme"
   },
   {
-   "titulo": "Sáenz y Pettovello firmaron un convenio para implementar el programa Centros de Familia en Salta",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWQ1cUE4Q3FlaUpVU1dQNmJGUkVJTHVBaV9GVDVVRlRLeWJFczAzU21oanJ3T0VNSVhFVlV5dTFOdGRkd21hVjFBLWIyTjQ4OEViQUppdEtZUVVmbmN6cFRDbXVwTGdMN2MwSUNkVWhqWmwxaDJ3SkczSEhQcnRiYVNCaHBVMS1YMUZ6SnpKamw4V1Q0ZmMtdlBMMkFHYnlYX2hOZ3hMMTNHaEZ2c3I3cElud005RVVKbkJSVkthb0xWcDROemx3OWZHQWRfN29FSkE?oc=5",
-   "fecha": "Tue, 24 Nov 2026 22:28:00 GMT",
-   "fuente": "Página|12"
+   "titulo": "Tras reunirse con el arzobispo, el peronismo aceptó tratar los proyectos contra el juego online",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVzc1eGM2ZU9SMnhaTG56dnJGR3ZkU1RJS1I3ajQzcGlObFhta0RlU3pHUFZnclVEcm4wTG84T1hhSExuQXBUSkVwTVJMS3AteGNpSk9US2RhcVRRbkVlNjhzZUV4bkNPcWViZWkwWkJjMGwySVVfcjBiUlN5NXBVQk5xUHl4QWRoZ3U4SkJycWt4RjZONjRIcXpoYURjUkxJV1JIRVZGbm9DUkRCeXRyeWY4a1BVbDN1d0tRLXllT1hzUHBUSFo1MGg3ZVBzVTl2Z1Fj0gHWAUFVX3lxTE43NEs4enhWM2ZJNVIweHdqYkFnSkI0U014bXRDZG1ISXRsNnJ6V0l1U1RTZ3o4cGctY01CR0hTTWRBMjNya3NUbHRHWko5SklfWF9sa1ZqM3UtZk9IeHZ5Um9MOTd3VmdTQ2YtOGVUTHV6bUJWUHpfRjBPNVVGQ3lsek9RWnBqSTZSeXRibTVxdjVMM244aUw3VDVYM1A0aFB0N0dPZ2RUR3YzN3lUU2FBdFc1VkxuVUkydXl5VEZhZ2g4bzdNMG9oa3IwR0htOWdvekVJU1E?oc=5",
+   "fecha": "Wed, 25 Nov 2026 22:16:57 GMT",
+   "fuente": "La Política Online"
+  },
+  {
+   "titulo": "Los clásicos de las 1000 Millas Sport posaron para las fotos en el Centro Cívico",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSU5mR1pGcG9zNFg4Ym1uTTFIY0hqZUFUakVScjVQa2g5emhxNzhuRUNLWkVGcGtvcmdYS1VZV2hmQlJFMENveXlvTjBlTEw1ZVROMW1QVXpGUUlHV01IYlMzcjBDaFZhTFFiSmM0eU51bWRxQnktUVI5dEF2SVZSTUN4enNTc0JoSTNoYmlRZHZYUzByaTZwbFd0czIwOWZrM1NCWkRyYnI4Y3dOMktBWnVVaHVOTnF6X21YUXdaZ1pLZGg3eDNZV05rM0IxSkVpNkpmTG9WdWfSAd4BQVVfeXFMUHEwdWh5alZDT19ZVWxXMkxUdjR5V2w5Mm9kQ0xnMGd0OTZIWkQxY3pkUko3RDI5N1FmZFRoQmxHRXRwSjJWdjdVU2J1QWNOa2dVOExCR01MTzVCMUpHbTVGbk40aHo4LXdrQ015OVZtTTUzdTlBOEcwbkdOTTlOR3lOakVScmVJNExSaUxIN1VFektxSEtPRGJLVG9Nc0NvNkJmaHZxOEdUM2V6MUw2dmUzZVh3QllqUmVzRkdYZGhvdzF3ZTFFQk1aaThxQjBBYVRydjd6V2NxdDB6N2VB?oc=5",
+   "fecha": "Wed, 25 Nov 2026 22:02:20 GMT",
+   "fuente": "Diario El Cordillerano"
   },
   {
    "titulo": "Quini 6: de dónde es y cuántos millones se llevó el único ganador del sorteo de este miércoles 25 de noviembre",
@@ -638,22 +651,10 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "El viceministro de Economía citó al FMI y a un organismo de EE.UU. para rechazar que la Argentina esté en recesión",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVFZzRFN1M1djWmxOYUpFcTFwQjNiWTJldlFqQ1NKaFZaSm0tTXc1UFhGX3pPV0huWVpYUzFWeXB6NXZfSm1EOF80dnJkY3NQcmlZWUI1bGxfdEtBRV9yejFjWmFUUDVRSWZFVDlJUV9KWDJVTEczYW9kcG1zQVpuSzZUdWJURU92SjNXMjNUeHpkNmFkTU9ieUo2YlNoMjVwc1BFd2d6LXhYNkZjZ2hpYl83WDkyQ3hvME9INHh5QVc3YklGcVROYXF6TlpkRnNESjc3VHBOMFR2MWhTUVUwSHdiemhlTmxZXzA00gH_AUFVX3lxTE9HWUdNeUY4VEZBTnUzTXB6ZnRuSXJqVlotNXZSRjhjUkV6OEV6LUs2UG1OMU95NE1sQ2VCQjNHUzR3SU9BZ1BZTjZ3OUt2dXRtRFd6TGVqVk5BN3RNS0JJZFAyb1BCUzc3VGo3YWh5S2lOLVdvSXd1dUJ2cEpBRTRLLXFzQ294R2FRbmZ4TmxRWjdrdW9FT1EyRjd4bTZ1a3p1ODBEVkRhV0oteldVX0hjT1FIRF9rdjdUenp0aHlMRnJheUVTOUliZTRRYndQNHRHVWFOUjU3eDBxS3oxR2xQR3lKdzh3ZTd1dVdSRk4ydkgyNHN1eExzUUNQVEJfUQ?oc=5",
-   "fecha": "Wed, 25 Nov 2026 11:02:17 GMT",
-   "fuente": "TN"
-  },
-  {
    "titulo": "En el último año hubo 251 femicidios y casi 9 de cada 10 mujeres sufrieron algún tipo de violencia de género",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0k2WTZGQ2NrSUFnaXN0MjZrVjltOUptODBVWEtnZ1ZvWDQyRjVHWE9jMkNyRnN5NjNSZHNJM1E4aHNXLWE2UGc5Y2RBY3Bsek53dXN0elpyNWFLbzlYanRGVUdFTUJjVVFDUFRSMmNJaDBITjdkTHphTkFhXzVtdXVzYlZUZWQtOGZaUkxQQllJRG9vNUZMVXZPcWRCdUgtQkVhYUZicmhoZXhoWklCbzlOQlZUZ1o4NWxMNDhraW45bmFXZEdOTGloLXRLNDJzTXkwYkZSdFNyMmRxaWM5NFA0VdIB9wFBVV95cUxPYU5PSEZ0UXVZZXhEUjAxNkdrRGx1X3lRZEJEcW1ia1RxNzVINy1ib0UtZFNWcGR0Ty1tSW1pUnd0cldJTFl1bllCR1VEQzVCX0pxRUVRdWk5ejNLWTYzVmRmTmVPd3otSkN5VERUYkZ3djV3WU1OM2xQekNVMVZkOEFBYXhhcDlVcWRtN2NmdDhLUGtHeVlWaUJ3N0tRSm43SWZLNHBCd2dHMm40dWpWS1UxRWg4QlctaUxOM284a1Rwc0ZWVFNuT0RDUEtHUDhUODAzNE9FaWdWWXhSOWRvVWN6RkVGVTN4SHl2SWlXcjlROGx2T0c0?oc=5",
    "fecha": "Wed, 25 Nov 2026 08:50:00 GMT",
    "fuente": "TN"
-  },
-  {
-   "titulo": "\"Es el más grande de toda la Provincia”, aseguró Kicillof al inaugurar el nuevo Parque Solar de Pehuen Co",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVy0zbHY3bHQzUVRqWlBTc0RxaEx3ZmdlWlI2SUstQjBQeldEaWZVeko2OWFfVDUtVVltMzRpTmpwU1gzZjByd1VPNzltSlJ2ZU1lU3dvcDhQdnA1WDlJSEp6aVIwTmZhVkNEUjh4aHFKbWg1dTMwdnRPR3ZEZmd3dE5id3BndE5Cd1VrV3RVOFpkQ3g4V3RkT1VJdDVvTG5VY3FYS1FMempwMjFXOGFBYjVwZzNWSEVVakxnd2l4XzlJUVRsdktJcE1ZNE92dEZRdHVHcTFidHdoLXZ0Mjkw?oc=5",
-   "fecha": "Wed, 25 Nov 2026 19:12:18 GMT",
-   "fuente": "La Nueva Provincia"
   }
  ],
  "finanzas_argy": [
