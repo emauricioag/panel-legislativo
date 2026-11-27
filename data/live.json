@@ -503,11 +503,19 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 503: Service Unavailable",
+  "nacionales": "HTTP Error 503: Service Unavailable",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-27T09:27-03:00",
+ "actualizado": "2026-11-27T09:54-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Milei consiguió la media sanción del Presupuesto 2027 y ratificó el rumbo económico del Gobierno",
+    "link": "https://derechadiario.com.ar/politica/milei-consiguio-media-sancion-presupuesto-2027-ratifico-rumbo-economico-gobierno",
+    "fecha": "Fri, 27 Nov 2026 12:44:36 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "El Senado sancionó la Ley de Prevención de la Ludopatía por unanimidad",
     "link": "https://derechadiario.com.ar/politica/por-unanimidad-senado-sanciono-ley-prevencion-ludopatia",
@@ -548,12 +556,6 @@
     "titulo": "Los nueve cambios que establece la reforma del BCRA impulsada por Javier Milei",
     "link": "https://derechadiario.com.ar/politica/nueve-cambios-que-establece-reforma-bcra-impulsada-por-javier-milei",
     "fecha": "Thu, 26 Nov 2026 18:08:32 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Diputados aprobó la reforma de la Carta Orgánica del BCRA y el Gobierno avanza con su agenda económica",
-    "link": "https://derechadiario.com.ar/politica/diputados-aprobo-reforma-carta-organica-bcra-gobierno-avanza-agenda-economica",
-    "fecha": "Thu, 26 Nov 2026 17:52:46 GMT",
     "fuente": "La Derecha Diario"
    }
   ]
