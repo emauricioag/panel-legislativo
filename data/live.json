@@ -507,9 +507,15 @@
   "nacionales": "HTTP Error 503: Service Unavailable",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-26T21:54-03:00",
+ "actualizado": "2026-11-26T22:23-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Exclusivo: Carlos Presti destacó el respaldo de Milei a las Fuerzas Armadas y adelantó la llegada de nuevo armamento",
+    "link": "https://derechadiario.com.ar/politica/exclusivo-carlos-presti-destaco-respaldo-milei-fuerzas-armadas-adelanto-llegada-nuevo-armamento",
+    "fecha": "Fri, 27 Nov 2026 00:56:14 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Las mejores fotos del Ejercicio Conjunto Fénix de las Fuerzas Armadas",
     "link": "https://derechadiario.com.ar/politica/mejores-fotos-ejercicio-conjunto-fenix-fuerzas-armadas",
@@ -550,12 +556,6 @@
     "titulo": "Peter Lamelas habló con Trump sobre Milei: \"Me gustaría volver a ver a los dos presidentes y amigos juntos\"",
     "link": "https://derechadiario.com.ar/politica/peter-lamelas-hablo-trump-milei-gustaria-volver-ver-dos-presidentes-amigos-juntos",
     "fecha": "Thu, 26 Nov 2026 16:17:30 GMT",
-    "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "EN VIVO | Javier Milei llega al Palacio de López en Paraguay",
-    "link": "https://derechadiario.com.ar/politica/en-vivo-javier-milei-llega-palacio-lopez-en-paraguay",
-    "fecha": "Thu, 26 Nov 2026 14:17:56 GMT",
     "fuente": "La Derecha Diario"
    }
   ]
