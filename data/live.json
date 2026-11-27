@@ -155,28 +155,28 @@
  ],
  "noticias": [
   {
-   "titulo": "La Chamameceada llega a Corrientes",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84YUtMZzZtU0hrRkllMF9WT3I0VG9kMjQtTnV5UWdyY05yNmVDX1ozV1pSRW5DaWIwZEg0bEVHR09TSjNTakR4dGtkdXRHdlhucnp6bkhzZ2lweXR3VnhrSkJpam82N1RKc0pFcC11WEFabzA3Y2FR?oc=5",
-   "fecha": "Fri, 27 Nov 2026 19:02:30 GMT",
-   "fuente": "Argentina.gob.ar"
-  },
-  {
    "titulo": "Corrientes Capital se prepara para una semana de descuentos y 60 premios de $50 mil",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWNYeEg0R0xDajZjT0ZWdXFVcDBUamNqRnlLSnY2X1pkYXJvVFozYWhfV0h1TE51NUFsVWlTLW1KV2VvZTlwVElqZ2pFeS0yeVpMM0FWLTF5NXNha0tURm9kZGJaX0JOa1h0Yk51VFp4UkhfUTJBVUNKcjB5anZKRlV6TkZyMWR2OE9fZTJhU1NaZGlBa003VEtEdW0xX1Q4RzZ1N0FJQ0NTV0hYd2VTb2tvcWlxSVdyaGc?oc=5",
    "fecha": "Fri, 27 Nov 2026 18:29:55 GMT",
    "fuente": "https://www.noticiero9.com.ar/"
   },
   {
-   "titulo": "Corrientes, la provincia con mayor freno en las ventas de supermercados",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkFKU0I1dTdmX3F6bzZLblk0aXZ4cGY0ZUUwdjRicS0zdWRkREI3Z0s0VkctdTlEbXNzTDJOYlNSRE9YYWpjREZvQklNY2Vhc0dMR1gwWVYyQmgtLVRLVGVrcHQ2R3lqUENPaTNHNXhydEpJSThzSDhDeEpGN0hzWlNHcVJJU0tna3dFWnhwRjlxS3V0SzRXcFUteFhsYnZfZ1JXTEVqbC00TjdpeWFkSU9MWFltcVhrUkVPbg?oc=5",
-   "fecha": "Fri, 27 Nov 2026 13:26:57 GMT",
-   "fuente": "Momarandu Corrientes"
+   "titulo": "Corrientes registró el menor crecimiento del país en ventas de supermercados",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYTcxQ1NuYVlkTjdaY0ZNcTdFbDlUa0ZrQnJzbmpULVFHS0xvVTNnb04xUUFnRDlfV0ZrbUFyMVhwaVAxR1VLUXFORFNvVEJCTW9tTjNka25UazhEdzFlcW12V05FQ3BvWEJYUHN5OHpvc0Y0NVEyQU0wRmtDekdaaHNYUFlxYmZvamNkLU56VzRMa1NmVmplR3JVRW5yaGdRR3Bla2JsQzdmNVZKWDA5RQ?oc=5",
+   "fecha": "Fri, 27 Nov 2026 20:42:09 GMT",
+   "fuente": "Radio Dos Corrientes"
   },
   {
    "titulo": "Desmantelaron un punto de venta de drogas en el interior de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUzNtaU1vT1VTbzc0YXRTamdmQmxKRnlIbUdTNVhKR1docC0wM3ZjaEdEVHJraTNLWmtuLU5Va09UUkFfTGxJR2VfeWhsRVl1d3BFQ1RrV0lzLTdDN0JXdmpvYlRiZFRrRU9EQ000LWs5UHRjR1oweEJvX09DUkhNam45c2drWk1EdmczZGRuM2ljdEpnUE1RWFBsejlJLWdSbWt5MXMxQzMwdw?oc=5",
    "fecha": "Fri, 27 Nov 2026 18:09:54 GMT",
    "fuente": "Diario Época Corrientes"
+  },
+  {
+   "titulo": "Juan Pablo Valdés: \"La estabilidad para nosotros es central\"",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkY0VUo2WlpLU3g1ZndBWlZEd0IzQzBsOUozandEYmJ4eFRmSTdFR1c5RExrSGRVUmE1NUlHZnp5QmxET2NuUHhjelNreUhEOXo3SDZ3angybWlZM09ZYVV1S2FzUjc3c01vNDRpenFYV3ZWWFo4Nl94MXU0OXROMFJ3NGp1eXVIUTZRRGZTV0taT2s2WkpRYlNhSXZlM2JUSHZhNksyOXJ4UQ?oc=5",
+   "fecha": "Fri, 27 Nov 2026 14:22:20 GMT",
+   "fuente": "Momarandu Corrientes"
   },
   {
    "titulo": "CORRIENTES: Allanamiento En La Provincia Por Presunto Tráfico De Material Pornográfico En Redes Sociales",
@@ -215,22 +215,16 @@
    "fuente": "Corrientes Hoy"
   },
   {
-   "titulo": "Caputo participó de un congreso en Corrientes y anticipó un posible RIGI para la provincia",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fampvMC1XVTlEN0hWSnlrS3dQRkpaclI1bHBIMXdOakxiakJ3Rk01SGJuSERXODh2MWdPVmcyZWprWGFlR3ktRFIzV29iWUowVXllUnJPWHBvNE1PdHlXek83b3Q2TFhzQmdwSllB?oc=5",
-   "fecha": "Fri, 27 Nov 2026 13:29:13 GMT",
-   "fuente": "MisionesOnline"
-  },
-  {
-   "titulo": "Una Isla llena de yaguaretés",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHb19wVHg0M3NjOGY3SjQ5RlRWbUVzSE1HWEExV2I2aXJiUUcwVWpYUll3MFp4SkxtVUgyVkFrY3REX3lnMWpXOXl5emNMc2FSd1Azd2JtVW4xQ1lPVlFiRG93UzExTlp6RkNqMmd1aDRIWGhkbFRmMtIBfkFVX3lxTE5Ba2JPR1UydFg1cndaUmx3NjVnb1dPUVh5TFN2Vlduam5LZ21pTDFIbzRiUXUyQ0t5dDlnQmRIVXNGbThtQ1ZjVW9mR09QakZCeE5fNk82RS1heVpzZ2F2U00zaFZCcFZuc3V1OVUxTlFOXzV6SGhhVXAxcjhVdw?oc=5",
-   "fecha": "Fri, 27 Nov 2026 15:34:31 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Corrientes presentó su Producto Bruto Geográfico",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFl0VThPNHE5ZURaZ2M3dnpHMWRmamVYd2JVdUNuMmt6SERoNDdOTXBpVmhhTmtVRUJ4dHRKX0JkSFlCSG03d0JTLTZtM3VyaEwwWWwtMjA0ZV9JVWREeEdGeTJMVzNxZmUwUnhnLXRQYXhxMURBWU9FU3FKVmlLb00yVGo1VlNhNGtLOXVZekxaMWd3bEl0b3dHUDlHT2M?oc=5",
    "fecha": "Fri, 27 Nov 2026 14:52:32 GMT",
    "fuente": "Cadena de Radios"
+  },
+  {
+   "titulo": "Caputo participó de un congreso en Corrientes y anticipó un posible RIGI para la provincia",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fampvMC1XVTlEN0hWSnlrS3dQRkpaclI1bHBIMXdOakxiakJ3Rk01SGJuSERXODh2MWdPVmcyZWprWGFlR3ktRFIzV29iWUowVXllUnJPWHBvNE1PdHlXek83b3Q2TFhzQmdwSllB?oc=5",
+   "fecha": "Fri, 27 Nov 2026 13:29:13 GMT",
+   "fuente": "MisionesOnline"
   },
   {
    "titulo": "Caputo llegó a Corrientes, prometió una inversión millonaria y disparó contra el kirchnerismo",
@@ -245,22 +239,22 @@
    "fuente": "La Red Corrientes"
   },
   {
-   "titulo": "Juan Pablo Valdés: \"La estabilidad para nosotros es central\"",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkY0VUo2WlpLU3g1ZndBWlZEd0IzQzBsOUozandEYmJ4eFRmSTdFR1c5RExrSGRVUmE1NUlHZnp5QmxET2NuUHhjelNreUhEOXo3SDZ3angybWlZM09ZYVV1S2FzUjc3c01vNDRpenFYV3ZWWFo4Nl94MXU0OXROMFJ3NGp1eXVIUTZRRGZTV0taT2s2WkpRYlNhSXZlM2JUSHZhNksyOXJ4UQ?oc=5",
-   "fecha": "Fri, 27 Nov 2026 14:22:20 GMT",
-   "fuente": "Momarandu Corrientes"
-  },
-  {
-   "titulo": "Valdés gestiona el ensanchamiento de la Ruta 12 entre Saladas y Corrientes y proyecta nuevas obras para El Sombrero",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaWJOMVdKeUFTemM3ZWdreTBfWFRKZXNBR0FUYUhZS3pGR1JMcVlnU2l1V3pTWWNhRkNEdzRvVjZiRnFUN0tMd0lIU0dQRXp1RE5sTTVhUEhhZktUb0RrajFYdGtkWmVCRjRFcjZTYkZmb2p0MmNPLW9zRWFzSks3ZnZnMWE2MFpGSGcyeDNOcU5MS05aV3ltaUtJa1dZYUNFcndQQ2oxdHg4VEFCWUE3cG1lWkNCVzROVHJJcXAzeXdoQ2haNVVnMlNURnNTLUxjek5RWGdSZDRzYWxqYTJLeE1paDlYb2JWZXhLbVRkSDgtVWoxSTg1czBTcGJSOFhfOWtEYUxFYnBWWlk?oc=5",
-   "fecha": "Fri, 27 Nov 2026 19:33:01 GMT",
-   "fuente": "Impacto Corrientes"
+   "titulo": "La Corte de Corrientes dejó firme la condena contra un hijo de Nancy Godoy por abuso sexual",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaGlKeXJxd204bUpESDhsNkM2cHVnVmVEb05xOHExZUU0bVVOZXB1V0l5Q0tXa3d2ZkJEcU9YNHY4X2xhUmdlUEZDd2taUDdndlhjQkhrcjhwM2loRmJNUWhObDhrcDRCSTlwZVdVMk5CLXMyb2tobVlHY0pRNl9LUDM5WjZSbHFxY3RWcWs5cTFYSXMzYkphXzB5a2t4eV9KZzhDVHpoRUFtcWFVaGQ4Z3FBM0JfNWczSUlpUFd2R0R6cThMclhiLXJPcjhCYWlWdjl1aGNMcTc3RjJYbTBhZ1VEOGpUMmR2TEhVczZB0gH8AUFVX3lxTE9uZHdvT21TRW1CVE9TNVc5eGJRWjRNeFJHcGFIRXFoTll5ZTU2dXp3TlpyWUZBMG53dG5XY291NGNsMjgyUzNxYXNCM2hDeUxLWnR5aXdQTk5UQUJOVElLaU1BWmNsQ0NMdHM1RDhPV1hCVmtac1JhNVJObkw4dkxyaEFmeFVzbmNpUEE5c2pMNG52YXRQUlk1M3UweklPa1BaZU5FRnliNWFZWVZsZWYzeEhBMUFmZXR5MlZCd3hTZ0Q4QzAxbUtac1Z3QWV6eS1WVEF0bXd5Mks2dTRVT3BDZ2ItZ19DSnhLZF9hSUpyTTlyLTE4RExwekRWcg?oc=5",
+   "fecha": "Fri, 27 Nov 2026 12:30:23 GMT",
+   "fuente": "Agencia Noticias Argentinas"
   },
   {
    "titulo": "Valdés anunció obras estratégicas en El Sombrero y la región",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORmZqdjBBTWpCODFUMFVEZnQ0Y3k1eWdfUmV4LWp6VVFfZmZ1cEZpQ3hOdDVOQ3Y1cGxLOXJJWEpUUm9HQVdYcFRwVVVEblBBMEJyTWZHaXBCcHNlU3pzUVFad2V0MWFUMVFyVTZNbzdRWjFBRG5GcDBNRUphNFFyRmN2UmhjMHVZdVJmOF8wWkVVSmpma1M5akdQNzQ4MEp0R0l3eTdFcklsYVBl?oc=5",
    "fecha": "Fri, 27 Nov 2026 20:32:33 GMT",
    "fuente": "Cadena de Radios"
+  },
+  {
+   "titulo": "Valdés gestiona el ensanchamiento de la Ruta 12 entre Saladas y Corrientes y proyecta nuevas obras para El Sombrero",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaWJOMVdKeUFTemM3ZWdreTBfWFRKZXNBR0FUYUhZS3pGR1JMcVlnU2l1V3pTWWNhRkNEdzRvVjZiRnFUN0tMd0lIU0dQRXp1RE5sTTVhUEhhZktUb0RrajFYdGtkWmVCRjRFcjZTYkZmb2p0MmNPLW9zRWFzSks3ZnZnMWE2MFpGSGcyeDNOcU5MS05aV3ltaUtJa1dZYUNFcndQQ2oxdHg4VEFCWUE3cG1lWkNCVzROVHJJcXAzeXdoQ2haNVVnMlNURnNTLUxjek5RWGdSZDRzYWxqYTJLeE1paDlYb2JWZXhLbVRkSDgtVWoxSTg1czBTcGJSOFhfOWtEYUxFYnBWWlk?oc=5",
+   "fecha": "Fri, 27 Nov 2026 19:33:01 GMT",
+   "fuente": "Impacto Corrientes"
   },
   {
    "titulo": "Presentaron la Fiesta Nacional del Chamamé 2027: fechas y entradas con precios congelados",
@@ -273,6 +267,12 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXdEcE9GWTRlRTc0ZTlTd1czbUdtR2ZWaENqYkdnSW56OEw3SUlUSUwxdThkeFNXV3JzMDJMNGVLTTFERWtzRjhjZ3NRZkJYSkZ0RkRONUd2QnBpMG9SOHZlX1dtandVZjBpaVhZX1lWNk9CME5Temc4ZjVzeDF1UVgzbzdJclVnU3RqcmNqMVo2WWVBdkFhTGFxY3hpZUZDYW9wSVFHVzdFYm1CRWxxSXlxbkoxX1J0S2FPWTlPT09RM0N4QVJBVURSX0VLT0tP?oc=5",
    "fecha": "Fri, 27 Nov 2026 16:38:45 GMT",
    "fuente": "Noticias \"d\""
+  },
+  {
+   "titulo": "Valdés presentó la 36ª Fiesta Nacional del Chamamé y convocó a defender la identidad correntina",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSF94a1lFNzBfWXN0V1Y3MXBibGQ1VjdvQjE3UkhabmE4U2hpVUJCVmV3YUVaRzJRX0xmWWZGR2tHY2lFbjNvUkVqOVdyWlRiRDlIT3pyTERrZFZPU0VIdEhKTTRyQWgxaFYtQ2JPWExUUXp1WFBxZTAxek1vb1hIUnpKZzFUSWZrYXJCeDU3alZVamtNNnFXZUhJRzU2WUdubzAyQ0tsbU9RdVNlaVJydnBKZXZydUc0OHJCYkJBU1lrZm1o?oc=5",
+   "fecha": "Fri, 27 Nov 2026 00:42:16 GMT",
+   "fuente": "Instituto de Cultura de Corrientes"
   }
  ],
  "expedientes": {
@@ -505,7 +505,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-27T17:50-03:00",
+ "actualizado": "2026-11-27T18:16-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -560,22 +560,10 @@
  },
  "nacionales": [
   {
-   "titulo": "El Gobierno se llevó su Presupuesto pero la oposición logró incluir el financiamiento universitario",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNWt1UVhabmRROS0wM0ZJd2pPOENoYmVlLU01b09ta05lbGZxT1Rvd2VBMU5qWVBpcTdkVWRnYnJqMl93VmJxcXprRzhZc25jR2F5UkxrMW5DS3BQdlBKbDJJeFhTNnE1Q2w4TFNxUTJIZkNHY3Jmc2NKU21CeHVBNDBzRWhvTHpfalk3VzZzQVhXOWlvdDN0cURFYXlhYzNISHY0Q0lkRlBwM29HczBtNjRnUHZuVlNxam9FN2c1cXN4VGJWVmFJTEJPT0FjM3FmN1V0bThB?oc=5",
-   "fecha": "Fri, 27 Nov 2026 10:20:24 GMT",
+   "titulo": "Murió el empresario Jorge Born",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XaU5fUFhVN2x2b0Z5dEZ6d3ZWVGVmWXhBVnVMU2xBM1JyQjVhajdtWjVSOFZiTDREUnhmTGt3UjBSMGdabzkwZFo4OHlwVkE5R1hlMGpSUzRNMzYzanNydXZPVWY3cWZXNmtsWGdxbFJVZEJtSUFMcUR3?oc=5",
+   "fecha": "Fri, 27 Nov 2026 16:34:02 GMT",
    "fuente": "Página|12"
-  },
-  {
-   "titulo": "Milei, EN VIVO: \"Salvamos al país de una debacle sin precedentes\", aseguró Luis Caputo tras la sanción de la reforma del BCRA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRHRtNWxCWkFTUXZBTkhySUJRT2Ffam43OURieS0zbTl5a1NKS0RRZ0NSazVieVdjLUFXMUFKZTVpTzNpbzBITlJYWnRIb0JrdDBvQTAwMDZmQTNGUEZfYXFCVXhzdXdIcGptT2ZYVnpxNy0xOG53QlI2cUFtbU9YTS1DUkpRZ0sxYXluZW5rc2U5cDg2SjgwV3JncDNqU3piSGg4NkllSjZMekh2R1NGZkJqLURZMGlHMzAxQUZ3Wk16c0pSeXVRX0c3ZDlONzVL?oc=5",
-   "fecha": "Fri, 27 Nov 2026 20:42:19 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
-   "titulo": "La Justicia entregó al gobernador Vidal la administración de dos estancias de Lázaro Báez en Santa Cruz",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGREaEhObml4MW5VV1N2WklfeUp0QTcwd2ZkWVY1QmpHb1FmekNHQlZFQ1c0WkpLams2NWI4cHpDVDRlelZJLTZ1U3FsczJoMW1JcC1HbGN5MXlxOXlQVXJiOXBjLUg3UzhNVFUyUXl4Y1M4OGRYTUt0Y2xKUGhUbFJUZUNGQ0lsb0JRbnZuVUlyUUN5R04xcmkwYnNpNWQteldFRGktUHVoczZRbFJCTmhNR091RGFXdE1VQ0o1SUNqZFBCcmd2UEUyZ2swNHZ6N2xDVTdJY2d3aFZJa1BLemZCbjXSAf8BQVVfeXFMUGUteHhYR3Jnc3BOSFRwZy04bXBsWlJDdmNQYWVMM3BNOGdLRm5LMDhScnRFc05XVUdkT3E2dTV5VnZOcG93Z1NRU2ZHNm5hY0ZwNGRJN3FKLUx5dFBnMVdPUFl0WFVNZG5SRGVKOWp5b1N1NjFIRGs0cHFKbndxU2tpY1FGVVBaSEVOUGhndm5yVXZvN1JadTNnaWZpOThxcUZEZjhTcjFzVGR5LXFxN2xZbUNZbHRFSjc3b1o4OTBiakZzcnVqRDNKTWtEWHJZVy1vZndCWVZyUGR1VFhpc1BSamZhbnpCSW1wbXhuS2tVVWJ2XzFnVEVuV09XVWlr?oc=5",
-   "fecha": "Fri, 27 Nov 2026 17:56:00 GMT",
-   "fuente": "Infobae"
   },
   {
    "titulo": "Las nuevas prohibiciones que regirán para las apuestas online tras la sanción de la ley de ludopatía",
@@ -584,10 +572,46 @@
    "fuente": "La Nación"
   },
   {
+   "titulo": "Javier Milei regresa al país y el Gobierno apuesta a que el avance legislativo calme a los mercados",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN0lMek5zWS1ORjZOWjRPeDVJV1ZvZWhlY2l5VklGT29aU2FoZ3lmQkFIcVlyc0ttRjlqZS0taGd5WGJVcnREUUJpNWdDQS1pWU0wZ1RIOXF1cU83aFR4bVZtYV9GVUw2ZWp2dExfanBnbGhQX2pHZGJwUGJrUjVadWxEemk0Um40YjBScHp3eVNhZGFlOEJqXzhCdmlZU3pOU2ozeGIyZG5rYmpVa09rQi1KWl93TjZBYmM2MWw0bnBqdXNHc3BORkJhRVNZbFQwNFHSAdcBQVVfeXFMTTljaklRNjhYSWhYNjYzd1JMRC1GVzU1QVRydjVYM3BnTnZocEh1NmVoMzE3MkVXUGc3TmhhYV9oWjlBSjcwTXFXbGJDQ0JjVHlGekU1TW1sOGV1ZzhIcjl0NV8yUWU5T2dMdHJwaEJxNW5qcHVxXzdBaUtINkJsd1FnX3dNTDJfUGxvTUZxR1lCX1lNSldFenRMRWpmSDI3Zm9FTnFFZ1JBNndjMnhrX2NkcnFfZnk4Q0NGeE9VSklhcWJhVEhkWTRPRjQyUGthOUEya25hRTA?oc=5",
+   "fecha": "Fri, 27 Nov 2026 10:00:00 GMT",
+   "fuente": "Ambito"
+  },
+  {
+   "titulo": "La Justicia entregó al gobernador Vidal la administración de dos estancias de Lázaro Báez en Santa Cruz",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGREaEhObml4MW5VV1N2WklfeUp0QTcwd2ZkWVY1QmpHb1FmekNHQlZFQ1c0WkpLams2NWI4cHpDVDRlelZJLTZ1U3FsczJoMW1JcC1HbGN5MXlxOXlQVXJiOXBjLUg3UzhNVFUyUXl4Y1M4OGRYTUt0Y2xKUGhUbFJUZUNGQ0lsb0JRbnZuVUlyUUN5R04xcmkwYnNpNWQteldFRGktUHVoczZRbFJCTmhNR091RGFXdE1VQ0o1SUNqZFBCcmd2UEUyZ2swNHZ6N2xDVTdJY2d3aFZJa1BLemZCbjXSAf8BQVVfeXFMUGUteHhYR3Jnc3BOSFRwZy04bXBsWlJDdmNQYWVMM3BNOGdLRm5LMDhScnRFc05XVUdkT3E2dTV5VnZOcG93Z1NRU2ZHNm5hY0ZwNGRJN3FKLUx5dFBnMVdPUFl0WFVNZG5SRGVKOWp5b1N1NjFIRGs0cHFKbndxU2tpY1FGVVBaSEVOUGhndm5yVXZvN1JadTNnaWZpOThxcUZEZjhTcjFzVGR5LXFxN2xZbUNZbHRFSjc3b1o4OTBiakZzcnVqRDNKTWtEWHJZVy1vZndCWVZyUGR1VFhpc1BSamZhbnpCSW1wbXhuS2tVVWJ2XzFnVEVuV09XVWlr?oc=5",
+   "fecha": "Fri, 27 Nov 2026 17:56:00 GMT",
+   "fuente": "Infobae"
+  },
+  {
+   "titulo": "Duro revés para Milei en Diputados: la oposición fijó $11 billones para las universidades en el Presupuesto 2027",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQamV1cEpVZHpuU0d0dEFqeGF5SXc0ZmR3OEJabVcyR3ZkSDNocUJlZDZzLUE2T01FTGVZRlRueHhfb1E4MFd0VG4wa3drV0tVN3Q0WjJrY0xTakI5OTkyZ2VSZ2VXMWZ1TEF0cGxkbm5paEllaVpXM0RoR1AybVdRY0VMRU5jTU5FR2E5YVV3OUx4Yjh4eXkxeEFXd0hlYUF4UzBab2tLckV4QjBIMnlkSTFBVEQ1R3Zqb1dGZEZhTS13WURJcEhaVDJfWG4tNkxuUnZVMGRmMUdpdUZaa1FGVS0zaThGZXR4eHFz?oc=5",
+   "fecha": "Fri, 27 Nov 2026 12:52:34 GMT",
+   "fuente": "Perfil"
+  },
+  {
    "titulo": "Diputados aprobó incorporar a las cooperativas a la Ley PyME: qué beneficios podrán tener",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUHZ5UG9YMjVSeE9hVm41TlhZUDVTRDRuRWNINUstdkJfMVBTcGNWeUtqc18zeTNUa3JjMEF5U0ZrSFFGSFhsX21WSXJXa3hKLXhKczFlNV9DbzZjRlJ0RWtEVDRwdXhFdzRmVnBKVF9KZ1Q4WHdVdGo5RGhFNTEyRlNRczZMc1FzcVFYdXRzM3AxS0xlbTVXb1d5SjBaMzIwU1NqTHdqcnM4WGVXaUdobV9PSDdpd0Z0dmlNdDNFZ2dTeEYzOTNDRjQ5MlpEYWdkV0FR?oc=5",
    "fecha": "Thu, 26 Nov 2026 23:47:09 GMT",
    "fuente": "El Litoral"
+  },
+  {
+   "titulo": "En Londres, los kelpers apuntaron contra Argentina en la previa al fallo por Sea Lion",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWg1Z2JRaXByRnQ2NXFDU05hLXR4dnZSYTFYbEVOWVp4cVZXdzFhdXVucFQ0UWoyaXRRVl8zOTJpR0FvOXBuZnpoSk1MbUlSV3N0OHBXR2toV3hhNEJOTzZ6UWVOT25TU2tZV3l2OEZrejI4ZUlqM0d2Y2luTURSUkY5M3VBcm9JTll6cGN6ZUl2R19FSHJwNkZrSUNaUHVkM1BJSGQzWWNzak9YQ3dSMnEwaXNUaWJZVUlweUxnNmdwUlhYVVRmOVVaNGNUQUE?oc=5",
+   "fecha": "Thu, 26 Nov 2026 22:45:19 GMT",
+   "fuente": "Perfil"
+  },
+  {
+   "titulo": "El Senado dio media sanción para suspender las PASO en 2027",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzV4ZnJKZHl5VjZPOXowY1lkUnlSMUdOTlIwZ09USldGZThTM0pCRmJqQ1pJRGxwUHhwenNYWW1fXzZMdHo1MDB6dkhuYzFHdDhQZU9UVmVIRFBXNl9jQlQ3OHpTS1VQVkl1dVFISjRKMTlDV09Xb04tTVpxWXpzU1MyVTdXM3hBcFFsTzBQZTNMdWFCcmhjR2FLbWxwRTZi?oc=5",
+   "fecha": "Thu, 26 Nov 2026 22:01:00 GMT",
+   "fuente": "Página|12"
+  },
+  {
+   "titulo": "Corrupción en el fútbol: rastrean una transferencia de 260 millones de pesos que le hizo la AFA a \"Chiqui\" Tapia",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0F5ZFlWR2JmZVlKZzFFQV96ODc4RDR0MmNsVm5Ld2FKREI0OXRrZVNHazNYSHhJNkRQd2dxWVdVTTVQaXVIT3dFTERUMWZPaUVvdjcwYlBQcklsRmlobHRnNmE1ZlZ2Z29EUUhOMlpSQzlKQXBTQ1g0UlNlNVZnekZLRlY0QTd6aGJFZDBnXzd2OHlHUGVUV2o5a3VVUlJzN21zcUUzUW9kbFh0ME92QlpnakdKLXpzcHo4UzVPeWh2U3dUTk8yV3EzZw?oc=5",
+   "fecha": "Fri, 27 Nov 2026 14:34:51 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "La Legislatura de Río Negro aprobó el presupuesto y el paquete fiscal para 2027",
@@ -608,16 +632,16 @@
    "fuente": "Infocielo"
   },
   {
-   "titulo": "Por dos obras viales, habrá cierres totales en dos autopistas durante el fin de semana: los horarios de los cortes y los desvíos",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUdVZ21QcmsyT2NIanlIcVFiM1g3NmN5OW84dU9jVE1uMEVVSFl6bDJYU1VZdXZBMm16aFZCSTZZdEQxUVZYTm9IUUVCeW5TMS1DdEFZZWRWS0ozYko5QzAzM3Q5Y0F5dzRvcDNBQkhlRWVDLWlGZ3hXTGRrYXBOUmg2LXlaeGJWTHFBcE5aVWNPaV9nT1NaajRNd3hqX1FoWXRFTjl3eWVHdjI0Qk5ZYzZTTnk4U3ZOYmVVYWJGNGtvUdIBxwFBVV95cUxOMDkxdGNQOWQ0NW52NzZmRlU1OE5DQlhLNVlmQ3ZpRm1iN2pVMUotdm1yNjM1eDF0OFJKWnpXZHBjOUo3Y1ZBTXdUb2F4ZHNZS3JYUWt6emFFcUtKQjZOYmRUaUdMTDgtZTBMbkIzZDFFdUc2V1ZYZnl1djE1Vzl3aXNSMVpqU3BhNXZUSWRVenZDblZDXzdjUk52OGFpbTh2ZzVxSGg4UzIyMk1yTUx4OUxlLVkyNW52S2JXc05PMVdMS2JhcVZv?oc=5",
-   "fecha": "Fri, 27 Nov 2026 09:00:23 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "Arranca el juicio contra los encubridores de los vuelos de la muerte",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlhldlFPSXpUNUtGNjZrSV9TX3UzbUZMd1dZWE9hc2V4NEpmRVNfMDQ5QTdxWEZIa1BTd21DMEpSbXhDREluaThXdTFHQzdQOFI5TVc4MnY4aXoyMUh5dmU5N21OM1lhbVVDaVBBbXp4Q2hMSkFiaGJOaW80TGN0SmRleC1qMjBCdUNXX1ZDSHl0Y1phajdWLWptaTNHT1B3dHJLeHlVVjQzckZN?oc=5",
    "fecha": "Thu, 26 Nov 2026 19:44:00 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "Cortes en Lugones y Dellepiane: la Ciudad restringirá la circulación durante el fin de semana",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVFk2dXRPbHNIa2thUTM3d1IyckhoOW5jcDhLd2tjTmhLVTV1SGIxbGEtQWFJTkEyajFpSHBtMmVId2FuUGYzZ0lQNFFlTUVHMUpGS0NETUkxQ1lmajRIUE1pNDBQTEh2OEVRTi1YNjhfclJhTU1UVlRkR0hDbVZQbmhoVUE0d0FYb2paTFJfNGkzbGZ0YTZxVDBEUGt6dnN6d0I4VHdib2kxZnJsMXpraGVJVXBCVk9oZ2xNejRESW9EeWdqRlNRcVNZamRYUE5EYm9XY0kybGd4dw?oc=5",
+   "fecha": "Thu, 26 Nov 2026 23:02:00 GMT",
+   "fuente": "La Nación"
   },
   {
    "titulo": "Masacre de pingüinos en Punta Tombo: el Superior Tribunal confirmó la condena contra el ganadero",
@@ -630,30 +654,6 @@
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX04wcEt3S1pfWjA4Qm1IN1BOQ0tBSEJDVFFCb2V3XzFJV3J4eHpqV3E2M2ZjS2xTU1BCVUt1VGQtdXdhS1o3Sm9FTEd6UkRFOEZCTUcxNUlTM3gxay1ZOWdIVm5FaXJBY1F2eG1tUzN5XzBwbE5mRzM0TVdpbWtLLXdjcFZfVVB4Q0xkNXFsMGtrQ1pidXRUX0U4NmxkRlhTTnQ3RFF6NWpzUmJwWVp1N0pEalo5YzRtVEY3aQ?oc=5",
    "fecha": "Thu, 26 Nov 2026 15:16:35 GMT",
    "fuente": "El Litoral"
-  },
-  {
-   "titulo": "Con manuales educativos y espacios de evacuación, las escuelas de Neuquén se preparan para El Niño",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWhINmhKS0wwa0F6WU5GcUJZcXlISEdMNFVKZHBHNXJMeG9CczdDOGhvQmU4TjFweGM1Y1BTSTBuazNmSnZreU9fNzBSVXlpMGJKLTF6d05VSmtsNDNkTGZXS0pQel9pbVlvNnRuY1RMRkZOS0wySEdob0NwaE5jMjdBZFJWMlFubFFBV1FaMXA5N2lsaUhfZjhCNEYzUUMtR096YThWcHFGU0E5WGI4SVRweWp5QVpRSnVjRHhhN0FHWW9oVGV5WQ?oc=5",
-   "fecha": "Fri, 27 Nov 2026 10:14:00 GMT",
-   "fuente": "Lmneuquen.com"
-  },
-  {
-   "titulo": "Con amplio apoyo, el Gobierno logró la media sanción para suspender las PASO y la reforma electoral pasa a Diputados",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMVJCTUE2czA4Zkw4WUdRSzVneTBuZkdZWHNzazQ1OUFkTHBMa1Zod2E4UDRTRVp5UWxCLUU1NjFYekQtOTNvM2VaSXVsLUxWY2R1UlRzVkNld21ob0lXUXZoY0ljSGVHemNTY3BVc2VVUi13ZkJ3aTJxcm8zUWNRSWtpSWVDamZSOFdCQmd5TmxEdTRUZ1g0bjVNR1ZGRmRYOGViU0VtTXlRRDAyXzc2M0N3Z2RoOEROSUppV3FNWkhGemZKNmhzYVhNQTdnQllwVnY4QWNOLUFtSGlwQXJpd2hUemhtMXI4MlhLZjUzQkxXQQ?oc=5",
-   "fecha": "Fri, 27 Nov 2026 00:35:42 GMT",
-   "fuente": "Perfil"
-  },
-  {
-   "titulo": "Juan Pablo Valdés presentó la 36ª Fiesta Nacional del Chamamé: el anuncio de las entradas y la importancia de sostener la celebración",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZmh2MXBFVVFIbzdBSE9kTElzQm1URW5tNE0wd3hadkUycllkcGRMYUlMX0ZzMWdZZ2o4bFcteGtHVFlqNjdEVTluRXBNQ0VrZ1VZeG5PZjQtWUlKclJtZU95NG5yWnlnZWRYU2h5UGtybkN0VGg3eDV2SkZ6SXo1MUNnYU42RjVpZm0teHJPeU83TVRQNDg4c2U5OFhWcWtvcERURDVxQlN0cUp0ZkE4XzgtU2xPcF9IYmRCVXZkTXBOZzNZdkh2YTNHS0g5RVVTWjZHb2owZTNOSENnR3c3TEVyRWJlaHBuSmlkRURpdktseWl3QjY3RDJ2R0ZpWmUwVmFRaW9PNC1VUnhpTjhHb0JFRnpLX2VURnc?oc=5",
-   "fecha": "Thu, 26 Nov 2026 22:19:00 GMT",
-   "fuente": "El Litoral | Novedades de Corrientes"
-  },
-  {
-   "titulo": "Prendió fuego a su ex pareja porque le pidió dinero para la comida y fue condenado a cinco años de prisión en Salta",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0ZhUFo5dkl0ako3WXNWdFFaXzFNdm52VFlBNkpLckJxeG5aOUVRVzE0UHUxREpUM3E1MHNxNEducGc5UUp4bG1Kc0pzdnJmc2ZhU0UyazkwNlA5bkhCbzh2M3VVYUFxOTRmZDNtbG5aNDdXRTNZX0tPNjlIVEVRVVBSTXk5ZkNadXJlS293Ny04WmlzRlRyYzk3OXNpMzUyVGNoVFJEdHVEOGQ1VzdXbHk4Wm9VRnA0bUFEOVZQYXhPZTZ3S3ZibE41YmtRSHpiVUJjajE1VU9aV19uUzc0OUNPYi1zczR1UUJLakRrWEF4QVNBOFpyeFRsLThoNDJV0gGbAkFVX3lxTE9RVkFGVDl6aWw2VFNUejhodm01Q2hSU1ZlNWFaNTlFUlU4NGxOTjhWbVdjNzV6V0dmb2E5bmNfV01ZOGlwZTBLR0lMeGp3OVFvZDkyS1kxWDBlMHJuTE01VUpOUXRLWE1Yckd3ZFBHRG9vY1VodHNfWU8tQXE3X2ljNEdtWVp1dXdDSDlBb2l3LTMtNTNoSURBNkJmak8tbFk1NS1LbDRJeWFzRUQ2NXNDQUs2d1R2SHNUYnZNUnVxUi1RNWhtd2J3YUs1NTdPNmNrYy1DYU9qdXZRRnEzYWltcVNDNkZ0N0JZVXoyTWxsRjRVdURVUVRSSFV2ekNGdGIwMlp2bHFUbnFTVzBpa2xxUzdvLUl0NVZoc28?oc=5",
-   "fecha": "Fri, 27 Nov 2026 03:10:00 GMT",
-   "fuente": "Infobae"
   }
  ],
  "finanzas_argy": [
