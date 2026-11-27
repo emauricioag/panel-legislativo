@@ -503,9 +503,10 @@
   }
  },
  "errores": {
+  "noticias": "HTTP Error 429: Too Many Requests",
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-27T19:09-03:00",
+ "actualizado": "2026-11-27T19:36-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -566,15 +567,21 @@
    "fuente": "Página|12"
   },
   {
-   "titulo": "Milei, EN VIVO: \"Salvamos al país de una debacle sin precedentes\", aseguró Luis Caputo tras la sanción de la reforma del BCRA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRHRtNWxCWkFTUXZBTkhySUJRT2Ffam43OURieS0zbTl5a1NKS0RRZ0NSazVieVdjLUFXMUFKZTVpTzNpbzBITlJYWnRIb0JrdDBvQTAwMDZmQTNGUEZfYXFCVXhzdXdIcGptT2ZYVnpxNy0xOG53QlI2cUFtbU9YTS1DUkpRZ0sxYXluZW5rc2U5cDg2SjgwV3JncDNqU3piSGg4NkllSjZMekh2R1NGZkJqLURZMGlHMzAxQUZ3Wk16c0pSeXVRX0c3ZDlONzVL?oc=5",
-   "fecha": "Fri, 27 Nov 2026 21:48:34 GMT",
+   "titulo": "Javier Milei y sus medidas, en vivo: el Gobierno logró la media sanción del Presupuesto 2027 y la suspensión de las PASO",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcGhGUXd3amtQQ2JONWtuZ2QyNDhhblhqRG1hV3htbW5DS3pGOWkyNGhyNC0xWWZnWjNPX2FKa1VUS2pieFJ0QUtXbGZhQjFKYzRfZzJUNTlBMzVma0xvT2RBTUlzdEVCVXEwODhzQlVLUWNPQkZMMXpsdHVwck41aHB3VzlpTTNTdVJpVjV5bk5iWVdCa1VrclJoQWhnQ1RHT0J3Szh1MzEyTE9zQVJoVkFtcnBoT3EzUVZtY2ZaWUV0eUt5dkxUZHRfOEdsTTlEZU41MS00WmUzUmtGVVE?oc=5",
+   "fecha": "Fri, 27 Nov 2026 22:10:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
+   "titulo": "\"No nos cambia la vida\": Lilia Lemoine dijo que la ley de ludopatía fue solo una \"concesión\" a los aliados y Maxi Ferraro salió a cruzarla",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSzNyY1NQWXJvLWZ4VHpYTzZjRmZtM25ZQkFyS2wyNWdlb3pjWTZ4MndJN0JsOVh4ZHZBNlpyaXp0STRrWnVqQ0ZfUkRiWW92RlRqckVVUXlEd2paZjkwQTlXeElhTEpBUF9Ha25kTWtLdjNGOTVwUkgyaHdVWHNuMDUwc2JWeC05WXdERG91LTNMYW5oYUtrazJuWUZiY2JoMENJRURLbzJkdl9zOVZDU2tENjdoQURydEhpZ3UzSi1TVVhyM2lUYnJ0TUxwNU05M01kMmRtRGQ5d2hyd1E?oc=5",
+   "fecha": "Fri, 27 Nov 2026 19:25:59 GMT",
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "Las nuevas prohibiciones que regirán para las apuestas online tras la sanción de la ley de ludopatía",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdUJDaGZlLU5xY0RxOEkta2FqNEdkbjVzQTM1blhVdmF4WUpjZ01UQlJPYmJlZTh0WkZnR0JSWk5oV0FDNXVmUTllUVZGQ1VJYnJIa3k3N0VnVlh6Z2dTb0dlaTBYbE9mY3ZVeGV3ZUdkR0I0a2MzYnd5NGFlc05DYjZ2Xzc4RDRIQlNxdXZfQlJCLVNvaEpPR3gxWXN2bDVnNFJ4VVp3WVBKTkFxRTBvOVdkMVZ4Z3B6YWFYc3U3MHhPT2doaE82d2o0MXdzMTUtOHZLM0lmT2FQSkdJSlNMSjZVUHg?oc=5",
-   "fecha": "Fri, 27 Nov 2026 15:19:00 GMT",
+   "titulo": "Gildo Insfrán rechazó ante la Corte Suprema el planteo de la oposición para impedir que compita por un noveno mandato en Formosa",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNzYtNl84X2tPeWZhZ1hOTDlzVDNBeWZRTXVCbHp3Uktkb3REMHZIMkJNd0NvNk92OTJRRGJvY245dmRjZVppUlJRVnUtd0FHTU1GYXQ2Vm5KQV84RjFuMGZpcUxHSy1oenpob1FkbzZUSkwzR21HcUFaaWRfOWJfUmI4dUthQzZaczd0bDJKS3Ztc1M0TlVxZTQzRWlMUEpHdDVDcURxWHYtNFBXZXdKcUk4aHBneHB6QXpYeTZhZUU1VHNOcExCMkVGc3czdXlGZTA3WERHNkd6OWhpdHdEdXlfSQ?oc=5",
+   "fecha": "Fri, 27 Nov 2026 21:07:00 GMT",
    "fuente": "La Nación"
   },
   {
@@ -590,15 +597,15 @@
    "fuente": "El Litoral"
   },
   {
-   "titulo": "En Londres, los kelpers apuntaron contra Argentina en la previa al fallo por Sea Lion",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWg1Z2JRaXByRnQ2NXFDU05hLXR4dnZSYTFYbEVOWVp4cVZXdzFhdXVucFQ0UWoyaXRRVl8zOTJpR0FvOXBuZnpoSk1MbUlSV3N0OHBXR2toV3hhNEJOTzZ6UWVOT25TU2tZV3l2OEZrejI4ZUlqM0d2Y2luTURSUkY5M3VBcm9JTll6cGN6ZUl2R19FSHJwNkZrSUNaUHVkM1BJSGQzWWNzak9YQ3dSMnEwaXNUaWJZVUlweUxnNmdwUlhYVVRmOVVaNGNUQUE?oc=5",
-   "fecha": "Thu, 26 Nov 2026 22:45:19 GMT",
-   "fuente": "Perfil"
+   "titulo": "Javier Milei regresa al país y el Gobierno apuesta a que el avance legislativo calme a los mercados",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN0lMek5zWS1ORjZOWjRPeDVJV1ZvZWhlY2l5VklGT29aU2FoZ3lmQkFIcVlyc0ttRjlqZS0taGd5WGJVcnREUUJpNWdDQS1pWU0wZ1RIOXF1cU83aFR4bVZtYV9GVUw2ZWp2dExfanBnbGhQX2pHZGJwUGJrUjVadWxEemk0Um40YjBScHp3eVNhZGFlOEJqXzhCdmlZU3pOU2ozeGIyZG5rYmpVa09rQi1KWl93TjZBYmM2MWw0bnBqdXNHc3BORkJhRVNZbFQwNFHSAdcBQVVfeXFMTTljaklRNjhYSWhYNjYzd1JMRC1GVzU1QVRydjVYM3BnTnZocEh1NmVoMzE3MkVXUGc3TmhhYV9oWjlBSjcwTXFXbGJDQ0JjVHlGekU1TW1sOGV1ZzhIcjl0NV8yUWU5T2dMdHJwaEJxNW5qcHVxXzdBaUtINkJsd1FnX3dNTDJfUGxvTUZxR1lCX1lNSldFenRMRWpmSDI3Zm9FTnFFZ1JBNndjMnhrX2NkcnFfZnk4Q0NGeE9VSklhcWJhVEhkWTRPRjQyUGthOUEya25hRTA?oc=5",
+   "fecha": "Fri, 27 Nov 2026 10:00:00 GMT",
+   "fuente": "Ambito"
   },
   {
-   "titulo": "De la suspensión de las PASO a la flexibilización de la veda: todos los cambios de la reforma política",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMW84akxpLXduVjBwbTJwQkEyVVY5RGZnNWNFVUFZT2JVbzJGeEVwbzNfX1llYnhTSk5OYXJBZTZyS01BMGxxaXIxOEFFNGZQWUk1NkJGV2RFUDM2Nl91eTdkQVZxT0hQRHBldlhqLXNoV0FTSW9IQlhoc1RoaGZlV0c0aUt0TjN6NWFjVGFJUkQxVlZCWFhLdHRUWEFyUFd2T0RN?oc=5",
-   "fecha": "Thu, 26 Nov 2026 21:37:15 GMT",
+   "titulo": "El Senado dio media sanción para suspender las PASO en 2027",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzV4ZnJKZHl5VjZPOXowY1lkUnlSMUdOTlIwZ09USldGZThTM0pCRmJqQ1pJRGxwUHhwenNYWW1fXzZMdHo1MDB6dkhuYzFHdDhQZU9UVmVIRFBXNl9jQlQ3OHpTS1VQVkl1dVFISjRKMTlDV09Xb04tTVpxWXpzU1MyVTdXM3hBcFFsTzBQZTNMdWFCcmhjR2FLbWxwRTZi?oc=5",
+   "fecha": "Thu, 26 Nov 2026 22:01:00 GMT",
    "fuente": "Página|12"
   },
   {
@@ -614,12 +621,6 @@
    "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "Enriquecimiento ilícito: investigan una millonaria transferencia de la AFA a Claudio \"Chiqui\" Tapia",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVlA5YkhtTTQxSUE5ZkNYT21QWkp1R0pvYm9fUDNHMUdhaUpaNDVHYVFVVXQzVE9wODQtNFVrcG1jRVo0VUFOQzdMc2hwdjgyTGxCY19KYjhtX0pkWjdyelZINVBGemNBZ2tjT2F1X0dvNnBYZ3FHT1lONVplekNIaTRIV2JCWU0zcHBpTzF4bWdqOHBQTnhxMUtDVk0yT1JMSlN0NVNwNFRLLTh5a3l4NktuNVNGQzJqVDNPaXRSa3RIWWdIY0JBLTd3VEQ3OHY1amxyRVFhOUxWUjQ?oc=5",
-   "fecha": "Fri, 27 Nov 2026 13:47:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
    "titulo": "Arranca el juicio contra los encubridores de los vuelos de la muerte",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlhldlFPSXpUNUtGNjZrSV9TX3UzbUZMd1dZWE9hc2V4NEpmRVNfMDQ5QTdxWEZIa1BTd21DMEpSbXhDREluaThXdTFHQzdQOFI5TVc4MnY4aXoyMUh5dmU5N21OM1lhbVVDaVBBbXp4Q2hMSkFiaGJOaW80TGN0SmRleC1qMjBCdUNXX1ZDSHl0Y1phajdWLWptaTNHT1B3dHJLeHlVVjQzckZN?oc=5",
    "fecha": "Thu, 26 Nov 2026 19:44:00 GMT",
@@ -632,12 +633,6 @@
    "fuente": "Clarin.com"
   },
   {
-   "titulo": "El Senado, expectante por el ingreso de dos proyectos clave en extraordinarias",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXlvNERYaU9wa1dKNHdzaUZGOWZxYnRUM1RwWGduZE15UmYyYWJGdndhOFQxMVBYaVpfRHFLMmVsbFN0a19Qek15Z0V6Q0c4dzNIb0JLWHM5QUhTNEhpWEdsQUxKYWFOb3JRczBZejA2cHZSLUpWc2lMTXFzcFVhUURjeFR2Yk1iVTNhTnpEOTgwd1REaDYyZUdHNjg4SHBJZFFreXVwcTBaWU9BYTh3?oc=5",
-   "fecha": "Thu, 26 Nov 2026 13:48:47 GMT",
-   "fuente": "La Tecla"
-  },
-  {
    "titulo": "13 ambulancias nuevas para reforzar el sistema de emergencias sanitarias del área metropolitana",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX04wcEt3S1pfWjA4Qm1IN1BOQ0tBSEJDVFFCb2V3XzFJV3J4eHpqV3E2M2ZjS2xTU1BCVUt1VGQtdXdhS1o3Sm9FTEd6UkRFOEZCTUcxNUlTM3gxay1ZOWdIVm5FaXJBY1F2eG1tUzN5XzBwbE5mRzM0TVdpbWtLLXdjcFZfVVB4Q0xkNXFsMGtrQ1pidXRUX0U4NmxkRlhTTnQ3RFF6NWpzUmJwWVp1N0pEalo5YzRtVEY3aQ?oc=5",
    "fecha": "Thu, 26 Nov 2026 15:16:35 GMT",
@@ -648,6 +643,12 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ05QcFltU0M5eGlaNGtJaGtyRFRfQjlKb0ZmYlc1Wi1PNUJqdDBFQlNaQlRnc1ZFXzAwaGc5dlJTWUFEOVYweUFJeGR5c2tYZUJxS1JMUFNKNWh2RXNVUy1vdE9pVnYtOW8tTlVsZkk1R3RVVnBTaGF4RVNtSEd0bnZabF9vd3RqN3JjSUNpWWFzRGhGT2ZyT0dsN1NncGxuZVZyYVl0NUZqdXBuOEJaVXNBT0JLVGtVMmRoWkNWeDlPWTRaUmpOYlRhdGxzM1Jm?oc=5",
    "fecha": "Fri, 27 Nov 2026 17:41:02 GMT",
    "fuente": "Página|12"
+  },
+  {
+   "titulo": "El gobierno de Kicillof envía 250 pliegos a la Legislatura para cubrir vacantes judiciales",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVREOUdEdlVRbEhzTzhqZENHUnAyS1JiODBuaEVVMWpHdFNwbTNLZ1ZsdnJ4ZVdFZEZ1MlJORmkzdFZ0OFExQlBaV0FuSTFjSkpLY3MzTG1mc3NFRmtsRGZ5MzlhSFRic09HQ2F2SWFobnhKMkRIZHRIS2owNG1VMlhQUDZQMndvcWhnNlRGdGJWV0o2WEZ4ZXpRdW1nV1Flam82RUNnM1A4TVVTdE1LYmptS0kyTGxHdnVscmVnODRwcGVCNGhKMQ?oc=5",
+   "fecha": "Thu, 26 Nov 2026 21:21:10 GMT",
+   "fuente": "Infocielo"
   },
   {
    "titulo": "Prendió fuego a su ex pareja porque le pidió dinero para la comida y fue condenado a cinco años de prisión en Salta",
