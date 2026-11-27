@@ -12,18 +12,18 @@
   },
   {
    "casa": "Bolsa",
-   "compra": 1660.5,
-   "venta": 1663
+   "compra": 1656.9,
+   "venta": 1658.5
   },
   {
    "casa": "Contado con liquidación",
-   "compra": 1753.7,
-   "venta": 1754.5
+   "compra": 1750.3,
+   "venta": 1751.5
   },
   {
    "casa": "Mayorista",
-   "compra": 1592.5,
-   "venta": 1601.5
+   "compra": 1596,
+   "venta": 1605
   }
  ],
  "riesgo_pais": {
@@ -185,16 +185,16 @@
    "fuente": "Siete Puntas Digital"
   },
   {
-   "titulo": "Presupuesto 2027 de Corrientes: el Senado dio media sanción y el proyecto pasa a Diputados",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNHVEVTViQ2h4SUZyMmQ0MmpuMjJycVhENHBsWHB2dUVkNDRmNHVLcjZTUUFhbWNNb0hnbnZEZERkWW1CVndPek5nMFNYNkw5QVpBd1lQZXg3LW95bC15aGYzZ3ZvSXA4bFpHc2liU2twZU9wZ3JOOVlMbWViRFoxZHY3TjBaTXhBVmVEUVhQRVM1V3psREc0eHFMREZ5Z2RnNFRkeF92V1hrQk1iVkRSNU1vYmRmMjJBMEJCSThvVDBiVzlQYk5fcDBablkwVDhkLXB6TEZEcmF5RkNiWWc?oc=5",
-   "fecha": "Fri, 27 Nov 2026 15:22:10 GMT",
-   "fuente": "Identidad Correntina"
-  },
-  {
    "titulo": "Desmantelaron un punto de venta de drogas en el interior de Corrientes",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUzNtaU1vT1VTbzc0YXRTamdmQmxKRnlIbUdTNVhKR1docC0wM3ZjaEdEVHJraTNLWmtuLU5Va09UUkFfTGxJR2VfeWhsRVl1d3BFQ1RrV0lzLTdDN0JXdmpvYlRiZFRrRU9EQ000LWs5UHRjR1oweEJvX09DUkhNam45c2drWk1EdmczZGRuM2ljdEpnUE1RWFBsejlJLWdSbWt5MXMxQzMwdw?oc=5",
    "fecha": "Fri, 27 Nov 2026 18:09:54 GMT",
    "fuente": "Diario Época Corrientes"
+  },
+  {
+   "titulo": "Presupuesto 2027 de Corrientes: el Senado dio media sanción y el proyecto pasa a Diputados",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNHVEVTViQ2h4SUZyMmQ0MmpuMjJycVhENHBsWHB2dUVkNDRmNHVLcjZTUUFhbWNNb0hnbnZEZERkWW1CVndPek5nMFNYNkw5QVpBd1lQZXg3LW95bC15aGYzZ3ZvSXA4bFpHc2liU2twZU9wZ3JOOVlMbWViRFoxZHY3TjBaTXhBVmVEUVhQRVM1V3psREc0eHFMREZ5Z2RnNFRkeF92V1hrQk1iVkRSNU1vYmRmMjJBMEJCSThvVDBiVzlQYk5fcDBablkwVDhkLXB6TEZEcmF5RkNiWWc?oc=5",
+   "fecha": "Fri, 27 Nov 2026 15:22:10 GMT",
+   "fuente": "Identidad Correntina"
   },
   {
    "titulo": "Amplían cupos para la Pesca Nacional del Surubí en Corrientes 2027",
@@ -207,12 +207,6 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fampvMC1XVTlEN0hWSnlrS3dQRkpaclI1bHBIMXdOakxiakJ3Rk01SGJuSERXODh2MWdPVmcyZWprWGFlR3ktRFIzV29iWUowVXllUnJPWHBvNE1PdHlXek83b3Q2TFhzQmdwSllB?oc=5",
    "fecha": "Fri, 27 Nov 2026 13:29:13 GMT",
    "fuente": "MisionesOnline"
-  },
-  {
-   "titulo": "Una Isla llena de yaguaretés",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHb19wVHg0M3NjOGY3SjQ5RlRWbUVzSE1HWEExV2I2aXJiUUcwVWpYUll3MFp4SkxtVUgyVkFrY3REX3lnMWpXOXl5emNMc2FSd1Azd2JtVW4xQ1lPVlFiRG93UzExTlp6RkNqMmd1aDRIWGhkbFRmMtIBfkFVX3lxTE5Ba2JPR1UydFg1cndaUmx3NjVnb1dPUVh5TFN2Vlduam5LZ21pTDFIbzRiUXUyQ0t5dDlnQmRIVXNGbThtQ1ZjVW9mR09QakZCeE5fNk82RS1heVpzZ2F2U00zaFZCcFZuc3V1OVUxTlFOXzV6SGhhVXAxcjhVdw?oc=5",
-   "fecha": "Fri, 27 Nov 2026 15:34:31 GMT",
-   "fuente": "Clarin.com"
   },
   {
    "titulo": "La Corte de Corrientes dejó firme la condena contra un hijo de Nancy Godoy por abuso sexual",
@@ -251,12 +245,6 @@
    "fuente": "Momarandu Corrientes"
   },
   {
-   "titulo": "Presentaron la Fiesta Nacional del Chamamé 2027: fechas y entradas con precios congelados",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVTNSbjQwak4wWjFmUl9YTWtxZVFtakxaS096Y3lzd3BSV1c0RTZSUDBfaUxwY2RDZEdnYnpEOWIwZjNmM2VweFZ2S0o2aWlCd0R2Vk91VHQ0VnJhMEk1NEtfZGJka3hRdG9DbFZFV00yTGRob3BYN2dVMHNteGFWVlBGa3hKekRUYVVEZmFxX3haOWk4Zk1Bck9aVWNJOEg4R1RuNGdYZEptODlRMmVQMmtqd0NNMU80MDJDOVFRVDhyRUJMTHB6WWYyRDZfNEdFekthRmJxZGFYZU9EZmdTcw?oc=5",
-   "fecha": "Fri, 27 Nov 2026 11:24:50 GMT",
-   "fuente": "Perfil"
-  },
-  {
    "titulo": "Valdés anunció obras estratégicas en El Sombrero y la región",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORmZqdjBBTWpCODFUMFVEZnQ0Y3k1eWdfUmV4LWp6VVFfZmZ1cEZpQ3hOdDVOQ3Y1cGxLOXJJWEpUUm9HQVdYcFRwVVVEblBBMEJyTWZHaXBCcHNlU3pzUVFad2V0MWFUMVFyVTZNbzdRWjFBRG5GcDBNRUphNFFyRmN2UmhjMHVZdVJmOF8wWkVVSmpma1M5akdQNzQ4MEp0R0l3eTdFcklsYVBl?oc=5",
    "fecha": "Fri, 27 Nov 2026 14:37:32 GMT",
@@ -269,10 +257,22 @@
    "fuente": "Noticias \"d\""
   },
   {
-   "titulo": "Valdés presentó la 36ª Fiesta Nacional del Chamamé y convocó a defender la identidad correntina",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSF94a1lFNzBfWXN0V1Y3MXBibGQ1VjdvQjE3UkhabmE4U2hpVUJCVmV3YUVaRzJRX0xmWWZGR2tHY2lFbjNvUkVqOVdyWlRiRDlIT3pyTERrZFZPU0VIdEhKTTRyQWgxaFYtQ2JPWExUUXp1WFBxZTAxek1vb1hIUnpKZzFUSWZrYXJCeDU3alZVamtNNnFXZUhJRzU2WUdubzAyQ0tsbU9RdVNlaVJydnBKZXZydUc0OHJCYkJBU1lrZm1o?oc=5",
-   "fecha": "Fri, 27 Nov 2026 00:42:16 GMT",
-   "fuente": "Instituto de Cultura de Corrientes"
+   "titulo": "J. P. Valdés vuelve al interior para entregar viviendas e inaugurar obras",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdklVZHZuTk1sUTM0R3NKMUJkQXFVdXhETEM4cmt3cllCQ1JXY2VmdXRfVlFPMWc0RHl3TU1peVZKRjNRcFhHRU1WT0ZkSkNlSDJQR1lvXzRaYndBMXJZbk9YaHFSS1VKYnRPak1BbnBpUkJUN2pNclk3LVBTYzVVdjdVTnhyaXBmaWxnUC0wR3AzOFJhUmNJZTBkeEdOenpwMkhfVHVOMGJYbGl6b2pIRFZVN2Z4QQ?oc=5",
+   "fecha": "Fri, 27 Nov 2026 02:21:29 GMT",
+   "fuente": "República de Corrientes"
+  },
+  {
+   "titulo": "Juan Pablo Valdés presentó la 36ª Fiesta Nacional del Chamamé: el anuncio de las entradas y la importancia de sostener la celebración",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZmh2MXBFVVFIbzdBSE9kTElzQm1URW5tNE0wd3hadkUycllkcGRMYUlMX0ZzMWdZZ2o4bFcteGtHVFlqNjdEVTluRXBNQ0VrZ1VZeG5PZjQtWUlKclJtZU95NG5yWnlnZWRYU2h5UGtybkN0VGg3eDV2SkZ6SXo1MUNnYU42RjVpZm0teHJPeU83TVRQNDg4c2U5OFhWcWtvcERURDVxQlN0cUp0ZkE4XzgtU2xPcF9IYmRCVXZkTXBOZzNZdkh2YTNHS0g5RVVTWjZHb2owZTNOSENnR3c3TEVyRWJlaHBuSmlkRURpdktseWl3QjY3RDJ2R0ZpWmUwVmFRaW9PNC1VUnhpTjhHb0JFRnpLX2VURnc?oc=5",
+   "fecha": "Thu, 26 Nov 2026 22:19:00 GMT",
+   "fuente": "El Litoral | Novedades de Corrientes"
+  },
+  {
+   "titulo": "Valdés se refirió a la posibilidad de tomar créditos para obras",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2p1OGF5cEN0V1c3VUgxbVR4RkROeTNoME9KYXJqXzhGdmhvUmZCcExOVEwzMV8wR0V3VkNmaUdLVExRd2w4Tkg2Z05xa3FMQU9XNDYtRG5NbWlkakNCMFNod2FMQXg3SWMzMUV6dThHS1JidldqVUFfcnZGWElmYWZMVjVORXRRcXlXVkVCS0tZLXRTVzM3aDZZOERTbUt1cjFFOV9nZ3BZS1VPNnlqTzJDQ2NDTXdGRWsxRlR30gG-AUFVX3lxTFAzanU4YXlwQ3RXVzdVSDFtVHhGRE55M2gwT0phcmpfOEZ2aG9SZkJwTE5UTDMxXzBHRXdWQ2ZpR0tUTFF3bDhOSDZnTnFrcUxBT1c0Ni1Ebk1taWRqQ0IwU2h3YUxBeDdJYzMxRXp1OEdLUmJ2V2pVQV9ydkZYSWZhZkxWNU5FdFFxeVdWRUJLS1ktdFNXMzdoNlk4RFNtS3VyMUU5X2dncFlLVU82eWpPMkNDY0NNd0ZFazFGVHc?oc=5",
+   "fecha": "Thu, 26 Nov 2026 22:16:11 GMT",
+   "fuente": "Radio Sudamericana"
   }
  ],
  "expedientes": {
@@ -505,9 +505,15 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-27T15:38-03:00",
+ "actualizado": "2026-11-27T16:04-03:00",
  "medios": {
   "derecha_diario": [
+   {
+    "titulo": "Longobardi acusó falsamente al Gobierno de Milei de censurar a Bonelli por una columna que no salió en Clarín",
+    "link": "https://derechadiario.com.ar/politica/longobardi-acuso-falsamente-gobierno-milei-censurar-bonelli-por-columna-que-no-salio-en-clarin",
+    "fecha": "Fri, 27 Nov 2026 18:55:17 GMT",
+    "fuente": "La Derecha Diario"
+   },
    {
     "titulo": "Por primera vez, el Reino Unido consideró que las medidas de Milei por Malvinas son una amenaza a su seguridad nacional",
     "link": "https://derechadiario.com.ar/politica/reino-unido-considero-que-medidas-milei-por-malvinas-amenaza-seguridad-nacional",
@@ -549,12 +555,6 @@
     "link": "https://derechadiario.com.ar/politica/toto-caputo-destrozo-pelado-trebucq-hablar-gente-ignorando-datos-asemeja-tonteria",
     "fecha": "Fri, 27 Nov 2026 13:17:56 GMT",
     "fuente": "La Derecha Diario"
-   },
-   {
-    "titulo": "Milei consiguió la media sanción del Presupuesto 2027 y ratificó el rumbo económico del Gobierno",
-    "link": "https://derechadiario.com.ar/politica/milei-consiguio-media-sancion-presupuesto-2027-ratifico-rumbo-economico-gobierno",
-    "fecha": "Fri, 27 Nov 2026 12:44:36 GMT",
-    "fuente": "La Derecha Diario"
    }
   ]
  },
@@ -576,6 +576,12 @@
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdUJDaGZlLU5xY0RxOEkta2FqNEdkbjVzQTM1blhVdmF4WUpjZ01UQlJPYmJlZTh0WkZnR0JSWk5oV0FDNXVmUTllUVZGQ1VJYnJIa3k3N0VnVlh6Z2dTb0dlaTBYbE9mY3ZVeGV3ZUdkR0I0a2MzYnd5NGFlc05DYjZ2Xzc4RDRIQlNxdXZfQlJCLVNvaEpPR3gxWXN2bDVnNFJ4VVp3WVBKTkFxRTBvOVdkMVZ4Z3B6YWFYc3U3MHhPT2doaE82d2o0MXdzMTUtOHZLM0lmT2FQSkdJSlNMSjZVUHg?oc=5",
    "fecha": "Fri, 27 Nov 2026 15:19:00 GMT",
    "fuente": "La Nación"
+  },
+  {
+   "titulo": "Enriquecimiento ilícito: investigan una millonaria transferencia de la AFA a Claudio \"Chiqui\" Tapia",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVlA5YkhtTTQxSUE5ZkNYT21QWkp1R0pvYm9fUDNHMUdhaUpaNDVHYVFVVXQzVE9wODQtNFVrcG1jRVo0VUFOQzdMc2hwdjgyTGxCY19KYjhtX0pkWjdyelZINVBGemNBZ2tjT2F1X0dvNnBYZ3FHT1lONVplekNIaTRIV2JCWU0zcHBpTzF4bWdqOHBQTnhxMUtDVk0yT1JMSlN0NVNwNFRLLTh5a3l4NktuNVNGQzJqVDNPaXRSa3RIWWdIY0JBLTd3VEQ3OHY1amxyRVFhOUxWUjQ?oc=5",
+   "fecha": "Fri, 27 Nov 2026 13:47:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "La Legislatura de Río Negro aprobó el presupuesto y el paquete fiscal para 2027",
@@ -614,6 +620,12 @@
    "fuente": "Página|12"
   },
   {
+   "titulo": "Diputados convirtió en ley la reforma del Banco Central",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRTF0cGVidkVoUzF3eU9ra1lFTGhMdjlfeTN2US1CaU52NEJtWTN0UWJhZXVyYmJSdjFVRzFVcEJ5YnNSQkVUOGxwNHB1VWV5bVVHVFY0bWllVHdZU2lILVAwM0VUcFA1VEVuc1Z4cE56OGEzaF9VRjJlTldTTHBQUmw0ejlid19LRG81a08ySm5oZUxTbHBqR1hrNU5UUTUydW1sN0MzNm5Pc2xqNHJBRG9vekwyS1pVWkpjODJlbmctQ1V2cjVOcUVadVVLU2VIYzRINkZLc3E3U0RBcDB2UA?oc=5",
+   "fecha": "Fri, 27 Nov 2026 01:58:00 GMT",
+   "fuente": "La Nación"
+  },
+  {
    "titulo": "Prendió fuego a su ex pareja porque le pidió dinero para la comida y fue condenado a cinco años de prisión en Salta",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0ZhUFo5dkl0ako3WXNWdFFaXzFNdm52VFlBNkpLckJxeG5aOUVRVzE0UHUxREpUM3E1MHNxNEducGc5UUp4bG1Kc0pzdnJmc2ZhU0UyazkwNlA5bkhCbzh2M3VVYUFxOTRmZDNtbG5aNDdXRTNZX0tPNjlIVEVRVVBSTXk5ZkNadXJlS293Ny04WmlzRlRyYzk3OXNpMzUyVGNoVFJEdHVEOGQ1VzdXbHk4Wm9VRnA0bUFEOVZQYXhPZTZ3S3ZibE41YmtRSHpiVUJjajE1VU9aV19uUzc0OUNPYi1zczR1UUJLakRrWEF4QVNBOFpyeFRsLThoNDJV0gGbAkFVX3lxTE9RVkFGVDl6aWw2VFNUejhodm01Q2hSU1ZlNWFaNTlFUlU4NGxOTjhWbVdjNzV6V0dmb2E5bmNfV01ZOGlwZTBLR0lMeGp3OVFvZDkyS1kxWDBlMHJuTE01VUpOUXRLWE1Yckd3ZFBHRG9vY1VodHNfWU8tQXE3X2ljNEdtWVp1dXdDSDlBb2l3LTMtNTNoSURBNkJmak8tbFk1NS1LbDRJeWFzRUQ2NXNDQUs2d1R2SHNUYnZNUnVxUi1RNWhtd2J3YUs1NTdPNmNrYy1DYU9qdXZRRnEzYWltcVNDNkZ0N0JZVXoyTWxsRjRVdURVUVRSSFV2ekNGdGIwMlp2bHFUbnFTVzBpa2xxUzdvLUl0NVZoc28?oc=5",
    "fecha": "Fri, 27 Nov 2026 03:10:00 GMT",
@@ -638,22 +650,10 @@
    "fuente": "eldoce"
   },
   {
-   "titulo": "Milei, EN VIVO: \"Salvamos al país de una debacle sin precedentes\", aseguró Luis Caputo tras la sanción de la reforma del BCRA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRHRtNWxCWkFTUXZBTkhySUJRT2Ffam43OURieS0zbTl5a1NKS0RRZ0NSazVieVdjLUFXMUFKZTVpTzNpbzBITlJYWnRIb0JrdDBvQTAwMDZmQTNGUEZfYXFCVXhzdXdIcGptT2ZYVnpxNy0xOG53QlI2cUFtbU9YTS1DUkpRZ0sxYXluZW5rc2U5cDg2SjgwV3JncDNqU3piSGg4NkllSjZMekh2R1NGZkJqLURZMGlHMzAxQUZ3Wk16c0pSeXVRX0c3ZDlONzVL?oc=5",
-   "fecha": "Fri, 27 Nov 2026 18:28:07 GMT",
-   "fuente": "Clarin.com"
-  },
-  {
    "titulo": "“Nos matan solo por existir”, el grito de la marcha del 25N",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUldtNi1ScVJxQUVzZ2RiMGR6azBBa3pKNWFqTHlVQkFkbldLTnBEZUthRThmSmpVSmpaSTB3SFhSWmlkdkpCQXl0c2R6cFZxckFRdFpwdkxRVWV1cHZVS1ROR2dSUjRhRjhMbC14QXM1YTFrXzBkV0hVT0N5LTdndzhHQXhpbTJVejRhSnl0OHBFd2FEZFZSY0VsaW8?oc=5",
    "fecha": "Wed, 25 Nov 2026 22:01:00 GMT",
    "fuente": "Página|12"
-  },
-  {
-   "titulo": "El Senado votó a favor de prorrogar el estatuto del periodista a partir del 1° de enero de 2027",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMnZ1OURHRG92Uk9OdU8zYnZXLURBR2cxeXRQWHhTWFlXS3RyUzU2eDE2dndmbTJBckFQSXFZUm9wV1VfYzVXb1NuUkNOOU52b182bDBHalBONnhTbDBieWVCT1VpYURQaF9WbDB5dGJvQXctbHhmMzd4QzZxNk5zSmdrR3ZCTVRpR3l4NDFnNExQQ2IzdmJQNFBiZEJWemV2bHBKazYwbnZzWEQ0UDNibnZQZDdWREotVV94TkIwbmxaUXNHWkxMVm92OGc5Y3k3eEZteWZiWnJEMnEw?oc=5",
-   "fecha": "Fri, 27 Nov 2026 03:45:00 GMT",
-   "fuente": "La Nación"
   }
  ],
  "finanzas_argy": [
