@@ -505,7 +505,7 @@
  "errores": {
   "mercado": "no hay un resumen de la jornada en los últimos mensajes"
  },
- "actualizado": "2026-11-27T21:21-03:00",
+ "actualizado": "2026-11-27T21:47-03:00",
  "medios": {
   "derecha_diario": [
    {
@@ -566,16 +566,22 @@
    "fuente": "Página|12"
   },
   {
+   "titulo": "Corrupción en la AFA: descubren una segunda mansión en Pilar a nombre de testaferros de Pablo Toviggino",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFNzRW44NXpwekF1S0xYMDlRN2lQOC0wS2hOTERJZmtxRS1LUFo3NDhpMWdPSnRCc1lnYTdNZHl1RnRRMkFOM3NUeGd1ejNCREFGYWFDM2dXUmRrVk5HcGZxQVBfb2RTSmZzN1dMRHQyN3R3UE1ZSmtVMElhb2piWEVHOEJJUm5xOGhlYmtTNEk1a1Q0a2hkTUlXbVVydVM1UVJzUVF5ZUdDM29fTVpiWGFBa2FhLUVMdld0ai1Ba3owNjgzMk9PQjhRaw?oc=5",
+   "fecha": "Fri, 27 Nov 2026 21:00:30 GMT",
+   "fuente": "Clarin.com"
+  },
+  {
    "titulo": "Javier Milei y sus medidas, en vivo: el Gobierno logró la media sanción del Presupuesto 2027 y la suspensión de las PASO",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcGhGUXd3amtQQ2JONWtuZ2QyNDhhblhqRG1hV3htbW5DS3pGOWkyNGhyNC0xWWZnWjNPX2FKa1VUS2pieFJ0QUtXbGZhQjFKYzRfZzJUNTlBMzVma0xvT2RBTUlzdEVCVXEwODhzQlVLUWNPQkZMMXpsdHVwck41aHB3VzlpTTNTdVJpVjV5bk5iWVdCa1VrclJoQWhnQ1RHT0J3Szh1MzEyTE9zQVJoVkFtcnBoT3EzUVZtY2ZaWUV0eUt5dkxUZHRfOEdsTTlEZU41MS00WmUzUmtGVVE?oc=5",
-   "fecha": "Sat, 28 Nov 2026 00:03:00 GMT",
+   "fecha": "Sat, 28 Nov 2026 00:36:00 GMT",
    "fuente": "La Nación"
   },
   {
-   "titulo": "\"No nos cambia la vida\": Lilia Lemoine dijo que la ley de ludopatía fue solo una \"concesión\" a los aliados y Maxi Ferraro salió a cruzarla",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSzNyY1NQWXJvLWZ4VHpYTzZjRmZtM25ZQkFyS2wyNWdlb3pjWTZ4MndJN0JsOVh4ZHZBNlpyaXp0STRrWnVqQ0ZfUkRiWW92RlRqckVVUXlEd2paZjkwQTlXeElhTEpBUF9Ha25kTWtLdjNGOTVwUkgyaHdVWHNuMDUwc2JWeC05WXdERG91LTNMYW5oYUtrazJuWUZiY2JoMENJRURLbzJkdl9zOVZDU2tENjdoQURydEhpZ3UzSi1TVVhyM2lUYnJ0TUxwNU05M01kMmRtRGQ5d2hyd1E?oc=5",
-   "fecha": "Fri, 27 Nov 2026 19:25:59 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Lemoine dijo que el Gobierno aceptó la ley de ludopatía para conseguir apoyo al Presupuesto y la reforma del BCRA",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOclpjcHRjZm9WMk9rWjVLem5majRtQm4tcTJYVWZVSFVBTW9fOFVZd3U3b283TGZpcDhPa3Q3eXNKRW8tamFyTXdDMDBGbHhxU2F6OG95cHZncGVEQXVESFR4blNyOW9HekExLWlKRjdjX3JaVjlFN2h1WTloN2pET1dKaEJERzB2ODdJTzFRNHI1bTRuMXNBTXZrSWExSGhqTnJrV2FQRHk2MmJNWmxVZ1dyNDFhSXBXVVFVWlpJTk5TcWRGUWpYSHVRQ2NXVllqUlRuWXB6VUhoS0ROWHQ4WDlIb2NfN0hY?oc=5",
+   "fecha": "Fri, 27 Nov 2026 22:02:12 GMT",
+   "fuente": "Página|12"
   },
   {
    "titulo": "Renunció el interventor de los medios públicos y lo reemplazará Fernando Subirats",
@@ -584,21 +590,15 @@
    "fuente": "Infobae"
   },
   {
-   "titulo": "La huella de Pablo Toviggino detrás de una matrioska de sociedades y presuntos testaferros",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVFRN2NPbU1VeG05aTdmRms2NVhvMlVEVFh1NmI3MEMzMnRxQVBZVHBHb01jWmRVa19VUzRPUk01WjZOQlliYmQzWmhPaWpxQ29iYkpzYmJRTThtWGVmTWd6Y0lNWmN5MV9YRUI4ZlprSUpLMjVnTjcwQ2JMX0NmbEhoWFNhQlBMZzNyYWlwVWxDbW5ob1BqUFBNY1c1c1JCVnoyZEdlUmZOOHZnak1qZUMwN1M0ZmF0bThheTVGNEctMTYwQTlsaTdFWQ?oc=5",
-   "fecha": "Fri, 27 Nov 2026 21:02:29 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "40 fotos: A1000, la fundación que dirige Emmanuel Ferrario celebró su cierre de año",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFYOUNicE5ES3NjaExleEVqX29ob1lrdmd3ZHBwX2FKcWh6WWpaZ1RoUkE4RU5EdzByaWtJZ2oxOGMxSlVydmVlR3FNNG1OcEF3bnIwd2o2WkhMSDRvY0RVTU9Gd3JIZzlEN3BQU2FQUWszSktkcE5DektOUGxvamtCdS1tQ1V6cUZ4azRtbmgwODdSbkE0SWlLTERTV2dOR1pqclR1SkV0dXRacGowSTlQQlc1eDZwYnkxM2dRTHDSAdsBQVVfeXFMUGhncmlybGJ4eHpzMDN2cUhscC1sR2pySUVaeGZrR09XNWhzWXhYWUpFdzlTX1BxcnhrVXJkWEpDRlQtM1FuSHNtVWszVnlIQW5VeDVxMVYxd2s4VW1weWhlWWR2c3dGc0pwMDNKNGNBM0F3V0Z3bThteVdNNUJvRDlhbFpOVHZYZnV3UVFmOHJ2bzRaZ2pfeE5iQVVmSGpySzFxN3J3TXItVGNLTElQcWYyTE5VaUlqV2Yxc19zdzk1YkZqcHc5YzlvbFIzTlNOcVloTXgzUjFsYmQ0?oc=5",
+   "fecha": "Fri, 27 Nov 2026 14:20:00 GMT",
+   "fuente": "Infobae"
   },
   {
    "titulo": "La Justicia entregó al gobernador Vidal la administración de dos estancias de Lázaro Báez en Santa Cruz",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGREaEhObml4MW5VV1N2WklfeUp0QTcwd2ZkWVY1QmpHb1FmekNHQlZFQ1c0WkpLams2NWI4cHpDVDRlelZJLTZ1U3FsczJoMW1JcC1HbGN5MXlxOXlQVXJiOXBjLUg3UzhNVFUyUXl4Y1M4OGRYTUt0Y2xKUGhUbFJUZUNGQ0lsb0JRbnZuVUlyUUN5R04xcmkwYnNpNWQteldFRGktUHVoczZRbFJCTmhNR091RGFXdE1VQ0o1SUNqZFBCcmd2UEUyZ2swNHZ6N2xDVTdJY2d3aFZJa1BLemZCbjXSAf8BQVVfeXFMUGUteHhYR3Jnc3BOSFRwZy04bXBsWlJDdmNQYWVMM3BNOGdLRm5LMDhScnRFc05XVUdkT3E2dTV5VnZOcG93Z1NRU2ZHNm5hY0ZwNGRJN3FKLUx5dFBnMVdPUFl0WFVNZG5SRGVKOWp5b1N1NjFIRGs0cHFKbndxU2tpY1FGVVBaSEVOUGhndm5yVXZvN1JadTNnaWZpOThxcUZEZjhTcjFzVGR5LXFxN2xZbUNZbHRFSjc3b1o4OTBiakZzcnVqRDNKTWtEWHJZVy1vZndCWVZyUGR1VFhpc1BSamZhbnpCSW1wbXhuS2tVVWJ2XzFnVEVuV09XVWlr?oc=5",
    "fecha": "Fri, 27 Nov 2026 17:56:00 GMT",
-   "fuente": "Infobae"
-  },
-  {
-   "titulo": "40 fotos: A1000, la fundación que dirige Emmanuel Ferrario celebró su cierre de año",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGFYOUNicE5ES3NjaExleEVqX29ob1lrdmd3ZHBwX2FKcWh6WWpaZ1RoUkE4RU5EdzByaWtJZ2oxOGMxSlVydmVlR3FNNG1OcEF3bnIwd2o2WkhMSDRvY0RVTU9Gd3JIZzlEN3BQU2FQUWszSktkcE5DektOUGxvamtCdS1tQ1V6cUZ4azRtbmgwODdSbkE0SWlLTERTV2dOR1pqclR1SkV0dXRacGowSTlQQlc1eDZwYnkxM2dRTHDSAdsBQVVfeXFMUGhncmlybGJ4eHpzMDN2cUhscC1sR2pySUVaeGZrR09XNWhzWXhYWUpFdzlTX1BxcnhrVXJkWEpDRlQtM1FuSHNtVWszVnlIQW5VeDVxMVYxd2s4VW1weWhlWWR2c3dGc0pwMDNKNGNBM0F3V0Z3bThteVdNNUJvRDlhbFpOVHZYZnV3UVFmOHJ2bzRaZ2pfeE5iQVVmSGpySzFxN3J3TXItVGNLTElQcWYyTE5VaUlqV2Yxc19zdzk1YkZqcHc5YzlvbFIzTlNOcVloTXgzUjFsYmQ0?oc=5",
-   "fecha": "Fri, 27 Nov 2026 14:20:00 GMT",
    "fuente": "Infobae"
   },
   {
@@ -614,10 +614,10 @@
    "fuente": "La Nación"
   },
   {
-   "titulo": "Uno por uno, cómo votó cada senador la media sanción a la reforma electoral",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaG9fNlkyTEJXSU9YUXVYd3U4TGMwOVdwTnR4ektaSWlZc3Z3UUlhRFNXckk3cE5nMmd2SzA2MExMeFkyUlhDTUREMEU0OVJtZGx4eWxOUl9vN3dGc2NGYTNzUENqZFdEX01sYjkyV0hoaWMySzFzdU9DNlNVWXpBa19KV1libDhWdkFhby1qeVM0aTdILWZOUkg5S2Vmc3BKeFpPbVFNYzNaX3RxcGc?oc=5",
-   "fecha": "Thu, 26 Nov 2026 23:54:44 GMT",
-   "fuente": "Diario Norte"
+   "titulo": "Balde amaneció con menos agua, casas afectadas y vecinos que esperan ayuda",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjFPM1Y1TUR2SUZRUjF3Y1ljOXFhWHBYVDl1eEs2aTNMRFJVaHNGSHc2VFJFbWFCM3d3MWs1ZFhyTnp5WkFNRDl1RnV3ZGpuTGZUWXlVdXNGeVBtZnUwVFQ4NWtKSXJYYU5EWW9FVlpaZUVZdTdUOUxJNnpUWlVva2s1cld1SWNqWG5EYV93dExDNzVOcDZ6cWJFN1BQVUZIY0NSaHRxYXVMVWJqWk03bVVnSnh0MzJzQnpqelhnVEhwRTNfU0JpWEplVlFVRlFDSTZwUWRZdmQ?oc=5",
+   "fecha": "Thu, 26 Nov 2026 14:42:27 GMT",
+   "fuente": "El Diario de la República"
   },
   {
    "titulo": "La Legislatura de Río Negro aprobó el presupuesto y el paquete fiscal para 2027",
@@ -626,22 +626,22 @@
    "fuente": "Diario Río Negro"
   },
   {
-   "titulo": "Balde amaneció con menos agua, casas afectadas y vecinos que esperan ayuda",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjFPM1Y1TUR2SUZRUjF3Y1ljOXFhWHBYVDl1eEs2aTNMRFJVaHNGSHc2VFJFbWFCM3d3MWs1ZFhyTnp5WkFNRDl1RnV3ZGpuTGZUWXlVdXNGeVBtZnUwVFQ4NWtKSXJYYU5EWW9FVlpaZUVZdTdUOUxJNnpUWlVva2s1cld1SWNqWG5EYV93dExDNzVOcDZ6cWJFN1BQVUZIY0NSaHRxYXVMVWJqWk03bVVnSnh0MzJzQnpqelhnVEhwRTNfU0JpWEplVlFVRlFDSTZwUWRZdmQ?oc=5",
-   "fecha": "Thu, 26 Nov 2026 14:42:27 GMT",
-   "fuente": "El Diario de la República"
-  },
-  {
-   "titulo": "Por dos obras viales, habrá cierres totales en dos autopistas durante el fin de semana: los horarios de los cortes y los desvíos",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUdVZ21QcmsyT2NIanlIcVFiM1g3NmN5OW84dU9jVE1uMEVVSFl6bDJYU1VZdXZBMm16aFZCSTZZdEQxUVZYTm9IUUVCeW5TMS1DdEFZZWRWS0ozYko5QzAzM3Q5Y0F5dzRvcDNBQkhlRWVDLWlGZ3hXTGRrYXBOUmg2LXlaeGJWTHFBcE5aVWNPaV9nT1NaajRNd3hqX1FoWXRFTjl3eWVHdjI0Qk5ZYzZTTnk4U3ZOYmVVYWJGNGtvUdIBxwFBVV95cUxOMDkxdGNQOWQ0NW52NzZmRlU1OE5DQlhLNVlmQ3ZpRm1iN2pVMUotdm1yNjM1eDF0OFJKWnpXZHBjOUo3Y1ZBTXdUb2F4ZHNZS3JYUWt6emFFcUtKQjZOYmRUaUdMTDgtZTBMbkIzZDFFdUc2V1ZYZnl1djE1Vzl3aXNSMVpqU3BhNXZUSWRVenZDblZDXzdjUk52OGFpbTh2ZzVxSGg4UzIyMk1yTUx4OUxlLVkyNW52S2JXc05PMVdMS2JhcVZv?oc=5",
-   "fecha": "Fri, 27 Nov 2026 09:00:23 GMT",
-   "fuente": "Clarin.com"
+   "titulo": "Con amplio apoyo, el Gobierno logró la media sanción para suspender las PASO y la reforma electoral pasa a Diputados",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMVJCTUE2czA4Zkw4WUdRSzVneTBuZkdZWHNzazQ1OUFkTHBMa1Zod2E4UDRTRVp5UWxCLUU1NjFYekQtOTNvM2VaSXVsLUxWY2R1UlRzVkNld21ob0lXUXZoY0ljSGVHemNTY3BVc2VVUi13ZkJ3aTJxcm8zUWNRSWtpSWVDamZSOFdCQmd5TmxEdTRUZ1g0bjVNR1ZGRmRYOGViU0VtTXlRRDAyXzc2M0N3Z2RoOEROSUppV3FNWkhGemZKNmhzYVhNQTdnQllwVnY4QWNOLUFtSGlwQXJpd2hUemhtMXI4MlhLZjUzQkxXQQ?oc=5",
+   "fecha": "Fri, 27 Nov 2026 00:35:42 GMT",
+   "fuente": "Perfil"
   },
   {
    "titulo": "PRE SALTA: cómo recuperar hasta $150.000 por persona en vacaciones salteñas",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSWI0OG1sLVVaS2tTZXk4azJYb080M0EwM1BsdWFBUWtQcEpzbmhaYkdSQVE0ZUxIU0k3eGtwc2d1NDFYS0xwWXVUenpFMVBHdlJ6M1BBUEU5M2NmXzc3TmQ5MUNCMVgzWGtGVXpVNzdiRVNVMFlxU3NFSTdnZ3IxVm1FTEJadENaWlhnU2RYWnRiTk5tVWU0YnVPcjdHLWNNSlhDdExMSGxyNGNnQ0stVm5Odw?oc=5",
    "fecha": "Fri, 27 Nov 2026 11:09:13 GMT",
    "fuente": "Sir Chandler"
+  },
+  {
+   "titulo": "Por dos obras viales, habrá cierres totales en dos autopistas durante el fin de semana: los horarios de los cortes y los desvíos",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUdVZ21QcmsyT2NIanlIcVFiM1g3NmN5OW84dU9jVE1uMEVVSFl6bDJYU1VZdXZBMm16aFZCSTZZdEQxUVZYTm9IUUVCeW5TMS1DdEFZZWRWS0ozYko5QzAzM3Q5Y0F5dzRvcDNBQkhlRWVDLWlGZ3hXTGRrYXBOUmg2LXlaeGJWTHFBcE5aVWNPaV9nT1NaajRNd3hqX1FoWXRFTjl3eWVHdjI0Qk5ZYzZTTnk4U3ZOYmVVYWJGNGtvUdIBxwFBVV95cUxOMDkxdGNQOWQ0NW52NzZmRlU1OE5DQlhLNVlmQ3ZpRm1iN2pVMUotdm1yNjM1eDF0OFJKWnpXZHBjOUo3Y1ZBTXdUb2F4ZHNZS3JYUWt6emFFcUtKQjZOYmRUaUdMTDgtZTBMbkIzZDFFdUc2V1ZYZnl1djE1Vzl3aXNSMVpqU3BhNXZUSWRVenZDblZDXzdjUk52OGFpbTh2ZzVxSGg4UzIyMk1yTUx4OUxlLVkyNW52S2JXc05PMVdMS2JhcVZv?oc=5",
+   "fecha": "Fri, 27 Nov 2026 09:00:23 GMT",
+   "fuente": "Clarin.com"
   },
   {
    "titulo": "Prendió fuego a su ex pareja porque le pidió dinero para la comida y fue condenado a cinco años de prisión en Salta",
